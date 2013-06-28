@@ -65,17 +65,31 @@ static struct text_part main_txt[] = {
 	{"txt_mesg", N_(""),},
 };
 
+static Eina_Bool exit_idler_cb(void *data)
+{
+	elm_exit();
+	return ECORE_CALLBACK_CANCEL;
+}
+
+void popup_terminate(void)
+{
+	if (ecore_idler_add(exit_idler_cb, NULL))
+		return;
+
+	exit_idler_cb(NULL);
+}
+
 /* App Life cycle funtions */
 static void win_del(void *data, Evas_Object *obj, void *event)
 {
-	elm_exit();
+	popup_terminate();
 }
 
 /* Quit  */
 static void main_quit_cb(void *data, Evas_Object *obj, const char *emission,
 	     const char *source)
 {
-	elm_exit();
+	popup_terminate();
 }
 
 /* Update text font */
@@ -224,7 +238,7 @@ void bg_clicked_cb(void *data, Evas * e, Evas_Object * obj, void *event_info)
 {
 	system_print("\n system-popup : In BG Noti \n");
 	fflush(stdout);
-	exit(0);
+	popup_terminate();
 }
 
 void lowmem_clicked_cb(void *data, Evas * e, Evas_Object * obj,
@@ -232,8 +246,7 @@ void lowmem_clicked_cb(void *data, Evas * e, Evas_Object * obj,
 {
 	system_print("\n system-popup : Screen clicked \n");
 	fflush(stdout);
-	elm_exit();
-	exit(0);
+	popup_terminate();
 }
 
 /* Create indicator bar */
@@ -272,7 +285,7 @@ void lowmem_timeout_func(void *data)
 	lowmem_cleanup(data);
 
 	/* Now get lost */
-	exit(0);
+	popup_terminate();
 }
 
 /* Basic popup widget */

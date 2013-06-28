@@ -52,10 +52,24 @@ syspopup_handler handler = {
 	.def_timeout_fn = mytimeout
 };
 
+static Eina_Bool exit_idler_cb(void *data)
+{
+	elm_exit();
+	return ECORE_CALLBACK_CANCEL;
+}
+
+void popup_terminate(void)
+{
+	if (ecore_idler_add(exit_idler_cb, NULL))
+		return;
+
+	exit_idler_cb(NULL);
+}
+
 /* App Life cycle funtions */
 static void win_del(void *data, Evas_Object * obj, void *event)
 {
-	elm_exit();
+	popup_terminate();
 }
 
 /* Create main window */
@@ -157,7 +171,7 @@ void mmc_response(void *data)
 	if (data != NULL)
 		mmc_cleanup(data);
 
-	exit(0);
+	popup_terminate();
 }
 
 /* Basic popup widget */

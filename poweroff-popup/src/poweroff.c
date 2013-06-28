@@ -56,17 +56,31 @@ syspopup_handler handler = {
 	.def_timeout_fn = mytimeout
 };
 
+static Eina_Bool exit_idler_cb(void *data)
+{
+	elm_exit();
+	return ECORE_CALLBACK_CANCEL;
+}
+
+void popup_terminate(void)
+{
+	if (ecore_idler_add(exit_idler_cb, NULL))
+		return;
+
+	exit_idler_cb(NULL);
+}
+
 /* App Life cycle funtions */
 static void win_del(void *data, Evas_Object * obj, void *event)
 {
-	elm_exit();
+	popup_terminate();
 }
 
 /* Quit  */
 static void main_quit_cb(void *data, Evas_Object * obj, const char *emission,
 			 const char *source)
 {
-	elm_exit();
+	popup_terminate();
 }
 
 /* Update text font */
@@ -209,7 +223,7 @@ static void bg_clicked_cb(void *data, Evas * e, Evas_Object * obj, void *event_i
 {
 	system_print("\n system-popup : In BG Noti \n");
 	fflush(stdout);
-	exit(0);
+	popup_terminate();
 }
 
 static void poweroff_popup_direct_cancel(keynode_t *key, void *data)
@@ -221,7 +235,7 @@ static void poweroff_popup_direct_cancel(keynode_t *key, void *data)
 		vconf_ignore_key_changed(VCONFKEY_PM_STATE,(void*)poweroff_popup_direct_cancel);
 		if (ad != NULL)
 			poweroff_cleanup(ad);
-		exit(0);
+		popup_terminate();
 	}
 	else
 		return;
@@ -250,7 +264,7 @@ void poweroff_response_no_cb_min(void *data, Evas_Object * obj, void *event_info
 	vconf_ignore_key_changed(VCONFKEY_PM_STATE,(void*)poweroff_popup_direct_cancel);
 	if(data != NULL)
 		poweroff_cleanup(data);
-	exit(0);
+	popup_terminate();
 }
 
 int create_and_show_basic_popup_min(struct appdata *ad)

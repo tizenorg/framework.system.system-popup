@@ -44,6 +44,20 @@
 #define HOST_IDVENDOR    "_HOST_IDVENDOR"
 #define HOST_IDPRODUCT   "_HOST_IDPRODUCT"
 
+static Eina_Bool exit_idler_cb(void *data)
+{
+	elm_exit();
+	return ECORE_CALLBACK_CANCEL;
+}
+
+static void popup_terminate(void)
+{
+	if (ecore_idler_add(exit_idler_cb, NULL))
+		return;
+
+	exit_idler_cb(NULL);
+}
+
 static int ipc_socket_client_init()
 {
 	__USB_FUNC_ENTER__ ;
@@ -69,7 +83,7 @@ static int ipc_socket_client_init()
 static void __win_del(void *data, Evas_Object * obj, void *event)
 {
 	__USB_FUNC_ENTER__ ;
-	elm_exit();
+	popup_terminate();
 	__USB_FUNC_EXIT__ ;
 }
 
@@ -109,7 +123,7 @@ static void usp_usbclient_chgdet_cb(keynode_t *key, void *data)
 	ret = vconf_get_int(VCONFKEY_SYSMAN_USB_STATUS, &usb_status);
 	if (0 == ret && usb_status == VCONFKEY_SYSMAN_USB_DISCONNECTED) {
 		USB_LOG("USB cable is not connected");
-		elm_exit();
+		popup_terminate();
 	}
 	__USB_FUNC_EXIT__ ;
 }
@@ -123,7 +137,7 @@ static void usp_usbhost_chgdet_cb(keynode_t *key, void *data)
 	ret = vconf_get_int(VCONFKEY_SYSMAN_USB_HOST_STATUS, &usb_status);
 	if (0 == ret && usb_status == VCONFKEY_SYSMAN_USB_HOST_DISCONNECTED) {
 		USB_LOG("USB host is not connected");
-		elm_exit();
+		popup_terminate();
 	}
 	__USB_FUNC_EXIT__ ;
 }
@@ -397,7 +411,7 @@ static void load_connection_failed_popup_ok_response_cb(void *data, Evas_Object 
 		return;
 	}
 
-	elm_exit();
+	popup_terminate();
 
 	__USB_FUNC_EXIT__ ;
 }
@@ -436,7 +450,7 @@ static void request_perm_popup_yes_response_cb(void *data, Evas_Object * obj, vo
 		break;
 	}
 
-	elm_exit();
+	popup_terminate();
 	__USB_FUNC_EXIT__ ;
 }
 
@@ -458,7 +472,7 @@ static void request_perm_popup_no_response_cb(void *data, Evas_Object * obj, voi
 		break;
 	}
 
-	elm_exit();
+	popup_terminate();
 	__USB_FUNC_EXIT__ ;
 }
 
@@ -477,7 +491,7 @@ static void load_connection_failed_popup(void *data)
 			NULL);
 	if (0 > ret) {
 		USB_LOG("FAIL: load_normal_popup(): %d", ret);
-		elm_exit();
+		popup_terminate();
 	}
 
 	__USB_FUNC_EXIT__ ;
@@ -498,7 +512,7 @@ static void select_app_popup_cancel_response_cb(void *data, Evas_Object * obj, v
 	assert(data);
 	struct appdata *ad = (struct appdata *)data;
 	unload_popup(ad);
-	elm_exit();
+	popup_terminate();
 	__USB_FUNC_EXIT__ ;
 }
 
@@ -559,7 +573,7 @@ static void select_app_popup_gl_select_cb(void *data, Evas_Object *obj, void *ev
 		USB_LOG("FAIL: send_sel_pkg_to_usb_server(ad)");
 	}
 
-	elm_exit();
+	popup_terminate();
 
 	__USB_FUNC_EXIT__ ;
 }
@@ -744,7 +758,7 @@ static void load_select_pkg_for_acc_popup(struct appdata *ad)
 	ret = get_accessory_info(ad);
 	if (0 > ret) {
 		USB_LOG("FAIL: get_accessory_info(ad)");
-		elm_exit();
+		popup_terminate();
 		return ;
 	}
 
@@ -789,7 +803,7 @@ static void load_select_pkg_for_host_popup(struct appdata *ad)
 	ret = get_host_info(ad);
 	if (0 > ret) {
 		USB_LOG("FAIL: get_host_info(ad)");
-		elm_exit();
+		popup_terminate();
 		return ;
 	}
 
@@ -831,7 +845,7 @@ void load_request_perm_popup(struct appdata *ad)
 				request_perm_popup_no_response_cb);
 	if (0 > ret) {
 		USB_LOG("FAIL: load_normal_popup(): %d", ret);
-		elm_exit();
+		popup_terminate();
 	}
 
 	__USB_FUNC_EXIT__ ;
@@ -857,7 +871,7 @@ static int __app_reset(bundle *b, void *data)
 	type = (char *)bundle_get_val(b, SYSPOPUP_TYPE);
 	if (!type) {
 		USB_LOG("ERROR: Non existing type of popup\n");
-		elm_exit();
+		popup_terminate();
 		return -1;
 	}
 
@@ -881,7 +895,7 @@ static int __app_reset(bundle *b, void *data)
 	default:
 		USB_LOG("ERROR: The popup type(%d) does not exist\n", ad->type);
 		ad->isClientOrHost = USB_DEVICE_UNKNOWN;
-		elm_exit();
+		popup_terminate();
 		return -1;
 	}
 

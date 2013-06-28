@@ -43,6 +43,20 @@
 #define CAMERA_ADD       "camera_add"
 #define CAMERA_REMOVE    "camera_remove"
 
+static Eina_Bool exit_idler_cb(void *data)
+{
+	elm_exit();
+	return ECORE_CALLBACK_CANCEL;
+}
+
+static void popup_terminate(void)
+{
+	if (ecore_idler_add(exit_idler_cb, NULL))
+		return;
+
+	exit_idler_cb(NULL);
+}
+
 static int ipc_socket_client_init()
 {
 	__USB_FUNC_ENTER__ ;
@@ -109,7 +123,7 @@ static int request_to_usb_server(int request, char *device, char *answer, int an
 /* App Life cycle funtions */
 static void win_del(void *data, Evas_Object *obj, void *event)
 {
-	elm_exit();
+	popup_terminate();
 }
 
 static void uosp_free_evas_object(Evas_Object **eo)
@@ -133,7 +147,7 @@ static void unload_window(struct appdata *ad)
 
 	USB_LOG("unload window");
 	uosp_free_evas_object(&(ad->win_main));
-	elm_exit();
+	popup_terminate();
 
 	__USB_FUNC_EXIT__;
 }

@@ -54,17 +54,31 @@ syspopup_handler handler = {
 	.def_timeout_fn = mytimeout
 };
 
+static Eina_Bool exit_idler_cb(void *data)
+{
+	elm_exit();
+	return ECORE_CALLBACK_CANCEL;
+}
+
+void popup_terminate(void)
+{
+	if (ecore_idler_add(exit_idler_cb, NULL))
+		return;
+
+	exit_idler_cb(NULL);
+}
+
 /* App Life cycle funtions */
 static void win_del(void *data, Evas_Object * obj, void *event)
 {
-	elm_exit();
+	popup_terminate();
 }
 
 /* Quit  */
 static void main_quit_cb(void *data, Evas_Object *obj, const char *emission,
 		             const char *source)
 {
-	elm_exit();
+	popup_terminate();
 }
 
 /* Update text font */
@@ -189,7 +203,7 @@ static int app_reset(bundle *b, void *data)
 		syspopup_reset(b);
 	} else {
 		if(option == CHECK_ACT) {
-			exit(0);
+			popup_terminate();
 		}
 		syspopup_create(b, &handler, ad->win_main, ad);
 		evas_object_show(ad->win_main);
@@ -227,7 +241,7 @@ void lowbatt_cleanup(struct appdata *ad)
 static void bg_clicked_cb(void *data, Evas * e, Evas_Object * obj, void *event_info)
 {
 	system_print("\n system-popup : Inside bg clicked \n");
-	exit(0);
+	popup_terminate();
 }
 
 static void bg_noti_cb(void *data)
@@ -258,7 +272,7 @@ void lowbatt_timeout_func(void *data)
 		}
 	}
 	/* Now get lost */
-	exit(0);
+	popup_terminate();
 }
 
 /* Basic popup widget */
