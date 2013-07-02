@@ -34,6 +34,9 @@ org.tizen.mmc-syspopup device::app_logging -w---
 org.tizen.mmc-syspopup device::led r----
 org.tizen.mmc-syspopup org.tizen.svoice rw---
 org.tizen.mmc-syspopup org.tizen.voicerecorder rw---
+org.tizen.mmc-syspopup system::vconf_setting rw---
+org.tizen.mmc-syspopup system::vconf_system rw---
+org.tizen.mmc-syspopup system::vconf_deviced rw---
 stest-service org.tizen.mmc-syspopup r-x--
 system-server org.tizen.mmc-syspopup -w---
 deviced org.tizen.mmc-syspopup -w---

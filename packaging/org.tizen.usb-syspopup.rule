@@ -17,5 +17,9 @@ org.tizen.usb-syspopup system::share rwxat
 org.tizen.usb-syspopup mobileprint --x--
 org.tizen.usb-syspopup system::media rwxat
 org.tizen.usb-syspopup wrt_launchpad_daemon r----
+org.tizen.usb-syspopup system::vconf_setting rw---
+org.tizen.usb-syspopup system::vconf_system rw---
+org.tizen.usb-syspopup system::vconf_deviced rw---
+org.tizen.usb-syspopup system::vconf_network rw---
 org.tizen.app-tray org.tizen.usb-syspopup r-x--
 e17 org.tizen.usb-syspopup rwx--

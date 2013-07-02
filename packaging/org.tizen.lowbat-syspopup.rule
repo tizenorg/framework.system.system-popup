@@ -34,6 +34,9 @@ org.tizen.lowbat-syspopup device::app_logging -w---
 org.tizen.lowbat-syspopup device::led r----
 org.tizen.lowbat-syspopup org.tizen.svoice rw---
 org.tizen.lowbat-syspopup org.tizen.voicerecorder rw---
+org.tizen.lowbat-syspopup system::vconf_setting rw---
+org.tizen.lowbat-syspopup system::vconf_system rw---
+org.tizen.lowbat-syspopup system::vconf_deviced rw---
 org.tizen.lowbat-syspopup e17 rw---
 sdbd org.tizen.lowbat-syspopup r----
 stest-service org.tizen.lowbat-syspopup r-x--

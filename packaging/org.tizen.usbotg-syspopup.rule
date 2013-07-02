@@ -18,5 +18,8 @@ org.tizen.usbotg-syspopup mobileprint --x--
 org.tizen.usbotg-syspopup system::media rwxat
 org.tizen.usbotg-syspopup sys-assert::core -wx--
 org.tizen.usbotg-syspopup wrt_launchpad_daemon r----
+org.tizen.usbotg-syspopup system::vconf_setting rw---
+org.tizen.usbotg-syspopup system::vconf_system rw---
+org.tizen.usbotg-syspopup system::vconf_deviced rw---
 org.tizen.app-tray org.tizen.usbotg-syspopup r-x--
 e17 org.tizen.usbotg-syspopup -wx--
