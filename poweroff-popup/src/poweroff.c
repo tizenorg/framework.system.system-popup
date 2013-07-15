@@ -284,15 +284,15 @@ int create_and_show_basic_popup_min(struct appdata *ad)
 	elm_object_part_text_set(ad->popup_poweroff, "title,text", _("IDS_COM_BODY_SYSTEM_INFO_ABB"));
 
 	btn1 = elm_button_add(ad->popup_poweroff);
-	elm_object_text_set(btn1, _("IDS_COM_SK_OK"));
+	elm_object_text_set(btn1, _("IDS_COM_SK_CANCEL"));
 	elm_object_part_content_set(ad->popup_poweroff, "button1", btn1);
 	elm_object_style_set (btn1,"popup_button/default");
-	evas_object_smart_callback_add(btn1, "clicked", poweroff_response_yes_cb_min, ad);
+	evas_object_smart_callback_add(btn1, "clicked", poweroff_response_no_cb_min, ad);
 	btn2 = elm_button_add(ad->popup_poweroff);
-	elm_object_text_set(btn2, _("IDS_COM_SK_CANCEL"));
+	elm_object_text_set(btn2, _("IDS_COM_SK_OK"));
 	elm_object_part_content_set(ad->popup_poweroff, "button2", btn2);
 	elm_object_style_set (btn2,"popup_button/default");
-	evas_object_smart_callback_add(btn2, "clicked", poweroff_response_no_cb_min, ad);
+	evas_object_smart_callback_add(btn2, "clicked", poweroff_response_yes_cb_min, ad);
 
 	Ecore_X_Window xwin;
 	xwin = elm_win_xwindow_get(ad->popup_poweroff);
@@ -300,9 +300,8 @@ int create_and_show_basic_popup_min(struct appdata *ad)
 	utilx_grab_key(ecore_x_display_get(), xwin, KEY_SELECT, SHARED_GRAB);
 	evas_object_show(ad->popup_poweroff);
 	vconf_notify_key_changed(VCONFKEY_PM_STATE, poweroff_popup_direct_cancel, ad);
-	
+
 	return 0;
-	
 }
 
 static void bg_noti_cb(void *data)
