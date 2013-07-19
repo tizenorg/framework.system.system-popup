@@ -212,8 +212,8 @@ void system_print(const char *format, ...)
 /* Cleanup objects to avoid mem-leak */
 void poweroff_cleanup(struct appdata *ad)
 {
-	if (ad->popup)
-		evas_object_del(ad->popup);
+	if (ad->popup_poweroff)
+		evas_object_del(ad->popup_poweroff);
 	if (ad->layout_main)
 		evas_object_del(ad->layout_main);
 }
