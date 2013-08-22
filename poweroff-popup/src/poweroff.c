@@ -39,7 +39,8 @@
 int create_and_show_basic_popup_min(struct appdata *ad);
 void poweroff_response_yes_cb_min(void *data, Evas_Object * obj, void *event_info);
 void poweroff_response_no_cb_min(void *data, Evas_Object * obj, void *event_info);
-
+static void poweroff_popup_direct_cancel(keynode_t *key, void *data);
+static void poweroff_callstate_changed_cb(keynode_t *key, void *data);
 
 int myterm(bundle *b, void *data)
 {
@@ -212,6 +213,12 @@ void system_print(const char *format, ...)
 /* Cleanup objects to avoid mem-leak */
 void poweroff_cleanup(struct appdata *ad)
 {
+	vconf_ignore_key_changed(VCONFKEY_PM_STATE,(void*)poweroff_popup_direct_cancel);
+	vconf_ignore_key_changed(VCONFKEY_CALL_STATE, poweroff_callstate_changed_cb);
+
+	if (!ad)
+		return;
+
 	if (ad->popup_poweroff)
 		evas_object_del(ad->popup_poweroff);
 	if (ad->layout_main)
@@ -230,15 +237,13 @@ static void poweroff_popup_direct_cancel(keynode_t *key, void *data)
 {
 	int val;
 	struct appdata *ad = data;
-	if ( vconf_get_int(VCONFKEY_PM_STATE, &val) == 0
-	&& val == VCONFKEY_PM_STATE_LCDOFF ) {
-		vconf_ignore_key_changed(VCONFKEY_PM_STATE,(void*)poweroff_popup_direct_cancel);
-		if (ad != NULL)
-			poweroff_cleanup(ad);
-		popup_terminate();
-	}
-	else
+
+	val = vconf_keynode_get_int(key);
+	if (val != VCONFKEY_PM_STATE_LCDOFF)
 		return;
+
+	poweroff_cleanup(ad);
+	popup_terminate();
 }
 void poweroff_response_yes_cb_min(void *data, Evas_Object * obj, void *event_info)
 {
@@ -247,10 +252,8 @@ void poweroff_response_yes_cb_min(void *data, Evas_Object * obj, void *event_inf
 		return;
 	bPowerOff = 1;
 	system_print("System-popup : Switching off phone !! Bye Bye \n");
-	vconf_ignore_key_changed(VCONFKEY_PM_STATE,(void*)poweroff_popup_direct_cancel);
 	/* This will cleanup the memory */
-	if (data != NULL)
-		poweroff_cleanup(data);
+	poweroff_cleanup(data);
 
 	if (sysman_call_predef_action(PREDEF_POWEROFF, 0) == -1) {
 		system_print("System-popup : failed to request poweroff to system_server \n");
@@ -261,9 +264,20 @@ void poweroff_response_yes_cb_min(void *data, Evas_Object * obj, void *event_inf
 void poweroff_response_no_cb_min(void *data, Evas_Object * obj, void *event_info)
 {
 	system_print("\nSystem-popup: Option is Wrong");
-	vconf_ignore_key_changed(VCONFKEY_PM_STATE,(void*)poweroff_popup_direct_cancel);
-	if(data != NULL)
-		poweroff_cleanup(data);
+	poweroff_cleanup(data);
+	popup_terminate();
+}
+
+static void poweroff_callstate_changed_cb(keynode_t *key, void *data)
+{
+	int state;
+	struct appdata *ad = data;
+
+	state = vconf_keynode_get_int(key);
+	if (state == VCONFKEY_CALL_OFF)
+		return;
+
+	poweroff_cleanup(ad);
 	popup_terminate();
 }
 
@@ -300,6 +314,7 @@ int create_and_show_basic_popup_min(struct appdata *ad)
 	utilx_grab_key(ecore_x_display_get(), xwin, KEY_SELECT, SHARED_GRAB);
 	evas_object_show(ad->popup_poweroff);
 	vconf_notify_key_changed(VCONFKEY_PM_STATE, poweroff_popup_direct_cancel, ad);
+	vconf_notify_key_changed(VCONFKEY_CALL_STATE, poweroff_callstate_changed_cb, ad);
 
 	return 0;
 }
