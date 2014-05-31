@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Virta pois päältä"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Uni"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Peruuta"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Järj.tied."
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Näytönlukija (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Helppokäyttöisyys"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Poista negatiivivärit käytöstä"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Ota negatiivivärit käyttöön"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Poista zoomaus käytöstä"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Ota zoomaus käyttöön"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Ota apuvalo käyttöön"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Poista apuvalo käytöstä"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Puhelimen asetukset"
+

@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Ezeztatu"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Isilarazi"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Ados"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d minutu ondoren, argitasuna lehenetsitako mailan berrezarriko da (%2$d)"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Air. li. modua"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Argitasuna"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Dardara"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Itxi"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Itzali"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Ez dago memoria nahikoa"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Memoria gutxi"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s itxita"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Bateria gutxi"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Gaituta"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Ezgaituta"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Soinua"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s ezustean itxi da"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Memoria gutxi gelditzen da"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Bateria gutxi"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Gailua berrabiaraziko da"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Gailuaren aukerak"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Isilarazi"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Kargatzea etenda. Tentsioa altuegia da."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Bateria oso baxu. Telefonoa orain itzaliko da."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Bateria baxu dago. Kargatu zure Gear laster hura erabiltzen jarraitzeko."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Bateria baxu. Birkargatu gailua laster, erabiltzen jarraitzeko."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Bateria oso baxu dago"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Bateria oso baxu dago. Kargatu zure Gear orain hura erabiltzen jarraitzeko."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Bateria oso baxu dago. Zure Gear zure gailu mugikorretik deskonektatuko da. Lehenetsitako erlojua soilik erabil dezakezu. Kargatu zure Gear orain, erabiltzen jarraitzeko."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Bateria oso baxu dago. Lehenetsitako erlojua soilik erabil dezakezu. Kargatu zure Gear orain, erabiltzen jarraitzeko."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Karga etenda. Bateriaren tenperatura altuegia edo baxuegia da."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Kargatzea etenda. Bateriaren tenperatura baxuegia da."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Kargatzea etenda. Bateriaren tenperatura altuegia da."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Bateria baxu"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Gailua itzali egingo da"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Berrabiarazi"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Memoria beteta"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Ezin da grabatu. Ez dago nahikoa espazio zure Gear biltegian."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Bateria aurrezteko ultramodua ezgaitzeko, zure gailua berrabiaraziko da."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Akatsa"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Bateria aurrezteko ultramodua"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Bateria deskonektatu da"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Bat. aurrezlea"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Bateria aurrezlea gaituko da. Horrek CPUaren gehieneko errendimendua murriztuko du, Bluetootha itzaliko du eta pantailan indar maila txikiagoa erabiliko du. Esnatze keinua, Ahots kontrola eta Bibrazioa ez dira erabilgarri egongo. Erlojua eta S Health funtzioak erabilgarri egongo dira."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Bateria aurrezlea ezgaitu da."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Bateria aurrezlea gaitu da."
+

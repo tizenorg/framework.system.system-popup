@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Anullo"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Heshto"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Ok"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Pas %1$d minutash, ndriçimi do të ricilësohet në nivelin e parazgjedhur (%2$d)."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Përjashta"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Ndriçimi"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Dridhja"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Mbyll"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Fik"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "S'ka kujtesë të mjaftueshme."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Kujtesa dobët."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s mbyllur."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Bateria e dobët."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Aktivizuar."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Çaktivizuar."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Tingulli"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s u mbyll papritmas."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Ka mbetur pak memorie"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Bateria e dobët"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Pajisja do të rindizet."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Opsionet e pajisjes"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Heshtje"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Ngarkimi pushoi. Tensioni shumë i lartë."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Bateria tepër e rënë. Pajisja do të fiket tani."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Bateria ka rënë. Ringarkoje Gear sa më shpejt, që të vazhdosh ta përdorësh."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Bateria e rënë. Ringarko pajisjen së shpejti për të vazhduar përdorimin."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Bateria tepër e rënë"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Bateria pothuajse është harxhuar. Ringarkoje Gear që të vazhdosh ta përdorësh."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Bateria pothuajse është harxhuar. Gear do të shkëputet nga pajisja celulare. Mund të përdorësh vetëm orën e parazgjedhur. Ringarkoje Gear që të vazhdosh ta përdorësh."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Bateria pothuajse është harxhuar. Mund të përdorësh vetëm orën e parazgjedhur. Ringarkoje Gear që të vazhdosh ta përdorësh."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Ngarkimi në pauzë. Temperatura e baterisë tepër e lartë ose tepër e ulët."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Ngarkimi pushoi. Temperatura e baterisë shumë e ulët."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Ngarkimi pushoi. Temperatura e baterisë shumë e lartë."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Bateria e rënë"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Pajisja do të fiket."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Rinis"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Magazina plot"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Nuk mund të regjistroj. Nuk ka vend të mjaftueshëm në magazinën e Gear."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Për të paaftësuar Regjimin kursim energjie ultra, pajisja jote do të riniset."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Gabim."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Regjimi Kursim energjie ultra"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Bateria e shkëputur."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Kursyesi"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Kursyesi do të aftësohet. Kjo do të kufizojë rendimentin maksimal të CPU-së, do të fikë Bluetooth dhe do të ulë nivelin e ndriçimit të ekranit. Gjesti i zgjimit, Komandimi zanor dhe Dridhja nuk do të jenë në dispozicion. Funksionet e Orës dhe S Health gjithnjë do të mund të përdoren."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Kursyesi u paaftësua."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Kursyesi u aftësua."
+

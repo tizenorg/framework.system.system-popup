@@ -1,0 +1,9 @@
+msgid "IDS_COM_SK_OK"
+msgstr "Да"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Системная информация"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "Не удалось подключить карту памяти SD. Переустановите или отформатируйте карту памяти SD"
+

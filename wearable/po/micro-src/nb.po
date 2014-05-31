@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Avbryt"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Lydløs"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Etter %1$d min vil lysstyrken bli tilbakestilt til standardnivået (%2$d)."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Utemodus"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Lysstyrke"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibrasjon"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Lukk"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Slå av"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Ikke nok minne."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Lite minne."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s lukket."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Lavt batterinivå."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Aktivert."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Deaktivert."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Lyd"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s har uventet lukket."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Lite gjenværende minne"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Lavt batterinivå"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Enheten starter på nytt."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Enhetsalternativer"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Lydløs"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Lading stanset midlertidig. Spenningen er for høy."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Batterinivået er kritisk lavt. Enheten vil slåes av nå."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Batterinivået er lavt. Lad opp Gear snart for å fortsette å bruke den."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Batterinivå lavt. Lad enheten snart for fortsatt bruk."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Batterinivået er kritisk lavt"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Batterinivået er kritisk lavt. Lad opp Gear nå for å fortsette å bruke den."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Batterinivået er kritisk lavt. Gear-enheten vil bli koblet fra mobilenheten din. Du kan bare bruke standardklokken. Lad opp Gear nå for å fortsette å bruke den."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Batterinivået er kritisk lavt. Du kan bare bruke standardklokken. Lad opp Gear nå for å fortsette å bruke den."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Lading stanset midlertidig. Batteritemperatur for høy eller for lav."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Lading stanset midlertidig. Batteritemperatur for lav."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Lading stanset midlertidig. Batteritemperatur for høy."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Lavt batterinivå"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Enheten vil bli slått av."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Omstart"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Lagringspl. full"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Kan ikke ta opp. Det er ikke nok ledig plass i Gear-minnet."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Enheten starter på nytt for å deaktivere Ultra strømsparingsmodus."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Feil."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Ultra strømsparingsmodus"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Batteri koblet fra."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Strømsparer"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Strømsparer blir aktivert. Dette begrenser maksimal ytelse for CPU-en og slår av Bluetooth, og det blir brukt et lavere strømnivå på skjermen. Aktiveringsbevegelse, Talekontroll og Vibrasjon er ikke tilgjengelig. Klokke og S Health-funksjoner er fortsatt tilgjengelige."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Strømsparer er deaktivert."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Strømsparer er aktivert."
+

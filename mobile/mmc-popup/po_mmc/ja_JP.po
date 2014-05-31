@@ -1,0 +1,9 @@
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "システム​情報"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "外部SDカード​の​取り付け​に​失敗​しました。​外部SDカード​を​挿入​し直す​か​初期化​して​ください"
+

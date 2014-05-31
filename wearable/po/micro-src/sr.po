@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Poništi"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Isključi ton"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Nakon %1$d minuta, osvetljenje će se resetovati na podrazumevani nivo (%2$d)."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Spoljni režim"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Osvetlj."
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibracija"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Zatvori"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Isključivanje"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Nedovoljna memorija."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Memorija pri kraju."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s zatvoreno."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Baterija prazna."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Omogućeno."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Onemogućeno."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Zvuk"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "Aplikacija %s se neočekivano zatvorila."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Nedovoljno preostale memorije"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Baterija prazna"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Uređaj će se restartovati."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Opcije uređaja"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Isključi ton"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Punjenje je pauzirano. Napon je previsok."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Baterija potpuno prazna. Uređaj će se sad isključiti."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Energija baterije je skoro prazna. Napuni tvoj Gear uskoro da bi nastavio/la da ga koristiš."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Baterija skoro prazna. Za nastavak rada treba napuniti bateriju."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Baterija je potpuno prazna"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Energija baterije je potpuno prazna. Napuni tvoj Gear odmah da bi nastavio/la da ga koristiš."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Kritičan nivo energije baterije. Gear će biti isključen sa mobilnog uređaja. Možeš koristiti samo podrazumevani sat. Napuni Gear odmah da bi nastavio/la da ga koristiš."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Baterija je potpuno prazna. Možeš koristiti samo podrazumevani sat. Odmah napuni Gear da bi nastavio/la da ga koristiš."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Punjenje pauzirano. Temperatura baterije previsoka ili preniska."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Punjenje je pauzirano. Temperatura baterije je preniska."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Punjenje je pauzirano. Temperatura baterije je previsoka."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Baterija je prazna"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Uređaj će se isključiti."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Restartuj"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Memorija je puna"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Nije moguće snimiti. Nedovoljno prostora na Gear memoriji."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Da bi se onemogućio režim Izuzetna ušteda energije, tvoj uređaj će se restartovati."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Greška."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Režim izuzetne uštede energije"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Baterija otkačena."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Šted. ener."
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Štednja energije će biti omogućena. To će ograničiti maksimalne CPU performanse, isključiti Bluetooth i smanjiti nivo napajanja ekrana koji će se koristiti. Funkcije Buđenje pokretom, Kontrola glasom i Vibracija neće biti omogućene. Funkcije Sat i S Health će i dalje biti dostupne."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Štednja energije je onemogućena."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Štednja energije je omogućena."
+

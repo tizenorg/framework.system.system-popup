@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Prekliči"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Utišaj"
+
+msgid "IDS_COM_SK_OK"
+msgstr "V redu"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Čez %1$d min bo svetlost ponastavljena na privzeto raven (%2$d)."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Na prostem"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Svetlost"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibriranje"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Zapri"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Izklop"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Ni dovolj pomnilnika."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Zmanjkuje pomnilnika."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s zaprto."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Baterija prazna."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Omogočeno."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Onemogočeno."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Zvok"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "Program %s se je nepričakovano zaprl."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Skoraj zaseden pomnilnik"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Prazna baterija"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Naprava se bo znova zagnala."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Možnosti naprave"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Utišaj"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Polnjenje je prekinjeno. Napetost je previsoka."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Skoraj povsem prazna baterija. Naprava se bo izklopila."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Baterija je skoraj prazna. Kmalu priklopite uro Gear na napajalnik, če jo želite še naprej uporabljati."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Skoraj prazna baterija. Za nadaljnjo uporabo napravo kmalu priklopite na elektriko."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Skoraj povsem prazna baterija"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Baterija je skoraj povsem prazna. Priklopite uro Gear na napajalnik, če jo želite še naprej uporabljati."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Baterija je skoraj povsem prazna. Povezava med uro Gear in mobilno napravo bo prekinjena. Uporabljate lahko samo privzeto uro. Za nadaljnjo uporabo priklopite uro Gear na napajalnik."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Baterija je skoraj povsem prazna. Uporabljate lahko samo privzeto uro. Priklopite uro Gear na napajalnik, če jo želite še naprej uporabljati."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Polnjenje je prekinjeno. Temperatura baterije je previsoka ali prenizka."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Polnjenje je prekinjeno. Temperatura baterije je prenizka."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Polnjenje je prekinjeno. Temperatura baterije je previsoka."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Prazna baterija"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Naprava se bo izklopila."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Znova zaženi"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Shramba je polna"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Ni mogoče snemati. V shrambi ure Gear ni dovolj prostora."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Naprava se bo zagnala znova, da onemogoči način izrednega varčevanja z energijo."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Napaka."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Način izrednega varčevanja z energijo"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Baterija je odklopljena."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Var. porabe"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Varčevanje z energijo bo omogočeno. S tem boste omejili največjo učinkovitost delovanja procesorja, izklopili Bluetooth in zmanjšali moč zaslona. Poteza za bujenje, glasovno upravljanje in vibriranje ne bodo na voljo. Ura in funkcije aplikacije S Health bodo še vedno na voljo."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Varčevalnik porabe je onemogočen."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Varčevalnik porabe je omogočen."
+

@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Сөндіру"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Ұйықтау"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Тоқтату"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Жүйе. ақп."
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Экран оқу құралы (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Қол жетімділік"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Теріс түстерді өшіру"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Теріс түстерді қосу"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Масштаб өшіру"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Масштаб қосу"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Көмекші шамды қосу"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Көмекші шамды өшіру"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Телефон опциялары"
+

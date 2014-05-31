@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Stäng av"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Sova"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Avbryt"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Systeminfo"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Skärmläsare (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Tillgänglighet"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Inaktivera negativa färger"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Aktivera negativa färger"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Inaktivera zoom"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Aktivera zoom"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Slå på hjälpljus"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Stäng av hjälpljus"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Telefonalternativ"
+

@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Тоқтату"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Дыбысын өшіру"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d минуттан кейін, ашықтық әдепкі деңгейіне (%2$d) қалпына келтіріледі."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Сыртқы режим"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Ашықтығы"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Діріл"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Жабу"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Сөндіру"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Жадында орын аз."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Батарея заряды аз."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s жабық."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Батареяның заряды  аз."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Қосылған"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Өшірілген"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Дыбыс"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s байқаусызда жабылды."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Жадта бос орын аз қалды"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Батареяның заряды  аз"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Құрылғы өшіп қосылады."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Құрылғы опциялары"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Дыбыссыз"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Зарядтау уақытша тоқтатылды. Кернеу тым жоғары."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Батарея заряды өте төмен. Құрылғы қазір өшіп қалады."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Батарея қуаты төмен. Gear құрылғысын қолданыста ұстап тұру үшін жақын арада зарядтаңыз"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Батарея заряды аз. Пайдалана беру үшін құрылғыны кейінірек қайта зарядтаңыз."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Батарея заряды өте төмен"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Батарея қуаты өте төмен. Gear құрылғысын қолданыста ұстап тұру үшін қазір зарядтаңыз"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Батарея қуаты тым төмен. Сіздің Gear мобильді құрылғыдан ажыратылады. Тек әдепкі сағатты пайдалануыңызға болады. Пайдалануды сақтау үшін Gear қайта зарядтаңыз."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Батарея қуаты өте төмен. Әдепкі сағатты ғана пайдалануға болады. Gear құрылғысын пайдалануды жалғастыру үшін, оны қазір зарядтаңыз"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Зарядтау тоқтатылды.\nБатареяның температурасы тым жоғары немесе төмен."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Зарядтау уақытша тоқтатылды. Батарея температурасы тым төмен."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Зарядтау уақытша тоқтатылды. Батарея температурасы тым жоғары."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Батарея заряды аз"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Құрылғы өшеді."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Қайта іске қосу"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Жад толы"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Жазу мүмкін емес. Gear құрылғысының жадында бос орын жеткіліксіз."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Ультра қуат үнемдеу режимін өшіру үшін құрылғыңыз қайта іске қосылады."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Қате"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Ультра қуат үнемдеу режимі"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Батарея ажыратылған."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Қуат үн-у"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Қуат үнемдеу іске қосылады. Бұл CPU максималды өнімділігін шектейді, Bluetooth өшіреді және төменгі экранның қуат деңгейі пайдаланылады. Ояту қимылы, Дауыспен бақылау және дірілдеу қол жетімсіз болады. Сағат пен S Health функциялары әлі қол жетімді."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Қуат үнемдеу өшірілді."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Қуат үнемдеу қосылды."
+

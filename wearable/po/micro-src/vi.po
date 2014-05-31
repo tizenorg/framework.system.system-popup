@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Hủy"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Tắt âm"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Sau %1$d phút, độ sáng sẽ được trả về mức mặc định (%2$d)."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Chế độ ngoài trời"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Độ sáng"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Rung"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Đóng"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Tắt nguồn"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Không đủ bộ nhớ."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Pin yếu."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s đã đóng."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Pin yếu."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Đã bật."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Đã tắt."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Âm thanh"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s đã đóng bất ngờ."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Còn ít bộ nhớ"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Pin yếu"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Thiết bị sẽ khởi động lại."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Tùy chọn thiết bị"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Tắt âm"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Việc sạc đã tạm dừng. Điện thế quá cao."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Pin cực kỳ yếu. Thiết bị sẽ tắt bây giờ."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Pin yếu. Hãy sạc Gear sớm để tiếp tục sử dụng."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Pin yếu. Sạc lại pin để tiếp tục sử dụng."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Pin rất yếu"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Pin rất yếu. Hãy sạc Gear ngay để tiếp tục sử dụng."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Dung lượng pin đang ở mức rất thấp. Gear của bạn sẽ bị ngắt kết nối khỏi thiết bị di động. Bạn chỉ có thể sử dụng đồng hồ mặc định. Hãy sạc pin cho Gear ngay để tiếp tục sử dụng."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Dung lượng pin đang ở mức rất thấp. Bạn chỉ có thể sử dụng đồng hồ mặc định. Hãy sạc pin cho Gear ngay để tiếp tục sử dụng."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Dừng sạc. Nhiệt độ điện thoại quá cao hay quá thấp."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Việc sạc pin đã tạm dừng. Nhiệt độ pin quá thấp."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Việc sạc pin đã tạm dừng. Nhiệt độ pin quá cao."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Pin yếu"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Thiết bị sẽ tắt."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Khởi động lại"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Bộ nhớ đầy"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Không thể ghi. Không đủ bộ nhớ trống trong Gear."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Để tắt Chế độ siêu tiết kiệm pin, thiết bị của bạn sẽ khởi động lại."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Lỗi."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Chế độ siêu tiết kiệm pin"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Pin đã ngắt kết nối."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Tiết kiệm pin"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Tiết kiệm pin sẽ được bật. Điều này sẽ giới hạn hiệu suất tối đa của CPU, tắt Bluetooth và giảm mức điện năng của màn hình sẽ được sử dụng. Thao tác đánh thức, Điều khiển bằng giọng nói và Rung sẽ không hoạt động. Đồng hồ và các chức năng S Health sẽ vẫn hoạt động."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Đã tắt Tiết kiệm pin."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Đã bật Tiết kiệm pin."
+

@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Изключен"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Заспал"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Отмени"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Сист. инф."
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Екранен четец (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Достъпност"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Деактивиране на цветове в негатив"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Активиране на цветове в негатив"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Деактивиране на мащабиране"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Активиране на мащабиране"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Включване на помощната светлина"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Изключване на помощната светлина"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Опции на телефона"
+

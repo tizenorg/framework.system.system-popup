@@ -1,0 +1,10 @@
+system-apps system::homedir rwxat
+system-apps isf rx
+system-apps ail::db rw
+system-apps dbus rwx
+system-apps xorg w
+system-apps device::app_logging w
+system-apps system::vconf rwxat
+dbus system-apps rw
+# default include
+system-apps app.default include

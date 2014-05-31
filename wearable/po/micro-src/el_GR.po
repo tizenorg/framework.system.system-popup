@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Άκυρο"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Σίγαση"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Μετά από %1$d λεπτά, η φωτεινότητα θα επανέλθει στο προεπιλεγμένο επίπεδο (%2$d)."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Λειτ. εξ. χώρ."
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Φωτεινότ."
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Δόνηση"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Κλείσιμο"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Απενεργοποίηση"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Ανεπαρκής μνήμη."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Ανεπαρκής μνήμη."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s έκλεισε."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Χαμηλή μπαταρία."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Ενεργοποιημένο."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Απενεργοποιημένη."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Ήχος"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "Η εφαρμογή %s έκλεισε με μη αναμενόμενο τρόπο."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Περιορισμένο υπόλοιπο μνήμης"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Χαμηλή μπαταρία"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Θα γίνει επανεκκίνηση της συσκευής."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Επιλογές συσκευής"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Σίγαση"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Η φόρτιση τέθηκε σε παύση. Η τάση είναι πολύ υψηλή."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Υπερβολικά χαμηλή στάθμη μπαταρίας. Η συσκευή θα απενεργοποιηθεί."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Η ισχύς της μπαταρίας είναι χαμηλή. Επαναφορτίστε το Gear σύντομα, για να συνεχίσετε να το χρησιμοποιείτε."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Χαμηλή στάθμη μπαταρίας. Επαναφορτίστε σύντομα τη συσκευή για συνεχίσετε τη χρήση της."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Εξαιρετικά χαμηλή στάθμη μπαταρίας"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Η ισχύς της μπαταρίας είναι υπερβολικά χαμηλή. Επαναφορτίστε το Gear τώρα, για να συνεχίσετε να το χρησιμοποιείτε."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Η ισχύς της μπαταρίας είναι υπερβολικά χαμηλή. Το Gear θα αποσυνδεθεί από την κινητή συσκευή σας. Μπορείτε να χρησιμοποιήσετε μόνο το προεπιλεγμένο ρολόι. Επαναφορτίστε το Gear τώρα, για να συνεχίσετε να το χρησιμοποιείτε."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Η ισχύς της μπαταρίας είναι υπερβολικά χαμηλή. Μπορείτε να χρησιμοποιήσετε μόνο το προεπιλεγμένο ρολόι. Επαναφορτίστε το Gear τώρα, για να συνεχίσετε να το χρησιμοποιείτε."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Η φόρτιση διακόπηκε.\nΗ θερμοκρασία της μπαταρίας είναι πολύ υψηλή ή πολύ χαμηλή."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Η φόρτιση διακόπηκε. Η θερμοκρασία της μπαταρίας είναι πολύ χαμηλή."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Η φόρτιση διακόπηκε. Η θερμοκρασία της μπαταρίας είναι πολύ υψηλή."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Χαμηλή μπαταρία"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Η συσκευή θα απενεργοποιηθεί."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Επανεκκίνηση"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Χώρ. αποθ. πλήρ."
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Δεν είναι δυνατή η εγγραφή. Ο χώρος αποθήκευσης στο Gear δεν επαρκεί."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Για την απενεργοποίηση της λειτουργίας εξοικονόμησης ενέργειας Ultra, η συσκευή θα επανεκκινηθεί."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Σφάλμα."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Ultra Εξοικονόμηση ενέργειας"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Η μπαταρία αποσυνδέθηκε."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Εξ. ενέργ."
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Θα ενεργοποιηθεί η λειτουργία εξοικονόμησης ενέργειας. Κατά συνέπεια, θα περιοριστεί η μέγιστη απόδοση της CPU, θα απενεργοποιηθεί το Bluetooth και θα μειωθεί ο φωτισμός της οθόνης σας. Οι λειτουργίες χειρονομίας ενεργοποίησης, φωνητικού ελέγχου και δόνησης δεν θα είναι διαθέσιμες. Το ρολόι και οι λειτουργίες του S Health θα εξακολουθήσουν να είναι διαθέσιμες."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Η εξοικονόμηση ενέργειας απενεργοποιήθηκε."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Η εξοικονόμηση ενέργειας ενεργοποιήθηκε."
+

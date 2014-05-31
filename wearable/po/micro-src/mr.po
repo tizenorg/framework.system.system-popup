@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "रद्द"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "मूक"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ठीक"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d मिनिटांनंतर, चमक डिफॉल्‍ट स्‍तरावर पुन्‍हा मांडणी करण्‍यात येईल (%2$d)."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "बाह्य मोड"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "चमक"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "कंपन"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "बंद"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "पॉवर ऑफ"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "मेमरी पुरेशी नाही."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "कमी बॅटरी."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s बंद."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "बॅटरी कमी."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "सक्रिय."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "निष्क्रीय."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "ध्वनी"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s अनपेक्षितरित्या बंद झाले."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "कमी मेमरी शिल्लक"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "बॅटरी कमी"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "उपकरण पुन्हा प्रारंभ करेल."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "उपकरण पर्याय"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "मूक"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "चार्जिंगला विराम दिला. खूप उच्च व्होल्टेज."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "बॅटरी चिंताजनक कमी. आता उपकरण बंद होईल"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "पॉवर बॅटरी कमी आहे. हे वापरणे सुरू ठेवण्‍यासाठी आपले गिअर त्‍वरित पुन्‍हा चार्ज करा."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "बॅटरी कमी. वापरात ठेवण्यासाठी उपकरण लवकर रिचार्ज करा"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "बॅटरी चिंताजनक कमी"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "बॅटरी पॉवर गंभीररित्‍या कमी आहे. हे वापरणे सुरू ठेवण्‍यासाठी आपले गिअर आता पुन्‍हा चार्ज करा."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "बॅटरी पॉवर गंभीररित्‍या कमी आहे. आपल्‍या मोबाईल उपकरणावरून आपले गिअर डिस्‍कनेक्‍ट केले जाईल. आपण केवळ डिफॉल्‍ट घड्याळ वापरू शकता. हे वापरत राहण्‍यासाठी आता आपले गिअर रिचार्ज करा."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "बॅटरी पॉवर गंभीरपणे कमी आहे. आपण केवळ डिफॉल्‍ट घड्याळ वापरू शकता. हे वापरणे सुरू ठेवण्‍यासाठी आता आपले गिअर रिचार्ज करा."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "चार्जिंग थांबवले. बॅटरी तापमान अधिक उच्च किंवा अति कमी."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "चार्जिंगला विराम दिला. बॅटरी तापमान अधिक कमी"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "चार्जिंगला विराम दिला. बॅटरी तापमान अधिक उच्च"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "बॅटरी कमी"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "उपकरण बंद होईल."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "पुनरारंभ करा"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "संग्रह संपूर्ण"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "रेकॉर्ड करण्‍यामध्‍ये अक्षम. आपल्‍या गिअर संग्रहामध्‍ये पुरेशी जागा नाही."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "अल्ट्रा पॉवर बचत मोड अक्षम करण्यासाठी, आपले उपकरण पुन्हा सुरू होईल."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "त्रुटी"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "अल्ट्रा पॉवर बचत मोड"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "बॅटरी डिस्कनेक्ट झाली आहे."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "पॉवर सेव्हर"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "पॉवर सेव्हर सक्षम केला जाईल. हे CPU चा कमाल परफॉरर्मन्स मर्यादित करेल, ब्लुटूथ बंद करेल आणि कमी स्क्रीन पॉवर वापरली जाईल. वेक-अप हावभाव, आवाज नियंत्रण आणि कंपन उपलब्ध नसेल. घड्याळ आणि S Health फंक्शन्‍स अजूनही उपलब्ध असतील."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "पॉवर सेव्हर अक्षम केला."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "पॉवर सेव्हर सक्षम केला."
+

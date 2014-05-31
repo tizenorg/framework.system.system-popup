@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Abbrechen"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Stumm"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Nach %1$d Minuten wird die Helligkeit auf den Standardwert (%2$d) zurückgesetzt."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Outdoor-Modus"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Helligkeit"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibration"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Schließen"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Ausschalten"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Speicher voll"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Wenig Speicher übrig"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s geschlossen"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Akku fast leer"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Aktiviert"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Deaktiviert"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Ton"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s wurde unerwartet geschlossen"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Wenig übriger Speicherplatz"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Akku fast leer"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Gerät wird neu gestartet"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Geräteoptionen"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Lautlos"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Ladevorgang wurde angehalten. Zu hohe Spannung."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Akku extrem schwach. Gerät fährt jetzt herunter."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Der Akku ist schwach. Laden Sie die Gear bald, um sie weiterhin verwenden zu können."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Akku fast leer. Laden Sie das Gerät zeitnah auf, um es weiterhin nutzen zu können."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Akku extrem schwach."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Der Akku ist extrem schwach. Laden Sie die Gear, um sie weiterhin verwenden zu können."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Der Akku ist extrem schwach. Die Gear wird vom Mobilgerät getrennt. Sie können nur die Standard-Uhr verwenden. Laden Sie die Gear, um es weiterhin verwenden zu können."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Der Akku ist extrem schwach. Sie können nur die Standard-Uhr verwenden. Laden Sie die Gear, um sie weiterhin verwenden zu können."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Ladevorgang unterbrochen. Akkutemperatur zu hoch oder zu niedrig"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Ladevorgang unterbrochen. Akkutemperatur zu niedrig."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Ladevorgang unterbrochen. Akkutemperatur zu hoch."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Akku fast leer"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Das Gerät schaltet sich ab."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Neustart"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Speicher voll"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Aufnahme nicht möglich. Auf der Gear steht nicht genügend Speicherplatz zur Verfügung."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Das Gerät wird neu gestartet, um den Ultra-Energiesparmodus zu deaktivieren."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Fehler"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Ultra-Energiesparmodus"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Verbindung zu Akku getrennt."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Energiesp."
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Energiesparen wird aktiviert. Dadurch wird die maximale Leistung der CPU beschränkt, Bluetooth ausgeschaltet und für den Bildschirm eine geringere Stromzufuhr verwendet. Aktivierungsgeste, Sprachsteuerung und Vibration sind nicht verfügbar. Die Uhr- und S Health-Funktionen sind weiterhin verfügbar."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Energiesparer deaktiviert."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Energiesparer aktiviert."
+

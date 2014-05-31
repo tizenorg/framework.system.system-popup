@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "ବାତିଲ୍"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "ମ୍ୟୁଟ୍"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ଓକେ"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d ମିନିଟ୍ ପରେ, ଉଜ୍ଜ୍ୱଳତା ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ ସ୍ତର (%2$d)ରେ ପୁନଃସେଟ୍ ହୋଇଯିବ।"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "ବାହାର ମୋଡ୍"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "ଔଜଲ୍ୟତା"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "କମ୍ପନ"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "ବନ୍ଦ"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "ପାୱାର୍ ଅଫ୍"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "ପର୍ଯ୍ୟାପ୍ତ ମେମୋରୀ ନାହିଁ।"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "ସ୍ଵଳ୍ପ ମେମୋରୀ।"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s ବନ୍ଦ ହୋଇଛି।"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "ବ୍ୟାଟେରୀ କମ୍।"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "ସମର୍ଥନ ହୋଇଛି।"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "ଅକ୍ଷମ ହେଲା।"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "ଧ୍ଵନି"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s ଅଣାଅଶାଦିତ ଭାବରେ ବନ୍ଦ ହୋଇଛି।"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "କମ୍ ମେମୋରୀ ରହିଛି"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "ବ୍ୟାଟେରୀ କମ୍"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "ଡିଭାଇସ୍ ପୁନରାରମ୍ଭ ହେବ।"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "ଡିଭାଇସ୍ ବିକଳ୍ପଗୁଡିକ"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "ମ୍ୟୁଟ୍"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "ଚାର୍ଜ୍ ହେବା ବିରତି ହୋଇଛି । ଭୋଲଟେଜ୍ ବହୁତ ଅଧିକ।"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "ବ୍ୟାଟେରୀ ଅତ୍ୟନ୍ତ କମ୍ ହୋଇଛି । ଡିଭାଇସ୍ ବର୍ତ୍ତମାନ ସଟ୍ ଡାଉନ୍ ହେବ"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "ବ୍ୟାଟେରୀ ପାୱାର୍ ବହୁତ କମ୍ ଅଛି। ଏହାର ବ୍ୟବହାର ଜାରି ରଖିବାକୁ ଶୀଘ୍ର ଆପଣଙ୍କର ଗିୟର୍ ରିଚାର୍ଜ୍ କରନ୍ତୁ।"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "ବ୍ୟାଟେରୀ ଲୋ । ବ୍ୟବହାର କରିବା ଜାରିରଖିବାକୁ ଡିଭାଇସ୍ ପୁନଃ ଚାର୍ଜ କରନ୍ତୁ"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "ବ୍ୟାଟେରୀ ଅତ୍ୟଧିକ କମ୍ ଅଟେ"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ବ୍ୟାଟେରୀ ପାୱାର୍ ବହୁତ କମ୍ ଅଛି। ଏହାର ବ୍ୟବହାର ଜାରି ରଖିବାକୁ ବର୍ତ୍ତମାନ ଆପଣଙ୍କର ଗିୟର୍ ରିଚାର୍ଜ୍ କରନ୍ତୁ।"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "ବ୍ୟାଟେରୀ ପାୱାର୍ ବହୁତ କମ୍ ଅଛି। ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ଠାରୁ ଆପଣଙ୍କ ଗିୟର୍ ବିଚ୍ଛିନ୍ନ ହେବ। ଆପଣ ଡିଫଲ୍ଟ୍ ଘଣ୍ଟା କେବଳ ବ୍ୟବହାର କରିପାରିବେ। ଏହା ବ୍ୟବହାର ଜାରି ରଖିବାକୁ ବର୍ତ୍ତମାନ ଆପଣଙ୍କର ଗିୟର୍ ରିଚାର୍ଜ୍ କରନ୍ତୁ।"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ବ୍ୟାଟେରୀ ପାୱାର୍ ଅତ୍ୟନ୍ତ କମ୍ ଅଛି। ଆପଣ କେବଳ ଡିଫଲ୍ଟ୍ ଘଣ୍ଟା ବ୍ୟବହାର କରିପାରିବେ। ଏହା ବ୍ୟବହାର ଜାରି ରଖିବାକୁ ବର୍ତ୍ତମାନ ଆପଣଙ୍କର ଗିୟର୍ ରିଚାର୍ଜ୍ କରନ୍ତୁ।"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "ଚାର୍ଜିଂ ବିରତି ହୋଇଛି । ବ୍ୟାଟେରୀ ତାପମାତ୍ରା ବହୁତ ଅଧିକ କିମ୍ଵା ବହୁତ କମ୍ ଅଛି।"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "ଚାର୍ଜ୍ ହେବା ବିରତି ହୋଇଛି । ବ୍ୟାଟେରୀ ତାପମାତ୍ରା ବହୁତ କମ୍ ଅଟେ"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "ଚାର୍ଜ୍ ହେବା ବିରତି ହୋଇଛି । ବ୍ୟାଟେରୀ ତାପମାତ୍ରା ଅଧିକ ଅଟେ।"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "ବ୍ୟାଟେରୀ ଲୋ ଅଟେ"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "ଡିଭାଇସ୍ ଟର୍ନ୍ ଅଫ୍ ହେବ।"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "ପୁନଃଆରମ୍ଭ"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "ଷ୍ଟୋରେଜ୍ ପୂର୍ଣ୍ଣ"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "ରେକର୍ଡ୍ କରିବାକୁ ଅସମର୍ଥ। ଆପଣଙ୍କର ଗିୟର୍ ଷ୍ଟୋରେଜ୍‌ରେ ପର୍ଯ୍ୟାପ୍ତ ଖାଲି ସ୍ଥାନ ନାହିଁ।"
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "ଅଲ୍‌ଟ୍ରା ପାୱାର ସଞ୍ଚୟ ମୋଡ୍‍ ଅକ୍ଷମ କରିବାକୁ, ଆପଣଙ୍କ ଡିଭାଇସ୍ ରିଷ୍ଟାର୍ଟ ହେବ।"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "ତୃଟି।"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "ଅଲଟ୍ରା ପାୱାର୍ ସଞ୍ଚୟ ମୋଡ୍"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "ବ୍ୟାଟେରୀ ବିଚ୍ଛିନ୍ନ ହୋଇଛି।"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "ପାୱାର ସଞ୍ଚୟକାରୀ"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "ପାୱାର ସଞ୍ଚୟକାରୀ ସକ୍ଷମ ହେବ। ଏହା CPUର ସର୍ବୋଚ୍ଚ ପ୍ରଦର୍ଶନକୁ ସୀମିତ କରିବ, ବ୍ଲୁଟୁଥ୍‍ ଅଫ୍‍ କରନ୍ତୁ, ଏବଂ ଏକ ନିମ୍ନ ସ୍କ୍ରିନ୍‍ ପାୱାର ସ୍ତର ବ୍ୟବହୃତ ହେବ। ନିଦରୁ ଉଠିବା ମୁଖ ଭଂଗୀ, ସ୍ୱର ନିୟନ୍ତ୍ରଣ ଏବଂ କମ୍ପନ ଉପଲବ୍ଧ ହେବ ନାହିଁ। ଘଣ୍ଟା ଏବଂ S Health ପ୍ରକାର୍ଯ୍ୟ ତଥାପି ଉପଲବ୍ଧ ହେବ।"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "ପାୱାର ସଞ୍ଚୟକାରୀ ଅକ୍ଷମ ହୋ‍ଇଛି।"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "ପାୱାର ସଞ୍ଚୟକାରୀ ସକ୍ଷମ ହୋ‍ଇଛି।"
+

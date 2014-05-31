@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Quvvat o‘ch."
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Uyqu"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Bekor q."
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Tizim ma’l."
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Ekran o‘qish vos. (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Foydalanish imkoniyati"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Negativ ranglarni o‘chirish"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Negativ ranglarni yoqish"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Masshtab o‘zgartirishni o‘chirish"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Masshtab o‘zgartirishni yoqish"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Yordamchi yorug‘likni yoqish"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Yordamchi yorug‘likni o‘chirish"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Telefon opsiyalari"
+

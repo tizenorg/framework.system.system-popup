@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Toide väljas"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Magan"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Tühista"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Süst.teave"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Ekraanilugeja (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Juurdepääs"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Desaktiveeri negatiivivärvid"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Aktiveeri negatiivivärvid"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Desaktiveeri suum"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Aktiveeri suum"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Lülita abivalgus sisse"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Lülita abivalgus välja"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Telefoni valikud"
+

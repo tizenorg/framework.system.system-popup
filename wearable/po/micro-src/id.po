@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Batal"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Hening"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Setelah %1$d mnt, kecerahan akan direset ke tingkat default (%2$d)."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Mode Outdoor"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Kecerahan"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Getar"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Tutup"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Daya mati"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Memori tdk cukup."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Baterai lemah."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s tertutup."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Batere melemah."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Memungkinkan."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Tdk memungkinkan."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Suara"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s tertutup secara tak terduga."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Tersisa memori kecil"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Baterai melemah"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Perangkat akan mulai lagi."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Opsi perangkat"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Hening"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Pengisian baterai dihentikan sementara. Voltase terlalu tinggi."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Baterai melemah secara kritis. Perangkat akan dimatikan sekarang."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Daya baterai rendah. Isi kembali Gear segera untuk tetap bisa menggunakannya."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Baterai melemah. Segera isi daya perangkat untuk dapat terus digunakan."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Baterai melemah secara kritis"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Daya baterai sangat rendah. Isi kembali Gear untuk tetap bisa menggunakannya."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Daya baterai sangat rendah. Gear Anda akan diputuskan dari perangkat seluler. Anda hanya bisa menggunakan jam default. Isi daya Gear Anda sekarang untuk tetap menggunakannya."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Daya baterai hampir habis. Anda hanya dapat menggunakan jam default. Isi ulang Gear sekarang untuk terus menggunakannya."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Pengisian dihentikan. Suhu telepon terlalu tinggi atau terlalu rendah."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Pengisian baterai dijeda. Suhu baterai terlalu rendah."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Pengisian baterai dijeda. Suhu baterai terlalu tinggi."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Baterai lemah"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Perangkat akan tdk aktif."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Mulai ulang"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Penyimpanan pnuh"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Tidak dapat merekam. Ruang di penyimpanan Gear tidak mencukupi."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Untuk menonaktifkan mode hemat daya Ultra, perangkat Anda akan memulai ulang."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Error"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Mode hemat daya ultra"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Baterai terputus."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Phemat daya"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Penghemat daya akan diaktifkan. Ini akan membatasi kinerja maksimum CPU, mematikan Bluetooth, dan akan menggunakan tingkat daya layar yang lebih rendah. Gestur pengaktifan, Kontrol suara, dan Getaran tidak akan tersedia. Fungsi Jam dan S Health akan tetap tersedia."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Penghemat daya nonaktif."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Penghemat daya aktif."
+

@@ -1,0 +1,15 @@
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "सिस्टम जानका."
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "पर्याप्‍त मेमोरी नहीं"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ठीक"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "बैटरी कम है"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s बंद"
+

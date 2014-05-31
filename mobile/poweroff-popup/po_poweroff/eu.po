@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Itzali"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Lo"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Ezeztatu"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Sist. inf."
+
+msgid "IDS_COM_SK_OK"
+msgstr "Ados"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Pant. irakurgailua (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Erabilgarritasuna"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Ezgaitu kolore negatiboak"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Gaitu kolore negatiboak"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Ezgaitu zooma"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Gaitu zooma"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Piztu laguntza argia"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Itzali laguntza argia"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Telefonoaren aukerak"
+

@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "取消"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "靜音"
+
+msgid "IDS_COM_SK_OK"
+msgstr "確定"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "在 %1$d 分鐘後，亮度將重設為預設等級 (%2$d )。"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "戶外模式"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "亮度"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "震動"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "關閉"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "關機"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "記憶體不足。"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "記憶體不足。"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s 已關閉。"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "電量不足"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "已啟用"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "停用。"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "聲音"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s 已意外關閉。"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "剩餘記憶體不足"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "電量不足"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "裝置將重新啟動。"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "裝置選項"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "靜音"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "充電已暫停。電壓過高。"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "電量極度不足。裝置將會關閉。"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "電池電量不足。盡快幫您的 Gear 充電以繼續使用。"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "電量不足。請盡快為電池充電，以繼續使用。"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "電力嚴重不足"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "電池電量嚴重不足。立刻幫您的 Gear 充電以繼續使用。"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "電量嚴重不足。您的 Gear 將從流動裝置中斷連接。您僅可使用預設時鐘。立即為您的 Gear 充電以繼續使用。"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "電池電量嚴重不足。您僅可使用預設時鐘。立刻幫您的 Gear 充電以繼續使用。"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "充電暫停。手機溫度太高或太低。"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "充電已暫停。電池溫度太低。"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "充電已暫停。電池溫度太高。"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "電量不足"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "裝置將關閉。"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "重新啟動"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "儲存空間已滿"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "無法錄製。Gear 儲存空間不足。"
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "若要停用超級省電模式，您的裝置將重新啟動。"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "錯誤"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "超級省電模式"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "電池中斷連接。"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "省電功能"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "省電功能將啟用。這將限制 CPU 的最高效能、關閉藍牙並將使用更低的螢幕電量級別。喚醒手勢、語音控制與震動將不可用。時鐘與 S Health 功能將仍然可用。"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "省電功能已停用。"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "省電功能已啟用。"
+

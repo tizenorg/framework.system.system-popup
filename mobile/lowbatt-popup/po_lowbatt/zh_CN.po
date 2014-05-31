@@ -1,0 +1,15 @@
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "系统信息"
+
+msgid "IDS_COM_SK_OK"
+msgstr "确定"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "温度过高，暂停充电"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "电量低"
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "电量低。电话将关闭"
+

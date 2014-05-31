@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Uitschakelen"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Slapen"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Annuleren"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Systeeminfo"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Schermlezer (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Toegankelijkheid"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Negatieve kleuren uitschakelen"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Negatieve kleuren inschakelen"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Zoomen uitschakelen"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Zoomen inschakelen"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Hulpverlichting inschakelen"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Hulpverlichting uitschakelen"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Telefoonopties"
+

@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Ausschalten"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Schlafen"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Abbrechen"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Systeminfo"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Bildschirm-Reader (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Eingabehilfe"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Negativfarben deaktivieren"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Negativfarben aktivieren"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Zoom deaktivieren"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Zoom aktivieren"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Hilfsbeleuchtung einschalten"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Hilfsbeleuchtung ausschalten"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Telefonoptionen"
+

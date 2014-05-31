@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "पावर बंद"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "सोना"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "रद्द"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "सिस्टम जानका."
+
+msgid "IDS_COM_SK_OK"
+msgstr "ठीक"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "स्‍क्रीन रीडर (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "पहुँच"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "नेगेटिव रंग अक्षम करें"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "नेगेटिव रंग सक्षम करें"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "ज़ूम अक्षम करें"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "ज़ूम सक्षम करें"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "सहायक लाइट चालू करें"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "सहायक लाइट बंद करें"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "फ़ोन विकल्‍प"
+

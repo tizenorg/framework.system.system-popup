@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "રદ"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "શાંત"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ઓકે"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d મિનિટ પછી, ચળકાટને ડિફૉલ્ટ સ્તર (%2$d) પર ફરીથી ગોઠવવામાં આવશે."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "આઉટડોર મોડ"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "ચળકાટ"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "કંપન"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "બંધ કરો"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "પાવર બંધ"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "પૂરતી સ્મૃતિ નથી."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "બેટરી ઓછી."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s બંધ છે."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "બેટરી લો."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "સક્ષમ."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "અક્ષમ."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "ધ્વનિ"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s એકાએક બંધ થયેલ છે."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "અલ્પ સ્મૃતિ બાકી"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "બૅટરી લો"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "ઉપકરણ પુનઃપ્રારંભ થશે."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "ઉપકરણ વિકલ્પો"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "મૌન"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "ચાર્જિંગ પૉઝ કર્યુ. વોલ્ટેજ ખૂબ ઊંચું."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "બૅટરી ખૂબ ઓછી. હવે ઉપકરણ બંધ થઈ જશે"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "બૅટરી પાવર એ ઓછો છે. તમારા ગીયરનો વપરાશ ચાલું રાખવાં તેને જલ્દી રીચાર્જ કરો."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "બૅટરી ઓછી. ઉપયોગ ચાલુ રાખવા માટે ઉપકરણ રીચાર્જ કરો"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "બૅટરી ખૂબ ઓછી"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "બૅટરી પાવર એ તદ્દનપણે ઓછો છે. તમારા ગીયરનો વપરાશ ચાલું રાખવાં તેને હમણાં રીચાર્જ કરો."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "બૅટરી પાવર ગંભીરપણે ઓછો છે. તમારા ગિઅરને તમારા મોબાઇલ ઉપકરણ પરથી અલગ કરી દેવામાં આવશે. તમે ફક્ત મૂળભૂત ઘડિયાળનો ઉપયોગ કરી શકો છો. તમારા ગિઅરનો વપરાશ ચાલું રાખવા તેને હમણાં જ રિચાર્જ કરો."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "બૅટરી પાવર અત્યંત નિમ્ન છે. તમે ફક્ત ડિફોલ્ટ ઘડિયાળનો જ ઉપયોગ કરી શકો છો. તમારા ગિઅરનો ઉપયોગ કરવાનું ચાલું રાખવા માટે તેને હમણાં જ રીચાર્જ કરાવો."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "ચાર્જિંગ થોભાવાયું. બેટરી તાપમાન બહુ ઊંચું અથવા બહુ ઓછું."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "ચાર્જિંગ પૉઝ કર્યુ. બૅટરી તાપમાન ખૂબ ઓછું."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "ચાર્જિંગ પૉઝ કર્યુ. બૅટરી તાપમાન ખૂબ ઊંચું."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "બૅટરી ઓછી"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "ઉપકરણ બંધ કરવામાં આવશે."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "ફરી શરૂ કરો"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "સંગ્રહ પૂર્ણ ભરેલું છે"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "રેકોર્ડ કરવામાં અસમર્થ. તમારા ગીયર સંગ્રહણમાં પર્યાપ્ત જગ્યા નથી."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "અલ્ટ્રા પાવર બચત મોડને અક્ષમ કરવા માટે, તમારું ઉપકરણ ફરી શરૂ થશે."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "ભૂલ."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "અલ્ટ્રા પાવર બચત મોડ"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "બેટરી ડિસ્કનેક્ટ થઈ."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "પાવર સેવર"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "પાવર સેવરને સક્ષમ કરવામાં આવશે. આ CPU ના મહત્તમ પ્રદર્શનને મર્યાદિત કરશે, બ્લ્યુટુથને બંધ કરશે અને ઓછા સ્ક્રીન પાવર સ્તરનો ઉપયોગ કરવામાં આવશે. વેક-અપ શૈલી, અવાજ નિયંત્રણ અને કંપન ઉપલબ્ધ હશે નહીં. ઘડિયાળ અને S Health ફંક્શંસ હજી પણ ઉપલબ્ધ હશે."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "પાવર સેવર અક્ષમ કર્યુ."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "પાવર સેવર સક્ષમ કર્યુ."
+

@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "ยกเลิก"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "ปิด​เสียง"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ตกลง"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "หลังจาก %1$d นาที ความสว่างจะถูกรีเซ็ท เป็นระดับค่าพื้นฐาน (%2$d)"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "โหมดกลางแจ้ง"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "ความ​สว่าง"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "ระบบ​สั่น"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "ปิด"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "ปิด​เครื่อง"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "หน่วยความจำไม่พอ"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "แบตเตอรี่​ต่ำ"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s ​ที่​ปิด"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "แบตเตอรี่​ต่ำ"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "ทำ​งาน"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "ไม่​ทำ​งาน"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "เสียง"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s ปิดโดยกะทันหัน"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "เหลือ​หน่วย​ความ​จำ​ต่ำ"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "แบตเตอรี่​ต่ำ"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "อุปกรณ์​จะ​เริ่ม​ใหม่"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "ทางเลือก​อุปกรณ์"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "ปิด​เสียง"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "หยุด​การ​ชาร์จ แรง​ดัน​ไฟฟ้า​สูง​เกิน​ไป"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "แบตเตอรี่เหลือน้อยมาก เครื่องจะปิดทันที"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "พลังงานแบตเตอรี่อ่อน ชาร์จ Gear ของคุณใหม่เร็วๆ นี้เพื่อใช้งานต่อไป"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "แบตเตอรี่​ต่ำ รี​ชาร์จ​อุปกรณ์​ใน​เร็วๆ นี้​เพื่อ​ใช้​งาน​ต่อ​ไป"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "แบตเตอรี่​เหลือ​น้อย​มาก"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "พลังงานแบตเตอรี่อ่อนมาก ชาร์จ Gear ของคุณใหม่ตอนนี้เพื่อใช้งานต่อไป"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "พลังงานแบตเตอรี่อ่อนมาก Gear ของคุณ จะถูกยกเลิกการเชื่อมต่อ จากอุปกรณ์มือถือของคุณ คุณสามารถใช้ได้เฉพาะนาฬิกาพื้นฐานเท่านั้น ชาร์จ Gear ของคุณใหม่ตอนนี้ เพื่อใช้งานต่อไป"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "พลังงานแบตเตอรี่อ่อนมาก คุณสามารถใช้นาฬิกาพื้นฐานได้เท่านั้น ชาร์จ Gear ของคุณใหม่ตอนนี้ เพื่อใช้งานต่อไป"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "หยุด​ชาร์จ​อุณหภูมิ\n​โทรศัพท์​สูง\n​หรือ​ต่ำ​เกิน​ไป"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "หยุด​การ​ชาร์จ อุณหภูมิ​แบตเตอรี่​ต่ำ​เกิน​ไป"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "หยุด​การ​ชาร์จ อุณหภูมิ​แบตเตอรี่​สูง​เกิน​ไป"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "แบตเตอรี่​ต่ำ"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "อุปกรณ์​จะ​ปิด"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "เริ่มใหม่"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "ที่จัดเก็บเต็ม"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "ไม่สามารถบันทึกได้ มีพื้นที่ว่างในที่จัดเก็บของ Gear ไม่เพียงพอ"
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "ถ้าปิดใช้งานโหมดประหยัดพลังงานสูงสุด อุปกรณ์ของคุณจะเริ่มใหม่"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "ผิดพลาด"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "โหมดประหยัดพลังงานสูงสุด"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "ถอด​แบตเตอรี่​แล้ว"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "ประหยัดพลังงาน"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "ประหยัดพลังงาน จะถูกเปิดใช้งาน ซึ่งจะจำกัดประสิทธิภาพสูงสุดของ CPU ปิด Bluetooth และลดระดับไฟหน้าจอ ท่าทางในการปลุก การควบคุมด้วยเสียง และระบบสั่นจะไม่พร้อมใช้งาน ฟังก์ชั่นนาฬิกาและ S Health ยังใช้ได้"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "ปิดใช้งานประหยัดพลังงาน"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "เปิดใช้งานประหยัดพลังงาน"
+

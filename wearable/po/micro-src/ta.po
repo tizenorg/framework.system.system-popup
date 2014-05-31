@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "ரத்து"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "ஒலிதடு"
+
+msgid "IDS_COM_SK_OK"
+msgstr "சரி"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d நிமிடங்களுக்கு பிறகு ஒளிர்வானது டீஃபால்ட் நிலைக்கு (%2$d) ரீசெட் செய்யப்படும்."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "வெளிப்புற முறை"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "ஒளிர்வு"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "அதிர்வு"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "மூடுக"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "பவர் ஆஃப்"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "போதிய நினைவகம் இல்லை."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "நினைவகம் குறைவு."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s மூடப்பட்டது."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "மின்கலம் திறன் குறைந்தது."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "செயலாக்கப்பட்டது."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "செயலிழந்தது."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "ஒலி"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s என்பது எதிர்பாராதவிதமாக மூடப்பட்டது."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "குறைவான நினைவகமே மீதமுள்ளது"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "மின்கலம் குறைந்துள்ளது"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "சாதனம் மறுதுவக்கம் செய்யப்படும்."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "சாதன தெரிவுகள்"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "ஒலிதடு"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "சார்ஜிங் இடைநிறுத்தப்பட்டது. மின்னழுத்தம் மிக அதிகமாக உள்ளது."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "மின்கலம் மிக குறைவாக உள்ளது. சாதனம் இப்போது பணி நிறுத்தப்படுகிறது"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "மின்கல திறன் குறைவாக உள்ளது. கியரைத் தொடர்ந்து பயன்படுத்த விரைவில் சார்ஜ் செய்யவும்."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "மின்கலம் குறைவு. தொடர்ந்து பயன்படுத்த விரைவாக ரீசார்ஜ் செய்க"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "மின்கலம் மிக குறைவாக உள்ளது"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "மின்கல திறன் மிகவும் குறைவாக உள்ளது. கியரைத் தொடர்ந்து பயன்படுத்த உடனே சார்ஜ் செய்யவும்."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "மின்கலத் திறன் மிகவும் குறைவாக உள்ளது. உங்களது மொபைல் சாதனத்திலிருந்து உங்கள் கியர் துண்டிக்கப்படும். டீஃபால்ட் கடிகாரத்தை மட்டுமே உங்களால் பயன்படுத்த முடியும். உங்கள் கியரை தொடர்ந்து பயன்படுத்த அதை மீண்டும் சார்ஜ் செய்யவும்."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "பேட்டரி திறன் மிகவும் குறைவாக உள்ளது. இயல்புநிலை கடிகாரத்தை மட்டுமே நீங்கள் பயன்படுத்தலாம். உங்கள் கியரைத் தொடர்ந்து பயன்படுத்த அதை ரீசார்ஜ் செய்யவும்."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "சார்ஜிங் நிறுத்தப்பட்டுள்ளது. பாட்டரி வெப்பம் மிக அதிகமாகவோ அல்லது மிகக் குறைவாகவோ உள்ளது."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "சார்ஜிங் இடைநிறுத்தப்பட்டது. மின்கல வெப்பநிலை மிகவும் குறைவு."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "சார்ஜிங் இடைநிறுத்தப்பட்டது. மின்கல வெப்பநிலை மிகவும் அதிகம்."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "பேட்டரி குறைவு"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "சாதனம் நிறுத்தப்படும்."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "மீண்டும் துவங்குக"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "சேமிப்பிடம் நிரம்பியது"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "பதிவு செய்ய இயலவில்லை. உங்கள் கியர் சேமிப்பிடத்தில் போதுமான காலியிடம் இல்லை."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "அல்ட்ரா பவர் சேமிப்பு முறைமையை முடக்கவென உங்கள் சாதனம் மறுதுவக்கமாகும்."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "பிழை"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "அல்ட்ரா பவர் சேமிப்பு முறை"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "மின்கலம் துண்டிக்கப்பட்டது."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "பவர் சேவர்"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "பவர் சேவர் செயல்படுத்தப்படும். இது CPU வின் அதிகபட்ச செயல்திறனைக் கட்டுப்படுத்தும், ப்ளூடூத்தை முடக்கும், அத்துடன் திரைக்கு குறைவான மின்சக்தி பயன்படுத்தப்படும். வேக்-அப் சைகை, குரல் கட்டுப்பாடு மற்றும் அதிர்வு ஆகியவை கிடைக்காது. இருப்பினும் கடிகாரம் மற்றும் S Health செயல்பாடுகள் கிடைக்கும்."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "பவர் சேவர் செயல்நீக்கப்பட்டது."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "பவர் சேவர் செயல்படுத்தப்பட்டது."
+

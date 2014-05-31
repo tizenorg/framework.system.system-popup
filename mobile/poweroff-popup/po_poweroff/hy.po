@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Սնուցումն անջատված է"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Քնել"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Չեղարկել"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Հմկրգ ինֆո"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Էկրանի ընթերցիչ (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Մատչելիություն"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Կասեցնել բացասական գույները"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Ընձեռել բացասական գույները"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Կասեցնել մասշտաբավորումը"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Ընձեռել մասշտաբավորումը"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Միացնել օժանդակ լույսը"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Անջատել օժանդակ լույսը"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Հեռախոսի ընտրանքներ"
+

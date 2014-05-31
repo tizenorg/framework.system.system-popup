@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Живлення вимк."
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Режим сну"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Скасувати"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Сист. інф."
+
+msgid "IDS_COM_SK_OK"
+msgstr "ОК"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Прог. читан. з екр. (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Доступність"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Вимкнути відображення негативних кольорів"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Увімкнути відображення негативних кольорів"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Вимкнути масштабування"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Увімкнути масштабування"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Увімкнути допоміжне підсвічуваня"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Вимкнути допоміжне підсвічуваня"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Опції телефону"
+

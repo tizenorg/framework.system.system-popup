@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "キャンセル"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "ミュート"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d分後に、明るさが標準レベル(%2$d)にリセットされます。"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "ｱｳﾄﾄﾞｱﾓｰﾄﾞ"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "明るさ"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "バイブ"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "閉じる"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "電源OFF"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "メモリが不足しています。"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "メモリの容量不足です。"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%sを終了しました。"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "バッテリー残量が不足しています。"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "利用できます。"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "利用できません。"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "サウンド"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%sが予期せず終了しました。"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "メモリの空き容量が不足しています。"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "バッテリー残量不足"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "端末を再起動します。"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "端末​オプション"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "サイレント"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "充電を停止しました。電圧が高すぎます。"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "電池残量がごくわずかです。本体をシャットダウンします。"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "バッテリー残量が不足しています。Gearを引き続き使用するには充電してください。"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "バッテリー残量が不足しています。使用を続けるためにはすぐに端末を充電してください。"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "バッテリー残量なし"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "バッテリー残量がありません。Gearを引き続き使用するには充電してください。"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Gearのバッテリー残量が非常に低下しているため、モバイル端末との接続が解除されます。標準時計機能のみ使用することができます。Gearを継続して使用するには、すぐに充電してください。"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "バッテリー残量が非常に少なくなっています。標準の時計のみを使用できます。Gearを引き続き使用するには充電してください。"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "充電を停止しました。バッテリーの温度が高すぎるか低すぎます。"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "充電が停止しました。バッテリーの温度が低すぎます。"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "充電が停止しました。バッテリーの温度が高すぎます。"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "バッテリー残量低下"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "端末をOFFにします。"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "再起動"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "空きﾒﾓﾘなし"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Gearのストレージ空き容量が低下しているため、記録ができません。"
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "ウルトラ省電力モードを無効にするために、端末を再起動します。"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "エラー"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "ウルトラ省電力モード"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "バッテリーが取り外されました。"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "省電力ﾓｰﾄﾞ"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "省電力モードを有効にすると、CPUの最大処理能力を制限およびBluetoothをOFFにし、画面の消費電力を抑えます。ウェイクアップジェスチャーや音声コントロール、バイブ機能を使用できなくなり、時計とS Health機能は継続して使用することができます。"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "省電力モードが無効になりました。"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "省電力モードが有効になりました。"
+

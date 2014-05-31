@@ -1,0 +1,45 @@
+#define RESOURCE_IMAGE( FILE_NAME ) \
+   group { \
+      name: FILE_NAME; \
+      images.image: FILE_NAME COMP; \
+      parts { \
+         part { name: "image"; \
+            scale: 1; \
+            description { \
+               min: 50 50; \
+               state: "default" 0.0; \
+               image.normal: FILE_NAME; \
+               aspect: 1 1; \
+               aspect_preference: BOTH; \
+            } \
+         } \
+      } \
+   }
+#define RESOURCE_IMAGE_IGNORE_EVENT( FILE_NAME ) \
+   group { \
+      name: FILE_NAME; \
+      images.image: FILE_NAME COMP; \
+      parts { \
+         part { name: "image"; \
+            scale: 1; \
+			mouse_events: 0; \
+            description { \
+               min: 50 36; \
+               state: "default" 0.0; \
+               image.normal: FILE_NAME; \
+               aspect: 1 1; \
+               aspect_preference: BOTH; \
+            } \
+         } \
+      } \
+   }
+
+collections {
+	RESOURCE_IMAGE("micro-poweroff.png");
+	RESOURCE_IMAGE("micro-restart.png");
+	RESOURCE_IMAGE_IGNORE_EVENT("micro-outdooron.png");
+	RESOURCE_IMAGE_IGNORE_EVENT("micro-outdooroff.png");
+	RESOURCE_IMAGE_IGNORE_EVENT("micro-sound.png");
+	RESOURCE_IMAGE_IGNORE_EVENT("micro-vibration.png");
+	RESOURCE_IMAGE_IGNORE_EVENT("micro-mute.png");
+}

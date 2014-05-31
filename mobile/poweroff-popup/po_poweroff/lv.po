@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Izslēgts"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Gulēt"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Atcelt"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Sist. inf."
+
+msgid "IDS_COM_SK_OK"
+msgstr "Labi"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Ekrāna lasītājs (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Pieejamība"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Deaktivizēt negatīva krāsas"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Aktivizēt negatīva krāsas"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Deaktivizēt tālummaiņu"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Aktivizēt tālummaiņu"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Ieslēgt papildu apgaismojumu"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Izslēgt papildu apgaismojumu"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Tālruņa iespējas"
+

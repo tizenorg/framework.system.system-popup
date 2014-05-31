@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "අව. කර."
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "නිහඬ"
+
+msgid "IDS_COM_SK_OK"
+msgstr "හරි"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "මිනිත්තු %1$d පසු, දීප්තිය පෙරනිමි මට්ටම (%2$d) වෙත යළි සැකසෙනු ඇත."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "එළිමහන් ප්‍රකාරය"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "දීප්තිය"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "කම්පනය"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "වසන්න"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "බල රහිත කරන්න"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "ප්‍රමාණවත් මතකයක් නොමැත."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "මතකය අඩුය."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s වැසීය."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "බැටරිය අවමයි."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "සක්‍රියයි."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "අක්‍රීයයි."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "ශබ්දය"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s අනපේක්ෂිත ලෙස වැසී ඇත."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "ඉතිරි මතකය අඩුය"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "බැටරි ආරෝපණය අවමයි"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "උපාංගය නැවත ඇරඹෙනු ඇත."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "උපාංග විකල්ප"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "නිහඬ"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "චාජ්වීම අත්හිටුවිය. වෝල්ටීයතාව ඉතා වැඩියි."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "බැටරි මට්ටම ඉතා අඩුයි. උපාංගය දැන් නවතිනු ඇත"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "බැටරි බලය අඩුය. එය භාවිතා කරමින් තබා ගැනීමට ඔබගේ ගියරය ඉක්මණින් යළි ආරෝපණය කරන්න."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "බැටරි තත්ත්වය අඩුය. දිගටම උපාංගය භාවිතා කිරීම සඳහා නැවත චාජ් කරන්න"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "බැටරි මට්ටම ඉතා අඩුයි"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "බැටරි බලය උග්‍ර ලෙස අඩුය. එය භාවිතා කරමින් තබා ගැනීමට ඔබගේ ගියරය දැන් යළි ආරෝපණය කරන්න."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "බැටරි බලය උග්‍ර ලෙස අඩුය. ඔබගේ ජංගම උපාංගය වෙතින් ඔබගේ ගියරය විසන්ධි වනු ඇත. ඔබට පෙරනිමි ඔරලෝසුව පමණක් භාවිතා කළ හැක. එය භාවිතා කරමින් පවත්වා ගැනීමට දැන් ඔබගේ ගියරය යළි ආරෝපණය කරන්න."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "බැටරි බලය උග්‍ර ලෙස පහළය. ඔබට පෙරනිමි හෝරා යන්ත්‍රය පමණක් භාවිතා කළ හැක. එය භාවිතයේ තබා ගැනීමට ඔබගේ ගියරය දැන් ආරෝපණය කරන්න."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "චාජ් කිරීම නැවතුණි. බැටරි උෂ්ණත්වය ඉතා වැඩියි හෝ ඉතා අඩුයි."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "චාජ්වීම අත්හිටුවිය. බැටරි උෂ්ණත්වය ඉතා අඩුයි."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "චාජ්වීම අත්හිටුවිය. බැටරියේ උෂ්ණත්වය ඉතා වැඩියි."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "බැටරිය බැස ඇත"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "උපාංගය ක්‍රියා විරහිත වනු ඇත."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "නැවත පණගන්වන්න"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "ගබඩාව පිරී ඇත"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "පටිගත කිරීමට නොහැක. ඔබගේ ගියර ගබඩාව තුළ ප්‍රමාණවත් ඉඩ නැත."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "අත් බල සුරැකුම් ප්‍රකාරය අක්‍රිය කිරීමට, ඔබගේ උපාංගය යළි ඇරඹෙනු ඇත."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "දෝෂය."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "අධි බල සුරැකුම් ප්‍රකාරය"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "බැටරිය විසන්ධි කරන ලදි."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "බල සුරැකුම"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "බල සුරැකුම සක්‍රිය වනු ඇත. මෙමගින් CPU යන්ත්‍රයේ උපරිම ක්‍රියාකාරීත්වය සීමා කොට, බ්ලූටූත් ක්‍රියා විරහිත කොට අඩු තිර බලයක් භාවිතා කෙරෙනු ඇත. අවදි කිරීමේ අභිනය, කටහඬ පාලනය හා දෙදරුම් ලද නොහැකි වනු ඇත. ඔරලෝසුව හා S Health ක්‍රියාදාම තවදුරටත් ලද හැකි වනු ඇත."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "බල සුරැකුම අක්‍රියයි."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "බල සුරැකුම සක්‍රියයි."
+

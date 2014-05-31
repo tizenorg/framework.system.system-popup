@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "İptal"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Sessiz"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Tamam"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d dakika sonra, parlaklık varsayılan seviyeye (%2$d) sıfırlanacak."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Açık hava modu"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Parlaklık"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Titreşim"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Kapat"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Kapat"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Yeterli hafıza yok."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Hafıza düşük."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s kapatıldı."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Düşük pil."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Etkinleştirildi."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Devre dışı."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Ses"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s beklenmedik şekilde kapandı."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Yetersiz bellek"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Düşük pil"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Cihaz yeniden başlayacak."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Cihaz seçenekleri"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Sessiz"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Şarj duraklatıldı. Voltaj çok yüksek."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Pil kritik seviyede düşük. Cihaz kapatılacak."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Pil gücü düşük. Kullanmaya devam etmek için Gear'ınızı yakın zamanda yeniden şarj edin."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Pil seviyesi düşük. Kullanmaya devam etmek için cihazı en yakın zamanda şarj edin."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Pil kritik seviyede düşük"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Pil gücü kritik seviyede düşük. Kullanmaya devam etmek için Gear'ınızı yeniden şarj edin."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Pil gücü kritik seviyede düşük. Gear'ınızın mobil cihazınızla bağlantısı kesilecek. Yalnızca varsayılan saati kullanabilirsiniz. Kullanmaya devam edebilmek için Gear'ınızı şarj edin."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Pil gücü kritik seviyede düşük. Sadece varsayılan saati kullanabilirsiniz. Kullanmaya devam etmek için Gear'ınızı yeniden şarj edin."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Şarj duraklatıldı. Pil sıcaklığı çok yüksek veya çok düşük."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Şarj duraklatıldı. Pil sıcaklığı çok düşük."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Şarj duraklatıldı. Pil sıcaklığı çok yüksek."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Düşük pil"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Cihaz kapanacak."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Yeniden başlat"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Bellek dolu"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Kaydedilemiyor. Gear deponuzda yeterli alan yok."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Ultra güç tasarrufu modunu devre dışı bırakmak için cihazınız yeniden başlatılacak."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Hata"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Ultra güç tasarrufu modu"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Pil çıkartıldı."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Güç koruma"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Güç koruma etkinleştirilecek. Bu, CPU'nun maksimum performansını sınırlar, Bluetooth'u kapatır ve daha düşük bir ekran güç düzeyi kullanılır. Uyandırma hareketi, Sesli kontrol ve Titreşim kullanılamayacak. Saat ve S Health işlevleri hala kullanılabilecek."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Güç koruma devre dışı bırakıldı."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Güç koruma etkinleştirildi."
+

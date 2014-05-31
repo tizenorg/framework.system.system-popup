@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Չեղարկել"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Անձայն"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Ընդունել"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d րոպե հետո պայծառությունը կհետադարձվի կանխադրված մակարդակի (%2$d):"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Դրսի կերպ"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Պյծռթյուն"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Թրթռիչ"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Փակել"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Սնուցումն անջատված է"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Չկա բավական հիշողություն:"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Մարտկոցի լիցքը թույլ է:"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s փակվեց:"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Մարտկոցի լիցքը թույլ է:"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Ակտիվացված է"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Անջատված:"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Հնչյուն"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s-ն անսպասելիորեն փակվել է:"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Քիչ հիշողություն է մնացել"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Մարտկոցի լիցքը թույլ է"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Սարքը կվերագործարկվի:"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Սարքի ընտրանքներ"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Անձայն"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Լիցքավորումն ընդհատվեց. լարումը չափազանց բարձր է:"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Մարտկոցը սաստիկ նստած է: Սարքը հիմա կանջատվի:"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Մարտկոցի էներգիայի մակարդակը ցածր է: Շուտ վերալիցքավորեք Gear-ը, որպեսզի շարունակեք այն օգտագործել"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Մարտկոցը նստած է: Շտապ վերալիցքավորեք սարքը, որպեսզի շարունակեք այն օգտագործել:"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Մարտկոցը սաստիկ նստած է"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Մարտկոցի էներգիայի մակարդակը սաստիկ ցածր է: Հիմա վերալիցքավորեք Gear-ը, որպեսզի շարունակեք այն օգտագործել"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Մարտկոցի էներգիայի մակարդակը սաստիկ ցածր է: Ձեր Gear-ը կանջատվի շարժական սարքից: Կարող եք օգտագործել միայն կանխադրված ժամացույցը: Հիմա վերալիցքավորեք Gear-ը, որպեսզի շարունակեք այն օգտագործել:"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Մարտկոցի էներգիայի մակարդակը սաստիկ ցածր է: Կարող եք օգտագործել միայն կանխադրված ժամացույցը: Հիմա վերալիցքավորեք Gear-ը, որպեսզի շարունակեք այն օգտագործել"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Լիցքավորումը դադարեցված է: Մարտկոցի ջերմաստիճանը չափազանց բարձր է կամ չափազանց ցածր:"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Լիցքավորումն ընդհատվեց. մարտկոցի ջերմաստիճանը շատ ցածր է:"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Լիցքավորումն ընդհատվեց. մարտկոցի ջերմաստիճանը շատ բարձր է:"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Մարտկոցը նստած է"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Սարքը կանջատվի:"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Վերսկսել"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Պահոցը լիքն է"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Անհնար է գրանցել. Gear-ի պահոցում բավարար տեղ չկա:"
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Ձեր սարքը կվերագործարկվի, որպեսզի կասեցվի Էներգիայի գերխնայման ռեժիմը:"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Սխալ:"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Էներգիայի գերխնայման ռեժիմ"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Մարտկոցն անջատված է:"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Էներգ խնայարար"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Հոսանքի խնայումը կմիացվի: Դա կսահմանափակի CPU-ի առավելագույն արդյունավետությունը, կանջատի Bluetooth-ը և կօգտագործի էկրանի պայծառության ավելի ցածր մակարդակ: Արթնացման ժեստը, Ձայնի կառավարը և Թրթռումը անմատչելի կլինեն: Ժամացույցը և S Health գործառույթները դարձյալ մատչելի կլինեն:"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Հոսանքի խնայումը՝ անջատ:"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Հոսանքի խնայումը՝ միաց:"
+

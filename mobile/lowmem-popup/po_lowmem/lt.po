@@ -1,0 +1,15 @@
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Sist. inform."
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Nepakanka atminties"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Gerai"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Senkanti baterija"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s uždaryta"
+

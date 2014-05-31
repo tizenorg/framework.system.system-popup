@@ -1,0 +1,8 @@
+<manifest>
+    <define>
+        <domain name="system-apps"/>
+    </define>
+    <request>
+        <domain name="system-apps"/>
+    </request>
+</manifest>

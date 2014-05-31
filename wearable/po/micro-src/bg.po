@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Отмени"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Изкл. микрофон"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "След %1$d минути яркостта ще се нулира до нивото по подразбиране (%2$d)."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Режим открито"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Яркост"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Вибрация"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Затвори"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Изключен"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Няма достатъчно памет."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Паметта е на привършване."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s затворен."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Изтощена батерия."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Разрешено."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Забранено."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Звук"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s се затвори неочаквано."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Паметта е на привършване"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Изтощена батерия"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Устройството ще се рестартира."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Опции за устройството"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Заглуш."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Зареждането е в пауза. Напрежението е твърде високо."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Батерията е изтощена докрай. Сега устройството ще се изключи."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Нивото на батерията е ниско. Презаредете вашия Gear скоро, за да продължите да го използвате."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Батерията е изтощена. Заредете устройството след малко, за да продължите да го ползвате."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Батерията е изтощена докрай"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Нивото на батерията е критично ниско. Презаредете вашия Gear сега, за да продължите да го използвате."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Нивото на батерията е критично ниско. Връзката между вашия Gear и мобилното устройство ще бъде прекъсната. Можете да използвате само часовника по подразбиране. Презаредете вашия Gear сега, за да продължите да го използвате."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Нивото на батерията е критично ниско. Можете да използвате само часовника по подразбиране. Презаредете вашия Gear сега, за да продължите да го използвате."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Зареждането в пауза.\nТемпературата на батерията е твърде висока или ниска."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Зареждането е в пауза. Температурата на батерията е твърде ниска."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Зареждането е в пауза. Температурата на батерията е твърде висока."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Батерията е изтощена"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Устройството ще се изключи."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Рестарт"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Паметта е пълна"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Не може да се запише. Няма достатъчно място в паметта на вашия Gear."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "За да се деактивира Режим за ултра пестене енергия, устройството ви ще се рестартира."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Грешка."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Режим за ултра пестене енергия"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Батерията e изключена."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Пест. енер."
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Пестене на енергия ще бъде активирано. Това ще ограничи максималната производителност на процесора, ще изключи Bluetooth и ще се използва по-ниско ниво на мощност на екрана. Жест за събуждане, Управление с глас и Вибриране няма да са достъпни. Функциите Часовник и S Health все още ще са достъпни."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Пестене на енергия е деактивирано."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Пестене на енергия е активирано."
+

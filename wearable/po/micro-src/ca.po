@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Cancel·lar"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Silenci"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Acceptar"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Després de %1$d minuts, la brillantor es restablirà al nivell predeterminat (%2$d)"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Mode Exterior"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Brillantor"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibració"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Tancar"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Apagat"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "No hi ha prou memòria"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Poca memòria"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s tancat"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Bateria baixa"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Activat"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Desactivat"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "So"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s s'ha tancat de forma inesperada"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Poca memòria restant"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Bateria baixa"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "El dispositiu es reiniciarà"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Opcions del dispositiu"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Silenci"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Càrrega pausada. Tensió massa alta."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Bateria baixa críticament. El dispositiu s'apagarà."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "La bateria està baixa. Recarregui Gear aviat per seguir utilitzant-lo."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Bateria baixa. Recarregui aviat el dispositiu per continuar utilitzant-lo."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Bateria molt baixa"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "La bateria està baixa críticament. Recarregui Gear per seguir utilitzant-lo."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "La bateria està críticament baixa. Gear es desconnectarà del dispositiu mòbil. Només pot utilitzar el rellotge predeterminat. Recarregui Gear per seguir utilitzant-lo."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "La bateria està molt baixa. Només pot utilitzar el rellotge predeterminat. Recarregui Gear per seguir utilitzant-lo."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Càrrega en pausa. Temperatura de la bateria massa alta o massa baixa."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Càrrega pausada. Temperatura de la bateria massa baixa."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Càrrega pausada. Temperatura de la bateria massa alta."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Bateria baixa"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "El dispositiu s'apagarà"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Reiniciar"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Emmagat ple"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "No es pot gravar. No hi ha prou espai a l'emmagatzematge de Gear."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Per deshabilitar el mode d'estalvi ultra d'energia, es reiniciarà el dispositiu."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Error"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Mode d'estalvi ultra d'energia"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Bateria desconnectada"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Estal energ"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "S'habilitarà el mode d'estalvi d'energia. Aquesta acció limitarà el rendiment de la CPU, apagarà el Bluetooth i s'utilitzarà un nivell d'alimentació de pantalla més baix. Gest de despertador, Control de veu i Vibració no estan disponibles. Les funcions Rellotge i S Health encara estaran disponibles."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Estalviador d'energia deshabilitat."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Estalviador d'energia habilitat."
+

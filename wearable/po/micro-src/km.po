@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "បោះបង់"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "ស្ងាត់"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ព្រម"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "បន្ទាប់​ពី %1$d នាទី ពន្លឺ​នឹង​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​កម្រិត​លំនាំដើម (%2$d)។"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "ទម្រង់​ក្រៅអគារ"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "ភាពភ្លឺច្បាស់"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "រំញ័រ"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "បិទ"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "បិទ​ថាមពល"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "មេម៉ូរី​មិន​គ្រប់​គ្រាន់។"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "មេម៉ូរី​ទាប។"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "បាន​បិទ %s។"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "ថ្ម​ខ្សោយ។"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "បាន​បើកប្រើ។"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "បាន​បិទ។"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "សំឡេង"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s បាន​បិទ​ដោយ​ចៃដន្យ។"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "នៅ​សល់​មេម៉ូរី​ទាប"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "ថ្ម​ខ្សោយ"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "ឧបករណ៍​នឹង​ចាប់ផ្ដើម​ឡើងវិញ។"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "ជម្រើស​ឧបករណ៍"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "ស្ងាត់"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "បាន​ផ្អាក​ការសាក។ វ៉ុលតា​ខ្ពស់​ពេក។"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "ថ្ម​ខ្សោយ​ខ្លាំង។ ឧបករណ៍​នឹង​បិទ។"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "ថាមពល​ថ្ម​ខ្សោយ។ សាក Gear របស់​អ្នក​ឡើងវិញ​ដើម្បី​រក្សា​ការប្រើ​វា។"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "ថ្ម​ខ្សោយ។ សាក​ឧបករណ៍​ឡើងវិញ ភ្លាមៗ​ដើម្បី​រក្សា​ការប្រើ។"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "ថ្ម​ខ្សោយ​ខ្លាំង"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ថាមពល​ថ្ម​ខ្សោយ​ខ្លាំង។ សាក Gear របស់​អ្នក​ឡើងវិញ​ឥឡូវ​ដើម្បី​រក្សា​ការប្រើ​វា។"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "ថាមពល​ថ្ម​ខ្សោយ​ខ្លាំង។ នឹង​ផ្ដាច់ Gear របស់​អ្នក​ពី​ឧបករណ៍​ចល័ត​របស់​អ្នក។ អ្នក​អាច​ប្រើ​តែ​នាឡិកា​លំនាំដើម​ប៉ុណ្ណោះ។ សាក Gear របស់​អ្នក​ឡើងវិញ​ដើម្បី​រក្សា​ការប្រើ​វា។"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ថាមពល​ថ្ម​ខ្សោយ​ខ្លាំង។ អ្នក​អាច​ប្រើ​តែ​នាឡិកា​លំនាំដើម​ប៉ុណ្ណោះ។ សាក Gear របស់​អ្នក​ឡើងវិញ​ឥឡូវ​ដើម្បី​រក្សា​ការប្រើ​វា។"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "បាន​ផ្អាក​ការសាក។ សីតុណ្ហភាព​ថ្ម​ខ្ពស់ ឬ ទាប​ពេក។"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "បាន​ផ្អាក​ការសាក។ សីតុណ្ហភាព​ថ្ម​ទាប​ពេក។"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "បាន​ផ្អាក​ការសាក។ សីតុណ្ហភាព​ថ្ម​ខ្ពស់​ពេក។"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "ថ្មខ្សោយ"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "ឧបករណ៍​នឹង​បិទ។"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "ចាប់ផ្តើម​ឡើង​វិញ"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "ឃ្លាំងផ្ទុក​ពេញ"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "មិន​អាច​ថត។ មិនមាន​លំហ​គ្រប់គ្រាន់​ក្នុង​ឃ្លាំងផ្ទុក Gear របស់​អ្នក។"
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "ដើម្បី​បិទ​ទម្រង់​សំចៃ​ថាមពល​បំផុត ឧបករណ៍​របស់​អ្នក​នឹង​ចាប់ផ្ដើម​ឡើងវិញ។"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "កំហុស"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "ទម្រង់​សំចៃ​ថាមពល​បំផុត"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "បាន​ផ្តាច់​ថ្ម។"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "ធាតុសំចៃ​ថាមពល"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "នឹង​បើកប្រើ​ធាតុសំចៃ​ថាមពល។ នេះ​នឹង​កំណត់ដែន​ប្រសិទ្ធផល​អតិបរមា​នៃ CPU, បិទ Bluetooth ហើយ​នឹង​ប្រើ​កម្រិត​ថាមពល​អេក្រង់​ទាប។ កាយវិការ​ដាស់, សំឡេង​បញ្ជា និង រំញ័រ​នឹង​មិន​អាច​ប្រើ​បាន​ឡើយ។ មុខងារ​នាឡិកា និង S Health នឹង​នៅតែ​អាច​ប្រើ​បាន​ដដែល។"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "បាន​បិទ​ធាតុសំចៃ​ថាមពល។"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "បាន​បើកប្រើ​ធាតុសំចៃ​ថាមពល។"
+

@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Oprire"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Somn"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Anulare"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Info. sis."
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Cititor de ecran (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Accesibilitate"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Dezactivare culori negative"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Activare culori negative"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Dezactivare zoom"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Activare zoom"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Aprindere lumină de ajutor"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Stingere lumină de ajutor"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Opţiuni telefon"
+

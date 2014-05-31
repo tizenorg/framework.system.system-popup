@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Power off"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Sleep"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Cancel"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "System info"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Screen reader (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Accessibility"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Disable negative colours"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Enable negative colours"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Disable zoom"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Enable zoom"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Turn on assistive light"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Turn off assistive light"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Phone options"
+

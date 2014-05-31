@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "ביטול"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "השתק"
+
+msgid "IDS_COM_SK_OK"
+msgstr "אישור"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "לאחר %1$d דקות, הבהירות תשוב לרמת ברירת המחדל (%2$d)."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "מצב חוץ"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "בהירות"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "רטט"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "סגור"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "כבה"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "אין די זיכרון."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "אין די זיכרון פנוי."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "‎%s סגור."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "סוללה חלשה."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "מופעל"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "כבוי"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "צליל"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s נסגר באופן בלתי צפוי."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "נותר מעט זיכרון"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "סוללה חלשה"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "ההתקן יופעל מחדש."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "אפשרויות ההתקן"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "השתק"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "הטעינה מושהית. המתח החשמלי גבוה מדי."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "סוללה חלשה באופן חמור. המכשיר ייכבה עכשיו."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "הסוללה חלשה. טען מחדש את Gear בקרוב כדי להמשיך להשתמש בו."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "סוללה חלשה. הטען את ההתקן בקרוב כדי להמשיך בשימוש."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "סוללה חלשה באופן קריטי"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "הסוללה חלשה באופן קריטי. טען מחדש את Gear כעת כדי להמשיך להשתמש בו."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "רמת הטעינה בסוללה נמוכה מאוד. ה-Gear ינותק מההתקן הנייד שלך. ניתן להשתמש רק בשעון ברירת המחדל. טען את ה-Gear עכשיו כדי להמשיך את השימוש בו."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "הסוללה חלשה באופן חמור. ניתן להשתמש רק בשעון ברירת המחדל. טען מחדש את Gear כעת כדי להמשיך להשתמש בו."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "הטעינה מושהית. טמפרטורת הסוללה גבוהה מדי או נמוכה מדי."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "הטעינה מושהית. טמפרטורת הסוללה נמוכה מדי."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "הטעינה מושהית. טמפרטורת הסוללה גבוהה מדי."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "סוללה חלשה"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "ההתקן יכבה."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "הפעל מחדש"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "האחסון מלא"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "לא ניתן להקליט. אין מספיק מקום באחסון של Gear."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "כדי להשבית את מצב ‘חיסכון מרבי באנרגיה’, ההתקן שלך יופעל מחדש."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "שגיאה"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "מצב ‘חיסכון מרבי באנרגיה’"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "סוללה מנותקת."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "חסכון בחשמל"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "מצב ’חיסכון בחשמל‘ יופעל. דבר זה יגביל את הביצועים המרביים של המעבד, יכבה את הפונקציה Bluetooth ויקטין את בהירות המסך. התכונות ’מחוות השכמה‘, ’בקרה קולית‘ ו’רטט‘ לא יהיו זמינות. הפונקציות ’שעון‘ ו-S Health ימשיכו להיות זמינות."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "מצב ’חיסכון בחשמל‘ מושבת."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "מצב ’חיסכון בחשמל‘ מופעל."
+

@@ -1,0 +1,15 @@
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Sistm mlmtı"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "Həddindən artıq yüksək tempratura görə yükləmə dayandırıldı"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Batareya zəifdir"
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "Batareya azdır. Telefon sönəcək"
+

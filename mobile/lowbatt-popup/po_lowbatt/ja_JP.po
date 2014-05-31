@@ -1,0 +1,15 @@
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "システム​情報"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "極端な​温度​に​より​充電​を​中止​しました"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "バッテリー残量不足"
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "電池残量が不足しています。電源が切れます"
+

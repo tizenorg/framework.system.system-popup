@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "منسوخ"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "آواز بند"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ٹھیک ہے"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d منٹ کے بعد، چمکیلا پن طے شدہ لیول پر پھر سیٹ ہوجائے گا (%2$d)"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "آؤٹ ڈور موڈ"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "اجلا پن"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "وائبریشن"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "بند کریں"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "پاور آف"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "میموری کافی نہیں۔"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "میموری کم ہے۔"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s بند ہوگیا۔"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "بیٹری لو۔"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "فعال۔"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "غیر فعال۔"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "آواز"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s غیر متوقع طور پر بند ہوچکا ہے"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "باقی میموری کم ہے"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "بیٹری لو"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "آلہ پھر سے چالو ہو گا"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "آلہ کے اختیارات"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "آواز بند"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "چارج کرنا روک دیا گیا۔ وولٹیج بہت زیادہ ہے۔"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "بیٹری خطرناک حد تک کمزور۔ اب آلہ بند ہوجائے گا۔"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "بیٹری کمزور ہوگئی ہے۔ اس کا استعمال جاری رکھنے کے لئے اپنا Gear جلد پھر چارج کریں۔"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "بیٹری کمزور ہے۔ استعمال جاری رکھنے کے لئے آلہ فورا پھر چارج کریں۔"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "بیٹری نازک حالت تک کم ہے"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "بیٹری کی قوت بہت زیادہ کم ہے۔ اس کا استعمال جاری رکھنے کے لئے اب اپنا Gear پھر چارج کریں۔"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "بیٹری پاور بہت ہی کم ہے۔ آپ کا Gear آپ کے موبائل ڈیوائس سے منقطع ہو جائے گا۔ آپ صرف متعین گھڑی ہی استعمال کرسکتے ہیں۔  اپنے Gear کو آگے استعمال کرنے کیلۓ اب اسے ریچارج کریں۔"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "بیٹری بحلی شدید کم ہے۔ آپ صرف طے شدہ گھڑی استعمال کر سکتے ہیں۔ اس کا استعمال جاری رکھنے کیلئے اپنا Gear پھر چارج کریں۔"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "چارجنگ میں وقفہ۔ بیٹری کا درجہ حرارت بہت زیادہ یا بہت کم۔"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "چارج کرنے میں وقفہ۔ بیٹری کا درجہ حرارت بہت کم ہے۔"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "چارج کرنے میں وقفہ۔ بیٹری کا درجہ حرارت بہت زیادہ ہے۔"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "بیٹری کم ہے"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "آلہ آف ہوجائے گا"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "دوبارہ چالو"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "ذخیرہ بھر گیا ہے"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "ریکارڈ کرنے سے قاصر۔ آپ کے Gear ذخیرہ میں کافی جگہ نہیں ہے۔"
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "الٹرا پاور سیونگ کو غیر فعال کرنے کے لیے، آپ کا آلہ بند ہوکر دوبارہ شروع ہوگا۔"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "غلطی"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "الٹرا پاور کی بچت کرنے والی وضع"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "بیٹری منقطع ہوگئی۔"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "پاور سیور"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "پاور سیور فعال ہوجائے گا۔ یہ CPU کی زیادہ سے زیادہ کارکردگی کو محدود کردے گا، بلو ٹوتھ آف کردے گا، اور اسکرین پاور کی کم سے کم سطح استعمال کی جائے گی۔ جاگنے کا انداز، وائس کنٹرول، اور حرکت پذیری دستیاب نہیں ہوگی۔ گھڑی اور S Health فنکشنز اب بھی دستیاب ہوں گے۔"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "پاور سیور غیر فعال ہوگیا۔"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "پاور سیور فعال ہوگیا۔"
+

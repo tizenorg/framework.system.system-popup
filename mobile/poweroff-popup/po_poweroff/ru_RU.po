@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Выключение"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Сон"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Отмена"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Системная информация"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Да"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Чтение с экрана (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Специальные возможности"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Отключить негатив"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Включить негатив"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Отключить увеличение"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Включить увеличение"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Включить подсветку"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Отключить подсветку"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Параметры телефона"
+

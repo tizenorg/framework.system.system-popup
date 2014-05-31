@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "రద్దు"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "మ్యూట్ చేయి"
+
+msgid "IDS_COM_SK_OK"
+msgstr "సరే"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d నిమిషాల తర్వాత, ప్రకాశవంతం డిఫాల్ట్ స్థాయి (%2$d)కు రీసెట్ చేయబడుతుంది."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "అవుట్‌డోర్ మోడ్"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "ప్రకాశవంతం"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "వైబ్రేషన్"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "మూసివేయి"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "పవర్ ఆఫ్‌"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "తగినంత మెమరీ లేదు."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "బ్యాటరీ తక్కువగా ఉంది."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s మూసివేయబడింది."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "బ్యాటరీ తక్కువగా ఉంది."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "ఎంచుకొనేందుకు."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "నిలిపివేయబడింది."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "ధ్వని"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s ఊహించని విధంగా మూసివేయబడింది."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "తక్కువ మెమరీ మిగిలింది"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "బ్యాటరీ తక్కువగా ఉంది"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "పరికరం మళ్లీ ప్రారంభమవుతుంది."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "పరికరం ఎంపికలు"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "మ్యూట్ చేయి"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "ఛార్జ్ చేయడం ఆపబడింది. వోల్టేజ్ ఎక్కువగా ఉంది."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "బ్యాటరీ అపాయకరమైన తక్కువలో ఉంది. పరికరం ఇప్పుడు షట్ డౌన్ చెయ్యబడుతుంది"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "బ్యాటరీ పవర్ తక్కువగా ఉంది. దీనిని ఉపయోగించడాన్ని కొనసాగించడానికి త్వరగా మీ గేర్ రీఛార్జ్ చేయండి."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "బ్యాటరీ తక్కువగా ఉంది. ఉపయోగింస్తూ ఉండడానికి పరికరంను వెంటనే రీఛార్జ్ చేయండి"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "బ్యాటరీ తక్కువ అపాయకరమైనది"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "బ్యాటరీ చాలా తక్కువగా ఉంది. దీనిని ఉపయోగించడాన్ని కొనసాగించడానికి మీ గేర్ రీఛార్జ్ చేయండి."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "బ్యాటరీ పవర్ చాలా తక్కువగా ఉంది. మీ గేర్ మీ మొబైల్ పరికరం నుండి డిస్‌కనెక్ట్ చేయబడుతుంది. మీరు డిఫాల్ట్ గడియారాన్ని మాత్రమే ఉపయోగించగలరు. గేర్‌ని ఉపయోగిస్తూ ఉండటానికి దీన్ని ఇప్పుడే రీఛార్జ్ చేయండి."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "బ్యాటరీ శక్తి చాలా తక్కువగా ఉంది. మీరు డిఫాల్ట్ గడియారాన్ని మాత్రమే ఉపయోగించగలరు. గేర్‌ని ఉపయోగిస్తూ ఉండటానికి దాన్ని రిఛార్జ్ చేయండి."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "ఛార్జ్ చేయడం ఆపబడింది. బ్యాటరీ ఉష్ణోగ్రత చాలా అధికం లేదా చాలా తక్కువ."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "ఛార్జ్ చేయడం ఆపబడింది. బ్యాటరీ ఉష్ణోగ్రత చాలా తక్కువుగా ఉంది."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "ఛార్జ్ చేయడం ఆపబడింది. బ్యాటరీ ఉష్ణోగ్రత చాలా అధికంగా ఉంది."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "బ్యాటరీ తక్కువగా ఉంది"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "పరికరం టర్న ఆఫ్ చేయబడుతుంది."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "మళ్లీ ప్రారంభించు"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "నిల్వ నిండింది"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "రికార్డ్ చేయలేరు. మీ గేర్ నిల్వలో తగినంత ఖాళీ లేదు."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "అసాధారణ శక్తి ఆదా విధానాన్ని నిలిపివేసేందుకు, మీ పరికరం పునఃప్రారంభమవుతుంది."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "లోపం"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "అసాధారణ శక్తి ఆదా విధానం"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "బ్యాటరీ డిస్‌కనెక్ట్ చేయబడింది."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "పవర్ సేవర్"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "శక్తి ఆదా ప్రారంభించబడుతుంది. ఇది CPU యొక్క గరిష్ట పనితీరుని పరిమితం చేస్తుంది, బ్లూటూత్‌ని ఆఫ్ చేస్తుంది మరియు తక్కువ స్క్రీన్ శక్తి స్థాయి ఉపయోగించబడుతుంది. మేల్కొల్పే సంజ్ఞ, వాయిస్ నియంత్రణ మరియు వైబ్రేషన్ అందుబాటులో లేవు. గడియారం మరియు S Health విధులు ఇప్పటికీ అందుబాటులో ఉన్నాయి."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "పవర్ సేవర్ నిలిపివేయబడింది."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "పవర్ సేవర్ ప్రారంభించబడింది."
+

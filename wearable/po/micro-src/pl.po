@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Anuluj"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Brak"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Jasność zostanie wyzerowana do poziomu domyślnego (%2$d) po %1$d min."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Tryb Na zewn."
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Jasność"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Wibracja"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Zamknij"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Wyłączanie"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Brak pamięci."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Mało pamięci."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "Zamknięto %s."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Bateria rozładowana."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Włączono."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Wyłączono."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Dźwięk"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "Aplikacja %s została niespodziewanie zamknięta."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Mało wolnej pamięci"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Bateria rozładowana"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Urządzenie zostanie uruchomione ponownie."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Opcje urządzenia"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Wycisz"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Ładowanie wstrzymane. Zbyt wysokie napięcie"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Bateria rozładowana. Telefon zostanie wyłączony."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Niski poziom naładowania baterii. Naładuj zegarek Gear w niedługim czasie, aby móc nadal go używać."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Bateria rozładowana. Naładuj ponownie urządzenie w niedługim czasie, aby móc nadal go używać."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Bateria rozładowana"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Bateria rozładowana. Naładuj zegarek Gear, aby móc nadal go używać."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Bateria rozładowana. Zegarek Gear zostanie odłączony od urządzenia przenośnego. Możesz korzystać tylko z domyślnego zegarka. Naładuj zegarek Gear, aby móc nadal go używać."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Bateria rozładowana. Możesz korzystać tylko z domyślnego zegarka. Naładuj zegarek Gear, aby móc nadal go używać."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Ładowanie wstrzymane. Temperatura baterii zbyt wysoka lub zbyt niska."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Ładowanie wstrzymane. Temperatura baterii zbyt niska."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Ładowanie wstrzymane. Temperatura baterii zbyt wysoka."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Bateria rozładowana"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Urządzenie zostanie wyłączone."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Uruchom ponownie"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Pamięć pełna"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Nie można nagrać. Za mało miejsca w pamięci zegarka Gear."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "W celu wyłączenia trybu bardzo niskiego zużycia energii urządzenie zostanie uruchomione ponownie."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Błąd"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Tryb bardzo niskiego zużycia energii"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Bateria odłączona."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Oszcz.ener."
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Oszczędzanie energii zostanie włączone. Spowoduje to ograniczenie maksymalnej wydajności procesora, wyłączenie Bluetooth oraz zmniejszenie poziomu zasilania ekranu. Nie będą dostępne funkcje gestu budzenia, sterowania głosem oraz wibracji. Funkcje Zegar oraz S Health nadal będą dostępne."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Wyłączono oszczędzanie energii."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Włączono oszczędzanie energii."
+

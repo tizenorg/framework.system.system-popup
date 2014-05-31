@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "ਰੱਦ ਕਰੋ"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "ਮਿਊਟ"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ਓਕੇ"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d ਮਿੰਟ ਦੇ ਬਾਅਦ, ਚਮਕ ਡਿਫਾੱਲਟ ਸਤਰ (%2$d) ਤੇ ਸੈੱਟ ਹੋ ਜਾਵੇਗੀ।"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "ਆਉਟਡੋਰ ਮੋਡ"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "ਚਮਕ"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "ਵਾਈਬ੍ਰੇਸ਼ਨ"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "ਬੰਦ"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "ਪਾਵਰ ਬੰਦ"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "ਉੱਚਿਤ ਮੈਮਰੀ ਨਹੀਂ।"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "ਘੱਟ ਮੈਮਰੀ।"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s ਬੰਦ ਕੀਤਾ।"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "ਘੱਟ ਬੈਟਰੀ।"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "ਸਮਰੱਥ ਕੀਤਾ।"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "ਅਸਮਰੱਥ।"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "ਧੁਨੀ"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s ਨੂੰ ਅਚਾਨਕ ਬੰਦ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ।"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "ਬਚੀ ਮੈਮਰੀ ਘੱਟ ਹੈ"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "ਬੈਟਰੀ ਘੱਟ"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "ਡਿਵਾਈਸ ਮੁੜ ਅਰੰਭ ਹੋਵੇਗਾ।"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "ਡਿਵਾਈਸ ਦੇ ਵਿਕਲਪ"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "ਮਿਊਟ"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "ਚਾਰਜਿੰਗ ਨੂੰ ਵਿਰਾਮ ਦਿੱਤਾ। ਵੋਲਟੇਜ਼ ਬਹੁਤ ਜ਼ਿਆਦਾ।"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "ਬੈਟਰੀ ਬਹੁਤ ਹੀ ਘੱਟ ਹੈ। ਡੀਵਾਈਸ ਹੁਣ ਬੰਦ ਹੋ ਜਾਵੇਗੀ"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "ਬੈਟਰੀ ਪਾਵਰ ਘੱਟ ਹੈ। ਆਪਣੇ ਗੇਅਰ ਦਾ ਉਪਯੋਗ ਕਰਨ ਲਈ ਇਸਨੂੰ ਜਲਦੀ ਦੁਬਾਰਾ ਚਾਰਜ ਕਰੋ।"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "ਬੈਟਰੀ ਘੱਟ ਹੈ। ਵਰਤੋਂ ਜਾਰੀ ਰੱਖਣ ਵਾਸਤੇ ਡੀਵਾਈਸ ਜਲਦੀ ਹੀ ਰਿਚਾਰਜ ਕਰੋ"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "ਬੈਟਰੀ ਬਹੁਤ ਹੀ ਘੱਟ ਹੈ"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ਬੈਟਰੀ ਪਾਵਰ ਬਹੁਤ ਘੱਟ ਹੈ। ਆਪਣੇ ਗੇਅਰ ਦਾ ਉਪਯੋਗ ਕਰਨ ਲਈ ਇਸਨੂੰ ਹੁਣੇ ਰੀਚਾਰਜ ਕਰੋ।"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "ਬੈਟਰੀ ਪਾਵਰ ਬਹੁਤ ਹੀ ਜ਼ਿਆਦਾ ਘੱਟ ਹੈ। ਤੁਹਾਡਾ ਗੇਅਰ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੋਂ ਡਿਸਕਨੈਕਟ ਹੋ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਸਿਰਫ ਡਿਫਾੱਲਟ ਘੜੀ ਦਾ ਉਪਯੋਗ ਕਰ ਸਕਦੇ ਹੋ। ਆਪਣੇ ਗੇਅਰ ਦਾ ਉਪਯੋਗ ਕਰਦੇ ਰਹੋਣ ਦੇ ਲਈ ਉਸਨੂੰ ਰੀਚਾਰਜ ਕਰੋ।"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ਬੈਟਰੀ ਪਾਵਰ ਬਹੁਤ ਹੀ ਜ਼ਿਆਦਾ ਘੱਟ ਹੈ। ਤੁਸੀਂ ਸਿਰਫ ਡਿਫਾੱਲਟ ਘੜੀ ਦਾ ਉਪਯੋਗ ਕਰ ਸਕਦੇ ਹੋ। ਆਪਣੇ ਗੇਅਰ ਦਾ ਉਪਯੋਗ ਕਰਦੇ ਰਹਿਣ ਦੇ ਲਈ ਉਸਨੂੰ ਰੀਚਾਰਜ ਕਰੋ।"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "ਚਾਰਿਜੰਗ ਰੁਕੀ। ਬੈਟਰੀ ਤਾਪਮਾਨ ਬਹੁਤ ਉੱਚਾ ਜਾਂ ਬਹੁਤ ਘੱਟ।"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "ਚਾਰਜਿੰਗ ਨੂੰ ਵਿਰਾਮ ਦਿੱਤਾ। ਬੈਟਰੀ ਦਾ ਤਾਪਮਾਨ ਬਹੁਤ ਘੱਟ ਹੈ।"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "ਚਾਰਜਿੰਗ ਨੂੰ ਵਿਰਾਮ ਦਿੱਤਾ। ਬੈਟਰੀ ਦਾ ਤਾਪਮਾਨ ਬਹੁਤ ਜ਼ਿਆਦਾ ਹੈ।"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "ਬੈਟਰੀ ਘੱਟ ਹੈ"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "ਡਿਵਾਈਸ ਬੰਦ ਹੋ ਜਾਵੇਗਾ।"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "ਦੁਬਾਰਾ ਅਰੰਭ ਕਰੋ"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "ਸਟੋਰੇਜ ਪੂਰਨ"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "ਰਿਕਾਰਡ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ। ਤੁਹਾਡੇ ਗੇਅਰ ਸਟੋਰੇਜ ਵਿੱਚ ਉੱਚਿਤ ਥਾਂ ਨਹੀਂ ਹੈ।"
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "ਅਲਟਰਾ ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਨੂੰ ਅਸਮਰੱਥ ਕਰਨ ਦੇ ਲਈ, ਤੁਹਾਡਾ ਡਿਵਾਈਸ ਪੁਨਰ ਅਰੰਭ ਹੋ ਜਾਵੇਗਾ।"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "ਤਰੁੱਟੀ"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "ਅਲਟਰਾ ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "ਬੈਟਰੀ ਡਿਸਕਨੈਕਟ ਹੋਈ।"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "ਪਾਵਰ ਸੇਵਰ"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "ਪਾਵਰ ਸੇਵਰ ਨੂੰ ਸਮਰੱਥ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਇਹ CPU ਦੇ ਅਧਿਕਤਮ ਪ੍ਰਦਰਸ਼ਨ ਨੂੰ ਸੀਮਿਤ ਕਰ ਦੇਵੇਗਾ, ਬਲੂਟੁੱਥ ਬੰਦ ਕਰ ਦੇਵੇਗਾ ਅਤੇ ਸਕ੍ਰੀਨ ਦੇ ਘੱਟ ਪਾਵਰ ਸਤਰ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾਵੇਗੀ। ਵੈਕ-ਅਪ ਸੰਕੇਤ, ਵਾੱਇਸ ਨਿਯੰਤ੍ਰਣ ਅਤੇ ਕੰਪਨ ਉਪਲਬਧ ਨਹੀਂ ਹੋਣਗੇ। ਘੜੀ ਅਤੇ S Health ਫੰਕਸ਼ਨ ਤਾਂ ਵੀ ਉਪਲਬਧ ਹੋਣਗੇ।"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "ਪਾਵਰ ਸੇਵਰ ਅਸਮਰੱਥ ਹੋਇਆ।"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "ਪਾਵਰ ਸੇਵਰ ਸਮਰੱਥ ਹੋਇਆ।"
+

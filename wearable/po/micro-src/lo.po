@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "ຍົກເລີກ"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "ປິດສຽງ"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ຕົກລົງ"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "ຫຼັງຈາກ %1$d ນາທີ, ຄວາມແຈ້ງຈະຖືກຕັ້ງຄ່າກັບໄປຫາລະດັບມາດຕະຖານ (%2$d)."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "ໂໝດຢູ່ຂ້າງນອກ"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "ຄວາມແຈ້ງສະຫວ່າງ"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "ສັ່ນ"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "ປິດ"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "ປິດເຄື່ອງ"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "ຄວາມຈຳບໍ່ພຽງພໍ."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "ຄວາມຈໍາຕໍ່າ."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s closed."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "ແບັດເຕີຣີອ່ອນ."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "ໄດ້ເປີດໃຫ້ນໍາໃຊ້ແລ້ວ."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "ປິດໃຊ້ງານ"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "ສຽງ"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s ໄດ້ປິດໄປໂດຍບໍ່ຄາດຄິດ."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Low memory left"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "ແບັດເຕີຣີອ່ອນ"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "ເຄື່ອງຈະປິດເປີດໃໝ່."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "ຕົວເລືອກຂອງເຄື່ອງ"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "ປິດສຽງ"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "ການສາກຢຸດຊົ່ວຄາວ. ໄຟແຮງໂພດ."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Battery critically low. Device will now shut down."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "ໄຟແບັດເຕີຣີຕໍ່າຫຼາຍ. ສາກເກຍຂອງທ່ານໄວ້ ເພື່ອສືບຕໍ່ໃຊ້ມັນ."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Battery low. Recharge device soon to keep using."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "ແບັດເຕີຣີອ່ອນສຸດແລ້ວ"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ໄຟເບັດເຕີຣີຕໍ່າຫຼາຍ. ສາກເກຍຂອງທ່ານດຽວນີ້ ເພື່ອສືບຕໍ່ໃຊ້ມັນ."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "ໄຟແບັດເຕີຣີອ່ອນຫຼາຍ. ເກຍຂອງທ່ານຈະຖືກຕັດເຊື່ອມຕໍ່ຈາກໂທລະສັບມືຖືຂອງທ່ານ. ທ່ານສາມາດໃຊ້ແຕ່ໂມງມາດຕະຖານເທົ່ານັ້ນ. ສາກເກຍຂອງທ່ານດຽວນີ້ ເພື່ອສືບຕໍ່ໃຊ້ມັນ."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ໄຟແບັດເຕີຣີອ່ອນຫຼາຍ. ທ່ານສາມາດໃຊ້ແຕ່ໂມງມາດຕະຖານເທົ່ານັ້ນ. ສາກເກຍຂອງທ່ານດຽວນີ້ ເພື່ອສືບຕໍ່ໃຊ້ມັນ."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "ການສາກຢຸດຊົ່ວຄາວ. ອຸນຫະພູມຂອງແບັດເຕີຣີສູງເກີນໄປ ຫຼືຕໍ່າເກີນໄປ."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "ການສາກຢຸດຊົ່ວຄາວ. ອຸນຫະພູມແບັດເຕີຣີຕໍ່າໂພດ."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "ການສາກຢຸດຊົ່ວຄາວ. ອຸນຫະພູມແບັດເຕີຣີສູງໂພດ."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "ແບັດເຕີຣີອ່ອນ"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "ເຄື່ອງຈະປິດ."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "ປິດເປີດໃໝ່"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "ບ່ອນເກັບຂໍ້ມູນເຕັມ"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "ບໍ່ສາມາດບັນທຶກໄດ້. ບໍ່ມີຊ່ອງຫວ່າງພຽງພໍຢູ່ໃນບ່ອນເກັບມ້ຽນຂໍ້ມູນເກຍຂອງທ່ານ."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "ເພື່ອປິດໃຊ້ງານໂໝດປະຢັດໄຟພິເສດ, ເຄື່ອງຂອງທ່ານຈະເລີ່ມປິດເປີດໃໝ່."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "ຂັດຂ້ອງ"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "ໂໝດປະຢັດໄຟພິເສດ"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "ແບັດເຕີຣີຕັດເຊື່ອມຕໍ່ແລ້ວ."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "ປະຢັດໄຟ"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "ປະຢັດໄຟຈະເປີດໃຊ້ງານ. ອັນນີ້ຈະຈໍາກັດການເຮັດວຽກສູງສຸດຂອງ CPU, ປິດບລູທູດ, ແລະຈະນໍາໃຊ້ລະດັບໄຟໜ້າຈໍຕໍ່າລົງ. ທ່າການກະຕຸ້ນ, ການຄວບຄຸມສຽງ, ແລະການສັ່ນຈະບໍ່ມີຢູ່. ຟັງຄ໌ຊັນໂມງ ແລະ S Health ຈະຍັງມີຢູ່."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "ປະຢັດໄຟປິດໃຊ້ງານແລ້ວ."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "ປະຢັດໄຟເປີດໃຊ້ງານແລ້ວ."
+

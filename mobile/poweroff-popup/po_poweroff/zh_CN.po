@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "关机"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "休眠"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "取消"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "系统信息"
+
+msgid "IDS_COM_SK_OK"
+msgstr "确定"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "屏幕读取器(TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "辅助功能"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "禁用负色"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "启用负色"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "禁用缩放"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "启用缩放"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "开启辅助光"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "关闭辅助光"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "手机选项"
+

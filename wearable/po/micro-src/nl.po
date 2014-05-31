@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Annuleren"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Stil"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Na %1$d min wordt de helderheid teruggezet op het standaardniveau (%2$d)."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Stand buiten"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Helderheid"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Trillen"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Sluiten"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Uitschakelen"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Onvoldoende geheugen."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Onvoldoende geheugen."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s afgesloten."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Batterij bijna leeg."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Aan."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Uit."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Geluid"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s is onverwacht gesloten."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Weinig geheugen over"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Batterij bijna leeg"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Apparaat wordt opnieuw gestart."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Apparaatopties"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Stil"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Opladen onderbroken. Spanning te hoog."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Batterij bijna leeg. Apparaat wordt nu afgesloten."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "De batterij is bijna leeg. Laad uw Gear snel op om deze te blijven gebruiken."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Batterij bijna leeg. Laad het apparaat binnenkort op om het te blijven gebruiken."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Batterij bijna leeg"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "De batterij is bijna leeg. Laad uw Gear nu op om deze te blijven gebruiken."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "De batterij is bijna leeg. De verbinding tussen uw Gear en uw mobiele apparaat wordt verbroken. U kunt alleen de standaardklok gebruiken. Laad uw Gear nu op om deze te blijven gebruiken."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "De batterij is bijna leeg. U kunt alleen de standaardklok gebruiken. Laad uw Gear nu op om deze te blijven gebruiken."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Opladen onderbroken.\nBatterijtemperatuur te hoog of te laag."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Opladen onderbroken. Batterijtemperatuur te laag."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Opladen onderbroken. Batterijtemperatuur te hoog."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Batterij leeg"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Apparaat wordt uitgeschakeld."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Herstarten"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Opslag vol"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Kan niet opnemen. Er is onvoldoende opslagruimte op Gear."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Als u de Extra energiebesparende stand wilt uitschakelen, wordt uw apparaat opnieuw opgestart."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Fout."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Extra energiebesparende stand"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Batterij verwijderd."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Spaarstand"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Spaarstand wordt ingeschakeld. Hiermee wordt de maximale CPU-snelheid beperkt, Bluetooth uitgeschakeld en minder energie verbruikt voor het scherm. Wekgebaar, Spraakopdracht en Trillen zijn niet beschikbaar. Klok en S Health-functies zijn wel beschikbaar."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Spaarstand uitgeschakeld."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Spaarstand ingeschakeld."
+

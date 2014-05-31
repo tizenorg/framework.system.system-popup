@@ -1,0 +1,138 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Ikansela"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "I-mute"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Pagkalipas ng %1$d min, mare-reset ang liwanag sa default na antas (%2$d)."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Outdoor mode"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Liwanag"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Pag-vibrate"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Isara"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "I-off ang power"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Hindi sapat ang memory."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Kaunting memory."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "Nagsara ng %s"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Mahina na ang baterya."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Pinagana."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Hindi pinagana."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Tunog"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "Hindi inaasahang nagsara ang %s."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Low memory left"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Low battery"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Magre-restart ang device."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Mga pagpipilian sa device"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "I-mute"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Charging paused. Voltage too high."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Battery critically low. Device will now shut down."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Mahina na ang baterya. I-recharge ang iyong Gear sa lalong madaling panahon upang panatilihing nagagamit ito."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Battery low. Recharge device soon to keep using."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Kritikal na mahina na ang baterya"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Masyado nang mahina ang baterya. I-recharge ang iyong Gear ngayon upang panatilihing nagagamit ito."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Malapit nang maubos ang baterya. Madidiskonekta ang iyong Gear sa iyong mobile device. Ang default na orasan lang ang magagamit mo. I-recharge na ang iyong Gear upang patuloy itong magamit."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Masyado nang mahina ang baterya. Ang default na orasan lang ang maaari mong gamitin. I-recharge na ngayon ang iyong Gear upang patuloy itong magamit."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Na-pause ang pag-charge. Masyadong mataas o mababa ang temperatura ng baterya."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Na-pause ang pagcha-charge. Masyadong mababa ang temperatura ng baterya."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Na-pause ang pagcha-charge. Masyadong mataas ang temperatura ng baterya."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Mahina na ang baterya"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Mag-o-off ang device."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "I-restart"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Puno ang storage"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Hindi ma-record. Walang sapat na espasyo sa storage ng iyong Gear."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Upang huwag paganahin ang Ultra power saving mode, magre-restart ang iyong device."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Error"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Ultra power saving mode"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Nadiskonekta ang baterya."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Power saver"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Papaganahin ang Power saver. Lilimitahan nito ang maximum na pagganap ng CPU, i-off ang Bluetooth, at gagamit ng mas mababang antas ng power para sa screen. Hindi magiging available ang gesture na Wake-up, Pagkontrol ng boses, at Pag-vibrate. Magiging available pa rin ang mga function na Orasan at S Health."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Hindi pinagana ang Power saver."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Pinagana ang Power saver."
+

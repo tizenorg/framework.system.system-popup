@@ -1,0 +1,15 @@
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Sist. inf."
+
+msgid "IDS_COM_SK_OK"
+msgstr "Labi"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "Uzlāde pārtraukta pārāk augstas temperatūras dēļ"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Akumulators gandrīz tukšs"
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "Tukšs akumulators. Tālrunis izslēgsies"
+

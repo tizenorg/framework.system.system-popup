@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Isključivanje"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Spavanje"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Prekid"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "O sustavu"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Čitač zaslona (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Pristupačnost"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Isključi negativne boje"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Uključi negativne boje"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Isključi zum"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Uključi zum"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Uključi pomoćno svjetlo"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Isključi pomoćno svjetlo"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Opcije telefona"
+

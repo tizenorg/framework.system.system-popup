@@ -1,0 +1,15 @@
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Системная информация"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Да"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "Зарядка остановлена из-за температуры"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Аккумулятор разряжен"
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "Низкий заряд батареи. Телефон будет выключен"
+

@@ -1,0 +1,42 @@
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Vypnutie"
+
+msgid "IDS_ST_BODY_SLEEP"
+msgstr "Spánok"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Zrušiť"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Syst. inf."
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_MBODY_SCREEN_READER_HTTS"
+msgstr "Čítačka obrazovky (TTS)"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Zjednodušenie ovládania"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Vypnúť negatívne farby"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Zapnúť negatívne farby"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Vypnúť priblíženie"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Zapnúť priblíženie"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Zapnúť pomocné svetlo"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Vypnúť pomocné svetlo"
+
+msgid "IDS_COM_BODY_PHONE_OPTIONS"
+msgstr "Možnosti telefónu"
+

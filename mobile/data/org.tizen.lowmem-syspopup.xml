@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" package="org.tizen.lowmem-syspopup" version="0.1.7" install-location="internal-only">
+	<label>lowmem-syspopup</label>
+	<author email="giyeol.ok@samsung.com" href="www.samsung.com">Giyeol Ok</author>
+	<description>system-popup application (lowmem popup)</description>
+	<ui-application appid="org.tizen.lowmem-syspopup" exec="/usr/apps/org.tizen.lowmem-syspopup/bin/lowmem-popup" nodisplay="true" multiple="false" type="capp" taskmanage="false">
+		<icon>org.tizen.lowmem-syspopup.png</icon>
+		<label>Low memory system popup</label>
+	</ui-application>
+</manifest>
