@@ -1,0 +1,549 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Ləğv et"
+
+msgid "IDS_ST_BODY_KEYBOARD"
+msgstr "Klaviatura"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Kamera"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Parametrlər"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Xüsusi imkanlar"
+
+msgid "IDS_USB_POP_CONNECTING_KIES_VIA_USB_WILL_TURN_OFF_KIES_VIA_WI_FI_CONTINUE_Q"
+msgstr "USB ilə Kies-ə qoşulmaq Wi-Fi ilə Kies-i söndürəcək. Davam edilsin?"
+
+msgid "IDS_USB_POP_SAMSUNG_KIES_MODE_ENABLED"
+msgstr "Samsung Kies rejimi aktivləşdirildi."
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibrasiya"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Bağla"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Söndür"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Sistm mlmtı"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Yenidən başlat"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Yaddaş kifayət etmir."
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "MMC məlumatı başladılır..."
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "Tkr.cəhd"
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "USB bağlantısı alınmadı"
+
+msgid "IDS_ST_POP_PS_ENABLED"
+msgstr "%s aktiv edildi."
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Neqativ rəngləri qeyri-aktiv et"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Neqativ rəngləri aktivləşdir"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Miqyası qeyri-aktiv et"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Miqyası aktivləşdir"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Köməkçi işığı yandır"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Köməkçi işığı söndür"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Batareya azdır."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s bağlanmışdır."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Batareya zəifdir."
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "Batareya azdır. Telefon sönəcək."
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "Enerji qorunması"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Qoşuldu."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Söndürldü."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Səs"
+
+msgid "IDS_ST_BODY_CAMERA"
+msgstr "Kamera"
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "Batareya tam doludur."
+
+msgid "IDS_CST_BODY_NOTICE"
+msgstr "Qeyd"
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "Printer qoşuldu."
+
+msgid "IDS_COM_POP_PRINTER_DISCONNECTED_ABB2"
+msgstr "Printer ilə əlaqə kəsildi."
+
+msgid "IDS_QP_BODY_UNPLUG_CHARGER"
+msgstr "Adapteri rozetkadan çıxarın"
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "Uçuş rejimi"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "USB konnektoru qoşuldu."
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "USB konnektoru ilə əlaqə kəsildi."
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "Klaviatura qoşuldu."
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "Siçan ilə əlaqə yaradıldı."
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "Kamera qoşuldu."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "USB yaddaşla əlaqə yaradıldı."
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "Naməlum USB cihazı qoşulmuşdur."
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "USB cihazı təhlükəsiz şəkildə çıxarıldı."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "USB kütləvi yaddaşı gözlənilmədən çıxarıldı."
+
+msgid "IDS_COM_BODY_UNABLE_TO_USE_USB_STORAGE_AS_USB_MASS_STORAGE_ERROR_OCCURRED"
+msgstr "USB kütləvi yaddaşında USB yaddaşdan istifadə etmək mümkün deyil. Səhv baş verdi."
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "Yenidən başladın"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "SD kartı daxil etmək uğursuz oldu. SD kartı yenidən taxın və ya format edin."
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s gözlənilməz şəkildə bağlandı."
+
+msgid "IDS_COM_POP_KEYBOARD_DISCONNECTED_ABB2"
+msgstr "Klaviatura ilə əlaqə kəsildi."
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "SD kart yalnız oxuma üçün qurulmuşdur."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Yaddaşda yer azdır"
+
+msgid "IDS_ST_POP_TURN_OFF_ASSISTIVE_LIGHT_WHEN_YOU_NO_LONGER_NEED_IT"
+msgstr "Artıq ehtiyacınız olmadıqda köməkçi işığı söndürün."
+
+msgid "IDS_IS_BODY_DO_NOT_SHOW_AGAIN"
+msgstr "Bir daha göstərmə"
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "Köməkçi işıq yanılıdır."
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Köməkçi işığı söndürmək üçün vurun."
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "Məlumat itkisinin qarşısını almaq üçün USB kütləvi yaddaşını çıxartmazdan əvvəl onu kənarlaşdırın."
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "Çıxart"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "USB ilə qoşulan kameraya baxılsın?"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "Səhifələyin"
+
+msgid "IDS_PB_HEADER_USB_STORAGE_NOT_AVAILABLE"
+msgstr "USB yaddaşı mümkün deyil"
+
+msgid "IDS_COM_HEADER_USB_MASS_STORAGE_DISCONNECTED_ABB"
+msgstr "USB kütləvi yaddaş ilə əlaqə kəsildi"
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "%d USB cihazı qoşulub"
+
+msgid "IDS_EMAIL_POP_THIS_ACTION_HAS_BEEN_BLOCKED_BY_MDM_CONTACT_THE_MDM_ADMINISTRATOR"
+msgstr "Bu əməliyyat MDM tərəfindən bloklanıb. MDM inzibatçısı ilə əlaqə saxlayın."
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Batareya zəifdir"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "USB ilə qoşulan yaddaşa baxılsın?"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Batareya çıxarıldı."
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Cihaz yenidən başlayacaq."
+
+msgid "IDS_ST_BODY_USBSETTINGS_PRINTER"
+msgstr "Printer"
+
+msgid "IDS_SMEMO_BODY_MOUSE_M_IDEA_SKETCH"
+msgstr "Siçan"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Uçuş rejimi qeyri-aktiv ediləcək."
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_ENABLED"
+msgstr "Uçuş rejimi aktivləşdiriləcək."
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Cihaz indi sönəcək."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Cihaz seçimləri"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "Cihazın yaddaşı doludur"
+
+msgid "IDS_PN_BODY_NOT_ENOUGH_STORAGE_AVAILABLE_SOME_FUNCTIONS_AND_APPLICATIONS_MAY_NOT_BE_AVAILABLE_NOTI_MSG_JPN_DCM"
+msgstr "Not enough storage available. Some functions and applications may not be available.\nOpen Settings and uninstall some apps to make space."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "Uçuş rejimi sizə zəng, mesajlaşma və şəbəkə xidməti xüsusiyyətlərini söndürməyə imkan verir. O, həmçinin bağlantı funksiyalarını, məsələn, Wi-Fi və Bluetooth-u söndürür. Wi-Fi və Bluetooth-dan istifadə etmək üçün onları Parametrlərdə və ya bildiriş panelində yandıırn."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "SD kart şifrinin açılması səhvi baş verdi."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "SD kart şifrləndi."
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Uçuş rji.i q-aktv et"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Uçuş rejimini aktivləşdir"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "SD kart şifrlənir..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "SD kartın şifri açılır..."
+
+msgid "IDS_COM_POP_LOW_BATTERY_CHARGE_YOUR_PHONE"
+msgstr "Batareya zəifdir. Telefonunuzu doldurun"
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "Batareya yoxdur"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "Xəbərdarlıq mesajı"
+
+msgid "IDS_DN_POP_DATA_DECRYPTED"
+msgstr "Məlumat şifrlənmişdir."
+
+msgid "IDS_DN_POP_DATA_ENCRYPTED"
+msgstr "Məlumatın şifri açılmışdır."
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "USB cihazları"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "SD kartı şifrlə"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "Ekran oxuyucusunu aktiv et"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "Ekran oxuyucsnu deaktiv et"
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "SD kartın şifrini aç"
+
+msgid "IDS_DN_HEADER_DATA_DECRYPTION_ABB"
+msgstr "Məlumat şifrini açma"
+
+msgid "IDS_DN_HEADER_DATA_ENCRYPTION_ABB"
+msgstr "Məlumat şifrlənməsi"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "Diqqət"
+
+msgid "IDS_ST_BUTTON_CONTINUE_ABB"
+msgstr "Davam et"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Məlumat istifadəsi xəbərdarlığı"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "İstifadə və parametrlərə baxmaq üçün vurun."
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Mobil şəbəkə qeyri-aktiv edildi"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Maksimum məlumat istifadəsi limitini (%s) keçib. Mobil məlumat qeyri-aktivdir. Mobil məlumatın aktivləşdirilməsi əlavə xərclərə səbəb ola bilər."
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Səssiz"
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "Təhlükəsizlik siyasəti iş masasının sinxronlaşdırılmasından istifadənin qarşısını alır."
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "USB yaddaşı boşdur və ya fayl sistemi dəstəklənmir."
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "USB kütləvi yaddaşı təhlükəsiz çıxarıldı."
+
+msgid "IDS_COM_BODY_OUR_PHONE_WILL_SHUT_DOWN"
+msgstr "bizim telefonumuz sönəcək."
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "Bənd qoşulub."
+
+msgid "IDS_EMM_MBODY_EMERGENCY_MODE_JPN_DCM"
+msgstr "Emergency mode"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "HDMI kabeli qoşulub."
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "HDMI kabeli qoşulu deyil."
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Cavab yoxdur"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "Fövqəladə rejim"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "SD kartı şifrləmək mümkün deyil. Kartda kifayət qədər yer yoxdur. Təxminən %.2f MB lazımdır. Bəzi faylları silin."
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "SD kartın şifrini açmaq mümkün deyil. Kartda kifayət qədər yer yoxdur. Təxminən %.2f MB lazımdır. Bəzi faylları silin."
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "SD kart şifrlənməmişdir. SD kart şifrləməsini deaktiv edə bilməzsiniz, çünki o administrator tərəfindən aktiv edilib. Şifrlənsin?"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "SD kartı şifrlə"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_TAP_CONTINUE_TO_DECRYPT_YOUR_SD_CARD"
+msgstr "SD kartınızdan istifadə etmək üçün onun şifri açılmış olmalıdır. SD kartınızın şifrini açmaq üçün Davam et vurun."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "Batareyanı doldurmaq olmur. Telefonun temperaturu çox yüksəkdir."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "Batareyanı doldurmaq olmur. Telefonun temperaturu çox aşağıdır."
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "Media cihazı kimi qoşulub"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "Yalnız USB oxunması qoşulub"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Doldurulmaya pauza verildi. Gərginlik çox yüksəkdir."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "SD kart şifrlənməsi səhvi baş verdi."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "SD kartın şifri açıldı."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION"
+msgstr "SD kart şifrlənməsi"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_HAS_BEEN_ENABLED"
+msgstr "SD şifrləməsi aktiv edildi."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Ekran sönmüşdür."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Batareya olduqca zəifdir. Cihaz indi sönəcək."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Batareya zəifdir. Gear-dan istifadə edə bilmək üçün batareyanı tezliklə yükləyin"
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "Şifrələməni qeyri-aktiv et"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "Şifrələməni aktiv et"
+
+msgid "IDS_ACCS_POP_EMERGENCY_MODE_AND_SCREEN_READER_CANNOT_BOTH_BE_ENABLED_GO_TO_SETTINGS_TO_DISABLE_SCREEN_READER_Q"
+msgstr "Fövqəladə rejim və Ekran oxuyucusu hər ikisi aktivləşdirilə bilmədi. Ekran oxuyucusunu qeyri-aktiv etmək üçün parametrlərə keçin?"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Batareya zəifdir. İstifadə etməkyə davam etmək üçün cihazı doldurun."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Batareya olduqca zəifdir"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Batareya çox zəifdir. Gear-dan istifadə edə bilmək üçün batareyanı indicə yükləyin"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Batareya enerjisi həddindən artıq azdır. Sizin Gear-nız mobil cihazınızdan ayrılacaqdır. Siz yalnız standart saatdan istifadə edə bilərsiniz. Gear-dan istifadə etməyə davam etmək üçün Gear-ı təkrar doldurun."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Batareya enerjisi həddindən artıq zəifdir. Siz yalnız defolt saatdan istifadə edə bilərsiniz. Gear-dan istifadə etməyə davam etmək üçün onu indi yükləyin"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Doldurmaya pauza verildi.\nBatareyanın temperaturu çox yüksək və ya çox aşağıdır."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Doldurulmaya pauza verildi. Batareyanın temperaturu çox aşağıdır."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Doldurulmaya pauza verildi. Batareyanın temperaturu çox yüksəkdir."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Batareya zəifdir"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Açıq hava rjmi"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Cihaz sönəcək."
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d dəqiqə sonra parlaqlıq defolt səviyyədə qurulacaqdır (%2$d)."
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Parlaqlıq"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "Həddindən artıq yüksək tempratura görə yükləmə dayandırıldı"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "Söndür"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_TAP_CONTINUE_TO_ENCRYPT_YOUR_SD_CARD"
+msgstr "SD kartınızdan istifadə etmək üçün o, şifrlənmiş olmalıdır. SD kartınızı şifrləmək üçün Davam et vurun."
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "Sonra"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "SD kartın şifrəsini aç"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "Aktiv edin"
+
+msgid "IDS_TPLATFORM_BODY_POWER_OFF_THE_DEVICE_Q"
+msgstr "Cihaz söndürülsün?"
+
+msgid "IDS_TPLATFORM_BODY_RESTART_THE_DEVICE_Q"
+msgstr "Cihaz söndürülüb yandırılsın?"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "Uçuş rejimi qeyri-aktiv edilsin?"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "Söndür"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_CALLING_MESSAGING_AND_MOBILE_NETWORK_FUNCTIONS"
+msgstr "Uçuş rejimi zəng, mesajlaşma və mobil şəbəkə funksiyalarını deaktiv etməyə imkan verir."
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s cavab vermir. %s bağlansın?"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "Söndür"
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "Adapteri çıxar."
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "Cihazı doldurmaq üçün onu enerji mənbəyinə taxın və Tapşırıq menecerində istifadə olunmayan proqramlardan çıxın. Doldurulma zamanı istifadəyə davametmə səmərəli doldurulmaya mane ola bilər."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Ekran oxuyucusu aktivdir."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Ekran oxuyucusu qeyri-aktivdir."
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "Fövqəladə rejimi aktivləşdir"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "Fövqəladə rejimi qeyri-aktiv et"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Gözlə"
+
+msgid "IDS_PH_HEADER_ERROR_ABB"
+msgstr "Səhv"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "USB yaddaşı"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "Kamera"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "Cihazınız həddindən artıq qızır. O, soyuması üçün sönəcək."
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "Söndürmə"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "Cihaz avtomatik yandırıldı"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "Cihazınız həddindən artıq qızmışdır. Zədələnməsinin qarşısını almaq üçün söndürülmüşdür.\n\nHəddindən artıq qızma aşağıdakılar səbəbindən baş verə bilər:\nUzun müddət ərzində oyunlar və naviqasiya kimi qrafik intensiv proqramlardan istifadə.\nBöyük faylların ötürülməsi.\nCihazdan qaynar mühitdə istifadə."
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "SD kartınızdan istifadə etmək üçün onun şifri açılmış olmalıdır. SD kartın şifri açılsın və ya cihazın şifrlənməsi aktiv edilsinmi?"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "SD kartınızdan istifadə etmək üçün o şifrlənməlidir. SD kart şifrlənsin və ya cihazın şifrlənməsi qeyri-aktiv edilsinmi?"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "Təhl rej qeyri-aktiv edin"
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "Təhlükəsiz rejiminin qeyri-aktiv edilməsi cihazınızı söndürüb yandıracaq. Qeyri-aktiv edilsin?"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "Zəif batareya. Yardımçı işıq söndürüləcək."
+

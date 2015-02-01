@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" package="org.tizen.mmc-syspopup" version="0.1.7" install-location="internal-only">
+	<label>Mmc system popup</label>
+	<author email="giyeol.ok@samsung.com" href="www.samsung.com">Giyeol Ok</author>
+	<description>System popup application (Mmc system popup)</description>
+	<ui-application appid="org.tizen.mmc-syspopup" exec="/usr/apps/org.tizen.mmc-syspopup/bin/mmc-popup" nodisplay="true" multiple="false" type="capp" taskmanage="false">
+		<label>Mmc system popup</label>
+	</ui-application>
+</manifest>

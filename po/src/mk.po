@@ -1,0 +1,387 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Откажи"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Опции"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Пристапност"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Исклучување"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Рестарт"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Нема доволно меморија."
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "Податоците за MMC се активираат..."
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "Повт."
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "Неуспешно поврзување USB."
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Исклучи негативни бои"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Овозможи негативни бои"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Исклучи зум"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Вклучи зум"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Вклучи помошно светло"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Исклучи помошно светло"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Има уште малку меморија."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s се затвори."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Батеријата е празна."
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "Батеријата е празна. Телефонот ќе се исклучи."
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "Штедење енергија"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Вклучено."
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "Батеријата е наполнета."
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "Поврзан е печатач."
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "Режим за летало"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "Приклучокот за USB е поврзан."
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "Приклучокот за USB е откачен."
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "Поврзана е тастатура."
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "Поврзано е глувче."
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "Камерата е поврзана."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "Поврзана е меморија USB."
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "Поврзан е непознат уред USB."
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "Уредот USB е безбедно отстранет."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "Меморијата USB е извадена неочекувано."
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "Ресетирај"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "Неуспешно монтирање SD-картичка. Вметнете ја повторно или форматирајте ја."
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s неочекувано затвори."
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "Само читање на вметната SD-картичка."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Преостанува уште малку меморија"
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "Помошното светло е вклучено."
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Допрете да се исклучи помошното светло."
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "Демонтирајте ја меморијата USB пред да ја извадите за да избегнете губење податоци."
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "Демонтирај"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "Прегледна камера поврзана преку USB?"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "Пребар."
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "%d USB уреди се поврзани"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Батеријата е празна"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "Да се разгледа меморијата поврзана преку USB?"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Батеријата е откачена."
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Уредот ќе се рестартира."
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Режимот за летало ќе се оневозможи."
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Уредот ќе се исклучи сега."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Опции за уредот"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "Меморијата на уредот е полна"
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "Режимот за летало овозможува да исклучите повикување, праќање пораки и податочни мрежи. Ги исклучува и функциите за поврзување како Wi-Fi и Bluetooth. За да ги користите Wi-Fi и Bluetooth, вклучете ги во Опции или во таблата за известувања."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "Дојде до грешка при дешифрирањето на SD-картичката."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "SD-картичката е шифрирана."
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Искл.режим за летало"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Вклучи Режим за летање"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "Се шифрира SD-картичката..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "Се дешифрира SD-картичката..."
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "Нема батерија"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "Порака за предупредување"
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "Уреди USB"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "Шифрирај SD-картичка"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "Вклучи екрански читач"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "Исклучи екрански читач"
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "Дешифрирај SD-картичка"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "Внимание"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Предупредување за користење податоци"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "Допрете за преглед на користењето и опции."
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Мобилните податоци се оневозможени"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Достигнато е максималното ограничување за користење податоци (%s). Мобилни податоци е исклучено. Вклучувањето на мобилни податоци може да чини дополнително."
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "Политиката за безбедност спречува користење синхронизирање со компјутер."
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "Меморијата USB е празна или има неподдржан систем за фајлови."
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "Меморијата USB е безбедно отстранета."
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "Лежиштето е поврзано."
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "Поврзан е кабел HDMI."
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "Кабелот HDMI е откачен."
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Нема одговор"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "Итен режим"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Не може да се шифрира SD-картичката. Нема доволно место на картичката. Потребни се околу %.2f MB. Избришете некој фајл."
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Не може да се дешифрира SD-картичката. Нема доволно место на картичката. Потребни се околу %.2f MB. Избришете некој фајл."
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "Оваа SD-картичка не е шифрирана. Не можете да го исклучите шифрирањето SD-картички затоа што е вклучено од администраторот. Да се шифрира?"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "Шифр. SD-карт."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "Не може да се полни батеријата. Температурата на телефонот е превисока."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "Не може да се полни батеријата. Температурата на телефонот е прениска."
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "Поврзано како медиумски уред"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "Поврз.е уред USB за читање"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Полнењето е паузирано. Напонот е превисок."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "Дојде до грешка при шифрирањето на SD-картичката."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "SD-картичката е дешифрирана."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Батеријата е критично испразнета. Наполнете го Gear наскоро за да продолжите да го користите."
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "Исклучи шифрирање"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "Вклучи шифрирање"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Батеријата е многу слаба"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Батеријата е критично испразнета. Наполнете го Gear сега за да продолжите да го користите."
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "Полнењето е\nпрекинато.\nНесоодветна\nтемпература"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "Исклучување"
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "Подоцна"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "Дешифрирај SD-картичка"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "Овозможи"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "Да се исклучи режим за летало?"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "Исклучи"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s не реагира. Да се затвори %s?"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "Исклучув."
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "Извадете го полначот."
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "Приклучете во штекер за да се наполни уредот и излезете од некористените апликации преку Уредувач на задачи. Користењето на уредот додека се полни може да ја намали ефикасноста на полнењето."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Екранскиот читач е вклучен."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Екранскиот читач е исклучен."
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "Вклучи итен режим"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "Исклучи итен режим"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Почекајте"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "Меморија USB"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "Камера"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "Уредот се прегрева. Сега ќе се исклучи за да се излади."
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "Не исклучувај"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "Уредот се исклучува автоматски"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "Уредот се прегреа. Се исклучи за да се спречи оштетување.\n\nПрегревањето може да го предизвика:\nКористење апликации што користат многу графика, како игри и апликации за навигација подолго време.\nПренесување големи фајлови.\nКористење на уредот во жешка средина."
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "За да ја користите SD-картичката, мора да се дешифрира. Да се дешифрира SD-картичката или да се вклучи шифрирање на уредот?"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "За да ја користите SD-картичката, мора да се шифрира. Да се шифрира SD-картичката или да се исклучи шифрирањето на уредот?"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "Исклучи Безбеден режим"
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "Исклучувањето на Безбедниот режим ќе го рестартира уредот. Да се исклучи?"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "Батеријата е при крај. Помошното светло ќе се исклучи."
+
+msgid "IDS_ST_POP_WAIT_UNTIL_IT_HAS_COOLED_DOWN_BEFORE_USING_YOUR_DEVICE"
+msgstr "Почекајте додека се излади пред да го користите уредот."
+
+msgid "IDS_COM_HEADER_ALERT"
+msgstr "Известување"
+

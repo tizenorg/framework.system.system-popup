@@ -1,0 +1,43 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
+
+SET(SRCS ${CMAKE_SOURCE_DIR}/signal-sender/signal-sender.c
+		 ${CMAKE_SOURCE_DIR}/share/common.c)
+
+INCLUDE_DIRECTORIES(${CMAKE_SOURCE_DIR}/signal-sender)
+INCLUDE_DIRECTORIES(${CMAKE_SOURCE_DIR}/share)
+INCLUDE_DIRECTORIES(${CMAKE_SOURCE_DIR}/popup-launcher/src)
+
+SET(VENDOR "tizen")
+SET(PACKAGE "system-signal-sender")
+SET(PKGNAME "org.${VENDOR}.${PACKAGE}")
+SET(PREFIX "${CMAKE_INSTALL_PREFIX}/apps/${PKGNAME}")
+SET(BINDIR "${PREFIX}/bin")
+SET(MANIFESTDIR "${CMAKE_INSTALL_PREFIX}/share/packages")
+
+SET(PKG_MODULES
+		appcore-efl
+		edbus
+		bundle
+		dlog
+)
+
+INCLUDE(FindPkgConfig)
+pkg_check_modules(pkgs REQUIRED appcore-efl edbus bundle dlog)
+
+FOREACH(flag ${pkgs_CFLAGS})
+	SET(EXTRA_CFLAGS "${EXTRA_CFLAGS} ${flag}")
+ENDFOREACH(flag)
+
+SET(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} ${EXTRA_CFLAGS} -g -Wall")
+
+SET(CMAKE_EXE_LINKER_FLAGS "-Wl,--as-needed")
+
+ADD_DEFINITIONS("-DPACKAGE=\"${PACKAGE}\"")
+
+ADD_EXECUTABLE(${PACKAGE} ${SRCS})
+TARGET_LINK_LIBRARIES(${PACKAGE} ${pkgs_LDFLAGS} "-ldl")
+
+INSTALL(TARGETS ${PACKAGE} DESTINATION ${BINDIR})
+
+INSTALL(FILES ${CMAKE_SOURCE_DIR}/data/${PKGNAME}.xml DESTINATION ${MANIFESTDIR})
+INSTALL(FILES ${CMAKE_SOURCE_DIR}/packaging/${PKGNAME}.efl DESTINATION /etc/smack/accesses.d)

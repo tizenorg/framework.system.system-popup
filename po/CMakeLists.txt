@@ -1,0 +1,7 @@
+# for i18n
+
+IF(${SYSTEM_APPS_MICRO} STREQUAL "yes")
+ADD_SUBDIRECTORY(micro-src)
+ELSE()
+ADD_SUBDIRECTORY(src)
+ENDIF()

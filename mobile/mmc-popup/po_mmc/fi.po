@@ -1,9 +1,0 @@
-msgid "IDS_COM_SK_OK"
-msgstr "OK"
-
-msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
-msgstr "Järj.tied."
-
-msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
-msgstr "SD-kortin liittäminen epäonnistui. Aseta SD-kortti uudelleen tai alusta se"
-

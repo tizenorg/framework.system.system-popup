@@ -1,0 +1,387 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "取消"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "設定"
+
+msgid "IDS_COM_SK_OK"
+msgstr "確定"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "協助工具"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "關機"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "重新開始"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "記憶體不足。"
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "正在初始化 MMC 數據..."
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "重試"
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "USB 連接失敗。"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "停用負片色彩"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "啟用負片色彩"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "停用縮放"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "啟用縮放"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "開啟輔助燈"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "關閉輔助燈"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "記憶體不足。"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s 已關閉。"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "電量不足"
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "電量不足。手機將會關閉。"
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "省電模式"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "已啟用"
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "電池已完全充電"
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "打印機已連接。"
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "飛行模式"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "已連接 USB 連接器。"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "已中斷 USB 連接器連接。"
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "鍵盤已連接。"
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "滑鼠已連接。"
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "相機已連接。"
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "USB 大容量儲存裝置已連接。"
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "未知 USB 裝置已連接。"
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "已安全移除 USB 裝置。"
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "USB 大容量儲存裝置被意外移除。"
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "確定"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "重新啟動"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "掛載 SD 卡失敗。重新插入或格式化 SD 卡。"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s 已意外關閉。"
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "已掛載的 SD 卡為唯讀。"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "剩餘記憶體不足"
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "輔助燈開啟。"
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "輕觸以關閉輔助燈。"
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "移除前先卸載 USB 大容量儲存裝置，以避免數據遺失。"
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "卸載"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "瀏覽透過 USB 連接的相機嗎？"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "瀏覽"
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "%d USB 裝置已連接"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "電量不足"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "瀏覽透過 USB 連接的儲存裝置嗎？"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "電池中斷連接。"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "裝置將重新啟動。"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "將停用飛行模式。"
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "裝置將會關閉。"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "裝置選項"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "裝置記憶體已滿"
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "飛行模式可讓您關閉通話、訊息與數據網絡功能。也將關閉連線功能，如 Wi-Fi 與藍牙。若要使用 Wi-Fi 與藍牙，請在設定中或通知面板上開啟。"
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "SD 卡解密發生錯誤。"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "SD 卡已加密。"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "停用飛行模式"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "啟用飛行模式"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "正在加密 SD 卡..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "正在解密 SD 卡..."
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "無電池"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "警告訊息"
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "USB 裝置"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "加密 SD 卡"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "啟用螢幕閱讀器"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "停用螢幕閱讀器"
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "解密 SD 卡"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "注意"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "數據使用量警告"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "輕觸以檢視使用量和設定。"
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "已停用流動數據"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "已超過數據使用量上限（%s）。流動數據已停用。啟用流動數據可能產生額外費用。"
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "安全性政策可防止桌上電腦同步的使用。"
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "USB 儲存裝置空白或有不支援的檔案系統。"
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "已安全移除 USB 大容量儲存裝置。"
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "底座已連接。"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "HDMI 數據線已連接。"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "HDMI 數據線已中斷。"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "無回應"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "緊急模式"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "無法加密 SD 卡。SD 卡空間不足。約需 %.2f MB。請刪除部份檔案。"
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "無法解密 SD 卡。SD 卡空間不足。約需 %.2f MB。請刪除部份檔案。"
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "此 SD 卡未加密。無法停用加密 SD 卡，因已由管理員啟用。加密嗎？"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "加密 SD 卡"
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "無法充電。手機溫度過高。"
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "電池無法充電。手機溫度過低。"
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "已連接為媒體裝置"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "已連接唯讀 USB 裝置。"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "充電已暫停。電壓過高。"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "SD 卡加密發生錯誤。"
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "SD 卡已解密。"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "電池電量不足。盡快幫您的 Gear 充電以繼續使用。"
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "停用加密"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "啟用加密"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "電力嚴重不足"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "電池電量嚴重不足。立刻幫您的 Gear 充電以繼續使用。"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "由於溫度過高或過低而導致充電暫停"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "關機"
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "稍後"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "解密 SD 卡"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "啟用"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "停用飛行模式嗎？"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "停用"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s 未回應。關閉 %s 嗎？"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "關機"
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "拔除充電器"
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "連接到插頭插座以充電手機，並在工作管理員中結束未使用的應用程式。充電期間繼續使用手機可能會影響充電效能。"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "已啟用螢幕閱讀器。"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "已停用螢幕讀取器。"
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "啟用緊急模式"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "停用緊急模式"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "等待"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "USB 儲存裝置"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "相機"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "您的裝置過熱。它將立即關閉以降溫。"
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "不要關機"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "裝置自動關機"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "您的裝置過熱。裝置已關閉以防止損壞。\n\n過熱可能是由於以下原因造成：\n長時間使用圖形密集的應用程式，如遊戲與導航應用程式。\n傳輸大型檔案。\n在高溫環境中使用您的裝置。"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "若要使用您的 SD 卡，必須將其解密。解密 SD 卡或啟用裝置加密嗎？"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "若要使用您的 SD 卡，必須將其加密。加密 SD 卡或停用裝置加密嗎？"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "停用安全模式"
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "停用安全模式將重新啟動您的裝置。停用嗎？"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "電量不足。輔助燈光將被關閉。"
+
+msgid "IDS_ST_POP_WAIT_UNTIL_IT_HAS_COOLED_DOWN_BEFORE_USING_YOUR_DEVICE"
+msgstr "繼續使用裝置前請先等候至裝置降溫。"
+
+msgid "IDS_COM_HEADER_ALERT"
+msgstr "提醒"
+

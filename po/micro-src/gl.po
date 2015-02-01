@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Cancelar"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Silencioso"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Aceptar"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Despois de %1$d min., restablecerase o nivel predeterminado do brillo (%2$d)"
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "Desactivado"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "Activado"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Modo exterior."
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Brillo"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibración"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Cerrar"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Apagar"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Non hai suficiente memoria"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Memoria baixa"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s pechado"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Batería baixa"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Habilitado"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Desactivada"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Son"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s pechouse inesperadamente"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Queda pouca memoria restante"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Batería baixa"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "O dispositivo reiniciarase"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Opcións do dispositivo"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Silencioso"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Carga interrompida. A tensión é demasiado alta."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Batería moi baixa. O dispositivo vaise apagar agora."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "O nivel da batería é baixo. Recarga o teu Gear pronto para continuar usándoo."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Batería baixa. Carga o dispositivo axiña para continuar usándoo."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Batería moi baixa"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "O nivel da batería é crítico. Recarga o teu Gear agora para continuar usándoo."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "O nivel da batería é crítico. O teu Gear desconectarase do teu dispositivo móbil. Só podes usar o reloxo predeterminado. Recarga o teu Gear agora para continuar usándoo."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "O nivel da batería é crítico. Só podes usar o reloxo predeterminado. Recarga o teu Gear agora para continuar usándoo."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Carga en pausa. Temperatura da batería moi alta ou moi baixa."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Carga interrompida. A temperatura da batería é demasiado baixa."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Carga interrompida. A temperatura da batería é demasiado alta."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Batería baixa"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "O dispositivo apagarase"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Reiniciar"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Almacenam. cheo"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Non se pode gravar. Non hai espazo suficiente no almacenamento de Gear."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Para desactivar o modo Aforro de enerxía ultra, reiniciarase o dispositivo."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Erro"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Modo Aforro de enerxía ultra"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "Non repetir"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Batería desconectada"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Afor.enerx."
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Activarase o aforro de enerxía. Isto limitará o rendemento máximo da CPU, desactivará o Bluetooth e empregarase un nivel de enerxía da pantalla inferior. Xesto de activación, Control por voz e Vibración non estarán dispoñibles. As funcións de Reloxo e S Health continuarán estando dispoñibles."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Aforro de enerxía desactivado."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Aforro de enerxía activado."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "Modo avión"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "O modo Avión permíteche desactivar as funcións de chamadas e mensaxes. Tamén desactiva os datos móbiles e o Bluetooth. Para usar o Bluetooth, actívao en Axustes."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Activar o Modo avión"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Desactiva modo Avión"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Desactivarase o modo avión."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "Insira a tarxeta SIM para acceder aos servizos de rede."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "Datos móbi."
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "Activar Datos móbiles"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "Desactivar Datos móbiles"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "Non admitido"
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "Non se poden activar os datos móbiles mentres estás conectado a través de Bluetooth."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "Conectaraste á túa rede móbil. Isto pode carrexar custos adicionais."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "Se desactivas os datos móbiles, non poderás recibir notificacións nin utilizar aplicacións que requiran unha conexión de rede móbil. Os datos móbiles desactivaranse."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "O modo Avión desactiva as funcións de chamadas e mensaxería e as funcións de datos móbiles e conectividade, como a Wi-Fi e o Bluetooth. Para utilizar a Wi-Fi e o Bluetooth, actívaas en Axustes."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "Para aforrar batería, activa o modo Aforro de enerxía ultra."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Accesibilidade"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Axustes"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "Activar"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s non responde. Desexas pechar %s?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Sen resposta"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Agarda"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Superouse o límite de uso de datos máximo (%s). Desactiváronse os datos móbiles. A activación dos datos móbiles pode carrexar custos adicionais."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Datos móbiles desactivados"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "Desa. Aforro ener."
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "Activar Aforro ener."
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "Aforro de enerxía"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "Case se alcanzou o límite de uso de datos máximo (%s). Toca Axustes para comprobar o uso de datos."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "Alcanzouse o límite de uso de datos especificado. O uso de datos adicionais pode implicar a aplicación de tarifas por parte do provedor de servizos."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "Limitar uso de datos"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Advertencia de uso de datos"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "Activar modo Aforro de enerxía"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "Desac. modo Aforro de enerxía"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Pantalla apagada."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Lector de pantalla activado."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Lector de pantalla desactivado."
+

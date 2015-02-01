@@ -1,9 +1,0 @@
-msgid "IDS_COM_SK_OK"
-msgstr "确定"
-
-msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
-msgstr "系统信息"
-
-msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
-msgstr "安装SD卡失败。重新插入或格式化SD卡"
-

@@ -1,0 +1,127 @@
+#define MAIN_W 480
+#define MAIN_H 800
+#define POPUP_MAIN_W 458
+#define POPUP_MAIN_H 240
+
+collections
+{
+	group
+	{
+
+			name: "main";
+			min: MAIN_W MAIN_H;
+			parts {
+					part
+					{
+					  name: "background";
+					  type: RECT;
+					  mouse_events: 1;
+					  description {
+							state: "default" 0.0;
+							rel1 { relative: 0 0; offset: 0 0; }
+							rel2 { relative: 1 1; offset: -1 -1; }
+							color: 0 0 0 100;
+						}
+					}
+
+					part
+					{
+						name: "txt_title";
+						type: TEXT;
+						mouse_events: 1;
+						description {
+							state: "default" 0.0;
+							rel1 { relative: 0.0 0.0; to: background; }
+							rel2 { relative: 1.0 0.5; to: background; }
+							text { text_class: "tc_default"; align: 0.5 0.5; }
+							color: 255 255 255 255;
+						}
+					}
+
+					part
+					{
+						name: "txt_mesg";
+						type: TEXT;
+						mouse_events: 1;
+						description {
+							state: "default" 0.0;
+							rel1 { relative: 0.0 0.5; to: background; }
+							rel2 { relative: 1.0 1.0; to: background; }
+							text { text_class: "tc_default"; align: 0.5 0.5; }
+							color: 255 255 255 255;
+						}
+					}
+		}
+
+		programs {
+					program
+					{
+						name: "click_exit";
+						source: "background";
+						signal: "mouse,clicked,1";
+						action: SIGNAL_EMIT "update_clicked" "background";
+					}
+				}
+	}
+
+
+   group
+   {
+	   		name: "popup";
+			min: POPUP_MAIN_W POPUP_MAIN_H;
+			parts
+			{
+				part {
+				name: "background";
+				type: RECT;
+				mouse_events: 1;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; offset: 0 0; }
+					rel2 { relative: 1.0 1.0; offset: -1 -1; }
+					color: 0 0 0 0;
+					}
+				}
+
+				part {
+				name: "txt_title";
+				type: TEXT;
+				mouse_events: 1;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; to: background; }
+					rel2 { relative: 1.0 0.5; to: background; }
+					text { text_class: "tc_default"; align: 0.5 0.5; }
+					color: 0 0 0 0;
+					}
+				}
+
+				part {
+				name: "txt_mesg";
+				type: TEXT;
+				mouse_events: 1;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.5; to: background; }
+					rel2 { relative: 1.0 1.0; to: background; }
+					text { text_class: "GP_Latin"; align: 0.5 0.5; }
+					color: 255 255 255 255;
+					}
+				}
+		}
+
+		programs
+		{
+				program
+				{
+					name: "bg_click";
+					signal: "mouse,down,1";
+					source: "bg";
+					action, SIGNAL_EMIT "background_click" "background";
+				}
+
+		}
+
+	}
+
+}

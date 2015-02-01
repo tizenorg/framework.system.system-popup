@@ -1,0 +1,549 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Annulla"
+
+msgid "IDS_ST_BODY_KEYBOARD"
+msgstr "Tastiera"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Camera"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Impostazioni"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Accessibilità"
+
+msgid "IDS_USB_POP_CONNECTING_KIES_VIA_USB_WILL_TURN_OFF_KIES_VIA_WI_FI_CONTINUE_Q"
+msgstr "La connessione di Kies tramite USB disattiva Kies tramite Wi-Fi. Continuare?"
+
+msgid "IDS_USB_POP_SAMSUNG_KIES_MODE_ENABLED"
+msgstr "Modalità Samsung Kies attivata."
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibrazione"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Chiudi"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Spegni"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Info sistema"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Riavvia"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Memoria insufficiente."
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "Inizializzazione dati MMC..."
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "Riprova"
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "Connessione USB non riuscita"
+
+msgid "IDS_ST_POP_PS_ENABLED"
+msgstr "%s attivato."
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Disattiva negativo"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Attiva negativo"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Disattiva zoom"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Attiva zoom"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Accendi luce di accesso facilitato"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Spegni luce di accesso facilitato"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Memoria insufficiente."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s chiuso."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Batteria scarica."
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "Batteria scarica. Il telefono si spegnerà."
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "Risparmio energetico"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Attivato."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Disattivata."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Suono"
+
+msgid "IDS_ST_BODY_CAMERA"
+msgstr "Camera"
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "Batteria ricaricata."
+
+msgid "IDS_CST_BODY_NOTICE"
+msgstr "Avviso"
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "Stampante connessa."
+
+msgid "IDS_COM_POP_PRINTER_DISCONNECTED_ABB2"
+msgstr "Stampante disconnessa."
+
+msgid "IDS_QP_BODY_UNPLUG_CHARGER"
+msgstr "Scollega caricabatterie"
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "Modalità offline"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "Connettore USB connesso."
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "Connettore USB disconnesso."
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "Tastiera connessa."
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "Mouse connesso."
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "Fotocamera collegata."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "Memoria di massa USB connessa."
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "Dispositivo USB sconosciuto connesso."
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "Dispositivo USB rimosso in sicurezza."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "Memoria di massa USB rimossa in modo imprevisto."
+
+msgid "IDS_COM_BODY_UNABLE_TO_USE_USB_STORAGE_AS_USB_MASS_STORAGE_ERROR_OCCURRED"
+msgstr "Impossibile utilizzare la memoria USB come memoria di massa USB. Si è verificato un errore."
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "Riavvia"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "Impossibile montare la scheda SD. Reinserire o formattare la scheda SD."
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "Chiusura improvvisa di %s."
+
+msgid "IDS_COM_POP_KEYBOARD_DISCONNECTED_ABB2"
+msgstr "Tastiera disconnessa."
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "La scheda SD montata è di sola lettura."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Memoria libera insufficiente"
+
+msgid "IDS_ST_POP_TURN_OFF_ASSISTIVE_LIGHT_WHEN_YOU_NO_LONGER_NEED_IT"
+msgstr "Spegni la luce di accesso facilitato quando non è più necessaria."
+
+msgid "IDS_IS_BODY_DO_NOT_SHOW_AGAIN"
+msgstr "Non mostrare più"
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "Torcia attivata."
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Toccare per spegnere la luce di accesso facilitato."
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "Scollegare la memoria di massa USB prima di rimuoverla per evitare la perdita di dati."
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "Smonta"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "Accedere alla fotocamera connessa con USB?"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "Cerca"
+
+msgid "IDS_PB_HEADER_USB_STORAGE_NOT_AVAILABLE"
+msgstr "Memoria USB non disponibile"
+
+msgid "IDS_COM_HEADER_USB_MASS_STORAGE_DISCONNECTED_ABB"
+msgstr "Memoria di massa USB disconnessa"
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "%d dispositivi USB conn."
+
+msgid "IDS_EMAIL_POP_THIS_ACTION_HAS_BEEN_BLOCKED_BY_MDM_CONTACT_THE_MDM_ADMINISTRATOR"
+msgstr "Azione bloccata da MDM. Contattate l'amministratore MDM."
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Batteria scarica"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "Accedere alla memoria connessa con USB?"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Batteria scollegata."
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Il dispositivo verrà riavviato."
+
+msgid "IDS_ST_BODY_USBSETTINGS_PRINTER"
+msgstr "Stampante"
+
+msgid "IDS_SMEMO_BODY_MOUSE_M_IDEA_SKETCH"
+msgstr "Topo"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "La Modalità offline sarà disattivata."
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_ENABLED"
+msgstr "La Modalità offline sarà attivata."
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Il dispositivo verrà spento"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Opzioni dispositivo"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "La memoria del dispositivo è piena."
+
+msgid "IDS_PN_BODY_NOT_ENOUGH_STORAGE_AVAILABLE_SOME_FUNCTIONS_AND_APPLICATIONS_MAY_NOT_BE_AVAILABLE_NOTI_MSG_JPN_DCM"
+msgstr "Not enough storage available. Some functions and applications may not be available.\nOpen Settings and uninstall some apps to make space."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "La Modalità offline consente di disattivare le funzioni relative a chiamate, messaggi e connessione dati. Disattiva inoltre le funzioni di connettività quali Wi-Fi e Bluetooth. Per utilizzare Wi-Fi e Bluetooth, attivateli in Impostazioni o nel pannello notifiche."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "Si è verificato un errore durante la decrittogr. della scheda SD."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "Scheda SD crittografata."
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Disatt. modal. offline"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Attiva Modalità offline"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "Crittografia scheda SD in corso..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "Decrittografia scheda SD in corso..."
+
+msgid "IDS_COM_POP_LOW_BATTERY_CHARGE_YOUR_PHONE"
+msgstr "Batteria scarica. Caricare il telefono."
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "Batteria assente"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "Messaggio di avviso"
+
+msgid "IDS_DN_POP_DATA_DECRYPTED"
+msgstr "Dati decrittografati."
+
+msgid "IDS_DN_POP_DATA_ENCRYPTED"
+msgstr "Dati crittografati."
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "Dispositivi USB"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "Crittografa scheda SD"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "Attiva lettura schermo"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "Disattiva lettura schermo"
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "Decrittografa scheda SD"
+
+msgid "IDS_DN_HEADER_DATA_DECRYPTION_ABB"
+msgstr "Decrittografia dati"
+
+msgid "IDS_DN_HEADER_DATA_ENCRYPTION_ABB"
+msgstr "Crittografia dati"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "Attenzione"
+
+msgid "IDS_ST_BUTTON_CONTINUE_ABB"
+msgstr "Continua"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Avviso di utilizzo dati"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "Toccate per visualizzare l'utilizzo e le impostazioni."
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Connessione dati disattiva"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Limite di utilizzo dati massimo (%s) superato. Connessione dati disattiva. L'attivazione dei dati può comportare l'addebito di spese aggiuntive."
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Silenzioso"
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "I criteri di protezione non consentono la sincronizzazione desktop."
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "Memoria USB vuota o con filesystem non supportato."
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "Memoria di massa USB rimossa in sicurezza."
+
+msgid "IDS_COM_BODY_OUR_PHONE_WILL_SHUT_DOWN"
+msgstr "Il dispositivo verrà spento"
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "La docking station è connessa."
+
+msgid "IDS_EMM_MBODY_EMERGENCY_MODE_JPN_DCM"
+msgstr "Emergency mode"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "Cavo HDMI collegato."
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "Cavo HDMI scollegato."
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Nessuna risposta"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "Modalità di emergenza"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Impossibile crittografare scheda SD. Spazio sulla scheda insufficiente. Sono necessari circa %.2f MB. Eliminare alcuni file."
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Impossibile decrittografare scheda SD. Spazio sulla scheda insufficiente. Sono necessari circa %.2f MB. Eliminare alcuni file."
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "La scheda SD non è crittografata. Non potete disattivare la funzione di crittografia della scheda SD poiché è stata attivata da un amministratore. Avviare la crittografia?"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "Crittogr. sch. SD"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_TAP_CONTINUE_TO_DECRYPT_YOUR_SD_CARD"
+msgstr "La scheda SD deve essere decrittografata per l'utilizzo. Toccare Continua per decrittografare la scheda SD."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "Impossibile caricare la batteria. La temperatura del telefono è troppo alta."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "Impossibile caricare la batteria. La temperatura del telefono è troppo bassa."
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "Connesso come dispositivo multimediale"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "Disp. USB sola lettura conn."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Ricarica in pausa. Voltaggio troppo alto."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "Si è verificato un errore durante la crittografia della scheda SD."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "Scheda SD decrittografata."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION"
+msgstr "Crittografia scheda SD"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_HAS_BEEN_ENABLED"
+msgstr "Crittografia scheda SD attivata."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Schermo spento."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Batteria scarica. Il dispositivo si spegnerà ora."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "La batteria è scarica. Ricaricate al più presto Gear per continuare a usarlo."
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "Disattiva crittografia"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "Attiva crittografia"
+
+msgid "IDS_ACCS_POP_EMERGENCY_MODE_AND_SCREEN_READER_CANNOT_BOTH_BE_ENABLED_GO_TO_SETTINGS_TO_DISABLE_SCREEN_READER_Q"
+msgstr "La Modalità di emergenza e Lettore schermo non possono essere entrambi attivati. Andare in Impostazioni per disattivare Lettore schermo?"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Batteria scarica. Ricaricare il dispositivo al più presto per continuare a usarlo."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Batteria completamente scarica"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "La batteria è scarica. Ricaricate Gear per continuare a usarlo."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "La batteria è scarica. Gear verrà disconnesso dal dispositivo mobile. Potete utilizzare soltanto l'orologio predefinito. Ricaricate Gear per continuare a usarlo."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "La batteria è scarica. Potete utilizzare soltanto l'orologio predefinito. Ricaricate il Gear per continuare a usarlo"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Ricarica in pausa. Temperatura della batteria troppo alta o troppo bassa."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Ricarica in pausa. Temperatura della batteria troppo bassa."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Ricarica in pausa. Temperatura della batteria troppo alta."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Batteria scarica"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Mod. All'aper."
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Il dispositivo si spegnerà."
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Dopo %1$d minuti, la luminosità verrà ripristinata al livello predefinito (%2$d)."
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Luminosità"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "Carica interrotta per surriscaldamento"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "Spegni"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_TAP_CONTINUE_TO_ENCRYPT_YOUR_SD_CARD"
+msgstr "La scheda SD deve essere crittografata per l'utilizzo. Toccare Continua per crittografare la scheda SD."
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "Più tardi"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "Decrittografa scheda SD"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "Attiva"
+
+msgid "IDS_TPLATFORM_BODY_POWER_OFF_THE_DEVICE_Q"
+msgstr "Spegnere il dispositivo?"
+
+msgid "IDS_TPLATFORM_BODY_RESTART_THE_DEVICE_Q"
+msgstr "Riavviare il dispositivo?"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "Disattivare la Modalità offline?"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "Disatt."
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_CALLING_MESSAGING_AND_MOBILE_NETWORK_FUNCTIONS"
+msgstr "La Modalità offline consente di disattivare le funzioni relative a chiamate, messaggi e reti mobili."
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s non risponde. Chiudere %s?"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "Spegni"
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "Scollega caricabatterie."
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "Collegate il dispositivo con il caricabatteria ad una presa di corrente. L’utilizzo del dispositivo durante la carica può diminuire la velocità di caricamento della batteria."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Lettura dello schermo attivata."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Lettura dello schermo disattivata."
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "Modalità di emergenza"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "Disattiva Modalità di emergenza"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Attendere"
+
+msgid "IDS_PH_HEADER_ERROR_ABB"
+msgstr "Errore"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "Memoria USB"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "Camera"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "Il dispositivo si sta surriscaldando. Verrà spento per consentire il raffreddamento."
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "Non spegnere"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "Dispositivo spento automaticamente"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "Il dispositivo si è surriscaldato. Si è spento per evitare il verificarsi di danni.\n\nIl surriscaldamento può essere causato da:\nUtilizzo prolungato di applicazioni a uso intensivo di grafica, come videogiochi e applicazioni di navigazione.\nTrasferimento di file di grandi dimensioni.\nUtilizzo del dispositivo in ambienti molto caldi."
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "La scheda SD deve essere decrittografata per l'utilizzo. Decrittografare la scheda SD o attivare la crittografia del dispositivo?"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "La scheda SD deve essere crittografata per l'utilizzo. Crittografare la scheda SD o disattivare la crittografia del dispositivo?"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "Disabil. mod. provvisoria"
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "Se disattivate la modalità provvisoria, il dispositivo verrà riavviato. Disattivare?"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "Batteria scarica. La luce di accesso facilitato verrà disattivata."
+

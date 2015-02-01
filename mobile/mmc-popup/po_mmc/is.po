@@ -1,9 +1,0 @@
-msgid "IDS_COM_SK_OK"
-msgstr "Í lagi"
-
-msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
-msgstr "Kerfisuppl"
-
-msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
-msgstr "Mistókst að tengja SD-kort. Settu SD-kortið í aftur eða forsníddu það"
-

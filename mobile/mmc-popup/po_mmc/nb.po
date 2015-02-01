@@ -1,9 +1,0 @@
-msgid "IDS_COM_SK_OK"
-msgstr "OK"
-
-msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
-msgstr "Systeminfo"
-
-msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
-msgstr "Kunne ikke montere SD-kort. Sett inn eller formater SD-kortet på nytt"
-

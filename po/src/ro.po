@@ -1,0 +1,549 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Anulare"
+
+msgid "IDS_ST_BODY_KEYBOARD"
+msgstr "Tastatură"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Cameră foto"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Setări"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Accesibilitate"
+
+msgid "IDS_USB_POP_CONNECTING_KIES_VIA_USB_WILL_TURN_OFF_KIES_VIA_WI_FI_CONTINUE_Q"
+msgstr "Conectarea la Kies prin USB va dezactiva Kies prin Wi-Fi. Continuaţi?"
+
+msgid "IDS_USB_POP_SAMSUNG_KIES_MODE_ENABLED"
+msgstr "Modul Samsung Kies activat"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibraţie"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Închide"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Oprire"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Info. sis."
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Repornire"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Memorie plină"
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "Se iniţializează datele MMC..."
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "Reîn."
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "Conexiunea USB nu a reuşit"
+
+msgid "IDS_ST_POP_PS_ENABLED"
+msgstr "%s a fost activat."
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Dezactivare culori negative"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Activare culori negative"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Dezactivare zoom"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Activare zoom"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Aprindere lumină de ajutor"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Stingere lumină de ajutor"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Memorie insuficientă"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s a fost închis."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Baterie descărcată"
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "Baterie descărcată. Telefonul se va închide."
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "Economisire energie"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Activat"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Dezactivat"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Sunet"
+
+msgid "IDS_ST_BODY_CAMERA"
+msgstr "Cameră foto"
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "Baterie încărcată complet"
+
+msgid "IDS_CST_BODY_NOTICE"
+msgstr "Notificare"
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "Imprimantă conectată"
+
+msgid "IDS_COM_POP_PRINTER_DISCONNECTED_ABB2"
+msgstr "Imprimantă deconectată"
+
+msgid "IDS_QP_BODY_UNPLUG_CHARGER"
+msgstr "Deconectaţi încărcătorul"
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "Mod Avion"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "Conector USB conectat"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "Conector USB deconectat"
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "Tastatură conectată"
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "Mouse conectat"
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "Cameră conectată"
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "Memorie USB conectată"
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "Dispozitiv USB necunoscut conectat"
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "Dispozitiv USB eliminat în siguranţă"
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "Spaţiul de stocare în masă USB a fost eliminat în mod neaşteptat."
+
+msgid "IDS_COM_BODY_UNABLE_TO_USE_USB_STORAGE_AS_USB_MASS_STORAGE_ERROR_OCCURRED"
+msgstr "Imposibil de utilizat spaţiul de stocare USB ca spaţiu de stocare în masă USB. S-a produs o eroare."
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "Repornire"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "Activarea cartelei SD nu a reuşit. Reintroduceţi sau formataţi cartela SD."
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s s-a închis în mod neaşteptat."
+
+msgid "IDS_COM_POP_KEYBOARD_DISCONNECTED_ABB2"
+msgstr "Tastatură deconectată"
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "Cartelă SD instalată doar pentru mod citire"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Memorie disponibilă insuficientă"
+
+msgid "IDS_ST_POP_TURN_OFF_ASSISTIVE_LIGHT_WHEN_YOU_NO_LONGER_NEED_IT"
+msgstr "Opriţi lumina de ajutor când nu mai aveţi nevoie de aceasta."
+
+msgid "IDS_IS_BODY_DO_NOT_SHOW_AGAIN"
+msgstr "Nu se mai afişează"
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "Lumina de ajutor este aprinsă."
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Atingeţi pentru a stinge lumina de ajutor."
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "Dezinstalaţi spaţiul de stocare în masă USB înainte de eliminare, pentru a evita pierderea de date."
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "Anulare andocare"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "Răsfoiţi camera conectată prin USB?"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "Navigare"
+
+msgid "IDS_PB_HEADER_USB_STORAGE_NOT_AVAILABLE"
+msgstr "Spaţiu stocare USB indisponibil"
+
+msgid "IDS_COM_HEADER_USB_MASS_STORAGE_DISCONNECTED_ABB"
+msgstr "Spaţiu de stocare în masă USB deconectat"
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "%d dispozitive USB con."
+
+msgid "IDS_EMAIL_POP_THIS_ACTION_HAS_BEEN_BLOCKED_BY_MDM_CONTACT_THE_MDM_ADMINISTRATOR"
+msgstr "Această acţiune a fost blocată de MDM. Contactaţi administratorul MDM."
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Baterie descărcată"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "Răsfoiţi dispozitivul de stocare conectat prin USB?"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Baterie deconectată"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Dispozitivul va reporni."
+
+msgid "IDS_ST_BODY_USBSETTINGS_PRINTER"
+msgstr "Imprimantă"
+
+msgid "IDS_SMEMO_BODY_MOUSE_M_IDEA_SKETCH"
+msgstr "Şoarece"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Modul Avion va fi dezactivat."
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_ENABLED"
+msgstr "Modul Avion va fi activat."
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Dispozitivul se va închide."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Opţiuni dispozitiv"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "Memoria dispozitivului este plină"
+
+msgid "IDS_PN_BODY_NOT_ENOUGH_STORAGE_AVAILABLE_SOME_FUNCTIONS_AND_APPLICATIONS_MAY_NOT_BE_AVAILABLE_NOTI_MSG_JPN_DCM"
+msgstr "Not enough storage available. Some functions and applications may not be available.\nOpen Settings and uninstall some apps to make space."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "Modul Avion vă permite să dezactivaţi funcţiile pentru apeluri, mesagerie şi reţeaua de date. De asemenea, dezactivează funcţiile de conectivitate, cum ar fi Wi-Fi şi Bluetooth. Pentru a utiliza Wi-Fi şi Bluetooth, activaţi-le din Setări sau din panoul de notificare."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "A apărut o eroare la decriptarea cartelei SD."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "Cartelă SD criptată"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Dezactiv. mod Avion"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Activaţi modul Avion"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "Se criptează cartela SD..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "Se decriptează cartela SD..."
+
+msgid "IDS_COM_POP_LOW_BATTERY_CHARGE_YOUR_PHONE"
+msgstr "Baterie descărcată. Încărcaţi telefonul"
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "Nicio baterie"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "Mesaj avertizare"
+
+msgid "IDS_DN_POP_DATA_DECRYPTED"
+msgstr "Date decriptate"
+
+msgid "IDS_DN_POP_DATA_ENCRYPTED"
+msgstr "Date criptate"
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "Dispozitive USB"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "Criptare cartelă SD"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "Activare cititor ecran"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "Dezactivare cititor ecran"
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "Decriptare cartelă SD"
+
+msgid "IDS_DN_HEADER_DATA_DECRYPTION_ABB"
+msgstr "Decriptare date"
+
+msgid "IDS_DN_HEADER_DATA_ENCRYPTION_ABB"
+msgstr "Criptare date"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "Atenţie"
+
+msgid "IDS_ST_BUTTON_CONTINUE_ABB"
+msgstr "Contin."
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Avertisment utilizare date"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "Atingeţi pentru a vizualiza utilizarea şi setările."
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Date mobile dezactivate"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "S-a depăşit limita maximă pentru utilizarea datelor (%s). Date mobile dezactivate. Activarea datelor mobile poate genera costuri suplimentare."
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Silenţios"
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "Politica de securitate nu permite utilizarea sincronizării desktopului."
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "Card USB fără conţinut sau cu sistem de fişiere neacceptat"
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "Spaţiul de stocare în masă USB a fost eliminat."
+
+msgid "IDS_COM_BODY_OUR_PHONE_WILL_SHUT_DOWN"
+msgstr "telefonul dvs. se va închide."
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "Andocarea este conectată."
+
+msgid "IDS_EMM_MBODY_EMERGENCY_MODE_JPN_DCM"
+msgstr "Emergency mode"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "Cablu HDMI conectat"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "Cablu HDMI deconectat"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Niciun răspuns"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "Modul Urgenţă"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Imposibil de criptat cartela SD. Spaţiu insuficient pe cartelă. Sunt necesari aproximativ %.2f MO. Ştergeţi unele fişiere."
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Imposibil de decriptat cartela SD. Spaţiu insuficient pe cartelă. Sunt necesari aproximativ %.2f MO. Ştergeţi unele fişiere."
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "Acest card SD nu este criptat. Nu puteţi dezactiva opţiunea Criptare card SD, deoarece aceasta a fost activată de un administrator. Criptaţi?"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "Cript. card SD"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_TAP_CONTINUE_TO_DECRYPT_YOUR_SD_CARD"
+msgstr "Pentru a utiliza cartela SD, aceasta trebuie să fie decriptată. Atingeţi Continuare pentru a decripta cartela SD."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "Imposibil de încărcat bateria. Temperatura telefonului este prea ridicată."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "Imposibil de încărcat bateria. Temperatura telefonului este prea scăzută."
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "Conectat ca dispozitiv media"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "Disp. USB doar în citire conect."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Încărcare întreruptă. Tensiunea este prea ridicată."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "A apărut o eroare la criptarea cartelei SD."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "Cartelă SD decriptată"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION"
+msgstr "Criptare cartelă SD"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_HAS_BEEN_ENABLED"
+msgstr "Criptarea cardului SD a fost activată."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Ecran oprit."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Baterie epuizată. Dispozitivul se va închide."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Nivelul bateriei este redus. Reîncărcaţi Gear în curând pentru a-l utiliza în continuare."
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "Dezactivaţi criptarea"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "Activaţi criptarea"
+
+msgid "IDS_ACCS_POP_EMERGENCY_MODE_AND_SCREEN_READER_CANNOT_BOTH_BE_ENABLED_GO_TO_SETTINGS_TO_DISABLE_SCREEN_READER_Q"
+msgstr "Modul Urgenţă şi Cititorul de ecran nu pot fi activate simultan. Accesaţi Setări pentru a dezactiva Cititorul de ecran?"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Baterie consumată. Reîncărcaţi rapid dispozitivul pentru a continua utilizarea."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Baterie epuizată"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Bateria este aproape descărcată. Reîncărcaţi Gear acum pentru a-l utiliza în continuare."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Bateria este aproape descărcată. Gear va fi deconectat de la dispozitivul mobil. Puteţi utiliza numai ceasul implicit. Reîncărcaţi Gear acum pentru a-l utiliza în continuare."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Bateria este aproape descărcată. Puteţi utiliza numai ceasul implicit. Reîncărcaţi Gear acum pentru a-l utiliza în continuare."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Încărcare întreruptă.\nTemperatura bateriei este prea ridicată sau prea scăzută."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Încărcare întreruptă. Temperatura bateriei este prea scăzută."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Încărcare întreruptă. Temperatura bateriei este prea ridicată."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Baterie descărcată"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Mod Exterior"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Dispozitivul se va opri."
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "După %1$d minute, luminozitatea va fi resetată la nivelul implicit (%2$d)."
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Luminoz."
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "Încărcare oprită din cauza temperaturii excesive"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "Închidere"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_TAP_CONTINUE_TO_ENCRYPT_YOUR_SD_CARD"
+msgstr "Pentru a utiliza cartela SD, aceasta trebuie să fie criptată. Atingeţi Continuare pentru a cripta cartela SD."
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "Ulterior"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "Decriptare card SD"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "Activare"
+
+msgid "IDS_TPLATFORM_BODY_POWER_OFF_THE_DEVICE_Q"
+msgstr "Opriţi dispozitivul?"
+
+msgid "IDS_TPLATFORM_BODY_RESTART_THE_DEVICE_Q"
+msgstr "Reporniţi dispozitivul?"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "Dezactivaţi modul Avion?"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "Dezact."
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_CALLING_MESSAGING_AND_MOBILE_NETWORK_FUNCTIONS"
+msgstr "Modul Avion vă permite să dezactivaţi funcţiile de apelare, mesagerie şi reţele mobile."
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s nu răspunde. Închideţi %s?"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "Închidere"
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "Scoateţi încărcătorul"
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "Conectaţi la o priză de curent pentru a încărca dispozitivul şi ieşiţi din aplicaţiile neutilizate folosind Managerul de activităţi. Continuarea utilizării în timpul încărcării poate împiedica o încărcare eficientă."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Cititor de ecran activat."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Cititor de ecran dezactivat."
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "Activare mod Urgenţă"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "Dezactivare mod Urgenţă"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Aşteptaţi"
+
+msgid "IDS_PH_HEADER_ERROR_ABB"
+msgstr "Eroare"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "Spaţiu stocare USB"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "Cameră"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "Dispozitivul se supraîncălzeşte. Acesta se va opri pentru a se răci."
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "Nu opriţi"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "Dispozitivul s-a oprit automat"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "Dispozitivul s-a supraîncălzit. Pentru a preveni daunele, acesta s-a oprit.\n\nSupraîncălzirea poate fi cauzată de:\nutilizarea îndelungată a aplicaţiilor cu un nivel intens de grafică, de exemplu, jocuri şi aplicaţii de navigare;\ntransferul fişierelor mari;\nutilizarea dispozitivului într-un mediu cu temperatură ridicată."
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "Pentru a utiliza cardul SD, acesta trebuie să fie decriptat. Decriptaţi cardul SD sau activaţi criptarea dispozitivului?"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "Pentru a utiliza cardul SD, acesta trebuie să fie criptat. Criptaţi cardul SD sau dezactivaţi criptarea dispozitivului?"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "Dezact. Mod de siguranţă"
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "Dacă dezactivaţi modul Siguranţă, dispozitivul va reporni. Dezactivaţi?"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "Baterie descărcată. Lumina de ajutor va fi oprită."
+

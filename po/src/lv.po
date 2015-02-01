@@ -1,0 +1,549 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Atcelt"
+
+msgid "IDS_ST_BODY_KEYBOARD"
+msgstr "Tastatūra"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Kamera"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Iestatījumi"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Labi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Pieejamība"
+
+msgid "IDS_USB_POP_CONNECTING_KIES_VIA_USB_WILL_TURN_OFF_KIES_VIA_WI_FI_CONTINUE_Q"
+msgstr "Veidojot savienojumu ar programmu Kies, lietojot USB, tiks izslēgta savien. izveide ar Kies, izmantojot Wi-Fi. Vai turpināt?"
+
+msgid "IDS_USB_POP_SAMSUNG_KIES_MODE_ENABLED"
+msgstr "Aktivizēts Samsung Kies režīms."
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibrācija"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Aizvērt"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Izslēgts"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Sist. inf."
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Restartēt"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Atmiņa pilna."
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "Tiek inicializēti MMC dati..."
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "Atkārtot"
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "USB savienojums neizdevās"
+
+msgid "IDS_ST_POP_PS_ENABLED"
+msgstr "%s ir aktivizēts."
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Deaktivizēt negatīva krāsas"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Aktivizēt negatīva krāsas"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Deaktivizēt tālummaiņu"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Aktivizēt tālummaiņu"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Ieslēgt papildu apgaismojumu"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Izslēgt papildu apgaismojumu"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Tukšs akumulators."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "Sadaļa %s ir aizvērta."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Akumulators gandrīz tukšs."
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "Tukšs akumulators. Tālrunis izslēgsies."
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "Enerģijas taupīšana"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Aktivizēts."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Atspējots."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Skaņa"
+
+msgid "IDS_ST_BODY_CAMERA"
+msgstr "Kamera"
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "Akumulators uzlādēts."
+
+msgid "IDS_CST_BODY_NOTICE"
+msgstr "Paziņojums"
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "Printeris pievienots."
+
+msgid "IDS_COM_POP_PRINTER_DISCONNECTED_ABB2"
+msgstr "Printeris atvienots."
+
+msgid "IDS_QP_BODY_UNPLUG_CHARGER"
+msgstr "Atvienojiet lādētāju"
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "Lidojuma režīms"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "USB savienotājs ir pievienots."
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "USB savienotājs ir atvienots."
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "Tastatūra pievienota."
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "Pele pievienota."
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "Kamera pievienota."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "USB lielapj. atmiņa pievienota."
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "Pievienota nezināma USB ierīce."
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "USB ierīce droši noņemta."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "USB lielapjoma atmiņa tika negaidīti noņemta."
+
+msgid "IDS_COM_BODY_UNABLE_TO_USE_USB_STORAGE_AS_USB_MASS_STORAGE_ERROR_OCCURRED"
+msgstr "Nevar lietot tālruņa iekšējo atmiņu kā USB lielapjoma atmiņu. Radās kļūda."
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "Labi"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "Restartēt"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "Neizdevās ievietot SD karti. Ievietojiet atkārtoti vai formatējiet SD karti."
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "Programma %s tika negaidīti aizvērta."
+
+msgid "IDS_COM_POP_KEYBOARD_DISCONNECTED_ABB2"
+msgstr "Tastatūra atvienota."
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "SD karte ir tikai lasāma."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Atmiņā nepietiek vietas"
+
+msgid "IDS_ST_POP_TURN_OFF_ASSISTIVE_LIGHT_WHEN_YOU_NO_LONGER_NEED_IT"
+msgstr "Izslēdziet papildu apgaismojumu, kad tas vairs nav nepieciešams."
+
+msgid "IDS_IS_BODY_DO_NOT_SHOW_AGAIN"
+msgstr "Nerādīt vēlreiz"
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "Papildu apgaismojums ieslēgts."
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Pieskarieties, lai izslēgtu papildu apgaismojumu."
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "Lai nezaudētu datus, pirms USB lielapjoma atmiņas noņemšanas atvienojiet to."
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "Atvienot"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "Vai pārlūkot ar USB pievienoto kameru?"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "Pārlūkot"
+
+msgid "IDS_PB_HEADER_USB_STORAGE_NOT_AVAILABLE"
+msgstr "Ierīces iekšējā atmiņa nav pieejama"
+
+msgid "IDS_COM_HEADER_USB_MASS_STORAGE_DISCONNECTED_ABB"
+msgstr "USB lielapjoma atmiņa atvienota"
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "Pievien. %d USB ierīces"
+
+msgid "IDS_EMAIL_POP_THIS_ACTION_HAS_BEEN_BLOCKED_BY_MDM_CONTACT_THE_MDM_ADMINISTRATOR"
+msgstr "Mobilo ierīču pārvaldība bloķēja šo darbību. Sazinieties ar mobilo ierīču pārvaldības administratoru."
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Akumulators gandrīz tukšs"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "Vai pārlūkot ar USB pievienoto krātuvi?"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Akumulators ir atvienots."
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Ierīce tiks restartēta."
+
+msgid "IDS_ST_BODY_USBSETTINGS_PRINTER"
+msgstr "Printeris"
+
+msgid "IDS_SMEMO_BODY_MOUSE_M_IDEA_SKETCH"
+msgstr "Pele"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Tiks deaktivizēts lidojuma režīms."
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_ENABLED"
+msgstr "Tiks aktivizēts lidojuma režīms."
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Ierīce tūlīt izslēgsies."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Ierīces iespējas"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "Jūsu ierīces atmiņa ir pilna"
+
+msgid "IDS_PN_BODY_NOT_ENOUGH_STORAGE_AVAILABLE_SOME_FUNCTIONS_AND_APPLICATIONS_MAY_NOT_BE_AVAILABLE_NOTI_MSG_JPN_DCM"
+msgstr "Not enough storage available. Some functions and applications may not be available.\nOpen Settings and uninstall some apps to make space."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "Lidojuma režīms ļauj izslēgt zvanu, ziņapmaiņas un datu tīkla funkcijas. Tas izslēdz arī savienojuma funkcijas, piemēram, Wi-Fi un Bluetooth. Lai lietotu Wi-Fi un Bluetooth, ieslēdziet šīs funkcijas sadaļā Iestatījumi vai paziņojumu panelī."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "Radās SD kartes atšifrēšanas kļūda."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "SD karte ir šifrēta."
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Deakt. lidojuma rež."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Aktiviz. lidojuma režīmu"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "Šifrē SD karti..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "Atšifrē SD karti..."
+
+msgid "IDS_COM_POP_LOW_BATTERY_CHARGE_YOUR_PHONE"
+msgstr "Tukšs akumulators. Uzlādējiet tālruni"
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "Nav akumulatora"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "Brīdinājuma ziņojums"
+
+msgid "IDS_DN_POP_DATA_DECRYPTED"
+msgstr "Dati atšifrēti."
+
+msgid "IDS_DN_POP_DATA_ENCRYPTED"
+msgstr "Dati šifrēti."
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "USB ierīces"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "Šifrēt SD karti"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "Aktivizēt ekrāna lasītāju"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "Deaktivizēt ekr. lasītāju"
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "Atšifrēt SD karti"
+
+msgid "IDS_DN_HEADER_DATA_DECRYPTION_ABB"
+msgstr "Datu atšifrēšana"
+
+msgid "IDS_DN_HEADER_DATA_ENCRYPTION_ABB"
+msgstr "Datu šifrēšana"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "Uzmanību"
+
+msgid "IDS_ST_BUTTON_CONTINUE_ABB"
+msgstr "Turpināt"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Brīdinājums par datu lietojumu"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "Pieskarieties, lai skatītu lietojumu un iestatījumus."
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Mobilie dati ir deaktivizēti"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Pārsniegts maksimālais datu lietojuma ierobežojums (%s). Mobilie dati ir deaktivizēti. Mobilo datu aktivizēšana var radīt papildu izmaksas."
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Bez skaņas"
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "Drošības politika liedz datora sinhronizācijas lietošanu."
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "USB krātuve ir tukša vai tajā ir neatbalstītu failu sistēma."
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "USB lielapjoma atmiņa ir droši noņemta."
+
+msgid "IDS_COM_BODY_OUR_PHONE_WILL_SHUT_DOWN"
+msgstr "Tālrunis tiks izslēgts."
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "Dokstacija ir pievienota."
+
+msgid "IDS_EMM_MBODY_EMERGENCY_MODE_JPN_DCM"
+msgstr "Emergency mode"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "Pievienots HDMI kabelis."
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "HDMI kabelis ir atvienots."
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Nav atbildes"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "Ārkārtas režīms"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Nevar šifrēt SD karti. Kartē nepietiek vietas. Nepieciešami apmēram %.2f MB. Izdzēsiet dažus failus."
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Nevar atšifrēt SD karti. Kartē nepietiek vietas. Nepieciešami apmēram %.2f MB. Izdzēsiet dažus failus."
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "Šī SD karte nav šifrēta. Jūs nevarat deaktivizēt SD kartes šifrēšanu, jo to aktivizēja administrators. Vai šifrēt?"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "Šifrēt SD karti"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_TAP_CONTINUE_TO_DECRYPT_YOUR_SD_CARD"
+msgstr "Lai lietotu SD karti, tai jābūt atšifrētai. Pieskarieties pie Turpināt, lai atšifrētu savu SD karti."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "Nevar uzlādēt akumulatoru. Tālruņa temperatūra ir par augstu."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "Nevar uzlādēt akumulatoru. Tālruņa temperatūra ir par zemu."
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "Pievienots kā multivides ierīce"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "Piev. tikai lasāma USB ier."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Uzlāde apturēta. Pārāk augsts spriegums."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "Radās SD kartes šifrēšanas kļūda."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "SD karte ir atšifrēta."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION"
+msgstr "SD kartes šifrēšana"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_HAS_BEEN_ENABLED"
+msgstr "SD kartes šifrēšana ir aktivizēta."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Ekrāns ir izslēgts."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Tukšs akumulators. Ierīce tūlīt izslēgsies."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Zems akumulatora uzlādes līmenis. Lai varētu lietot ierīci Gear, uzlādējiet to pēc iespējas ātrāk."
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "Deaktivizēt šifrēšanu"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "Aktivizēt šifrēšanu"
+
+msgid "IDS_ACCS_POP_EMERGENCY_MODE_AND_SCREEN_READER_CANNOT_BOTH_BE_ENABLED_GO_TO_SETTINGS_TO_DISABLE_SCREEN_READER_Q"
+msgstr "Ārkārtas režīmu un ekrāna lasītāju nevar aktivizēt vienlaikus. Vai atvērt izvēlni Iestatījumi, lai deaktivizētu ekrāna lasītāju?"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Gandrīz tukšs akumulators. Lai turpinātu lietot ierīci, uzlādējiet to."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Gandrīz tukšs akumulators"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Kritiski zems akumulatora uzlādes līmenis. Lai varētu lietot ierīci Gear, uzlādējiet to nekavējoties."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Akumulatoram ir ļoti zems uzlādes līmenis. Ierīce Gear tiks atvienota no jūsu mobilās ierīces. Jūs varat izmantot tikai noklusējuma pulksteni. Lai varētu lietot ierīci Gear, uzlādējiet to."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Akumulatoram ir ļoti zems uzlādes līmenis. Jūs varat izmantot tikai noklusējuma pulksteni. Lai varētu lietot ierīci Gear, uzlādējiet to nekavējoties."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Uzlāde apturēta. Akumulatora temperatūra par augstu vai par zemu."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Uzlāde apturēta. Akumulatora temperatūra ir par zemu."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Uzlāde apturēta. Akumulatora temperatūra ir par augstu."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Zems akum. uzlād. līm."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Āra režīms"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Ierīce tiks izslēgta."
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Pēc %1$d minūtēm tiks atjaunots spilgtuma noklusējuma līmenis (%2$d)."
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Spilgtums"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "Uzlāde pārtraukta pārāk augstas temperatūras dēļ"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "Izslēgt"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_TAP_CONTINUE_TO_ENCRYPT_YOUR_SD_CARD"
+msgstr "Lai lietotu SD karti, tai jābūt šifrētai. Pieskarieties pie Turpināt, lai šifrētu savu SD karti."
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "Vēlāk"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "Atšifrēt SD karti"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "Aktivizēt"
+
+msgid "IDS_TPLATFORM_BODY_POWER_OFF_THE_DEVICE_Q"
+msgstr "Vai izslēgt ierīci?"
+
+msgid "IDS_TPLATFORM_BODY_RESTART_THE_DEVICE_Q"
+msgstr "Vai restartēt ierīci?"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "Vai deaktivizēt lidojuma režīmu?"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "Deakt."
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_CALLING_MESSAGING_AND_MOBILE_NETWORK_FUNCTIONS"
+msgstr "Lidojuma režīms ļauj deaktivizēt zvanu, ziņapmaiņas un mobilā tīkla funkcijas."
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s neatbild. Vai aizvērt %s?"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "Izslēgt"
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "Atvienojiet lādētāju."
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "Lai uzlādētu ierīci, pievienojiet to kontaktrozetei, un Uzdevumu pārvaldniekā izejiet no nelietotajām programmām. Ierīces lietošana uzlādes laikā var traucēt efektīvai uzlādei."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Ekrāna lasītājs ir aktivizēts."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Ekrāna lasītājs ir deaktivizēts."
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "Aktivizēt ārkārtas režīmu"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "Deaktivizēt ārkārtas režīmu"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Uzgaidiet"
+
+msgid "IDS_PH_HEADER_ERROR_ABB"
+msgstr "Kļūda"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "Ierīces iekš. atmiņa"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "Kamera"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "Ierīce sāk pārkarst. Tā tagad tiks izslēgta, lai to atdzesētu."
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "Neizslēgt"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "Ierīce tika automātiski izslēgta"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "Ierīce ir pārkarsusi. Tā tika izslēgta, lai novērstu bojājumus.\n\nPārkaršanu var izraisīt:\nIlgstoša intensīvas grafikas, piemēram, spēļu un navigācijas programmu, lietošana.\nLielu failu pārsūtīšana.\nIerīces lietošana karstā vidē."
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "Lai lietotu SD karti, tai jābūt atšifrētai. Vai atšifrēt SD karti vai aktivizēt ierīces šifrēšanu?"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "Lai lietotu SD karti, tai jābūt šifrētai. Vai šifrēt SD karti vai deaktivizēt ierīces šifrēšanu?"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "Deaktivizēt drošo režīmu"
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "Ja deaktivizēsit drošo režīmu, ierīce tiks restartēta. Vai deaktivizēt?"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "Zems akumulatora uzlādes līmenis. Papildu apgaismojums tiks izslēgts."
+

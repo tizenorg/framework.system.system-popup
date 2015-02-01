@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Anulare"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Silenţios"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "După %1$d minute, luminozitatea va fi resetată la nivelul implicit (%2$d)."
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "Oprit"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "Pornit"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Mod Exterior"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Luminoz."
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibraţie"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Închide"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Oprire"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Memorie plină"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Memorie insuficientă"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s a fost închis."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Baterie descărcată"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Activat"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Dezactivat"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Sunet"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s s-a închis în mod neaşteptat."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Memorie disponibilă insuficientă"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Baterie descărcată"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Dispozitivul va reporni."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Opţiuni dispozitiv"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Silenţios"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Încărcare întreruptă. Tensiunea este prea ridicată."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Baterie epuizată. Dispozitivul se va închide."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Nivelul bateriei este redus. Reîncărcaţi Gear în curând pentru a-l utiliza în continuare."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Baterie consumată. Reîncărcaţi rapid dispozitivul pentru a continua utilizarea."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Baterie epuizată"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Bateria este aproape descărcată. Reîncărcaţi Gear acum pentru a-l utiliza în continuare."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Bateria este aproape descărcată. Gear va fi deconectat de la dispozitivul mobil. Puteţi utiliza numai ceasul implicit. Reîncărcaţi Gear acum pentru a-l utiliza în continuare."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Bateria este aproape descărcată. Puteţi utiliza numai ceasul implicit. Reîncărcaţi Gear acum pentru a-l utiliza în continuare."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Încărcare întreruptă.\nTemperatura bateriei este prea ridicată sau prea scăzută."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Încărcare întreruptă. Temperatura bateriei este prea scăzută."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Încărcare întreruptă. Temperatura bateriei este prea ridicată."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Baterie descărcată"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Dispozitivul se va opri."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Repornire"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Memorie plină"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Nu se poate înregistra. Spaţiul din memoria Gear este insuficient."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Pentru a dezactiva modul Economisire maximă a energiei, dispozitivul va reporni."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Eroare"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Modul Economisire maximă a energiei"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "Fără repet."
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Baterie deconectată"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Ec. energ."
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Se va activa modul Economisire energie. Acesta va limita performanţa maximă CPU, va opri funcţia Bluetooth şi se va utiliza un nivel mai redus de energie pentru ecran. Gestul de activare, Controlul vocal şi Vibraţia nu vor fi disponibile. Ceasul şi funcţiile S Health vor fi în continuare disponibile."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Modul Economisire energie a fost dezactivat."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Modul Economisire energie a fost activat."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "Mod Avion"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "Modul Avion vă permite să dezactivaţi funcţiile pentru apeluri şi mesagerie. De asemenea, acesta dezactivează Datele mobile şi Bluetooth. Pentru a utiliza Bluetooth, activaţi-l din Setări."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Activaţi modul Avion"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Dezactiv. mod Avion"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Modul Avion va fi dezactivat."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "Introduceţi cartela SIM pentru a accesa serviciile de reţea."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "Date mobile"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "Activare date mobile"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "Dezactivare date mobile"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "Neacceptat"
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "Datele mobile nu pot fi activate în timp ce sunteţi conectat prin Bluetooth."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "Veţi fi conectat la reţeaua mobilă. Aceasta poate genera costuri suplimentare."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "Dacă dezactivaţi Datele mobile, nu veţi putea să primiţi notificări sau să utilizaţi aplicaţii care necesită o conexiune la reţeaua mobilă. Datele mobile vor fi dezactivate."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "Modul Avion dezactivează funcţiile pentru apeluri şi mesagerie şi opreşte funcţiile de Date mobile şi conectivitate, cum ar fi Wi-Fi şi Bluetooth. Pentru a utiliza Wi-Fi şi Bluetooth, activaţi-le din Setări."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "Pentru a economisi energia bateriei, activaţi modul Economisire maximă a energiei."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Accesibilitate"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Setări"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "Activare"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s nu răspunde. Închideţi %s?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Niciun răspuns"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Aşteptaţi"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "S-a depăşit limita maximă pentru utilizarea datelor (%s). Date mobile dezactivate. Activarea datelor mobile poate genera costuri suplimentare."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Date mobile dezactivate"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "Dezact. Econ. energ."
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "Act. mod Ec. energ."
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "Economisire energie"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "Aproape s-a atins limita maximă de utilizare a datelor (%s). Atingeţi meniul Setări pentru a verifica utilizarea datelor."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "S-a atins limita specificată pentru utilizarea datelor. Utilizarea datelor suplimentare poate genera costuri din partea furnizorului de servicii."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "Limitare utilizare date"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Avertisment utilizare date"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "Activ. mod Econ. energie"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "Dezact. mod Econ. energie"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Ecran oprit."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Cititor de ecran activat."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Cititor de ecran dezactivat."
+

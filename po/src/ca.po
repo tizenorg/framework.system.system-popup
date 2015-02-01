@@ -1,0 +1,549 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Cancel"
+
+msgid "IDS_ST_BODY_KEYBOARD"
+msgstr "Teclat"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Càmera"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Ajustaments"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Acceptar"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Accessibilitat"
+
+msgid "IDS_USB_POP_CONNECTING_KIES_VIA_USB_WILL_TURN_OFF_KIES_VIA_WI_FI_CONTINUE_Q"
+msgstr "Si connecta Kies mitjançant USB es desconnectarà Kies mitjançant Wi-Fi. Continuar?"
+
+msgid "IDS_USB_POP_SAMSUNG_KIES_MODE_ENABLED"
+msgstr "Mode Samsung Kies habilitat"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibració"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Tancar"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Apagat"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Info sist"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Reiniciar"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "No hi ha prou memòria"
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "S'estan inicialitzant les dades MMC..."
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "Reint"
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "Error de connexió USB"
+
+msgid "IDS_ST_POP_PS_ENABLED"
+msgstr "%s habilitat"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Deshabilitar colors negatius"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Habilitar colors negatius"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Deshabilitar zoom"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Habilitar zoom"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Encendre llum d'assistència"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Apagar llum d'assistència"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Poca memòria"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s tancat"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Bateria baixa"
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "Bateria baixa. El telèfon s'apagarà."
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "Estalvi d'energia"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Activat"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Desactivat"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "So"
+
+msgid "IDS_ST_BODY_CAMERA"
+msgstr "Càmera"
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "Bateria completament carregada"
+
+msgid "IDS_CST_BODY_NOTICE"
+msgstr "Avís"
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "Impressora connectada"
+
+msgid "IDS_COM_POP_PRINTER_DISCONNECTED_ABB2"
+msgstr "Impressora desconnectada"
+
+msgid "IDS_QP_BODY_UNPLUG_CHARGER"
+msgstr "Desendollar carregador"
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "Mode Vol"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "Connector USB connectat"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "Connector USB desconnectat"
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "Teclat connectat"
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "Ratolí connectat"
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "Càmera connectada"
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "Emmagat USB massiu connectat"
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "Dispositiu USB desconegut connectat"
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "Dispositiu USB retirat amb seguretat"
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "L'emmagatzematge massiu USB s'ha retirat de forma inesperada"
+
+msgid "IDS_COM_BODY_UNABLE_TO_USE_USB_STORAGE_AS_USB_MASS_STORAGE_ERROR_OCCURRED"
+msgstr "No es pot utilitzar l'emmagatzematge USB com a emmagatzematge USB massiu. S'ha produït un error."
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "Acceptar"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "Reiniciar"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "Error en muntar la targeta SD. Torni a inserir o doni format a la targeta SD."
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s s'ha tancat de forma inesperada"
+
+msgid "IDS_COM_POP_KEYBOARD_DISCONNECTED_ABB2"
+msgstr "Teclat desconnectat"
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "Targeta SD muntada només per a lectura"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Poca memòria restant"
+
+msgid "IDS_ST_POP_TURN_OFF_ASSISTIVE_LIGHT_WHEN_YOU_NO_LONGER_NEED_IT"
+msgstr "Apagui la llum d'assistència quan no la necessiti"
+
+msgid "IDS_IS_BODY_DO_NOT_SHOW_AGAIN"
+msgstr "No ho tornis a mostrar."
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "La llum d'assistència està activada"
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Toqui per apagar llum d'assistència"
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "Desmunti l'emmagatzematge massiu USB abans de retirar-lo per evitar pèrdua de dades"
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "Desmuntar"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "Examinar la càmera connectada mitjançant USB?"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "Examinar"
+
+msgid "IDS_PB_HEADER_USB_STORAGE_NOT_AVAILABLE"
+msgstr "Emmagatzematge USB no disponible"
+
+msgid "IDS_COM_HEADER_USB_MASS_STORAGE_DISCONNECTED_ABB"
+msgstr "Emmagatzematge USB massiu desconnectat"
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "%d USB dispositius connec"
+
+msgid "IDS_EMAIL_POP_THIS_ACTION_HAS_BEEN_BLOCKED_BY_MDM_CONTACT_THE_MDM_ADMINISTRATOR"
+msgstr "MDM ha bloquejat aquesta acció. Posi's en contacte amb l'administrador MDM."
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Bateria baixa"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "Examinar l'emmagatzematge connectat mitjançant USB?"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Bateria desconnectada"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "El dispositiu es reiniciarà"
+
+msgid "IDS_ST_BODY_USBSETTINGS_PRINTER"
+msgstr "Impressora"
+
+msgid "IDS_SMEMO_BODY_MOUSE_M_IDEA_SKETCH"
+msgstr "Ratolí"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Es deshabilitarà el mode Vol"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_ENABLED"
+msgstr "S'habilitarà el mode Vol"
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Ara s'apagarà el dispositiu"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Opcions del dispositiu"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "La memòria del dispositiu està plena"
+
+msgid "IDS_PN_BODY_NOT_ENOUGH_STORAGE_AVAILABLE_SOME_FUNCTIONS_AND_APPLICATIONS_MAY_NOT_BE_AVAILABLE_NOTI_MSG_JPN_DCM"
+msgstr "Not enough storage available. Some functions and applications may not be available.\nOpen Settings and uninstall some apps to make space."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "El mode Vol li permet desactivar les funcions de trucades, missatgeria i xarxa de dades. També desactiva les funcions de connectivitat, com ara Wi-Fi i Bluetooth. Per utilitzar Wi-Fi i Bluetooth, activi'ls als Ajustaments o al tauler de notificacions."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "Error de desxifratge de la targeta SD"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "Targeta SD xifrada"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Deshab mode Vol"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Habilitar mode Vol"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "S'està xifrant la targeta SD..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "S'està desxifrant la targeta SD..."
+
+msgid "IDS_COM_POP_LOW_BATTERY_CHARGE_YOUR_PHONE"
+msgstr "Bateria baixa. Carregui el telèfon."
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "Sense bateria"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "Missatge d'advertència"
+
+msgid "IDS_DN_POP_DATA_DECRYPTED"
+msgstr "Dades desxifrades"
+
+msgid "IDS_DN_POP_DATA_ENCRYPTED"
+msgstr "Dades xifrades"
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "Dispositius USB"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "Xifrar targeta SD"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "Habilitar lector pantalla"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "Deshab lector pantalla"
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "Desxifrar targeta SD"
+
+msgid "IDS_DN_HEADER_DATA_DECRYPTION_ABB"
+msgstr "Desxifram de dades"
+
+msgid "IDS_DN_HEADER_DATA_ENCRYPTION_ABB"
+msgstr "Xifratge de dades"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "Atenció"
+
+msgid "IDS_ST_BUTTON_CONTINUE_ABB"
+msgstr "Cont."
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Advertència d'ús de dades"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "Toqui per veure ús i ajustaments"
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Dades mòbils deshabilitades"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "S'ha excedit el límit màxim d'ús de dades (%s). Es deshabilitaran les dades mòbils. Habilitar les dades mòbils por comportar càrrecs addicionals."
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Silenci"
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "La política de seguretat evita l'ús de la sincronització d'escriptori"
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "Emmagatzematge USB en blanc o té un sistema de fitxers no compatible"
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "Emmagatzematge massiu USB retirat amb seguretat"
+
+msgid "IDS_COM_BODY_OUR_PHONE_WILL_SHUT_DOWN"
+msgstr "El telèfon s'apagarà"
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "El dock està connectat"
+
+msgid "IDS_EMM_MBODY_EMERGENCY_MODE_JPN_DCM"
+msgstr "Emergency mode"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "Cable HDMI no connectat"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "Cable HDMI desconnectat"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Sense resposta"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "Mode d'emergència"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "No es pot xifrar la targeta SD. No hi ha prou espai a la targeta. Calen al voltant de %.2f MB. Esborri alguns fitxers."
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "No es pot desxifrar la targeta SD. No hi ha prou espai a la targeta. Calen al voltant de %.2f MB. Esborri alguns fitxers."
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "Aquesta targeta SD no està xifrada. No pot deshabilitar Xifrar targeta SD perquè l'ha habilitat un administrador. Xifrar?"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "Xifrar targ SD"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_TAP_CONTINUE_TO_DECRYPT_YOUR_SD_CARD"
+msgstr "Per utilitzar la targeta SD, cal que estigui desxifrada. Toqui Continuar per desxifrar la targeta SD."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "No es pot carregar la bateria. Temperatura del telèfon massa alta."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "No es pot carregar la bateria. Temperatura del telèfon massa baixa."
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "Connectat com a dispositiu multimèdia"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "Disp USB només lect connect"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Càrrega pausada. Tensió massa alta."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "Error de xifratge de la targeta SD"
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "Targeta SD desxifrada"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION"
+msgstr "Xifratge de la targeta SD"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_HAS_BEEN_ENABLED"
+msgstr "S'ha habilitat el xifratge de la targeta SD"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Pantalla apagada."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Bateria baixa críticament. El dispositiu s'apagarà."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "La bateria està baixa. Recarregui Gear aviat per seguir utilitzant-lo."
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "Deshabilitar xifratge"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "Habilitar xifratge"
+
+msgid "IDS_ACCS_POP_EMERGENCY_MODE_AND_SCREEN_READER_CANNOT_BOTH_BE_ENABLED_GO_TO_SETTINGS_TO_DISABLE_SCREEN_READER_Q"
+msgstr "El mode d'emergència i el Lector de pantalla no poden estar habilitats simultàniament. Anar als Ajustaments per deshabilitar el Lector de pantalla?"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Bateria baixa. Recarregui aviat el dispositiu per continuar utilitzant-lo."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Bateria molt baixa"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "La bateria està baixa críticament. Recarregui Gear per seguir utilitzant-lo."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "La bateria està críticament baixa. Gear es desconnectarà del dispositiu mòbil. Només pot utilitzar el rellotge predeterminat. Recarregui Gear per seguir utilitzant-lo."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "La bateria està molt baixa. Només pot utilitzar el rellotge predeterminat. Recarregui Gear per seguir utilitzant-lo."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Càrrega en pausa. Temperatura de la bateria massa alta o massa baixa."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Càrrega pausada. Temperatura de la bateria massa baixa."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Càrrega pausada. Temperatura de la bateria massa alta."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Bateria baixa"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Mode Exterior"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "El dispositiu s'apagarà"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Després de %1$d minuts, la brillantor es restablirà al nivell predeterminat (%2$d)"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Brillantor"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "Càrrega en pausa a causa d'una alta temperatura"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "Apagar"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_TAP_CONTINUE_TO_ENCRYPT_YOUR_SD_CARD"
+msgstr "Per utilitzar la targeta SD, cal que estigui xifrada. Toqui Continuar per xifrar la targeta SD."
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "Més tard"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "Desxifrar targeta SD"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "Habilitar"
+
+msgid "IDS_TPLATFORM_BODY_POWER_OFF_THE_DEVICE_Q"
+msgstr "Apagar el dispositiu?"
+
+msgid "IDS_TPLATFORM_BODY_RESTART_THE_DEVICE_Q"
+msgstr "Reiniciar el dispositiu?"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "Deshabilitar mode Vol?"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "Desact"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_CALLING_MESSAGING_AND_MOBILE_NETWORK_FUNCTIONS"
+msgstr "El mode Vol li permet deshabilitar les funciones de trucades, missatgeria i xarxa mòbil."
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s no respon. Tancar %s?"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "Apagar"
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "Treure carregador"
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "Connecti a un endoll per carregar el dispositiu i surti de les aplicacions que no utilitzi a l'Administrador de tasques. L'ús continuat mentre es carrega pot evitar que es carregui amb eficiència."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Lector de pantalla habilitat."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Lector de pantalla deshabilitat."
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "Habilitar Mode d'emergència"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "Deshabilitar Mode d'emergència"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Esperi"
+
+msgid "IDS_PH_HEADER_ERROR_ABB"
+msgstr "Error"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "Emmagat USB"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "Càmera"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "El seu dispositiu s'està sobreescalfant. Ara s'apagarà per refredar."
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "No apagar"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "Dispositiu apagat automàticament"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "El dispositiu s'ha sobreescalfat. S'ha apagat per evitar danys.\n\nEl sobreescalfament pot ser causat per:\nUtilitzar aplicacions de gràfics intensius, com ara jocs o aplicacions de navegació, durant llargs períodes de temps.\nTransferir fitxers grans.\nUtilitzar el dispositiu en un entorn calent."
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "Per utilitzar la targeta SD, cal que estigui desxifrada. Desxifrar la targeta SD o habilitar el xifratge del dispositiu?"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "Per utilitzar la targeta SD, cal que estigui xifrada. Xifrar la targeta SD o deshabilitar el xifratge del dispositiu?"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "Deshabilitar mode Segur"
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "Si deshabilita el mode Segur, es reiniciarà el dispositiu. Deshabilitar-lo?"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "Bateria baixa. S'apagarà la llum d'assistència."
+

@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "İptal"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Sessiz"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Tamam"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d dakika sonra, parlaklık varsayılan seviyeye (%2$d) sıfırlanacak."
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "Kapalı"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "Açık"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Açık hava modu"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Parlaklık"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Titreşim"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Kapat"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Kapat"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Yeterli hafıza yok."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Hafıza düşük."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s kapatıldı."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Düşük pil."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Etkinleştirildi."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Devre dışı."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Ses"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s beklenmedik şekilde kapandı."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Yetersiz bellek"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Düşük pil"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Cihaz yeniden başlayacak."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Cihaz seçenekleri"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Sessiz"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Şarj duraklatıldı. Voltaj çok yüksek."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Pil kritik seviyede düşük. Cihaz kapatılacak."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Pil gücü düşük. Kullanmaya devam etmek için Gear'ınızı yakın zamanda yeniden şarj edin."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Pil seviyesi düşük. Kullanmaya devam etmek için cihazı en yakın zamanda şarj edin."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Pil kritik seviyede düşük"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Pil gücü kritik seviyede düşük. Kullanmaya devam etmek için Gear'ınızı yeniden şarj edin."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Pil gücü kritik seviyede düşük. Gear'ınızın mobil cihazınızla bağlantısı kesilecek. Yalnızca varsayılan saati kullanabilirsiniz. Kullanmaya devam edebilmek için Gear'ınızı şarj edin."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Pil gücü kritik seviyede düşük. Sadece varsayılan saati kullanabilirsiniz. Kullanmaya devam etmek için Gear'ınızı yeniden şarj edin."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Şarj duraklatıldı. Pil sıcaklığı çok yüksek veya çok düşük."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Şarj duraklatıldı. Pil sıcaklığı çok düşük."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Şarj duraklatıldı. Pil sıcaklığı çok yüksek."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Düşük pil"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Cihaz kapanacak."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Yeniden başlat"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Bellek dolu"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Kaydedilemiyor. Gear deponuzda yeterli alan yok."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Ultra güç tasarrufu modunu devre dışı bırakmak için cihazınız yeniden başlatılacak."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Hata"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Ultra güç tasarrufu modu"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "Tekrarlama"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Pil çıkartıldı."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Güç koruma"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Güç koruma etkinleştirilecek. Bu, CPU'nun maksimum performansını sınırlar, Bluetooth'u kapatır ve daha düşük bir ekran güç düzeyi kullanılır. Uyandırma hareketi, Sesli kontrol ve Titreşim kullanılamayacak. Saat ve S Health işlevleri hala kullanılabilecek."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Güç koruma devre dışı bırakıldı."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Güç koruma etkinleştirildi."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "Uçuş modu"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "Uçuş modu, arama ve mesajlaşma işlevlerini devre dışı bırakmanıza olanak tanır. Mobil verileri ve Bluetooth'u da kapatır. Bluetooth'u kullanmak için Ayarlar'da açın."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Uçuş modunu etkinleştir"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Uçş mdn dvr dşı brak"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Uçuş modu devre dışı bırakılacak."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "Şebeke servislerine erişmek için SIM kartını takın."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "Mobil veri"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "Mobil veriyi aç"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "Mobil veriyi kapat"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "Desteklenmiyor."
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "Bluetooth yoluyla bağlıyken Mobil veriler açılamaz."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "Mobil ağınıza bağlanacaksınız. Bunun için ek ücretler uygulanabilir."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "Mobil verileri kapatırsanız bildirimleri alamaz veya mobil ağ bağlantısı gerektiren uygulamaları kullanamazsınız. Mobil veriler kapatılacak."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "Uçuş modu, arama ve mesajlaşma işlevlerini devre dışı bırakıp Wi-Fi ve Bluetooth gibi Mobil veri ve bağlantı işlevlerini kapatır. Wi-Fi ve Bluetooth'u kullanmak için bunları Ayarlar'da açın."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "Pil gücünden tasarruf etmek için Ultra güç tasarrufu modunu etkinleştirin."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Erişilebilirlik"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Ayarlar"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "Etkinleştir"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s yanıt vermiyor. %s kapatılsın mı?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Cevap yok"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Bekleyin"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Maksimum veri kullanım limiti (%s) aşıldı. Mobil veri devre dışı. Mobil verinin etkinleştirilmesi ek ücrete tabi olabilir."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Mobil veri devre dışı bırakıldı"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "Güç tasarrufunu devre dışı bırak"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "Güç tsrrfnu etknlştr"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "Güç tasarrufu"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "Maksimum veri kullanım sınırına (%s) neredeyse ulaşıldı. Veri kullanımınızı kontrol etmek için Ayarlar öğesine dokunun."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "Belirtilen veri kullanım limitine ulaşıldı. Ek veri kullanımı, servis sağlayıcının ek ücretine tabi olabilir."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "Veri kullanımını sınırla"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Veri kullanımı uyarısı"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "Güç tasarrufu\nmodunu etknleştr"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "Güç tasarrufu modunu kapat"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Ekran kapalı."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Ekran okuyucusu etkinleştirildi."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Ekran okuyucusu devre dışı bırakıldı."
+

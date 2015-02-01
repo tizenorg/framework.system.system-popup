@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "বাতিল"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "নীরব"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ওকে"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d মিনিট পরে উজ্জ্বলতা ডিফল্ট স্তরে পুনঃসেট হবে (%2$d)।"
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "বন্ধ"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "চালু"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "আউটডোর মোড"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "উজ্জ্বলতা"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "কম্পণ"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "বন্ধ"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "পাওয়ার বন্ধ"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "যথেষ্ট মেমোরি নেই।"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "কম ব্যাটারি।"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s বন্ধ।"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "ব্যাটারী কম।"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "সক্ষম হয়েছে।"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "অক্ষম হয়েছে।"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "ধ্বনি"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s অপ্রত্যাশিতভাবে বন্ধ হয়েছে।"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "কম মেমোরি অবশিষ্ট"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "কম ব্যাটারী"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "ডিভাইস পুনর্সূচনা হবে।"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "ডিভাইস বিকল্পগুলি"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "নীরব"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "চার্জিং স্থগিত। ভোল্টেজ অত্যন্ত বেশি।"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "ব্যাটারি অত্যন্ত কম। ডিভাইসটি এখন শাট ডাউন হবে"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "ব্যাটারি ক্ষমতা কম৷ এটি ব্যবহার করা চালিয়ে যেতে আপনার গিয়ার রিচার্জ করুন৷"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "ব্যাটারি কম। ব্যবহার চালু রাখতে এখনই ডিভাইস রিচার্জ করুন"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "ব্যাটারি অত্যন্ত কম"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ব্যাটারি ক্ষমতা অত্যন্ত কম৷ এটি ব্যবহার করা চালিয়ে যেতে আপনার গিয়ার রিচার্জ করুন৷"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "ব্যাটারি পাওয়ারটি অত্যন্ত কম৷ আপনার গিয়ারটি আপনার মোবাইল ডিভাইস থেকে সংযোগ বিচ্ছিন্ন হবে৷ আপনি কেবল ডিফল্ট ঘড়িটি ব্যবহার করতে পারবেন৷ এটি ব্যবহার করা চালিয়ে যেতে আপনার গিয়ার রিচার্জ করুন৷"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ব্যাটারি ক্ষমতা অত্যন্ত কম৷ আপনি কেবলমাত্র ডিফল্ট ঘড়িটি ব্যবহার করতে পারেন৷ আপনার গিয়ার ব্যবহার করা চালিয়ে যেতে সেটি রিচার্জ করুন৷"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "চার্জিং স্থগিত আছে। ব্যাটারী তাপমাত্রা হয়ত খুব বেশী নয়ত খুব কম।"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "চার্জিং স্থগিত। ব্যাটারির তাপমাত্রা অত্যন্ত কম।"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "চার্জিং স্থগিত। ব্যাটারির তাপমাত্রা অত্যন্ত বেশি।"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "ব্যাটারি কম"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "ডিভাইস বন্ধ হয়ে যাবে।"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "পুনঃসূচনা"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "সঞ্চয়স্থান পূর্ণ"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "রেকর্ড করতে অক্ষম৷ আপনার গিয়ার সঞ্চয়স্থানে পর্যাপ্ত মেমোরি স্থান নেই৷"
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "আল্ট্রা পাওয়ার সাশ্রয় মোড অক্ষম করতে আপনার ডিভাইস পুনরায় শুরু হবে।"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "ত্রুটি।"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "অতিরিক্ত পাওয়ার সাশ্রয় মোড"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "পুনরাবৃত্তি করবেন না"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "ব্যাটারির সংযোগ বিচ্ছিন্ন করা হয়েছে।"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "পাও: সাশ্র:"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "পাওয়ার সাশ্রয় সক্ষম করা হবে। এটি CPU-এর সর্বাধিক কর্মক্ষমতাকে সীমিত করবে, ব্লুটুথ বন্ধ করবে এবং নূন্যতম স্ক্রিন পাওয়ার স্তর ব্যবহার করা হবে। জাগানোর জেশ্চার, ভয়েস নিয়্ন্ত্রণ এবং কম্পন সুলভ হবে না। ঘড়ি ও S Health কার্যকারিতাগুলি এখনও সুলভ হবে।"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "পাওয়ার সাশ্রয় অক্ষম হয়েছে।"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "পাওয়ার সাশ্রয় সক্ষম হয়েছে।"
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "বিমান মোড"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "বিমান মোড আপনাকে কলিং এবং বার্তার কার্যকারিতাগুলি অক্ষম করতে অনুমতি দেয়। এটি মোবাইল তথ্য এবং ব্লুটুথও বন্ধ করে। ব্লুটুথ ব্যবহার করতে এটি সেটিংসে চালু করুন।"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "বিমান মোড সক্ষম করুন"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "বিমান মোড অক্ষম করুন"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "বিমান মোড অক্ষম করা হবে।"
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "নেটওয়ার্ক পরিষেবা অ্যাক্সেস করার জন্যে SIM কার্ড ঢোকান।"
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "মোবাইল তথ্য"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "মোবাইল তথ্য চালু করুন"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "মোবাইল তথ্য বন্ধ করুন"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "সমর্থিত নয়।"
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "ব্লুটথের মাধ্যমে সংযুক্ত থাকার সময় মোবাইল তথ্য চালু করতে অক্ষম।"
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "আপনি নিজের মোবাইল নেটওয়ার্কে সংযুক্ত হবে। এর ফলে অতিরিক্ত চার্জ লাগতে পারে।"
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "যদি আপনি মোবাইল তথ্য বন্ধ করেন তবে আপনি সেইসব বিজ্ঞপ্তিগুলি পেতে পারবেন না বা সেইসব অ্যাপ্লিকেশনগুলি ব্যবহার করতে পারবেন না যার জন্য কোনও মোবাইল নেটওয়ার্ক সংযোগের প্রয়োজন হয়। মোবাইল তথ্য বন্ধ হবে।"
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "বিমান মোড কল করা এবং বার্তাপ্রেরণ কার্যকারিতাগুলি এবং মোবাইল তথ্য ও সংযোজকতা কার্যকারিতাগুলি, যেমন Wi-Fi এবং ব্লুটুথকে, অক্ষম করে। Wi-Fi এবং ব্লুটুথ ব্যবহার করতে সেগুলিকে সেটিংসে চালু করুন।"
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "ব্যাটারি পাওয়ার সংরক্ষণ করতে অতিরিক্ত পাওয়ার সাশ্রয় মোড সক্ষম করুন।"
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "অ্যাক্সেসযোগ্যতা"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "সেটিংস"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "সক্ষম"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s প্রতিক্রিয়া জানাচ্ছে না৷ %s বন্ধ করবেন?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "কোনো প্রতিক্রিয়া নেই"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "প্রতীক্ষা করুন"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "সর্বাধিক তথ্য ব্যবহারের সীমা (%s) অতিক্রম করেছে৷ মোবাইল তথ্য অক্ষম আছে৷ মোবাইল তথ্য সক্ষম করার ফলে অতিরিক্ত চার্জ ধার্য হতে পারে"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "মোবাইল তথ্য অক্ষম"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "পাওয়ার সাশ্রয় অক্ষম করুন"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "পাওয়ার সাশ্রয় সক্ষম করুন"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "পাওয়ার সাশ্রয়"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "তথ্য ব্যবহারের সর্বাধিক সীমাতে (%s) প্রায় পৌঁছেছে। আপনার তথ্য ব্যবহার পরীক্ষা করতে সেটিংস ট্যাপ করুন।"
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "নির্দিষ্ট তথ্য ব্যবহার সীমায় পৌঁছেছে। অতিরিক্ত তথ্য ব্যবহারের জন্য পরিষেবা প্রদানকারী মূল্য ধার্য করতে পারে৷"
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "তথ্য ব্যবহার সীমিত করুন"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "তথ্য ব্যবহারের সতর্কীকরণ"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "পাওয়ার সাশ্রয় মোড সক্ষম করুন"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "পাওয়ার সাশ্রয় মোড অক্ষম করুন"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "স্ক্রিন বন্ধ৷"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "স্ক্রিন রিডার সক্ষম হয়েছে৷"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "স্ক্রিন রিডার অক্ষম হয়েছে৷"
+

@@ -1,0 +1,21 @@
+#define RESOURCE_IMAGE( FILE_NAME ) \
+	group { \
+		name: FILE_NAME; \
+		images.image: FILE_NAME COMP; \
+		parts { \
+			part { name: "image"; \
+				scale: 1; \
+				description { \
+					min: 80 80; \
+					state: "default" 0.0; \
+					image.normal: FILE_NAME; \
+					aspect: 1 1; \
+					aspect_preference: BOTH; \
+				} \
+			} \
+		} \
+	}
+
+collections {
+    RESOURCE_IMAGE("usb_icon_blue.png");
+}

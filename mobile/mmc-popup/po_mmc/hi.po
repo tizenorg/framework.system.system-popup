@@ -1,9 +1,0 @@
-msgid "IDS_COM_SK_OK"
-msgstr "ओके"
-
-msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
-msgstr "सिस्टम जानका."
-
-msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
-msgstr "एसडी कार्ड माऊंट करने में विफल। एसडी कार्ड पुनः डालें या फ़ॉर्मेट करें"
-

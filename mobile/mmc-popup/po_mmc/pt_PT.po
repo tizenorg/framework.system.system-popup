@@ -1,9 +1,0 @@
-msgid "IDS_COM_SK_OK"
-msgstr "OK"
-
-msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
-msgstr "Info. sist."
-
-msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
-msgstr "Falha ao instalar cartão SD. Reintroduza ou formate o cartão SD"
-

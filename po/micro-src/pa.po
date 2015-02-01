@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "ਰੱਦ ਕਰੋ"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "ਮਿਊਟ"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ਓਕੇ"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d ਮਿੰਟ ਦੇ ਬਾਅਦ, ਚਮਕ ਡਿਫਾੱਲਟ ਸਤਰ (%2$d) ਤੇ ਸੈੱਟ ਹੋ ਜਾਵੇਗੀ।"
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "ਬੰਦ"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "ਚਾਲੂ"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "ਆਉਟਡੋਰ ਮੋਡ"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "ਚਮਕ"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "ਵਾਈਬ੍ਰੇਸ਼ਨ"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "ਬੰਦ"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "ਪਾਵਰ ਬੰਦ"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "ਉਚਿਤ ਮੈਮਰੀ ਨਹੀਂ।"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "ਘੱਟ ਮੈਮਰੀ।"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s ਬੰਦ ਕੀਤਾ।"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "ਘੱਟ ਬੈਟਰੀ।"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "ਸਮਰੱਥ।"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "ਅਸਮਰੱਥ।"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "ਧੁਨੀ"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s ਨੂੰ ਅਚਾਨਕ ਬੰਦ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ।"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "ਬਚੀ ਮੈਮਰੀ ਘੱਟ ਹੈ"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "ਬੈਟਰੀ ਘੱਟ"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "ਡਿਵਾਈਸ ਮੁੜ ਅਰੰਭ ਹੋਵੇਗਾ।"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "ਡਿਵਾਈਸ ਦੇ ਵਿਕਲਪ"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "ਮਿਊਟ"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "ਚਾਰਜਿੰਗ ਨੂੰ ਵਿਰਾਮ ਦਿੱਤਾ। ਵੋਲਟੇਜ਼ ਬਹੁਤ ਜ਼ਿਆਦਾ।"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "ਬੈਟਰੀ ਬਹੁਤ ਹੀ ਘੱਟ ਹੈ। ਡੀਵਾਈਸ ਹੁਣ ਬੰਦ ਹੋ ਜਾਵੇਗੀ"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "ਬੈਟਰੀ ਪਾਵਰ ਘੱਟ ਹੈ। ਆਪਣੇ ਗੇਅਰ ਦਾ ਉਪਯੋਗ ਕਰਨ ਲਈ ਇਸਨੂੰ ਜਲਦੀ ਦੁਬਾਰਾ ਚਾਰਜ ਕਰੋ।"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "ਬੈਟਰੀ ਘੱਟ ਹੈ। ਵਰਤੋਂ ਜਾਰੀ ਰੱਖਣ ਵਾਸਤੇ ਡੀਵਾਈਸ ਜਲਦੀ ਹੀ ਰਿਚਾਰਜ ਕਰੋ"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "ਬੈਟਰੀ ਬਹੁਤ ਹੀ ਘੱਟ ਹੈ"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ਬੈਟਰੀ ਪਾਵਰ ਬਹੁਤ ਘੱਟ ਹੈ। ਆਪਣੇ ਗੇਅਰ ਦਾ ਉਪਯੋਗ ਕਰਨ ਲਈ ਇਸਨੂੰ ਹੁਣੇ ਰੀਚਾਰਜ ਕਰੋ।"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "ਬੈਟਰੀ ਪਾਵਰ ਬਹੁਤ ਹੀ ਜ਼ਿਆਦਾ ਘੱਟ ਹੈ। ਤੁਹਾਡਾ ਗੇਅਰ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੋਂ ਡਿਸਕਨੈਕਟ ਹੋ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਸਿਰਫ਼ ਡਿਫਾੱਲਟ ਘੜੀ ਦਾ ਉਪਯੋਗ ਕਰ ਸਕਦੇ ਹੋ। ਆਪਣੇ ਗੇਅਰ ਦਾ ਉਪਯੋਗ ਕਰਦੇ ਰਹੋਣ ਦੇ ਲਈ ਉਸਨੂੰ ਰੀਚਾਰਜ ਕਰੋ।"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ਬੈਟਰੀ ਪਾਵਰ ਬਹੁਤ ਹੀ ਜ਼ਿਆਦਾ ਘੱਟ ਹੈ। ਤੁਸੀਂ ਸਿਰਫ ਡਿਫਾੱਲਟ ਘੜੀ ਦਾ ਉਪਯੋਗ ਕਰ ਸਕਦੇ ਹੋ। ਆਪਣੇ ਗੇਅਰ ਦਾ ਉਪਯੋਗ ਕਰਦੇ ਰਹਿਣ ਦੇ ਲਈ ਉਸਨੂੰ ਰੀਚਾਰਜ ਕਰੋ।"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "ਚਾਰਿਜੰਗ ਰੁਕੀ। ਬੈਟਰੀ ਤਾਪਮਾਨ ਬਹੁਤ ਉੱਚਾ ਜਾਂ ਬਹੁਤ ਘੱਟ।"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "ਚਾਰਜਿੰਗ ਨੂੰ ਵਿਰਾਮ ਦਿੱਤਾ। ਬੈਟਰੀ ਦਾ ਤਾਪਮਾਨ ਬਹੁਤ ਘੱਟ ਹੈ।"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "ਚਾਰਜਿੰਗ ਨੂੰ ਵਿਰਾਮ ਦਿੱਤਾ। ਬੈਟਰੀ ਦਾ ਤਾਪਮਾਨ ਬਹੁਤ ਜ਼ਿਆਦਾ ਹੈ।"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "ਬੈਟਰੀ ਘੱਟ ਹੈ"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "ਡਿਵਾਈਸ ਬੰਦ ਹੋ ਜਾਵੇਗਾ।"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "ਦੁਬਾਰਾ ਅਰੰਭ ਕਰੋ"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "ਸਟੋਰੇਜ ਪੂਰਨ"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "ਰਿਕਾਰਡ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ। ਤੁਹਾਡੇ ਗੇਅਰ ਸਟੋਰੇਜ ਵਿੱਚ ਉੱਚਿਤ ਥਾਂ ਨਹੀਂ ਹੈ।"
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "ਅਲਟਰਾ ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਨੂੰ ਅਸਮਰੱਥ ਕਰਨ ਦੇ ਲਈ, ਤੁਹਾਡਾ ਡਿਵਾਈਸ ਪੁਨਰ ਅਰੰਭ ਹੋ ਜਾਵੇਗਾ।"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "ਤਰੁੱਟੀ।"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "ਅਲਟਰਾ ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "ਦੁਹਰਾਉ ਨਹੀਂ"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "ਬੈਟਰੀ ਡਿਸਕਨੈਕਟ ਹੋਈ।"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "ਪਾਵਰ ਸੇਵਰ"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "ਪਾਵਰ ਸੇਵਰ ਨੂੰ ਸਮਰੱਥ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਇਹ CPU ਦੀ ਅਧਿਕਤਮ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਸੀਮਿਤ ਕਰ ਦੇਵੇਗਾ, ਬਲੂਟੁੱਥ ਬੰਦ ਕਰ ਦੇਵੇਗਾ ਅਤੇ ਸਕ੍ਰੀਨ ਦੇ ਘੱਟ ਪਾਵਰ ਸਤਰ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾਵੇਗੀ। ਵੇਕ-ਅਪ ਸੰਕੇਤ, ਵਾੱਇਸ ਨਿਯੰਤ੍ਰਣ ਅਤੇ ਵਾਈਬ੍ਰੇਸ਼ਨ ਉਪਲਬਧ ਨਹੀਂ ਹੋਣਗੇ। ਘੜੀ ਅਤੇ S Health ਫੰਕਸ਼ਨ ਤਾਂ ਵੀ ਉਪਲਬਧ ਹੋਣਗੇ।"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "ਪਾਵਰ ਸੇਵਰ ਅਸਮਰੱਥ ਹੋਇਆ।"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "ਪਾਵਰ ਸੇਵਰ ਸਮਰੱਥ ਹੋਇਆ।"
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "ਫਲਾਈਟ ਮੋਡ"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "ਫਲਾਈਟ ਮੋਡ ਤੁਹਾਨੂੰ ਕਾੱਲਿੰਗ ਅਤੇ ਮੈਸੇਜਿੰਗ ਫੰਕਸ਼ਨ ਅਸਮਰੱਥ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ। ਇਹ ਮੋਬਾਈਲ ਡੈਟਾ ਅਤੇ ਬਲੂਟੁੱਥ ਨੂੰ ਵੀ ਬੰਦ ਕਰਦਾ ਹੈ। ਬਲੂਟੁੱਥ ਵਰਤਣ ਲਈ, ਇਸਨੂੰ ਸੈੱਟਿੰਗਸ ਵਿੱਚ ਚਾਲੂ ਕਰੋ।"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "ਫਲਾਈਟ ਮੋਡ ਸਮਰੱਥ ਕਰੋ"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "ਫਲਾਈਟ ਮੋਡ ਅਸਮਰੱਥ ਕਰੋ"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "ਫਲਾਈਟ ਮੋਡ ਅਸਮਰੱਥ ਹੋ ਜਾਵੇਗਾ।"
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "ਨੈੱਟਵਰਕ ਸੇਵਾਵਾਂ ਐਕਸੈੱਸ ਕਰਨ ਲਈ SIM ਕਾਰਡ ਸੰਮਿਲਤ ਕਰੋ।"
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "ਮੋਬਾਈਲ ਡੈਟਾ"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "ਮੋਬਾਈਲ ਡੈਟਾ ਚਾਲੂ ਕਰੋ"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "ਮੋਬਾਈਲ ਡੈਟਾ ਬੰਦ ਕਰੋ"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "ਗੈਰ-ਸਮਰਥਿਤ।"
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "ਬਲੂਟੁੱਥ ਰਾਹੀਂ ਕਨੈਕਟ ਹੋਣ ਸਮੇਂ ਮੋਬਾਈਲ ਡੈਟਾ ਚਾਲੂ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ।"
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "ਤੁਸੀਂ ਆਪਣੇ ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਨਾਲ ਕਨੈਕਟ ਹੋ ਜਾਉਗੇ। ਇਸਦੇ ਨਤੀਜੇ ਵਜੋਂ ਵਾਧੂ ਖਰਚੇ ਲੱਗ ਸਕਦੇ ਹਨ।"
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "ਜੇਕਰ ਤੁਸੀਂ ਮੋਬਾਈਲ ਡੈਟਾ ਬੰਦ ਕਰਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਨ ਜਾਂ ਉਹਨਾਂ ਅਨੁਪ੍ਰਯੋਗਾਂ ਨੂੰ ਉਪਯੋਗ ਕਰਨ ਵਿੱਚ ਸਮਰੱਥ ਨਹੀਂ ਹੋਵੋਗੇ ਜਿਹਨਾਂ ਨੂੰ ਕਿਸੇ ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ। ਮੋਬਾਈਲ ਡੈਟਾ ਬੰਦ ਕੀਤਾ ਜਾਵੇਗਾ।"
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "ਫਲਾਈਟ ਮੋਡ ਕਾੱਲਿੰਗ ਅਤੇ ਮੈਸੇਜਿੰਗ ਫੰਕਸ਼ਨਾਂ ਨੂੰ ਅਸਮਰੱਥ ਕਰਦਾ ਹੈ, ਅਤੇ ਮੋਬਾਈਲ ਡੈਟਾ ਅਤੇ ਕਨੈਕਟੀਵਿਟੀ ਫੰਕਸ਼ਨਾਂ ਜਿਵੇਂ ਕਿ Wi-Fi ਅਤੇ ਬਲੂਟੁੱਥ ਨੂੰ ਵੀ ਬੰਦ ਕਰ ਦਿੰਦਾ ਹੈ। Wi-Fi ਅਤੇ ਬਲੂਟੁੱਥ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ, ਇਹਨਾਂ ਨੂੰ ਸੈੱਟਿੰਗਸ ਵਿੱਚ ਚਾਲੂ ਕਰੋ।"
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "ਬੈਟਰੀ ਪਾਵਰ ਬਚਾਉਣ ਲਈ, ਅਲਟ੍ਰਾ ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਸਮਰੱਥ ਕਰੋ।"
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "ਪਹੁੰਚਯੋਗਤਾ"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "ਸੈੱਟਿੰਗਸ"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "ਸਮੱਰਥ"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s ਪ੍ਰਤੀਕਿਰਿਆ ਨਹੀਂ ਦੇ ਰਿਹਾ ਹੈ। %s ਨੂੰ ਬੰਦ ਕਰੋ?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "ਕੋਈ ਉਤੱਰ ਨਹੀਂ"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "ਇੰਤਜ਼ਾਰ ਕਰੋ"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "ਡੈਟਾ ਇਸਤੇਮਾਲ ਦੀ ਅਧਿਕਤਮ ਸਮਰਥਾ (%s) ਤੋਂ ਵਧਿਆ। ਮੋਬਾਈਲ ਡੈਟਾ ਅਸਮਰੱਥ ਹੋਇਆ। ਮੋਬਾਈਲ ਡੈਟਾ ਸਮਰੱਥ ਬਣਾਉਣ ਦੇ ਵਾਧੂ ਖਰਚੇ ਪੈਣਗੇ।"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "ਮੋਬਾਈਲ ਡੈਟਾ ਅਸਮਰੱਥ"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "ਪਾਵਰ ਸੇਵਿੰਗ ਅਸਮਰੱਥ ਕਰੋ"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "ਪਾਵਰ ਸੇਵਿੰਗ ਸਮਰੱਥ ਕਰੋ"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "ਪਾਵਰ ਸੇਵਿੰਗ"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "ਅਧਿਕਤਮ ਡੈਟਾ ਉਪਯੋਗ ਸੀਮਾ (%s) ਲਗਭਗ ਪੂਰੀ ਹੋ ਗਈ ਹੈ। ਆਪਣੇ ਡੈਟਾ ਉਪਯੋਗ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਸੈੱਟਿੰਗਸ ਟੈਪ ਕਰੋ।"
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "ਨਿਰਧਾਰਤ ਡੈਟਾ ਉਪਯੋਗ ਦੀ ਸੀਮਾ ਤੇ ਪਹੁੰਚ ਗਿਆ ਹੈ। ਸੇਵਾ ਪ੍ਰਦਾਤਾ ਵੱਲੋਂ ਵਾਧੂ ਡੈਟਾ ਵਰਤੋਂ ਦੇ ਖਰਚੇ ਪੈ ਸਕਦੇ ਹਨ।"
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "ਡੈਟਾ ਉਪਯੋਗ ਸੀਮਿਤ ਕਰੋ"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "ਡੈਟਾ ਉਪਯੋਗ ਚੇਤਾਵਨੀ"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਸਮਰੱਥ ਕਰੋ"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਅਸਮਰੱਥ ਕਰੋ"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "ਸਕ੍ਰੀਨ ਬੰਦ।"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "ਸਕ੍ਰੀਨ ਰੀਡਰ ਸਮਰੱਥ ਹੈ।"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "ਸਕ੍ਰੀਨ ਰੀਡਰ ਅਸਮਰੱਥ ਹੈ।"
+

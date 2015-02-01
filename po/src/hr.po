@@ -1,0 +1,549 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Prekid"
+
+msgid "IDS_ST_BODY_KEYBOARD"
+msgstr "Tipkovnica"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Kamera"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Postavke"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Pristupačnost"
+
+msgid "IDS_USB_POP_CONNECTING_KIES_VIA_USB_WILL_TURN_OFF_KIES_VIA_WI_FI_CONTINUE_Q"
+msgstr "Spajanje Kies programa USB putem isključit će Kies spojen putem Wi-Fi mreže. Nastavak?"
+
+msgid "IDS_USB_POP_SAMSUNG_KIES_MODE_ENABLED"
+msgstr "Samsung Kies uključen."
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibracija"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Prekid"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Isključivanje"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "O sustavu"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Ponovi"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Memorija nedovoljna."
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "Učitavanje podataka mem. kartice..."
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "Ponovi"
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "Došlo je do greške USB veze."
+
+msgid "IDS_ST_POP_PS_ENABLED"
+msgstr "%s aktiviran."
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Isključi negativne boje"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Uključi negativne boje"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Isključi zum"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Uključi zum"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Uključi pomoćno svjetlo"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Isključi pomoćno svjetlo"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Malo memorije."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s zatvoren."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Baterija skoro prazna."
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "Prazna baterija. Telefon se isključuje."
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "Štednja energije"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Uključeno."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Isključeno."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Zvuk"
+
+msgid "IDS_ST_BODY_CAMERA"
+msgstr "Kamera"
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "Baterija puna."
+
+msgid "IDS_CST_BODY_NOTICE"
+msgstr "Obavijest"
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "Pisač spojen."
+
+msgid "IDS_COM_POP_PRINTER_DISCONNECTED_ABB2"
+msgstr "Pisač isključen."
+
+msgid "IDS_QP_BODY_UNPLUG_CHARGER"
+msgstr "Iskopčajte punjač"
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "Profil Bez mreže"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "USB kabel spojen."
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "USB kabel odspojen."
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "Tipkovnica spojena."
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "Miš spojen."
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "Kamera spojena."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "USB memorija spojena."
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "Nepoznati USB uređaj spojen."
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "USB uređaj sigurno izvađen."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "USB memorija neočekivano izvađena."
+
+msgid "IDS_COM_BODY_UNABLE_TO_USE_USB_STORAGE_AS_USB_MASS_STORAGE_ERROR_OCCURRED"
+msgstr "Nemoguće koristiti USB memoriju za USB spremanje podataka. Greška."
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "Ponovo pokretanje"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "Greška stavljanja SD kartice. Ponovno umetnite ili formatirajte SD karticu."
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s se neočekivano zatvorio."
+
+msgid "IDS_COM_POP_KEYBOARD_DISCONNECTED_ABB2"
+msgstr "Tipkovnica odspojena."
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "Stavljena SD kartica samo za čitanje."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Memorija pri kraju"
+
+msgid "IDS_ST_POP_TURN_OFF_ASSISTIVE_LIGHT_WHEN_YOU_NO_LONGER_NEED_IT"
+msgstr "Isključite pomoćno svjetlo kada vam nije više potrebno."
+
+msgid "IDS_IS_BODY_DO_NOT_SHOW_AGAIN"
+msgstr "Ne prikazuj više"
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "Pomoćno svjetlo uključeno."
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Dodirnite da biste isključili pomoćno svjetlo."
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "Odspojite USB memoriju prije vađenja zbog mogućeg gubitka podataka."
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "Odspoji"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "Pregledati kameru povezanu putem USB-a?"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "Traži"
+
+msgid "IDS_PB_HEADER_USB_STORAGE_NOT_AVAILABLE"
+msgstr "USB memorija nedostupna"
+
+msgid "IDS_COM_HEADER_USB_MASS_STORAGE_DISCONNECTED_ABB"
+msgstr "USB memorija odspojena"
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "Spojeno %d USB uređaja"
+
+msgid "IDS_EMAIL_POP_THIS_ACTION_HAS_BEEN_BLOCKED_BY_MDM_CONTACT_THE_MDM_ADMINISTRATOR"
+msgstr "MDM je blokirao radnju. Obratite se MDM administratoru."
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Baterija skoro prazna"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "Pregledati memoriju povezanu putem USB-a?"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Baterija odspojena."
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Uređaj će se ponovno pokrenuti."
+
+msgid "IDS_ST_BODY_USBSETTINGS_PRINTER"
+msgstr "Pisač"
+
+msgid "IDS_SMEMO_BODY_MOUSE_M_IDEA_SKETCH"
+msgstr "Miš"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Profil bez mreže bit će isključen."
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_ENABLED"
+msgstr "Profil bez mreže bit će uključen."
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Uređaj će se isključiti."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Opcije uređaja"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "Memorija uređaja je puna"
+
+msgid "IDS_PN_BODY_NOT_ENOUGH_STORAGE_AVAILABLE_SOME_FUNCTIONS_AND_APPLICATIONS_MAY_NOT_BE_AVAILABLE_NOTI_MSG_JPN_DCM"
+msgstr "Not enough storage available. Some functions and applications may not be available.\nOpen Settings and uninstall some apps to make space."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "Profil bez mreže  omogućuje vam da isključite značajke poziva, poruka i podatkovnih mreža. Također isključuje značajke povezivanja kao što su Wi-Fi i Bluetooth. Da biste koristili Wi-Fi i Bluetooth, uključite ih u Postavkama ili u obavijestima."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "Došlo je do greške šifriranja SD kartice."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "SD kartica šifrirana."
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Isk. Profil bez mr."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Uključi Način rada u letu"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "Šifriranje SD kartice..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "Dešifriranje SD kartice..."
+
+msgid "IDS_COM_POP_LOW_BATTERY_CHARGE_YOUR_PHONE"
+msgstr "Baterija je prazna. Napunite telefon"
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "Nema baterije"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "Upozorenja"
+
+msgid "IDS_DN_POP_DATA_DECRYPTED"
+msgstr "Podaci dešifrirani."
+
+msgid "IDS_DN_POP_DATA_ENCRYPTED"
+msgstr "Podaci šifrirani."
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "USB uređaji"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "Šifriraj SD karticu"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "Uključi čitač zaslona"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "Isključi čitač zaslona"
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "Dešifriraj SD karticu"
+
+msgid "IDS_DN_HEADER_DATA_DECRYPTION_ABB"
+msgstr "Dešifriranje podataka"
+
+msgid "IDS_DN_HEADER_DATA_ENCRYPTION_ABB"
+msgstr "Šifriranje podataka"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "Pozor"
+
+msgid "IDS_ST_BUTTON_CONTINUE_ABB"
+msgstr "Nastavak"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Upozorenje o korištenju podataka"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "Dodirnite za pregled korištenja i postavki."
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Mobilni podaci isključeni"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Prekoračeno maks. ograničenje korištenja podataka (%s). Mobilni podaci isključeni. Uključivanje mobilnih podataka može povećati troškove."
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Bez zvuka"
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "Sigurnosne odredbe sprečavaju upotrebu sinkronizacije radne površine."
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "USB memorija prazna ili s nepodržanim sustavom datoteka."
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "USB memorija sigurno izvađena."
+
+msgid "IDS_COM_BODY_OUR_PHONE_WILL_SHUT_DOWN"
+msgstr "Telefon će se isključiti."
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "Držač je spojen."
+
+msgid "IDS_EMM_MBODY_EMERGENCY_MODE_JPN_DCM"
+msgstr "Emergency mode"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "HDMI kabel spojen."
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "HDMI kabel odspojen."
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Nema odgovora"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "Hitni način"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Nemoguće šifrirati SD karticu. Nema dovoljno prostora na kartici. Potrebno je približno %.2f MB. Obrišite neke datoteke."
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Nemoguće dešifrirati SD karticu. Nema dovoljno prostora na kartici. Potrebno je približno %.2f MB. Obrišite neke datoteke."
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "SD-kartica nije šifrirana. Nije moguće isključiti šifriranje SD-kartice jer ju je uključio administrator. Šifrirati?"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "Šifr. SD kart."
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_TAP_CONTINUE_TO_DECRYPT_YOUR_SD_CARD"
+msgstr "Kako biste koristili SD karticu, ona mora biti dešifrirana. Dotaknite Nastavi kako biste dešifrirali SD karticu."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "Nemoguće napuniti bateriju. Temperatura telefona je previsoka."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "Nemoguće napuniti bateriju. Temperatura telefona je preniska."
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "Spojen kao medijski uređaj"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "Spojen USB ur. samo za čit."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Punjenje zaustavljeno. Napon previsok."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "Došlo je do greške šifriranja SD kartice."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "SD kartica dešifrirana."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION"
+msgstr "Šifriranje SD kartice"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_HAS_BEEN_ENABLED"
+msgstr "Uključeno je šifriranje SD-kartice."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Zaslon isključen."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Baterija skoro prazna. Uređaj se isključuje."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Baterija je kritično niska. Napunite svoj Gear ubrzo za nastavak korištenja."
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "Onemogući šifriranje"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "Omogući šifriranje"
+
+msgid "IDS_ACCS_POP_EMERGENCY_MODE_AND_SCREEN_READER_CANNOT_BOTH_BE_ENABLED_GO_TO_SETTINGS_TO_DISABLE_SCREEN_READER_Q"
+msgstr "Hitni način i Čitač zaslona ne mogu oboje biti uključeni. Ići u Postavke i isključiti Čitač zaslona?"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Baterija pri kraju. Potrebno skoro punjenje."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Baterija gotovo prazna"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Baterija je kritično niska. Napunite svoj Gear sada za nastavak korištenja."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Baterija je gotovo prazna. Vaš će se Gear odspojiti od mobilnog uređaja. Možete koristiti samo zadani sat. Napunite Gear sada da biste ga nastavili koristiti."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Baterija je kritično niska. Možete koristiti samo zadani sat. Napunite svoj Gear sada za nastavak korištenja."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Punjenje privremeno zaustavljeno. Temperatura baterije je previsoka ili preniska."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Punjenje zaustavljeno. Temperatura baterija preniska."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Punjenje zaustavljeno. Temperatura baterija previsoka."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Baterija prazna"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Način Vani"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Uređaj se isključuje."
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Nakon %1$d minuta svjetlina će se resetirati na zadanu razinu (%2$d)."
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Svjetlina"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "Punjenje zaustavljeno zbog previsoke temperature"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "Isključivanje"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_TAP_CONTINUE_TO_ENCRYPT_YOUR_SD_CARD"
+msgstr "Kako biste koristili SD karticu, ona mora biti šifrirana. Dotaknite Nastavi kako biste šifrirali SD karticu."
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "Kasnije"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "Dešifriraj SD karticu"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "Uključi"
+
+msgid "IDS_TPLATFORM_BODY_POWER_OFF_THE_DEVICE_Q"
+msgstr "Isključiti uređaj?"
+
+msgid "IDS_TPLATFORM_BODY_RESTART_THE_DEVICE_Q"
+msgstr "Ponovno pokrenuti uređaj?"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "Isključiti Profil bez mreže?"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "Isklj."
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_CALLING_MESSAGING_AND_MOBILE_NETWORK_FUNCTIONS"
+msgstr "Profil Bez mreže omogućuje vam da isključite funkcije poziva, poruka i mobilne mreže."
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s ne reagira. Zatvoriti %s?"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "Isključi"
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "Uklonite punjač."
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "Spojite u utičnicu da biste napunili uređaj i zatvorite nekorištene aplikacije pomoću Upravitelja zadataka. Dugotrajno korištenje za vrijeme punjenja može smanjiti učinkovitost punjenja."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Isključen čitač zaslona."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Uključen čitač zaslona."
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "Uključi Hitni način"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "Isključi Hitni način"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Pričekaj"
+
+msgid "IDS_PH_HEADER_ERROR_ABB"
+msgstr "Greška"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "USB memorija"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "Kamera"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "Vaš uređaj se pregrijava. Isključit će se da se ohladi."
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "Ne isključujte"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "Uređaj se automatski isključio"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "Vaš se uređaj pregrijao. Isključio se da bi se spriječilo oštećenje.\n\nPregrijavanje mogu uzrokovati:\nKorištenje aplikacija intenzivne grafike na duže vrijeme, kao što su igre ili aplikacije za navigaciju.\nPrenošenje velikih datoteka.\nUporaba uređaja u vrućem okruženju."
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "Kako biste koristili SD karticu, ona mora biti dešifrirana. Dešifrirati SD karticu ili uključiti šifriranje uređaja?"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "Kako biste koristili SD karticu, ona mora biti šifrirana. Šifrirati SD karticu ili isključiti šifriranje uređaja?"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "Isklj. Siguran način rada"
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "Isključivanjem Sigurnog načina vaš će se uređaj ponovno pokrenuti. Isključiti?"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "Baterija prazna. Pomoćno svjetlo će se isključiti."
+

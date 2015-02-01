@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Ezeztatu"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Isilarazi"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Ados"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d minutu ondoren, argitasuna lehenetsitako mailan berrezarriko da (%2$d)"
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "Desaktibatuta"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "Aktibatuta"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Air. li. modua"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Argitasuna"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Dardara"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Itxi"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Itzali"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Ez dago memoria nahikoa"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Memoria gutxi"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s itxita"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Bateria gutxi"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Gaituta"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Ezgaituta"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Soinua"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s ezustean itxi da"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Memoria gutxi gelditzen da"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Bateria gutxi"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Gailua berrabiaraziko da"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Gailuaren aukerak"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Isilarazi"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Kargatzea etenda. Tentsioa altuegia da."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Bateria oso baxu. Telefonoa orain itzaliko da."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Bateria baxu dago. Kargatu zure Gear laster hura erabiltzen jarraitzeko."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Bateria baxu. Birkargatu gailua laster, erabiltzen jarraitzeko."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Bateria oso baxu dago"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Bateria oso baxu dago. Kargatu zure Gear orain hura erabiltzen jarraitzeko."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Bateria oso baxu dago. Zure Gear zure gailu mugikorretik deskonektatuko da. Lehenetsitako erlojua soilik erabil dezakezu. Kargatu zure Gear orain, erabiltzen jarraitzeko."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Bateria oso baxu dago. Lehenetsitako erlojua soilik erabil dezakezu. Kargatu zure Gear orain, erabiltzen jarraitzeko."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Karga etenda. Bateriaren tenperatura altuegia edo baxuegia da."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Kargatzea etenda. Bateriaren tenperatura baxuegia da."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Kargatzea etenda. Bateriaren tenperatura altuegia da."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Bateria baxu"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Gailua itzali egingo da"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Berrabiarazi"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Memoria beteta"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Ezin da grabatu. Ez dago nahikoa espazio zure Gear biltegian."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Bateria aurrezteko ultramodua ezgaitzeko, zure gailua berrabiaraziko da."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Akatsa"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Bateria aurrezteko ultramodua"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "Ez errepik."
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Bateria deskonektatu da"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Bat. aurr."
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Bateria aurrezlea gaituko da. Horrek CPUaren gehieneko errendimendua murriztuko du, Bluetootha itzaliko du eta pantailan indar maila txikiagoa erabiliko du. Esnatze keinua, Ahots kontrola eta Bibrazioa ez dira erabilgarri egongo. Erlojua eta S Health funtzioak erabilgarri egongo dira."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Bateria aurrezlea ezgaitu da."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Bateria aurrezlea gaitu da."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "Hegaldi modua"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "Hegaldi moduak deiak eta mezularitza funtzioak ezgaitzea ahalbidetzen dizu. Datu mugikorrak eta Bluetooth ere itzaliko ditu. Bluetooth erabiltzeko, piztu Ezarpenetan."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Gaitu Hegaldi modua"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Ezgaitu Hegaldi modua"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Hegaldi modua desgaituko da."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "Sartu SIM txartela sare zerbitzuetan sartzeko."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "Datu mugik."
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "Piztu datu mugikorrak"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "Itzali datu mugikorrak"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "Bateraezina"
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "Ezin dira datu mugikorrak piztu Bluetooth bidez konektatuta bazaude."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "Zure sare mugikorrera konektatuko zara. Baliteke kostu osagarriak eragitea."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "Datu mugikorrak itzaltzen badituzu, ezingo dituzu jakinarazpenak jaso edo sare mugikor bidezko konexioa behar duten aplikazioak erabili. Datu mugikorrak itzaliko dira."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "Hegaldi moduak dei eta mezularitza funtzioak ezgaitzen ditu, eta datu mugikorrak eta konektibitate funtzioak itzaltzen ditu, adibidez, Wi-Fi eta Bluetooth. Wi-Fi eta Bluetooth erabiltzeko, piztu itzazu ezarpenetan."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "Bateria aurrezteko, gaitu Bateria aurrezteko ultramoduak."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Erabilgarritasuna"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Ezarpenak"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "Gaitu"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s-(e)k ez du erantzuten. Itxi %s?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Erantzunik ez"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Itxaron"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Gehienezko datu erabilera muga (%s) gainditu duzu. Datu mugikorrak ezgaituta. Baliteke datu mugikorrak gaitzeak kostu osagarriak eragitea."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Mugikorraren datuak desgaituta"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "Ezgaitu Ener. aurrez."
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "Gaitu Bat. aurrez."
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "Bateria aurreztea"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "Datu erabileraren gehieneko mugara (%s) iritsi zara ia. Ukitu Ezarpenak, datu erabilera egiaztatzeko."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "Datu erabilera muga zehaztura iritsi zara. Datu gehiago erabiltzen badituzu zerbitzu hornitzaileak kobratu egingo dizu."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "Datu erabiltze mugatua"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Datu erabileraren abisua"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "Gaitu Bateria aurrezteko modua"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "Ezgaitu Bateria aurrezteko modua"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Pantaila itzalita."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Pantaila irakurgailua gaituta."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Pantaila irakurgailua ezgaituta."
+

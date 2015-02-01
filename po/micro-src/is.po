@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Hætta við"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Þögn"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Í lagi"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Eftir %1$d mínútur verður birtustig stillt á sjálfgefna stillingu (%2$d)."
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "Slökkt"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "Kveikt"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Utandyra"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Birtustig"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Titringur"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Loka"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Slökkt"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Ekki er nægt minni."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Það er of lítið minni."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s var lokað."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Rafhlaðan er að tæmast."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Gert virkt."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Gert óvirkt."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Hljóð"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s var óvænt lokað."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Lítið minni eftir"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Rafhlaðan er að tæmast"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Tækið endurræsist."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Valkostir tækis"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Þögn"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Hlé var gert á hleðslu. Of mikil spenna."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Rafhlaðan er alveg að tæmast. Slökkt verður á tækinu."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Hleðsla rafhlöðunnar er lítil. Settu Gear í hleðslu bráðum til að halda notkun þess áfram."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Lítil hleðsla er á rafhlöðunni. Hladdu tækið til að halda áfram að nota það."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Hleðsla rafhlöðu er mjög lítil"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Hleðsla rafhlöðunnar er mjög lítil. Settu Gear í hleðslu núna til að halda notkun þess áfram."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Mjög lítil hleðsla er á rafhlöðunni. Gear verður aftengt frá fartækinu. Þú getur aðeins notað sjálfgefnu klukkuna. Settu Gear í hleðslu núna til að halda notkun þess áfram."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Það er mjög lítil hleðsla á rafhlöðunni. Þú getur aðeins notað sjálfgefnu klukkuna. Settu Gear í hleðslu núna til að halda notkun þess áfram."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Hlé varð á hleðslu.\nRafhlaða er of heit eða of köld."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Hlé var gert á hleðslu. Rafhlaðan er of köld."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Hlé var gert á hleðslu. Rafhlaðan er of heit."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Lítil hleðsla"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Tækið slekkur á sér."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Endurræsa"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Geymsla full"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Ekki er hægt að taka upp. Ekki er nægt rými í minni Gear."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Tækið verður endurræst til að slökkva á ofursparnaðarstillingu."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Villa."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Ofursparnaðarstilling"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "Ekki endurt."
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Rafhlaða aftengd."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Orkusparn."
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Kveikt verður á orkusparnaði. Þetta takmarkar hámarksafköst örgjörvans, slekkur á Bluetooth og notar minni orku fyrir skjáinn. Vakningarbending, raddstýring og titringur verða ekki í boði. Klukkan og eiginleikar S Health verða áfram í boði."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Slökkt á orkusparnaði."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Kveikt á orkusparnaði."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "Flugstilling"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "Flugstilling gerir þér kleift að slökkva á símtölum og skilaboðum. Einnig er slökkt á farsímagögnum og Bluetooth. Hægt er að nota Bluetooth með því að kveikja á því í stillingum."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Kveikja á flugstillingu"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Slökkva á flugstill."
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Flugstilling verður gerð óvirk."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "Setjið SIM kort í til að fá aðgang að netþjónustu."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "Farsímagögn"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "Kveikja á farsímagögnum"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "Slökkva á farsímagögnum"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "Óstutt."
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "Ekki er hægt að kveikja á farsímagögnum þegar Bluetooth-tenging er virk."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "Tengingu verður komið á í gegnum farsímakerfið þitt. Þetta getur haft viðbótarkostnað í för með sér."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "Ef þú slekkur á farsímagögnum færðu hvorki tilkynningar né geturðu notað forrit sem krefjast tengingar við farsímakerfi. Slökkt verður á farsímagögnum."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "Flugstilling slekkur á símtölum og skilaboðaeiginleikum. Hún slekkur einnig á farsímagögnum og tengieiginleikum eins og Wi-Fi og Bluetooth. Til að nota Wi-Fi og Bluetooth skaltu kveikja á þeim undir „Stillingar“."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "Sparaðu hleðslu rafhlöðunnar með ofursparnaðarstillingu."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Aðgengi"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Stillingar"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "Gera virkt"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s svarar ekki. Viltu loka %s?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Ekkert svar"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Bíða"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Hámarki gagnanotkunar (%s) er náð. Farsímagögn óvirk. Virkjun farsímagagna kann að hafa kostnað í för með sér."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Farsímagögn óvirk"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "Slökkva á orkusp."
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "Kveikja á orkusp."
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "Orkuspar-\nnaður"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "Hámarki gagnanotkunar (%s) hefur næstum því verið náð. Pikkaðu á „Stillingar“ til að skoða gagnanotkun þína."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "Tilgreindu hámarki gagnanotkunar náð. Meiri gagnanotkun getur haft í för með sér gjöld frá þjónustuveitu."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "Takmarka gagnanotkun"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Gagnanotkunarviðvörun"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "Kveikja á orkusparnaði"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "Slökkva á orkusparnaði"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Slökkt á skjá."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Kveikt á skjálesara."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Slökkt á skjálesara."
+

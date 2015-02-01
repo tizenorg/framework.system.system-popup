@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Скасувати"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Вимк. звук"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ОК"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Через %1$d хв. буде встановлено стандартний рівень яскравості (%2$d)."
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "Вимкнено"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "Увімкнено"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Реж. «На вул.»"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Яскравість"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Вібрація"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Закрити"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Вимкнути пристрій"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Недостатньо пам'яті."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Батарея розряджена."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s закрито."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Батарея розряджена."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Увімкнено."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Вимкнено."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Звук"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s неочікувано припинила свою роботу."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Недостатньо пам’яті"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Батарея розряджена"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Пристрій буде перезапущено."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Опції пристрою"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Без звуку"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Зарядження призупинено. Зависока напруга."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Критично низький заряд акумулятора. Пристрій буде вимкнено."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Низький заряд акумулятора. Якнайшвидше зарядіть пристрій Gear, щоб продовжити його використання"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Акумулятор розряджений. Якнайшвидше зарядіть пристрій, щоб продовжити його використання."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Критично низький заряд акумулятора"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Критично низький заряд акумулятора. Зарядіть пристрій Gear, щоб продовжити його використання"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Критично низький заряд акумулятора. Пристрій Gear буде відключено від мобільного пристрою. Можна використовувати лише стандартний годинник. Зарядіть пристрій Gear, щоб продовжити його використання."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Критично низький заряд акумулятора. Можна використовувати лише стандартний годинник. Зарядіть Ваш Gear, щоб продовжити його використання"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Зарядження призупинено.\nТемпература батареї зависока або занизька."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Зарядження призупинено. Занизька температура акумулятора."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Зарядження призупинено. Зависока температура акумулятора."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Акумулятор розряджений"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Пристрій буде вимкнено."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Перезавантажити"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Міс.збер.заповн."
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Неможливо записати. Недостатньо вільного місця у місці збереження Gear."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Для вимкнення удосконаленого режиму енергозбереження потрібно перезапустити пристрій."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Помилка"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Удосконалений режим енергозбереження"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "Не повтор."
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Акумулятор від’єднано."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Енергозбер."
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Режим енергозбереження буде ввімкнено. Це призведе до обмеження максимальної продуктивності ЦП, вимкнення функції Bluetooth і встановлення нижчого рівня живлення для екрана. Жест пробудження, функція керування за допомогою голосових команд і відтворення вібрації будуть недоступні. Годинник і функції S Health можна буде використовувати й надалі."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Режим енергозбереження вимкнено."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Режим енергозбереження увімкнено."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "Режим без зв’язку"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "У режимі без зв’язку можна вимкнути функції викликів і обміну повідомленнями. Крім того, у цьому режимі вимкнено функцію використання мобільних даних і Bluetooth. Щоб скористатися Bluetooth, увімкніть його в розділі «Установки»."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Увімк. режим без зв’язку"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Вимк.реж.без зв’язку"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Буде вимкнено режим без зв’язку."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "Щоб отримати доступ до послуг мережі, вставте SIM-карту."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "Мобіл. дані"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "Увімкнути викор. мобіл. даних"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "Вимкнути викор. мобіл. даних"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "Не підтримується."
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "Неможливо ввімкнути функцію використання мобільних даних під час підключення через Bluetooth."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "Буде встановлено підключення до мобільної мережі. Це може призвести до додаткових витрат."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "У разі ввімкнення функції використання мобільних даних неможливо буде отримувати сповіщення або використовувати програми, для яких потрібне підключення до мобільної мережі. Функцію використання мобільних даних буде вимкнено."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "У режимі без зв’язку вимкнено функції викликів та обміну повідомленнями, функції використання мобільних даних і підключення, такі як Wi-Fi та Bluetooth. Щоб скористатися Wi-Fi та Bluetooth, увімкніть їх в розділі «Установки»."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "Щоб заощадити заряд акумулятора, увімкніть удосконалений режим енергозбереження."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Спеціальні можливості"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Налаштування"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "Увімкнути"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "Користувач %s не відповідає. Закрити %s?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Немає відповіді"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Зачекайте"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Перевищено максимальне обмеження на використання даних (%s). Використання мобільних даних вимкнено. Увімкнення використання мобільних даних може призвести до додаткових витрат."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Використання мобільних даних вимкнено"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "Вимк.реж.енергозбер."
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "Увім.реж.енергозбер."
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "Енерго-\nзбереження"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "Майже досягнуто максимального обмеження на використання даних (%s). Торкніться «Налаштування», щоб перевірити використання даних."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "Досягнуто вказаного обмеження на використання даних. Подальше використання даних може призвести до стягнення плати оператором зв’язку."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "Обмеження на використання даних"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Попередження стосовно використання даних"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "Увімкнути режим енергозбереження"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "Вимкнути режим\nенергозбереження"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Екран вимкнено."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Програму читання з екрана увімкнено."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Програму читання з екрана вимкнено."
+

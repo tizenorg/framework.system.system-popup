@@ -1,8 +1,12 @@
 <manifest>
 	<define>
-		<domain name="org.tizen.usb-syspopup"/>
+		<domain name="usb-syspopup"/>
 	</define>
+	<assign>
+		<filesystem path="/usr/apps/org.tizen.usb-syspopup/bin/usb-syspopup"       label="usb-syspopup" exec_label="usb-syspopup"/>
+		<filesystem path="/usr/apps/org.tizen.usb-syspopup/res/icons/usb_icon.png" label="_"/>
+	</assign>
 	<request>
-		<domain name="org.tizen.usb-syspopup"/>
+		<domain name="usb-syspopup"/>
 	</request>
 </manifest>
