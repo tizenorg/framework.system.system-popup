@@ -1,0 +1,549 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Тоқтату"
+
+msgid "IDS_ST_BODY_KEYBOARD"
+msgstr "Пернетақта"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Камера"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Қондырғылар"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Қол жетімділік"
+
+msgid "IDS_USB_POP_CONNECTING_KIES_VIA_USB_WILL_TURN_OFF_KIES_VIA_WI_FI_CONTINUE_Q"
+msgstr "Kies желісі USB арқылы қосылғанда, Kies желісі Wi-Fi арқылы өшеді. Жалғастыру керек пе?"
+
+msgid "IDS_USB_POP_SAMSUNG_KIES_MODE_ENABLED"
+msgstr "Samsung Kies режимі қосылды."
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Діріл"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Жабу"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Сөндіру"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Жүйе. ақп."
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Қайтадан бастау"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Жадында орын аз."
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "MMC деректері басталуда..."
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "Қтл"
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "USB қосылмады"
+
+msgid "IDS_ST_POP_PS_ENABLED"
+msgstr "%s қосылды."
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Теріс түстерді өшіру"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Теріс түстерді қосу"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Масштаб өшіру"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Масштаб қосу"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Көмекші шамды қосу"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Көмекші шамды өшіру"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Батарея заряды аз."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s жабық."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Батареяның заряды  аз."
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "Батарея заряды аз. Телефон өшеді."
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "Қуат үнемдеу"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Қосылған"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Өшірілген"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Дыбыс"
+
+msgid "IDS_ST_BODY_CAMERA"
+msgstr "Камера"
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "Батарея толық зарядталған."
+
+msgid "IDS_CST_BODY_NOTICE"
+msgstr "Ескерту"
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "Принтер қосылды."
+
+msgid "IDS_COM_POP_PRINTER_DISCONNECTED_ABB2"
+msgstr "Принтер ажыратылды."
+
+msgid "IDS_QP_BODY_UNPLUG_CHARGER"
+msgstr "Зарядтағышты ажырату"
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "Ұшу режимі"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "USB коннекторы қосылған."
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "USB коннекторы ажыратылған."
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "Пернетақта қосылды."
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "Тінтуір қосылды."
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "Камера қосылды."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "USB жалпы жады қосылды."
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "Белгісіз USB құрылғысы қосылған."
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "USB құрылғысы қауіпсіз алынды."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "USB сақтау құрылғысы байқаусызда алынды."
+
+msgid "IDS_COM_BODY_UNABLE_TO_USE_USB_STORAGE_AS_USB_MASS_STORAGE_ERROR_OCCURRED"
+msgstr "Ішкі телефон жадын USB жалпы сақтау құралы ретінде пайдалану мүмкін емес. Қате пайда болды."
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "Қайта бастау"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "SD картасы шығарылмады. SD картасын қайта салыңыз немесе пішімдеңіз."
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s байқаусызда жабылды."
+
+msgid "IDS_COM_POP_KEYBOARD_DISCONNECTED_ABB2"
+msgstr "Пернетақта ажыратылды."
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "Салынған SD картасын тек оқу үшін."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Жадта бос орын аз қалды"
+
+msgid "IDS_ST_POP_TURN_OFF_ASSISTIVE_LIGHT_WHEN_YOU_NO_LONGER_NEED_IT"
+msgstr "Қажет болмаған жағдайда көмекші шамды өшіріңіз."
+
+msgid "IDS_IS_BODY_DO_NOT_SHOW_AGAIN"
+msgstr "Қайта көрсетпеңіз"
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "Көмекші шам қосулы."
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Көмекші жарықты өшіру үшін түртіңіз."
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "Деректердің жоғалуына жол бермеу үшін алардың алдында USB сақтау құрылғысын босатыңыз."
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "Шығару"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "USB арқылы қосылған камераны табу керек пе?"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "Шолу"
+
+msgid "IDS_PB_HEADER_USB_STORAGE_NOT_AVAILABLE"
+msgstr "Ішкі телефон жады жоқ"
+
+msgid "IDS_COM_HEADER_USB_MASS_STORAGE_DISCONNECTED_ABB"
+msgstr "USB жалпы жады ажыратылды"
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "%d USB құрылғы қосылған"
+
+msgid "IDS_EMAIL_POP_THIS_ACTION_HAS_BEEN_BLOCKED_BY_MDM_CONTACT_THE_MDM_ADMINISTRATOR"
+msgstr "Бұл әрекет MDM әкімшісімен бұғатталды. MDM әкімшісіне хабарласыңыз."
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Батареяның заряды  аз"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "USB арқылы қосылған жадты шолу керек пе?"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Батарея ажыратылған."
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Құрылғы өшіп қосылады."
+
+msgid "IDS_ST_BODY_USBSETTINGS_PRINTER"
+msgstr "Басып шығарғыш"
+
+msgid "IDS_SMEMO_BODY_MOUSE_M_IDEA_SKETCH"
+msgstr "Тышқан"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Ұшу режимі өшіріледі."
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_ENABLED"
+msgstr "Ұшу режимі қосылады."
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Құрылғы қазір өшеді."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Құрылғы опциялары"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "Құрылғы жады толы"
+
+msgid "IDS_PN_BODY_NOT_ENOUGH_STORAGE_AVAILABLE_SOME_FUNCTIONS_AND_APPLICATIONS_MAY_NOT_BE_AVAILABLE_NOTI_MSG_JPN_DCM"
+msgstr "Not enough storage available. Some functions and applications may not be available.\nOpen Settings and uninstall some apps to make space."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "Ұшу режимі қоңырау шалу, хабар алмасу және деректер желісі мүмкіндіктерін өшіруге рұқсат береді. Сондай-ақ, Wi-Fi және Bluetooth секілді қосылу мүмкіндіктерін өшіруге рұқсат береді. Wi-Fi және Bluetooth пайдалану үшін оларды \"Параметрлер\" ішінде немесе хабарландыру тақтасында қосыңыз."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "SD картасын шифрсыздандыру қатесі орын алды."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "SD картасы шифрланды."
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Ұшу режимін өшіру"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Ұшу режимін қосыңыз"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "SD картасы шифрлануда..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "SD картасының шифры ашылуда..."
+
+msgid "IDS_COM_POP_LOW_BATTERY_CHARGE_YOUR_PHONE"
+msgstr "Батарея заряды аз. Телефоныңызды зарядтаңыз"
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "Қуат көзі жоқ"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "Ескерту хабары"
+
+msgid "IDS_DN_POP_DATA_DECRYPTED"
+msgstr "Деректердің шифры ашылды."
+
+msgid "IDS_DN_POP_DATA_ENCRYPTED"
+msgstr "Деректер шифрланды."
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "USB құрылғылары"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "SD картасын шифрлау"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "Экран оқу құралын қосу"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "Экран оқу құралын өшіру"
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "SD картасын шифрсыздандыру"
+
+msgid "IDS_DN_HEADER_DATA_DECRYPTION_ABB"
+msgstr "Деректер шифрын ашу"
+
+msgid "IDS_DN_HEADER_DATA_ENCRYPTION_ABB"
+msgstr "Деректерді шифрлау"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "Назар аударыңыз"
+
+msgid "IDS_ST_BUTTON_CONTINUE_ABB"
+msgstr "Жалғ-ру"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Деректер пайдалануды ескерту"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "Пайдалану мен параметрлерді көру үшін түртіңіз."
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Ұялы деректер өшірілді"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Ең көп деректер пайдалану шегінен (%s) асып кетті. Ұялы деректер өшірілді. Ұялы деректер қосуға қосымша ақылар алынуы мүмкін."
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Дыбыссыз"
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "Қауіпсіздік саясаты жұмыс үстелін синхрондауға жол бермейді."
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "USB сақтау құрылғысы бос немесе құрамында қолданылмайтын файл жүйесі бар."
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "USB жалпы сақтау құралы қауіпсіз алынды."
+
+msgid "IDS_COM_BODY_OUR_PHONE_WILL_SHUT_DOWN"
+msgstr "біздің телефонымыз өшіп қалады."
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "Док қосылды."
+
+msgid "IDS_EMM_MBODY_EMERGENCY_MODE_JPN_DCM"
+msgstr "Emergency mode"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "HDMI кабелі қосылған."
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "HDMI кабелі ажыратылған."
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Жауап жоқ"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "Төтенше режим"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "SD картасын шифрлау мүмкін емес. Картада бос орын жеткіліксіз. Шамамен %.2f МБ қажет. Кейбір файлдарды жойыңыз."
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "SD картасын шифрсыздандыру мүмкін емес. Картада бос орын жеткіліксіз. Шамамен %.2f МБ қажет. Кейбір файлдарды жойыңыз."
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "SD картасы шифрланбаған. SD картасын шифрлауды өшіруге болмайды, себебі ол әкімшімен қосылған. Шифрлау керек пе?"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "SD карт. шифр-у"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_TAP_CONTINUE_TO_DECRYPT_YOUR_SD_CARD"
+msgstr "SD картасын пайдалану үшін оны шифрсыздандыру керек. SD картасын шифрсыздандыру үшін \"Жалғастыру\" опциясын түртіңіз."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "Батареяны зарядтау мүмкін емес. Телефон температурасы өте жоғары."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "Батареяны зарядтау мүмкін емес. Телефон температурасы өте төмен."
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "Мультимедиалық құрылғы ретінде қосылды"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "Тек оқуға арн.USB құр.қос-ы"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Зарядтау уақытша тоқтатылды. Кернеу тым жоғары."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "SD картасын шифрлау қатесі орын алды."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "SD картасы шифрсыздандырылды."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION"
+msgstr "SD картасын шифрлау"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_HAS_BEEN_ENABLED"
+msgstr "SD картасын шифрлау қосылды."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Экран өшірілген."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Батарея заряды өте төмен. Құрылғы қазір өшіп қалады."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Батарея қуаты төмен. Gear құрылғысын қолданыста ұстап тұру үшін жақын арада зарядтаңыз"
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "Шифрлауды өшіру"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "Шифрлауды қосу"
+
+msgid "IDS_ACCS_POP_EMERGENCY_MODE_AND_SCREEN_READER_CANNOT_BOTH_BE_ENABLED_GO_TO_SETTINGS_TO_DISABLE_SCREEN_READER_Q"
+msgstr "Төтенше режим мен экран оқу құралын бірге іске қосу мүмкін емес. Экран оқу құралын өшіру үшін параметрлерге өтесіз бе?"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Батарея заряды аз. Пайдалана беру үшін құрылғыны кейінірек қайта зарядтаңыз."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Батарея заряды өте төмен"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Батарея қуаты өте төмен. Gear құрылғысын қолданыста ұстап тұру үшін қазір зарядтаңыз"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Батарея қуаты тым төмен. Сіздің Gear мобильді құрылғыдан ажыратылады. Тек әдепкі сағатты пайдалануыңызға болады. Пайдалануды сақтау үшін Gear қайта зарядтаңыз."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Батарея қуаты өте төмен. Әдепкі сағатты ғана пайдалануға болады. Gear құрылғысын пайдалануды жалғастыру үшін, оны қазір зарядтаңыз"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Зарядтау тоқтатылды.\nБатареяның температурасы тым жоғары немесе төмен."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Зарядтау уақытша тоқтатылды. Батарея температурасы тым төмен."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Зарядтау уақытша тоқтатылды. Батарея температурасы тым жоғары."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Батарея заряды аз"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Сыртқы режим"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Құрылғы өшеді."
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d минуттан кейін, ашықтық әдепкі деңгейіне (%2$d) қалпына келтіріледі."
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Ашықтығы"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "Зарядтау температураға байланысты уақытша тоқтатылды"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "Өшіру"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_TAP_CONTINUE_TO_ENCRYPT_YOUR_SD_CARD"
+msgstr "SD картасын пайдалану үшін оны шифрлау керек. SD картасын шифрлау үшін \"Жалғастыру\" опциясын түртіңіз."
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "Кейінірек"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "SD картасын шифрсыздандыру"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "Қосу"
+
+msgid "IDS_TPLATFORM_BODY_POWER_OFF_THE_DEVICE_Q"
+msgstr "Құрылғыны өшіру керек пе?"
+
+msgid "IDS_TPLATFORM_BODY_RESTART_THE_DEVICE_Q"
+msgstr "Құрылғыны қайта қосу керек пе?"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "Ұшу режимін өшіру керек пе?"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "Өшіру"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_CALLING_MESSAGING_AND_MOBILE_NETWORK_FUNCTIONS"
+msgstr "Ұшу режимі қоңырау шалу, хабар алмасу және ұялы желі функцияларын өшіруге мүмкіндік береді."
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s жауап бермейді. %s жабу керек пе?"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "Өшіру"
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "Заряд құрылғысын алып тастау."
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "Құрылғыны зарядтау үшін штепселді ұяға жалғап, тапсырма реттеушісі арқылы пайдаланылмаған бағдарламалардан шығыңыз. Зарядтау кезінде ұзақ пайдалану тиімді зарядтауға жол бермеуі мүмкін."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Экран оқу құралы қосылды."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Экран оқу құралы өшірілді."
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "Төтенше режимді іске қосу"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "Төтенше режимді өшіру"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Күте тұрыңыз"
+
+msgid "IDS_PH_HEADER_ERROR_ABB"
+msgstr "Қате"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "Ішкі телефон жады"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "Камера"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "Құрылғыңыз қызып кетті. Оны салқындату үшін оның қуаты өшіріледі."
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "Қуатты өшірмеу"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "Құрылғының қуаты автоматты түрде өшіріледі"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "Құрылғыңыз қызып кетті. Зақымдалудың алдын алу үшін қуат өшіріледі.\n\nҚызып кетудің себептері:\nОйындар және навигация бағдарламалары сияқты графикасы жоғары бағдарламаларды ұзақ уақыт пайдалану.\nҮлкен файлдарды тасымалдау.\nҚұрылғыңызды ыстық ортада пайдалану."
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "SD картасын пайдалану үшін, оны шифрсыздандыру керек. SD картасын шифрсыздандыру немесе құрылғыны шифрлауды қосу керек пе?"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "SD картасын пайдалану үшін оны шифрлау керек. SD картасын шифрлау немесе құрылғыны шифрлауды қосу керек пе?"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "Қауіпсіз режимді өшіру"
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "Қауіпсіз режимді өшіру құрылғыңызды қайта қосады. Өшіру керек пе?"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "Батарея заряды аз. Көмекші шам өшіріледі."
+

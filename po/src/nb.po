@@ -1,0 +1,549 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Avbryt"
+
+msgid "IDS_ST_BODY_KEYBOARD"
+msgstr "Tastatur"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Kamera"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Innstillinger"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Tilgjengelighet"
+
+msgid "IDS_USB_POP_CONNECTING_KIES_VIA_USB_WILL_TURN_OFF_KIES_VIA_WI_FI_CONTINUE_Q"
+msgstr "Tilkobling til Kies via USB vil slå av Kies via Wi-Fi. Fortsette?"
+
+msgid "IDS_USB_POP_SAMSUNG_KIES_MODE_ENABLED"
+msgstr "Samsung Kies-modus aktivert."
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibrasjon"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Lukk"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Slå av"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Systeminfo"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Omstart"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Ikke nok minne."
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "MMC-data initialiserer..."
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "Gjenta"
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "USB-tilkobling mislyktes."
+
+msgid "IDS_ST_POP_PS_ENABLED"
+msgstr "%s aktivert."
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Deaktiver negative farger"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Aktiver negative farger"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Deaktiver zoom"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Aktiver zoom"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Skru på hjelpelys"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Skru av hjelpelys"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Lite minne."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s lukket."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Lavt batterinivå."
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "Lavt batteri. Telefonen slåes av."
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "Strøm- sparing"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Aktivert."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Deaktivert"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Lyd"
+
+msgid "IDS_ST_BODY_CAMERA"
+msgstr "Kamera"
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "Batteri fulladet."
+
+msgid "IDS_CST_BODY_NOTICE"
+msgstr "Merknad"
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "Skriver tilkoblet."
+
+msgid "IDS_COM_POP_PRINTER_DISCONNECTED_ABB2"
+msgstr "Skriver frakoblet."
+
+msgid "IDS_QP_BODY_UNPLUG_CHARGER"
+msgstr "Ta ut laderen"
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "Flymodus"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "USB-kontakt tilkoblet."
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "USB-kontakt frakoblet."
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "Tastatur tilkoblet."
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "Mus tilkoblet."
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "Kamera tilkoblet."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "USB-masselagringsenh. tilkobl."
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "Ukjent USB-enhet tilkoblet."
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "USB-enhet trygt fjernet."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "USB-masselagring ble uventet fjernet."
+
+msgid "IDS_COM_BODY_UNABLE_TO_USE_USB_STORAGE_AS_USB_MASS_STORAGE_ERROR_OCCURRED"
+msgstr "Kan ikke bruke USB-lagring som USB-masselagring. Det oppstod en feil."
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "Omstart"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "Kunne ikke montere SD-kort. Sett inn eller formater SD-kortet på nytt."
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s har uventet lukket."
+
+msgid "IDS_COM_POP_KEYBOARD_DISCONNECTED_ABB2"
+msgstr "Tastatur frakoblet."
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "Skrivebeskyttet SD-kort montert."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Lite gjenværende minne"
+
+msgid "IDS_ST_POP_TURN_OFF_ASSISTIVE_LIGHT_WHEN_YOU_NO_LONGER_NEED_IT"
+msgstr "Slå av hjelpelys når du ikke trenger det lenger."
+
+msgid "IDS_IS_BODY_DO_NOT_SHOW_AGAIN"
+msgstr "Ikke vis igjen"
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "Hjelpelys er på."
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Trykk for å skru av hjelpelys."
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "Løs ut USB-masselagring før du fjerner den for å unngå datatap."
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "Løs ut"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "Se gjennom kameraet som er koblet til med USB?"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "Bla gjen."
+
+msgid "IDS_PB_HEADER_USB_STORAGE_NOT_AVAILABLE"
+msgstr "USB-minne ikke tilgjengelig"
+
+msgid "IDS_COM_HEADER_USB_MASS_STORAGE_DISCONNECTED_ABB"
+msgstr "USB-masselagringsenhet frakoblet"
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "%d USB-enheter koblet til"
+
+msgid "IDS_EMAIL_POP_THIS_ACTION_HAS_BEEN_BLOCKED_BY_MDM_CONTACT_THE_MDM_ADMINISTRATOR"
+msgstr "Denne handlingen har blitt blokkert av MDM. Kontakt MDM-administratoren."
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Lavt batterinivå"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "Se gjennom lagringsmediet som er koblet til via USB?"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Batteri koblet fra."
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Enheten starter på nytt."
+
+msgid "IDS_ST_BODY_USBSETTINGS_PRINTER"
+msgstr "Printer"
+
+msgid "IDS_SMEMO_BODY_MOUSE_M_IDEA_SKETCH"
+msgstr "Mus"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Flymodus blir deaktivert."
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_ENABLED"
+msgstr "Flymodus blir aktivert."
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Enheten din vil nå bli slått av."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Enhetsalternativer"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "Enhetsminnet er fullt"
+
+msgid "IDS_PN_BODY_NOT_ENOUGH_STORAGE_AVAILABLE_SOME_FUNCTIONS_AND_APPLICATIONS_MAY_NOT_BE_AVAILABLE_NOTI_MSG_JPN_DCM"
+msgstr "Not enough storage available. Some functions and applications may not be available.\nOpen Settings and uninstall some apps to make space."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "Flymodus lar deg slå av anrops-, meldings- og datanettverksfunksjoner. Den slår også av tilkoblingsfunksjoner som Wi-Fi og Bluetooth. For å bruke Wi-Fi og Bluetooth må du slå dem på i Innstillinger eller på varselspanelet."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "Det oppstod en feil under SD-kortdekrypteringen."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "SD-kortet kryptert."
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Deaktiver Flymodus"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Aktiver Flymodus"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "Krypterer SD-kort ..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "Dekrypterer SD-kort ..."
+
+msgid "IDS_COM_POP_LOW_BATTERY_CHARGE_YOUR_PHONE"
+msgstr "Lavt batteri. Lad opp telefonen."
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "Ingen batteri"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "Advarselsmelding"
+
+msgid "IDS_DN_POP_DATA_DECRYPTED"
+msgstr "Data dekryptert."
+
+msgid "IDS_DN_POP_DATA_ENCRYPTED"
+msgstr "Data kryptert."
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "USB-enheter"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "Krypter SD-kort"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "Aktiver skjermleser"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "Deaktiver skjermleser"
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "Dekrypter SD-kort"
+
+msgid "IDS_DN_HEADER_DATA_DECRYPTION_ABB"
+msgstr "Datadekryptering"
+
+msgid "IDS_DN_HEADER_DATA_ENCRYPTION_ABB"
+msgstr "Datakryptering"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "OBS!"
+
+msgid "IDS_ST_BUTTON_CONTINUE_ABB"
+msgstr "Fortsett"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Advarsel for databruk"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "Trykk for å vise bruk og innstillinger."
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Mobildata deaktivert"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Maksimal grense for databruk (%s) er oversteget. Mobildatabruk deaktivert. Aktivering av mobildata vil medføre ekstre kostnader."
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Lydløs"
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "Sikkerhetspolicyen hindrer bruk av skrivebordssynkronisering."
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "USB-lagring er tomt eller har et filsystem som ikke støttes."
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "USB-masselagring trygt fjernet."
+
+msgid "IDS_COM_BODY_OUR_PHONE_WILL_SHUT_DOWN"
+msgstr "Telefonen din vil bli slått av."
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "Dokken er tilkoblet."
+
+msgid "IDS_EMM_MBODY_EMERGENCY_MODE_JPN_DCM"
+msgstr "Emergency mode"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "HDMI-kabelen tilkoblet."
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "HDMI-kabelen frakoblet."
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Ikke noe svar"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "Nødmodus"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Kan ikke kryptere SD-kortet. Ikke nok plass på kortet. Det trengs omtrent %.2f MB ledig plass. Slett noen filer."
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Kan ikke dekryptere SD-kortet. Ikke nok plass på kortet. Det trengs omtrent %.2f MB ledig plass. Slett noen filer."
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "Dette SD-kortet er ikke kryptert. Du kan ikke deaktivere Krypter SD-kort ettersom dette har blitt aktivert av en administrator. Kryptere?"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "Krypter SD-kort"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_TAP_CONTINUE_TO_DECRYPT_YOUR_SD_CARD"
+msgstr "SD-kortet ditt må dekrypteres før det kan brukes. Trykk på Fortsett for å dekryptere SD-kortet."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "Kan ikke lade batteriet. Telefonen er for varm."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "Kan ikke lade batteriet. Telefonen er for kald."
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "Koblet til som en medieenhet"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "Skriveb. USB-enh. tilkoblet."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Lading stanset midlertidig. Spenningen er for høy."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "Det oppstod en feil under SD-kortkrypteringen."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "SD-kortet dekryptert."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION"
+msgstr "SD-kortkryptering"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_HAS_BEEN_ENABLED"
+msgstr "SD-kortkryptering har blitt aktivert."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Skjerm av."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Batterinivået er kritisk lavt. Enheten vil slåes av nå."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Batterinivået er lavt. Lad opp Gear snart for å fortsette å bruke den."
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "Deaktiver kryptering"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "Aktiver kryptering"
+
+msgid "IDS_ACCS_POP_EMERGENCY_MODE_AND_SCREEN_READER_CANNOT_BOTH_BE_ENABLED_GO_TO_SETTINGS_TO_DISABLE_SCREEN_READER_Q"
+msgstr "Nødmodus og Skjermleser kan ikke være aktivert samtidig. Vil du gå til Innstillinger for å deaktivere Skjermleser?"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Batterinivå lavt. Lad enheten snart for fortsatt bruk."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Batterinivået er kritisk lavt"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Batterinivået er kritisk lavt. Lad opp Gear nå for å fortsette å bruke den."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Batterinivået er kritisk lavt. Gear-enheten vil bli koblet fra mobilenheten din. Du kan bare bruke standardklokken. Lad opp Gear nå for å fortsette å bruke den."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Batterinivået er kritisk lavt. Du kan bare bruke standardklokken. Lad opp Gear nå for å fortsette å bruke den."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Lading stanset midlertidig. Batteritemperatur for høy eller for lav."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Lading stanset midlertidig. Batteritemperatur for lav."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Lading stanset midlertidig. Batteritemperatur for høy."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Lavt batterinivå"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Utemodus"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Enheten vil bli slått av."
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Etter %1$d min vil lysstyrken bli tilbakestilt til standardnivået (%2$d)."
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Lysstyrke"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "Opplading satt på pause grunnet ekstrem temperatur"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "Slå av"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_TAP_CONTINUE_TO_ENCRYPT_YOUR_SD_CARD"
+msgstr "SD-kortet ditt må krypteres før det kan brukes. Trykk på Fortsett for å kryptere SD-kortet."
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "Senere"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "Dekrypter SD-kort"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "Aktiver"
+
+msgid "IDS_TPLATFORM_BODY_POWER_OFF_THE_DEVICE_Q"
+msgstr "Vil du slå av enheten?"
+
+msgid "IDS_TPLATFORM_BODY_RESTART_THE_DEVICE_Q"
+msgstr "Vil du starte enheten på nytt?"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "Deaktivere Flymodus?"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "Deakt."
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_CALLING_MESSAGING_AND_MOBILE_NETWORK_FUNCTIONS"
+msgstr "Flymodus gjør det mulig å deaktivere funksjoner for anrop, meldinger og mobilnettverk."
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s svarer ikke. Lukke %s?"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "Slå av"
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "Fjern lader."
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "Koble til et strømuttak for å lade enheten og avslutt ubrukte apper i Oppgavebehandling. Fortsatt bruk under lading kan hindre effektiv lading."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Skjermleser aktivert."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Skjermleser deaktivert."
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "Aktiver Nødmodus"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "Deaktiver Nødmodus"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Vent"
+
+msgid "IDS_PH_HEADER_ERROR_ABB"
+msgstr "Feil"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "USB-minne"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "Kamera"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "Enheten er overopphetet. Den slår seg av for å kjøle seg ned."
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "Ikke slå av"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "Enheten slått av automatisk"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "Enheten er overopphetet. Den slo seg av for å forhindre skade.\n\nOveroppheting kan være forårsaket av:\nå bruke apper som krever mye grafikk, som spill og navigeringsapper, over lengre tid.\nå overføre store filer.\nå bruke enheten i varme omgivelser."
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "SD-kortet må dekrypteres før det kan brukes. Vil du dekryptere SD-kortet eller aktivere enhetskryptering?"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "SD-kortet må krypteres før det kan brukes. Vil du kryptere SD-kortet eller deaktivere enhetskryptering?"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "Deaktiver Sikkerhetsmodus"
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "Deaktivering av Sikkerhetsmodus starter enheten på nytt. Vil du deaktivere?"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "Lavt batterinivå. Hjelpelys blir slått av."
+

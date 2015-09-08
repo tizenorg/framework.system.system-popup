@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Cuir ar ceal"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Balbh"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Tar éis %1$d nóim, fillfear an ghile ar an leibhéal réamhshocraithe (%2$d)"
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "As"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "Air"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Mód lasmuigh"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Gile"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Crith"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Dún"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Cumhacht as"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Easpa cuimhne."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Cuimhne íseal."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s dúnta."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Ceallra lag."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Cumasaithe."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Díchumasaithe."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Fuaim"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "Dúnadh %s gan choinne"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Cuimhne íseal fágtha"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Ceallra lag"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Atosófar an gléas"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Roghanna an ghléis"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Balbh"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Luchtú ar sos. Voltas ró-ard."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Ceallra rí-íseal. Múchfar an gléas anois."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Tá cumhacht an cheallra lag. Luchtaigh do Gear go luath le leanúint lena úsáid."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Ceallra íseal. Athluchtaigh an gléas go luath le leanúint lena úsáid."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Ceallra an-lag"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Tá cumhacht an cheallra an-lag. Luchtaigh do Gear anois le leanúint lena úsáid."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Tá cumhacht sa cheallra rólag ar fad. Dínascfar do Gear ó do ghléas móibíleach. Ní féidir leat ach an clog réamhshocraithe a úsáid. Luchtaigh do Gear anois le leanúint lena úsáid."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Tá an chumhacht ceallra an-lag. Ní féidir leat ach an clog réamhshocraithe a úsáid. Luchtaigh do Gear anois le leanúint lena úsáid."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Luchtú ar sos. Teocht an cheallra ró-ard nó ró-íseal."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Luchtú ar sos. Teocht an cheallra ró-íseal."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Luchtú ar sos. Teocht an cheallra ró-ard."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Ceallra lag"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Casfar an gléas as"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Atosaigh"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Stóras lán"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Taifeadadh dodhéanta. Ní dóthain spáis i stóras do Gear."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Chun Ultramhód coigilte cumhachta a dhíchumasú, atosófar do ghléas."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Earráid."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Ultramhód coigilte cumhachta"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "Ná déan arís"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Ceallra dícheangailte."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Coig. cumh."
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Cumasófar Coigilteoir cumhachta. Leis sin cuirfear teorainn le feidhmíocht uasta an CPU, casfar Bluetooth as, agus úsáidfear leibhéal cumhachta níos ísle don an scáileán. Ní bheidh Gluaisne múscailte, Rialú gutha ná Crith ar fáil. Beidh feidhmeanna Cloig agus S Health fós ar fáil."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Coigilteoir cumhachta díchumasaithe."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Coigilteoir cumhachta cumasaithe."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "Mód Eitilte"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "Cuirtear ar do chumas le Mód eitilte gnéithe a bhaineann le glaoch, le cur teachtaireachtaí a dhíchumasú. Ina theannta sin casann sé Sonraí móibíleacha agus Bluetooth as. Le Bluetooth a úsáid, cas é air i Socruithe."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Cumasaigh Mód eitilte"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Díchumas. Mód eitilte"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Díchumasófar mód eitilte"
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "Ionsáigh cárta SIM le seirbhísí líonra a rochtain"
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "Sonraí móib."
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "Cuir air Sonraí móibíleacha"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "Cuir as Sonraí móibíleacha"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "Gan tacú."
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "Ní féidir Sonraí móibíleacha a chasadh air agus é nasctha trí Bluetooth."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "Nascfar le do líonra móibíleach tú. Is féidir go ngearrfaí táillí breise dá réir."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "Má chasann tú Sonraí móibíleacha as, ní bheidh tú ábalta fógraí a fháil ná feidhmchláir a bhfuil nasc líonra mhóibíligh de dhíth orthu a úsáid. Casfar sonraí móibíleacha as."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "Le mód eitilte díchumasaítear feidhmeanna glao agus teachtaireachta, agus castar as Sonraí móibíleacha agus feidhmeanna nascachta, amhail Wi-Fi agus Bluetooth. Chun Wi-Fi agus Bluetooth a úsáid, cas air iad i Socruithe."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "Le cumhacht ceallra a choigilt, cumasaigh Ultramhód coigilte cumhachta."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Inrochtaineacht"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Socruithe"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "Cumasaigh"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "Níl %s ag freagairt. Dún %s?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Níl freagairt ann"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Fan"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Teorainn úsáide sonraí uasta sáraithe (%s). Sonraí móibíleacha díchumasaithe. Is féidir go ngearrfar táillí breise ar shonraí móibíleacha a chumasú."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Sonraí móibíleacha díchumasaithe"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "Díchum. Coigilt chu."
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "Cum. Coigilt chumh."
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "Coigilt chumhachta"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "Uasteorainn ar úsáid sonraí (%s) beagnach bainte amach. Tapáil Socruithe le d'úsáid sonraí a sheiceáil."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "Teorainn ar úsáid sonraí sonraithe bainte amach. D'fhéadfadh an soláthraí seirbhíse táillí a ghearradh ar úsáid sonraí breise."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "Cuir teorainn le húsáid sonraí"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Rabhadh maidir le húsáid sonraí"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "Cumasaigh Mód coig. cumhachta"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "Díchumasaigh Mód coig. cumhachta"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Scáileán casta as."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Léitheoir scáileáin cumasaithe."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Léitheoir scáileáin díchumasaithe."
+

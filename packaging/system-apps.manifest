@@ -1,0 +1,13 @@
+<manifest>
+    <define>
+        <domain name="system-apps"/>
+    </define>
+	<assign>
+		<filesystem path="/usr/bin/popup-launcher" label="_" exec_label="none" />
+		<filesystem path="/usr/bin/sys_device_noti" label="_" exec_label="none" />
+		<filesystem path="/usr/bin/systemfw-app-test" label="_" exec_label="none" />
+	</assign>
+    <request>
+        <domain name="system-apps"/>
+    </request>
+</manifest>

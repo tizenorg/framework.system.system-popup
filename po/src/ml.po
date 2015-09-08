@@ -1,0 +1,549 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "റദ്ദാക്കു."
+
+msgid "IDS_ST_BODY_KEYBOARD"
+msgstr "കീബോര്‍ഡ്"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "ക്യാമറ"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "ക്രമീകരണങ്ങള്‍"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ശരി"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "ആക്സസ്സബിലിറ്റി"
+
+msgid "IDS_USB_POP_CONNECTING_KIES_VIA_USB_WILL_TURN_OFF_KIES_VIA_WI_FI_CONTINUE_Q"
+msgstr "USB വഴി Kies കണക്ട് ചെയ്യുന്നത് Wi-Fi വഴിയുള്ള Kies ഓഫ് ചെയ്യും. തുടരണമോ?"
+
+msgid "IDS_USB_POP_SAMSUNG_KIES_MODE_ENABLED"
+msgstr "Samsung Kies മോഡ് പ്രപ്തമാക്കി."
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "വൈബ്രേഷന്‍"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "അടയ്ക്കുക"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "പവര്‍‌ ഓഫ്"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "സിസ്റ്റം വിവരം"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "പുനരാരംഭി."
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "മതിയായ മെമ്മറിയില്ല."
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "MMC ഡാറ്റ ഇനീഷ്യലൈസ് ചെയ്യുന്നു..."
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "വീ.ശ്ര"
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "USB കണക്ഷന്‍ പരാജയപ്പെട്ടു."
+
+msgid "IDS_ST_POP_PS_ENABLED"
+msgstr "%s പ്രാപ്തമാക്കി."
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "നെഗറ്റീവ് കളറുകള്‍ അപ്രാപ്തമാക്കുക"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "നെഗറ്റീവ് കളറുകള്‍ പ്രാപ്തമാക്കുക"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "സൂം അപ്രാപ്തമാക്കുക"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "സൂം പ്രാപ്തമാക്കുക"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "സഹായക ലൈറ്റ് ഓണ്‍ ചെയ്യുക"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "സഹായക ലൈറ്റ് ഓഫ് ചെയ്യുക"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "താഴ്‌ന്ന ബാറ്ററി."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s അടച്ചു."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "ലോ ബാറ്ററി."
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "ബാറ്ററി കുറവാണ്. ഫോണ്‍ ഷട്ട് ഡൌണ്‍ ചെയ്യും."
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "പവര്‍ സേവിംഗ്"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "പ്രാപ്‌തമാക്കി."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "അപ്രാപ്‌തമാക്കി."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "ശബ്‌ദം"
+
+msgid "IDS_ST_BODY_CAMERA"
+msgstr "ക്യാമറ"
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "ബാറ്ററി മുഴുവന്‍ ചാര്‍ജ്ജായി."
+
+msgid "IDS_CST_BODY_NOTICE"
+msgstr "അറിയിപ്പ്"
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "പ്രിന്‍റര്‍ കണക്ട് ചെയ്തു."
+
+msgid "IDS_COM_POP_PRINTER_DISCONNECTED_ABB2"
+msgstr "പ്രിന്‍റര്‍‌ വിച്ഛേദിച്ചു."
+
+msgid "IDS_QP_BODY_UNPLUG_CHARGER"
+msgstr "ചാര്‍ജര്‍ വിച്ഛേദിക്കുക"
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "ഫ്ലൈറ്റ് മോഡ്"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "USB കണക്ടര്‍ കണക്ട് ചെയ്‌തു."
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "USB കണക്ടര്‍ വിച്ഛേദിച്ചു."
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "കീബോര്‍ഡ് കണക്ട് ചെയ്തു."
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "മൌസ് കണക്ട് ചെയ്തു."
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "ക്യാമറ കണക്ട് ചെയ്തു."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "USB മാസ്സ് സ്റ്റോറേജ് കണക്ട് ചെയ്തു."
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "അജ്ഞാത USB ഉപകരണം കണക്ട് ചെയ്തു."
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "USB ഉപകരണം സുരക്ഷിതമായി നീക്കം ചെയ്തു."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "USB  സംഭരണം അപ്രതീക്ഷിതമായി നീക്കംചെയ്തു."
+
+msgid "IDS_COM_BODY_UNABLE_TO_USE_USB_STORAGE_AS_USB_MASS_STORAGE_ERROR_OCCURRED"
+msgstr "USB സ്റ്റോറേജ് USB മാസ്സ് മെമ്മറിയായി ഉപയോഗിക്കാനാവുന്നില്ല. പിശക് സംഭവിച്ചു."
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "ശരി"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "പുനരാരംഭിക്കുക"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "SD കാര്‍ഡ് മൌണ്ട് ചെയ്യുന്നതില്‍ പരാജയപ്പെട്ടു. SD കാര്‍ഡ് വീണ്ടും ഘടിപ്പിക്കുകയോ ഫോര്‍മാറ്റ് ചെയ്യുകയോ ചെയ്യുക"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s അപ്രതീക്ഷിതമായി അടച്ചു."
+
+msgid "IDS_COM_POP_KEYBOARD_DISCONNECTED_ABB2"
+msgstr "കീബോര്‍ഡ് വിച്ഛേദിച്ചു."
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "SD കാര്‍ഡ് റീഡ്-ഒണ്‍ലി ആയി മൌണ്ട് ചെയ്തിരിക്കുന്നു."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "മെമ്മറി കുറവ് ശേഷിക്കുന്നു"
+
+msgid "IDS_ST_POP_TURN_OFF_ASSISTIVE_LIGHT_WHEN_YOU_NO_LONGER_NEED_IT"
+msgstr "നിങ്ങള്‍ക്ക് ആവശ്യമില്ലാത്തപ്പോള്‍ അസ്സിസ്റ്റീവ് ലൈറ്റ് ഓഫ് ചെയ്യുക."
+
+msgid "IDS_IS_BODY_DO_NOT_SHOW_AGAIN"
+msgstr "ഇത് വീണ്ടും കാണിക്കരുത്"
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "അസ്സിസ്റ്റീവ് ലൈറ്റ് ഓണ്‍ ആകുന്നു."
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "പിന്തുണാലൈറ്റ് ഓഫ് ചെയ്യുന്നതിനായി ടാപ്പുചെയ്യുക."
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "ഡാറ്റാ നഷ്ടം ഒഴിവാക്കുന്നതിനായി USB വലിയ സംഭരണം നീക്കം ചെയ്യുന്നതിനുമുമ്പ് അണ്‍മൌണ്ട് ചെയ്യുക."
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "അണ്‍‌മൌണ്ടുചെയ്യുക"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "USB വഴി ബന്ധിപ്പിച്ച ക്യാമറ ബ്രൌസുചെയ്യണമോ?"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "ബ്രൌസ്"
+
+msgid "IDS_PB_HEADER_USB_STORAGE_NOT_AVAILABLE"
+msgstr "USB സ്റ്റോറേജ് ലഭ്യമല്ല"
+
+msgid "IDS_COM_HEADER_USB_MASS_STORAGE_DISCONNECTED_ABB"
+msgstr "USB മാസ്സ് സ്റ്റോറേജ് വിച്ഛേദിച്ചു"
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "%d USB ഉപകരണങ്ങള്‍ ബന്ധിപ്പിച്ചു"
+
+msgid "IDS_EMAIL_POP_THIS_ACTION_HAS_BEEN_BLOCKED_BY_MDM_CONTACT_THE_MDM_ADMINISTRATOR"
+msgstr "ഈ പ്രവര്‍ത്തനം MDM തടഞ്ഞു. MDM അഡ്മിനിസ്ട്രേറ്ററെ ബന്ധപ്പെടുക."
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "ലോ ബാറ്ററി"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "USB വഴി ബന്ധിപ്പിച്ച സ്റ്റോറേജ് ബ്രൌസ്ചെയ്യണോ?"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "ബാറ്ററി വിച്ഛേദിച്ചു."
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "ഉപകരണം പുനരാരംഭിക്കും."
+
+msgid "IDS_ST_BODY_USBSETTINGS_PRINTER"
+msgstr "പ്രിന്‍റര്‍"
+
+msgid "IDS_SMEMO_BODY_MOUSE_M_IDEA_SKETCH"
+msgstr "മൌസ്"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "ഫ്ലൈറ്റ് മോഡ് നിഷ്ക്രിയമാക്കപ്പെടും."
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_ENABLED"
+msgstr "ഫ്ലൈറ്റ് മോഡ് പ്രാപ്തമാക്കപ്പെടും."
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "ഉപകരണം ഇപ്പോള്‍ ഷട്ട് ഡൌണ്‍ ചെയ്യും."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "ഉപകരണ ഓപ്ഷനുകള്‍"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "The device memory is full"
+
+msgid "IDS_PN_BODY_NOT_ENOUGH_STORAGE_AVAILABLE_SOME_FUNCTIONS_AND_APPLICATIONS_MAY_NOT_BE_AVAILABLE_NOTI_MSG_JPN_DCM"
+msgstr "Not enough storage available. Some functions and applications may not be available.\nOpen Settings and uninstall some apps to make space."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "ഫ്ലൈറ്റ് മോഡ് നിങ്ങളെ കോൾ ചെയ്യുന്നതും സന്ദേശമയയ്‌ക്കലും ഡാറ്റ നെറ്റ്‌വർക്ക് സവിശേഷതകളും ഓഫുചെയ്യാൻ അനുവദിക്കുന്നു. Wi-Fi, ബ്ലൂടൂത്ത് പോലുള്ള കണക്ടിവിറ്റി ഫീച്ചറുകളും ഇത് ഓഫാക്കുന്നു. Wi-Fi, ബ്ലൂടൂത്ത് ഉപയോഗിക്കാന്‍ ക്രമീകരണത്തിലോ അറിയിപ്പ് പാനലിലോ ഇവ ഓണ്‍ ചെയ്യുക"
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "SD കാര്‍ഡ്‌ ഡിക്രിപ്ഷന്‍ പിശക് സംഭവിച്ചു."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "SD കാര്‍ഡ്‌ എന്‍ക്രിപ്റ്റ് ചെയ്തു."
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "ഫ്ലൈറ്റ് മോഡ് അപ്രാപ്തമാക്കുക"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "ഫ്ലൈറ്റ് മോ‍ഡ് പ്രാപ്തമാക്കുക"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "SD കാര്‍ഡ് എന്‍ക്രിപ്റ്റ് ചെയ്യുന്നു..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "SD കാര്‍ഡ് ഡിക്രിപ്റ്റ് ചെയ്യുന്നു..."
+
+msgid "IDS_COM_POP_LOW_BATTERY_CHARGE_YOUR_PHONE"
+msgstr "താഴ്‌ന്ന ബാറ്ററി. നിങ്ങളുടെ ഫോണ്‍ ചാര്‍ജ്ജ് ചെയ്യുക"
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "ബാറ്ററിയില്ല"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "മുന്നറിയിപ്പ് സന്ദേശം"
+
+msgid "IDS_DN_POP_DATA_DECRYPTED"
+msgstr "ഡാറ്റ ഡിക്രിപ്റ്റ് ചെയ്തു."
+
+msgid "IDS_DN_POP_DATA_ENCRYPTED"
+msgstr "ഡാറ്റ എന്‍ക്രിപ്റ്റ് ചെയ്തു."
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "USB ഉപകരണങ്ങള്‍"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "SD കാര്‍ഡ് എന്‍ക്രിപ്റ്റ് ചെയ്യുക"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "സ്ക്രീന്‍ റീഡര്‍ പ്രാപ്തമാക്കുക"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "സ്ക്രീന്‍ റീഡര്‍ അപ്രാപ്തമാക്കുക"
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "SD കാര്‍ഡ്‌ ഡിക്രിപ്റ്റ് ചെയ്യുക"
+
+msgid "IDS_DN_HEADER_DATA_DECRYPTION_ABB"
+msgstr "ഡാറ്റ ഡിക്രിപ്ഷന്‍"
+
+msgid "IDS_DN_HEADER_DATA_ENCRYPTION_ABB"
+msgstr "ഡാറ്റ എന്‍ക്രിപ്ഷന്‍"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "ശ്രദ്ധിക്കുക"
+
+msgid "IDS_ST_BUTTON_CONTINUE_ABB"
+msgstr "തുടരുക"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "ഡാറ്റാ ഉപയോഗ അറിയിപ്പ്"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "ഉപയോഗവും സെറ്റിംഗ്സുകളും കാണുന്നതിനായി ടാപ്പുചെയ്യുക."
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "മൊബൈല്‍ ഡാറ്റാ നിഷ്ക്രിയമാക്കി"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "പരമാവധി ഡാറ്റാ ഉപയോഗ പരിധി (%s) കടന്നു. മൊബൈല്‍ ഡാറ്റ നിര്‍ജ്ജീവമാക്കപ്പെട്ടു. മൊബൈല്‍ ഡാറ്റ പ്രാപ്തമാക്കുന്നത് അധിക നിരക്കിന്‌ കാരണമായേക്കാം."
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "നിശബ്‌ദ‌മാക്കുക"
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "സുരക്ഷാ നയം ഡെസ്ക്‌ടോപ്പ് സമന്വയ ഉപയോഗത്തെ തടയുന്നു."
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "USB സ്റ്റോറേജ് ശൂന്യമാണ് അല്ലെങ്കില്‍ പിന്തുണയ്ക്കാത്ത ഫയല്‍ സിസ്റ്റം ആണുള്ളത്."
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "USB മാസ്സ് സ്റ്റോറേജ് സുരക്ഷിതമായി നീക്കം ചെയ്തു."
+
+msgid "IDS_COM_BODY_OUR_PHONE_WILL_SHUT_DOWN"
+msgstr "നിങ്ങളുടെ ഫോണ്‍ ഷട്ട് ഡൌണ്‍ ചെയ്യും."
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "ഡോക്ക്ക് ബന്ധിപ്പിച്ചു."
+
+msgid "IDS_EMM_MBODY_EMERGENCY_MODE_JPN_DCM"
+msgstr "Emergency mode"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "HDMI കേബിള്‍ കണക്ട് ചെയ്‌തു."
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "HDMI കേബിള്‍ വിച്ഛേദിച്ചു."
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "പ്രതികരണമൊന്നുമില്ല"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "എമർജൻസി മോഡ്"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "SD കാര്‍ഡ്‌ എന്‍ക്രിപ്റ്റ് ചെയ്യാനാവുന്നില്ല. കാര്‍ഡില്‍‌ മതിയായ സ്ഥലം ഇല്ല. ഏകദേശം %.2f MB ആവശ്യമാണ്. ഏതാനും ഫയലുകള്‍ ഡിലീറ്റ് ചെയ്യുക."
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "SD കാര്‍ഡ്‌ അണ്‍മൌണ്ട് ചെയ്യാനാവുന്നില്ല. കാര്‍ഡില്‍‌ മതിയായ സ്ഥലം ഇല്ല. ഏകദേശം %.2f MB ആവശ്യമാണ്. ഏതാനും ഫയലുകള്‍ ഡിലീറ്റ് ചെയ്യുക."
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "SD കാർഡ് എൻക്രിപ്റ്റ് ചെയ്തിട്ടില്ല. SD കാർഡ് എൻക്രിപ്ഷൻ പ്രാപ്തമാക്കിയത് ഒരു അഡ്മിനിസ്ട്രേറ്റർ ആയതിനാൽ‍, നിങ്ങള്‍ക്കത് അപ്രാപ്തമാക്കാനാവില്ല. എൻക്രിപ്റ്റ്ചെയ്യണോ?"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "SD കാർഡ് എൻക്രിപ്റ്റ് ചെയ്യുക"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_TAP_CONTINUE_TO_DECRYPT_YOUR_SD_CARD"
+msgstr "നിങ്ങളുടെ SD കാര്‍ഡ്‌ ഉപയോഗിക്കുന്നതിന്, അത് ഡീക്രിപ്റ്റുചെയ്തിരിക്കണം. നിങ്ങളുടെ SD കാര്‍ഡ്‌ ഡീക്രിപ്റ്റുചെയ്യുന്നതിന് തുടരുക ടാപ്പുചെയ്യുക."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "ബാറ്ററി ചാര്‍‌ജ്ജ് ചെയ്യാനാവില്ല. ഫോണ്‍‌ ഊഷ്‌മാവ് വളരെ ഉയര്‍‌ന്നതാണ്."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "ബാറ്ററി ചാര്‍‌ജ്ജ് ചെയ്യാനാവില്ല. ഫോണ്‍‌ ഊഷ്‌മാവ് വളരെ താഴ്‌ന്നതാണ്."
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "ഒരു മീഡിയ ഉപാധിയായി ബന്ധിപ്പിച്ചു"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "വായിക്കാൻ മാത്രമുള്ള USB ഉപകരണം ബന്ധിപ്പിച്ചു."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "വോള്‍ട്ടേജ് വളരെ ഉയര്‍ന്നതു കാരണം ചാര്‍ജിംഗ് നിര്‍ത്തി വച്ചു."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "SD കാര്‍ഡ്‌ എന്‍ക്രിപ്ഷന്‍ പിശക് സംഭവിച്ചു."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "SD കാര്‍ഡ്‌ ഡിക്രിപ്റ്റ് ചെയ്തു."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION"
+msgstr "SD കാര്‍ഡ്‌ എന്‍ക്രിപ്ഷന്‍"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_HAS_BEEN_ENABLED"
+msgstr "SD എന്‍ക്രിപ്ഷന്‍ പ്രാപ്തമാക്കി."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "സ്ക്രീൻ ഓഫ് ചെയ്തു."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "ബാറ്ററി വളരെ കുറവ്. ഉപകരണം ഇപ്പോള്‍ ഷട്ട് ഡൌണ്‍ ചെയ്യും"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "ബാറ്ററി പവർ കുറവാണ്. നിങ്ങളുടെ ഗിയർ തുടർന്നും ഉപയോഗിക്കുന്നതിന് വൈകാതെ അത് വീണ്ടും ചാർജ്ജ് ചെയ്യുക."
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "എൻക്രിപ്ഷൻ അപ്രാപ്തമാക്കുക"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "എന്‍‌ക്രിപ്ഷന്‍ പ്രാപ്തമാക്കുക"
+
+msgid "IDS_ACCS_POP_EMERGENCY_MODE_AND_SCREEN_READER_CANNOT_BOTH_BE_ENABLED_GO_TO_SETTINGS_TO_DISABLE_SCREEN_READER_Q"
+msgstr "എമര്‍ജന്‍സി മോഡും സ്ക്രീൻ റീഡറും ഒരുമിച്ച് പ്രാപ്തമാക്കാൻ കഴിയില്ല. സ്ക്രീൻ റീഡർ അപ്രാപ്തമാക്കുന്നതിന് ക്രമീകരണങ്ങളിലേക്ക് പോവണോ?"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "ബാറ്ററി കുറവാണ്. ഉപയോഗം തുടരുന്നതിന് ഉപകരണം ഉടന്‍ തന്നെ റീചാര്‍ജ്ജ് ചെയ്യുക"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "ബാറ്ററി വളരെ കുറവ്"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ബാറ്ററി പവർ ഗുരുതരമാംവിധം കുറവാണ്. നിങ്ങളുടെ ഗിയർ തുടർന്നും ഉപയോഗിക്കുന്നതിന് ഇപ്പോൾ അത് വീണ്ടും ചാർജ്ജ് ചെയ്യുക."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "ബാറ്ററി പവർ ഗുരുതരമാംവിധം കുറവാണ്. നിങ്ങളുടെ ഗിയർ നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിൽ നിന്ന് വിച്ഛേദിക്കപ്പെടും. നിങ്ങൾക്ക് ഉപയോഗിക്കാനാവുന്നത് ഡിഫോൾട്ട് ക്ലോക്ക് മാത്രമാണ്. നിങ്ങളുടെ ഗിയർ തുടർന്നും ഉപയോഗിക്കുന്നതിന് ഇപ്പോൾ അത് വീണ്ടും ചാർജ്ജ് ചെയ്യുക."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ബാറ്ററി പവർ ഗുരുതരമാംവിധം കുറവാണ്. നിങ്ങൾക്ക് ഉപയോഗിക്കാനാവുന്നത് ഡിഫോൾട്ട് ക്ലോക്ക് മാത്രമാണ്. നിങ്ങളുടെ ഗിയർ ഉപയോഗിക്കുന്നത് തുടരുന്നതിന് ഇപ്പോൾ അതിനെ ചാർജ്ജ് ചെയ്യുക."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "ചാര്‍ജിംഗ് നിര്‍ത്തിവച്ചു. ബാറ്ററി ഊഷ്‌മാവ് വളരെ കൂടിയിരിക്കുന്നു, അലെങ്കില്‍ കുറഞ്ഞിരിക്കുന്നു."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "ചാര്‍ജ്ജിംഗ് നിര്‍ത്തിവച്ചു. ബാറ്ററി താപനില വളരെ താഴ്ന്നതാണ്."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "ചാര്‍ജ്ജിംഗ് നിര്‍ത്തിവച്ചു. ബാറ്ററി താപനില വളരെ ഉയര്‍ന്നതാണ്."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "ബാറ്ററി കുറവാണ്"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "പുറംവേദി മോഡ്"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "ഉപകരണം ഓഫ് ആകും."
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d മിനിറ്റിന് ശേഷം, തെളിച്ചം ഡിഫോൾട്ട് നിലയിലേക്ക് പുനഃക്രമീകരിക്കപ്പെടും (%2$d)."
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "തെളിച്ചം"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "ഉയര്‍ന്ന ചൂടിനെത്തുടര്‍ന്ന് ചാജിംഗ് നിര്‍ത്തിവച്ചു"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "പവര്‍‌ ഓഫ്"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_TAP_CONTINUE_TO_ENCRYPT_YOUR_SD_CARD"
+msgstr "നിങ്ങളുടെ SD കാര്‍ഡ്‌ ഉപയോഗിക്കുന്നതിന്, അത് എന്‍ക്രിപ്റ്റുചെയ്തിരിക്കണം. നിങ്ങളുടെ SD കാര്‍ഡ്‌ എന്‍ക്രിപ്റ്റുചെയ്യുന്നതിന് തുടരുക ടാപ്പുചെയ്യുക."
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "പിന്നീട്"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "SD കാർഡ് ഡീക്രിപ്റ്റ് ചെയ്യുക"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "പ്രാപ്തമാക്കുക"
+
+msgid "IDS_TPLATFORM_BODY_POWER_OFF_THE_DEVICE_Q"
+msgstr "ഉപകരണ പവർ ഓഫ് ചെയ്യട്ടെ?"
+
+msgid "IDS_TPLATFORM_BODY_RESTART_THE_DEVICE_Q"
+msgstr "ഉപകരണം പുനഃരാരംഭിക്കട്ടെ?"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "ഫ്ലൈറ്റ് മോഡ് നിഷ്ക്രിയമാക്കണമോ?"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "നിഷ്ക്രിയമാക്കുക"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_CALLING_MESSAGING_AND_MOBILE_NETWORK_FUNCTIONS"
+msgstr "കോൾ ചെയ്യൽ‍, സന്ദേശമയയ്ക്കൽ‍, മൊബൈൽ നെറ്റ്‌വർക്ക് പ്രവർത്തനങ്ങൾ എന്നിവയെ അപ്രാപ്തമാക്കാൻ ഫ്ലൈറ്റ് മോഡ് നിങ്ങളെ അനുവദിക്കുന്നു."
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s പ്രതികരിക്കുന്നില്ല. %s അടയ്ക്കട്ടെ?"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "പവര്‍ ഓഫ് ചെയ്യുക"
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "ചാര്‍ജ്ജര്‍ നീക്കംചെയ്യുക."
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "ഉപകരണം ചാര്‍ജ്ജ് ചെയ്യുന്നതിന് ഒരു പ്ലഗ്ഗ് സോക്കറ്റിലേക്ക് കണക്ട് ചെയ്ത് ടാസ്ക്ക് മാനേജറിലെ ഉപയോഗിക്കാത്ത ആപ്ലിക്കേഷനുകള്‍ അടയ്ക്കുക. ചാര്‍ജ്ജ് ചെയ്യുമ്പോഴുള്ള തുടര്‍ച്ചയായ ഉപയോഗം ശരിയയി ചാര്‍ജ്ജ് ചെയ്യുന്നതില്‍ നിന്നും തടഞ്ഞേക്കാം."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "സ്ക്രീൻ റീഡർ പ്രാപ്തമാക്കി."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "സ്ക്രീൻ റീഡർ അപ്രാപ്തമാക്കി."
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "എമർജൻസി മോഡ് പ്രാപ്തമാക്കുക"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "എമർജൻസി മോഡ് അപ്രാപ്തമാക്കുക"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "കാത്തിരിക്കുക"
+
+msgid "IDS_PH_HEADER_ERROR_ABB"
+msgstr "പിശക്"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "USB സ്റ്റോറേജ്"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "ക്യാമറ"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "നിങ്ങളുടെ ഉപകരണം അമിതമായി ചൂടാവുന്നുണ്ട്. തണുപ്പിക്കുന്നതിനായി അതിന്‍റെ പവർ ഓഫാകും."
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "പവർ ഓഫ് ചെയ്യരുത്"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "ഉപകരണം ഓട്ടോമാറ്റിക്കായി ഓഫ് ചെയ്യപ്പെട്ടു"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "നിങ്ങളുടെ ഉപകരണം അമിതമായി ചൂടായി. കോട്ടം തട്ടുന്നത് തടയുന്നതിനായി അതിന്‍റെ പവർ ഓഫാകും.\n\nഅമിത ചൂടിന് കാരണമാകാവുന്നവ:\nദീർഘസമയം ഗെയിമുകൾ, നാവിഗേഷൻ ആപ്ലിക്കേഷനുകൾ പോലുള്ള തീവ്ര ഗ്രാഫിക്സ് ആപ്ലിക്കേഷനുകൾ ഉപയോഗിക്കൽ.\nവലിയ ഫയലുകളുടെ കൈമാറ്റം.\nചൂടുള്ള പരിതസ്ഥിതിയിൽ നിങ്ങളുടെ ഉപകരണം ഉപയോഗിക്കൽ."
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "നിങ്ങളുടെ SD കാർഡ് ഉപയോഗിക്കുന്നതിന്, അത് ഡീ‌ക്രിപ്റ്റ് ചെയ്തിരിക്കണം. SD കാർഡ് ഡീ‌ക്രിപ്റ്റ് ചെയ്യട്ടെ അല്ലെങ്കിൽ ഉപകരണ എൻക്രിപ്ഷൻ പ്രാപ്തമാക്കട്ടെ?"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "നിങ്ങളുടെ SD കാർഡ് ഉപയോഗിക്കുന്നതിന്, അത് എൻ‌ക്രിപ്റ്റ് ചെയ്തിരിക്കണം. SD കാർഡ് എൻ‌ക്രിപ്റ്റ് ചെയ്യട്ടെ അല്ലെങ്കിൽ ഉപകരണ എൻക്രിപ്ഷൻ അപ്രാപ്തമാക്കട്ടെ?"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "സുരക്ഷിത മോഡ് അപ്രാപ്തമാക്കുക"
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "സുരക്ഷിത മോഡ് അപ്രാപ്തമാക്കിയാൽ നിങ്ങളുടെ ഉപകരണം പുനഃരാരംഭിക്കും. അപ്രാപ്തമാക്കട്ടെ?"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "ബാറ്ററി കുറവ്. സഹായക ലൈറ്റ് ഓഫുചെയ്യപ്പെടും."
+

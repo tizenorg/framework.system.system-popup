@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "취소"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "무음"
+
+msgid "IDS_COM_SK_OK"
+msgstr "확인"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d분 후에 밝기 수준을 기본(%2$d)으로 초기화합니다."
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "해제"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "사용"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "야외 모드"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "밝기"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "진동"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "닫기"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "전원 끄기"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "저장공간이 부족합니다."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "메모리가 부족합니다."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s 항목을 종료하였습니다."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "배터리가 부족합니다."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "실행하였습니다."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "해제하였습니다."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "소리"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s 앱을 예상치 않게 종료하였습니다."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "저장공간이 부족합니다."
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "배터리 부족"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "디바이스를 종료한 후 다시 시작합니다."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "디바이스 옵션"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "무음"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "전압이 너무 높아 충전을 일시정지하였습니다."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "배터리가 매우 부족하여 디바이스를 곧 종료합니다."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "배터리가 부족합니다. Gear를 계속 사용하려면 충전하세요."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "배터리가 부족합니다. 계속 사용하려면 곧 배터리를 충전하세요."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "배터리 매우 부족"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "배터리가 매우 부족합니다. Gear를 계속 사용하려면 지금 충전하세요."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "배터리가 매우 부족하여 Gear 및 모바일 디바이스 연결을 해제합니다. 기본 시계만 사용할 수 있습니다. Gear를 계속 사용하려면 지금 충전하세요."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "배터리가 매우 부족하여 기본 시계만 사용할 수 있습니다. Gear를 계속 사용하려면 지금 충전하세요."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "배터리의 온도가 너무 높거나 낮아서 충전을 일시정지하였습니다."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "충전을 중지하였습니다. 배터리 온도가 너무 낮습니다."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "충전을 중지하였습니다. 배터리 온도가 너무 높습니다."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "배터리 부족"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "디바이스를 종료합니다."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "다시 시작"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "저장공간 모두 사용"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Gear에 저장공간이 부족하여 음성을 녹음하거나 동영상을 촬영할 수 없습니다."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "[초절전 모드]를 해제하기 위해 디바이스를 다시 시작합니다."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "오류가 발생하였습니다."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "초절전 모드"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "다시 보지 않기"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "배터리를 분리하였습니다."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "절전 모드"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "[절전 모드]를 실행합니다. 이 모드에서는 CPU의 최대 성능을 제한하고, 블루투스를 해제하고, 화면의 전력 소모량을 줄입니다. 호출 제스처, 음성 제어, 진동은 사용할 수 없고 시계 및 S헬스는 계속 사용할 수 있습니다."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "[절전 모드]를 해제하였습니다."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "[절전 모드]를 실행하였습니다."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "비행기 탑승 모드"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "[비행기 탑승 모드]를 실행하면 전화 및 메시지 기능이 해제됩니다. 또한 모바일 데이터 및 블루투스도 해제됩니다. 블루투스를 사용하려면 [설정]에서 해당 기능을 실행하세요."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "비행기 탑승 모드 실행"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "비행기 탑승 모드 해제"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "[비행기 탑승 모드]를 해제합니다."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "네트워크 서비스를 이용하려면 SIM 카드를 삽입하세요."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "모바일 데이터"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "모바일 데이터 실행"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "모바일 데이터 해제"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "지원되지 않습니다."
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "블루투스로 연결되어 있을 때에는 [모바일 데이터]를 실행할 수 없습니다."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "모바일 네트워크에 연결합니다. 추가요금이 부과될 수 있습니다."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "[모바일 데이터]를 해제하면 알림을 받거나 네트워크 연결이 필요한 애플리케이션을 사용할 수 없습니다. [모바일 데이터]를 해제합니다."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "[비행기 탑승 모드]를 실행하면 전화 및 메시지 기능을 사용할 수 없고 모바일 데이터 및 Wi-Fi, 블루투스 등의 연결 기능이 해제됩니다. Wi-Fi 및 블루투스를 사용하려면 [설정]에서 기능을 실행하세요."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "배터리 사용량을 줄이려면 [초절전 모드]를 실행하세요."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "접근성"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "설정"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "사용"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s 앱이 응답하지 않습니다. %s 앱을 종료할까요?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "응답 없음"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "대기"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "최대 데이터 사용 한도(%s)를 초과하였습니다. [모바일 데이터]를 해제하였습니다. 모바일 데이터를 실행하면 추가요금이 부과될 수 있습니다."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "모바일 데이터 해제"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "절전 해제"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "절전 실행"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "절전"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "데이터 사용 한도(%s)에 거의 도달하였습니다. 데이터 사용량을 확인하려면 [설정]을 누르세요."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "데이터 사용 한도에 도달하였습니다. 추가로 데이터를 사용하면 이동통신사로부터 요금이 부과될 수 있습니다."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "데이터 사용 제한"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "데이터 사용 경고"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "절전 모드 실행"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "절전 모드 해제"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "화면이 꺼졌습니다."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "[스크린 리더]를 실행하였습니다."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "[스크린 리더]를 해제하였습니다."
+

@@ -1,0 +1,549 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "გაუქმება"
+
+msgid "IDS_ST_BODY_KEYBOARD"
+msgstr "კლავიატურა"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "ფოტოაპარატი"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "პარამეტრები"
+
+msgid "IDS_COM_SK_OK"
+msgstr "კი"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "წვდომა"
+
+msgid "IDS_USB_POP_CONNECTING_KIES_VIA_USB_WILL_TURN_OFF_KIES_VIA_WI_FI_CONTINUE_Q"
+msgstr "თუ Kies-ს დააკავშირებთ USB-თი, გამოირთვება Kies-ის Wi-Fi კავშირი. განაგრძობთ?"
+
+msgid "IDS_USB_POP_SAMSUNG_KIES_MODE_ENABLED"
+msgstr "რეჟიმი Samsung Kies  ჩართულია."
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "ვიბრაცია"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "დახურვა"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "კვების გამორთვა"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "სისტემ.ინფო"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "გადატვირ."
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "მეხსიერება არ არის საკმარისი."
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "სრულდება MMC მონაცემთა ინიციალიზაცია..."
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "ახ. ცდა"
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "USB კავშირი ვერ დამყარდა"
+
+msgid "IDS_ST_POP_PS_ENABLED"
+msgstr "%s ჩართულია."
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "ნეგატივის ფერების გამორთვა"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "ნეგატივის ფერების ჩართვა"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "ზომის შეცვლის გამორთვა"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "ზომის შეცვლის ჩართვა"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "დამხმარე განათების ჩართვა"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "დამხმარე განათების გამორთვა"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "კვების ელემენტი იცლება."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s დახურულია."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "კვების ელემენტი იცლება."
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "კვების ელემენტი იცლება. ტელეფონი გამოირთვება."
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "ენერგიის დაზოგვა"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "გააქტიურებულია."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "გამორთულია."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "ხმა"
+
+msgid "IDS_ST_BODY_CAMERA"
+msgstr "ფოტოაპარატი"
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "კვების ელემენტი დაიტენა."
+
+msgid "IDS_CST_BODY_NOTICE"
+msgstr "შენიშვნა"
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "პრინტერი დაკავშირებულია."
+
+msgid "IDS_COM_POP_PRINTER_DISCONNECTED_ABB2"
+msgstr "პრინტერი გათიშულია."
+
+msgid "IDS_QP_BODY_UNPLUG_CHARGER"
+msgstr "გამორთეთ დამტენი"
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "ფრენის რეჟიმი"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "USB დამაკავშირებელი დაკავშირებულია."
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "USB დამაკავშირებელი გათიშულია."
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "კლავიატურა დაკავშირებულია."
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "თაგუნა დაკავშირებულია."
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "კამერა დაკავშირებულია."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "USB მეხსიერება დაკავშირებულია."
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "დაკავშირებულია უცნობი USB მოწყობილობა."
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "USB მოწყობილობა უსაფრთხოდ მოცილდა."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "USB მასიური მეხსიერება მოულოდნელად გაითიშა."
+
+msgid "IDS_COM_BODY_UNABLE_TO_USE_USB_STORAGE_AS_USB_MASS_STORAGE_ERROR_OCCURRED"
+msgstr "ტელეფონის შიდა მეხსიერებას ვერ გამოიყენებთ, როგორც USB მასიურ მეხსიერებას. შეცდომა მოხდა."
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "კი"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "თავიდან ჩართვა"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "SD ბარათი ვერ დაკავშირდა სისტემასთან. თავიდან ჩადეთ ან დააფორმატეთ SD ბარათი."
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s მოულოდნელად დაიხურა."
+
+msgid "IDS_COM_POP_KEYBOARD_DISCONNECTED_ABB2"
+msgstr "კლავიატურა გათიშულია."
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "SD ბარათის მხოლოდ წაკითხვა შეიძლება."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "მეხსიერება თითქმის გაივსო"
+
+msgid "IDS_ST_POP_TURN_OFF_ASSISTIVE_LIGHT_WHEN_YOU_NO_LONGER_NEED_IT"
+msgstr "გამორთეთ დამხმარე განათება, როცა აღარ გჭირდებათ."
+
+msgid "IDS_IS_BODY_DO_NOT_SHOW_AGAIN"
+msgstr "აღარ მაჩვენო"
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "დამხმარე განათება ჩართულია."
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "დააკაკუნეთ და გამოირთვება დამხმარე სინათლე."
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "შეწყვიტეთ USB მასიური მეხსიერების კავშირი, სანამ მას მოაცილებთ, რათა თავიდან აიცილოთ მონაცემების დაკარგვა."
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "გათიშვა"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "მოძებნით USB-თი დაკავშირებულ კამერას?"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "დათვალ."
+
+msgid "IDS_PB_HEADER_USB_STORAGE_NOT_AVAILABLE"
+msgstr "აპარატის შიდა მეხსიერება მიუწვდომელია"
+
+msgid "IDS_COM_HEADER_USB_MASS_STORAGE_DISCONNECTED_ABB"
+msgstr "USB მასიური მეხსიერება გათიშულია"
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "მიერთებულია %d USB მოწყ."
+
+msgid "IDS_EMAIL_POP_THIS_ACTION_HAS_BEEN_BLOCKED_BY_MDM_CONTACT_THE_MDM_ADMINISTRATOR"
+msgstr "ეს მოქმედება დაბლოკა MDM-მა. დაუკავშირდით MDM-ის ადმინისტრატორს."
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "კვების ელემენტი იცლება"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "მოძებნით USB-თი დაკავშირებულ მეხსიერებას?"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "კვების ელემენტი გათიშულია."
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "აპარატი გადაიტვირთება."
+
+msgid "IDS_ST_BODY_USBSETTINGS_PRINTER"
+msgstr "პრინტერი"
+
+msgid "IDS_SMEMO_BODY_MOUSE_M_IDEA_SKETCH"
+msgstr "თაგვი"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "ფრენის რეჟიმი გამოირთვება."
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_ENABLED"
+msgstr "ფრენის რეჟიმი ჩაირთვება."
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "აპარატი გამოირთვება."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "აპარატის ოფციები"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "მოწყობილობის მეხსიერება სავსეა"
+
+msgid "IDS_PN_BODY_NOT_ENOUGH_STORAGE_AVAILABLE_SOME_FUNCTIONS_AND_APPLICATIONS_MAY_NOT_BE_AVAILABLE_NOTI_MSG_JPN_DCM"
+msgstr "Not enough storage available. Some functions and applications may not be available.\nOpen Settings and uninstall some apps to make space."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "ფრენის რეჟიმი საშუალებას გაძლევთ გამორთოთ ზარების, მიმოწერისა და მონაცემთა ქსელის ფუნქციები. იგი ასევე გამორთავს დაკავშირების საშუალებებს, როგორიცაა Wi-Fi და Bluetooth. თუ გსურთ გამოიყენოთ Wi-Fi და Bluetooth, ჩართეთ ისინი პარამეტრებში ან შეტყობინებათა დაფაზე."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "SD ბარათის გაშიფვრის დროს მოხდა შეცდომა."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "SD ბარათი დაიშიფრა."
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "ფრენის რეჟიმის გამრ."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "ფრენის რეჟიმის გააქტიურება"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "სრულდება SD ბარათის დაშიფვრა..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "სრულდება SD ბარათის გაშიფვრა..."
+
+msgid "IDS_COM_POP_LOW_BATTERY_CHARGE_YOUR_PHONE"
+msgstr "კვების ელემენტი იცლება. დატენეთ ტელეფონი"
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "კვების ელემენტი არ არის"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "გაფრთხილების წერილი"
+
+msgid "IDS_DN_POP_DATA_DECRYPTED"
+msgstr "მონაცემები გაიშიფრა."
+
+msgid "IDS_DN_POP_DATA_ENCRYPTED"
+msgstr "მონაცემები დაიშიფრა."
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "USB მოწყობილობები"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "SD ბარათის დაშიფვრა"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "ჩართე ეკრანის წამკითხველი"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "გამორთე ეკრანის წამკითხვ."
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "SD ბარათის გაშიფვრა"
+
+msgid "IDS_DN_HEADER_DATA_DECRYPTION_ABB"
+msgstr "მონაცემთა გაშიფვრა"
+
+msgid "IDS_DN_HEADER_DATA_ENCRYPTION_ABB"
+msgstr "მონაცემთა დაშიფვრა"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "ყურადღება"
+
+msgid "IDS_ST_BUTTON_CONTINUE_ABB"
+msgstr "გაგრძელ."
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "მონაცემთა გამოყენების გაფრთხილება"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "დააკაკუნეთ და ნახეთ გამოყენების ინფორმაცია და პარამეტრები."
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "მობილური მონაცემები გამორთულია"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "გადაჭარბებულია მონაცემთა გამოყენების ლიმიტი (%s). მობილური მონაცემები გამორთულია. მობილურ მონაცემთა გამოყენებისთვის შეიძლება დაგერიცხოთ დამატებითი გადასახადი."
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "უხმო რეჟიმი"
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "უსაფრთხოების პოლიტიკა კრძალავს სამუშაო დაფის სინქრონიზაციის გამოყენებას."
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "USB მეხსიერება ცარიელია, ან მისი ფაილების სისტემა არაა გათვალისწინებული."
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "USB მასიური მეხსიერება უსაფრთხოდ გაითიშა."
+
+msgid "IDS_COM_BODY_OUR_PHONE_WILL_SHUT_DOWN"
+msgstr "ჩვენი ტელეფონი გამოირთვება."
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "დოკი დაკავშირებულია."
+
+msgid "IDS_EMM_MBODY_EMERGENCY_MODE_JPN_DCM"
+msgstr "Emergency mode"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "HDMI სადენი მიერთებულია."
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "HDMI სადენი გამორთულია."
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "პასუხი არ არის"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "საგანგებო რეჟიმი"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "SD ბარათის დაშიფვრა შეუძლებელია. ბარათზე არ არის საკმარისი ადგილი. საჭიროა დაახლოებით %.2f მბ. წაშალეთ ზოგიერთი ფაილი."
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "SD ბარათის გაშიფვრა შეუძლებელია. ბარათზე არ არის საკმარისი ადგილი. საჭიროა დაახლოებით %.2f მბ. წაშალეთ ზოგიერთი ფაილი."
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "SD ბარათი არ არის დაშიფრული. თქვენ ვერ გამორთავთ SD ბარათს დაშიფვრას, რადგან ის ჩართო ადმინისტრატორმა. დაიშიფროს?"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "SD-ს დაშიფვრა"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_TAP_CONTINUE_TO_DECRYPT_YOUR_SD_CARD"
+msgstr "SD ბარათის გამოსაყენებლად, ის გაშიფრული უნდა იყოს. SD ბარათის გაშიფვრის გასაგრძელებლად, დააკაკუნეთ „გაგრძელება“-ზე."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "კვების ელემენტი ვერ დაიმუხტება. ტელეფონის ტემპერატურა ძალზე მაღალია."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "კვების ელემენტი ვერ დაიმუხტება. ტელეფონის ტემპერატურა ძალზე დაბალია."
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "დაკავშირებულია, როგორც მედია მოწყობილობა"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "დაკავშირდა USB მხ. წაკითხვით"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "დამუხტვა დაპაუზდა. ვოლტაჟი ძალიან მაღალია."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "SD ბარათის დაშიფვრის დროს მოხდა შეცდომა."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "SD ბარათი გაიშიფრა."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION"
+msgstr "SD ბარათის დაშიფვრა"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_HAS_BEEN_ENABLED"
+msgstr "SD ბარათის დაშიფვრა ჩაირთო."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "ეკრანი გამორთულია."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "კვების ელემენტი თითქმის დაიცალა. აპარატი გამოირთვება."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "ენერგიის შევსების დონე დაბალია. მალე თავიდან დამუხტეთ Gear, რომ განაგრძოთ მისი გამოყენება"
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "დაშიფვრის გამორთვა"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "დაშიფვრის ჩართვა"
+
+msgid "IDS_ACCS_POP_EMERGENCY_MODE_AND_SCREEN_READER_CANNOT_BOTH_BE_ENABLED_GO_TO_SETTINGS_TO_DISABLE_SCREEN_READER_Q"
+msgstr "საგანგებო რეჟიმი და ეკრანის წამკითხველი ერთდროულად ვერ გააქტიურდება. გადახვალთ პარამეტრებში და განბლოკავთ ეკრანის წამკითხველს?"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "კვების ელემენტი იცლება. მალე ისევ დამუხტეთ აპარატი, რომ განაგრძოთ მისი გამოყენება."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "კვების ელემენტი თითქმის დაიცალა"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ენერგიის შევსების დონე კრიტიკულად დაბალია. ახლა თავიდან დამუხტეთ Gear, რომ განაგრძოთ მისი გამოყენება"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "ენერგიის შევსების დონე კრიტიკულად დაბალია. Gear შეწყვეტს კავშირს მობილურ აპარატთან. მხოლოდ ნაგულისხმევი საათის გამოყენება შეგიძლიათ. ახლა თავიდან დამუხტეთ Gear, რომ განაგრძოთ მისი გამოყენება."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ენერგიის შევსების დონე კრიტიკულად დაბალია. მხოლოდ ნაგულისხმევი საათის გამოყენება შეგიძლიათ. ახლა თავიდან დამუხტეთ Gear, რომ განაგრძოთ მისი გამოყენება"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "დატენვა შეჩერდა.\nკვების ელემენტის ტემპერატურა ძალზე მაღალი ან დაბალია."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "დამუხტვა შეჩერდა. კვების ელემენტის ტემპერატურა ძალიან დაბალია."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "დამუხტვა შეჩერდა. კვების ელემენტის ტემპერატურა ძალიან მაღალია."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "კვების ელემენტი იცლება"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "ღია ცის ქვეშ"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "აპარატი გამოირთვება."
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d წუთის შემდეგ დაბრუნდება განათებულობის საწყისი მნიშვნელობა (%2$d)."
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "სიკაშკაშე"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "დამუხტვა შეწყდა ექსტრემალური ტემპერატურის გამო"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "გამორთვა"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_TAP_CONTINUE_TO_ENCRYPT_YOUR_SD_CARD"
+msgstr "SD ბარათის გამოსაყენებლად, ის დაშიფრული უნდა იყოს. SD ბარათის დაშიფვრის გასაგრძელებლად, დააკაკუნეთ „გაგრძელება“-ზე."
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "შემდგომში"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "SD ბარათის გაშიფვრა"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "ჩართვა"
+
+msgid "IDS_TPLATFORM_BODY_POWER_OFF_THE_DEVICE_Q"
+msgstr "გამოირთოს მოწყობილობა?"
+
+msgid "IDS_TPLATFORM_BODY_RESTART_THE_DEVICE_Q"
+msgstr "გადაიტვირთოს მოწყობილობა?"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "ფრენის რეჟიმის გამოირთოს?"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "გამორთ."
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_CALLING_MESSAGING_AND_MOBILE_NETWORK_FUNCTIONS"
+msgstr "ფრენის რეჟიმი საშუალებას გაძლევთ გამორთოთ ზარების, შეტყობინებებისა და მობილური ქსელის ფუნქციები."
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s არ პასუხობს. დაიხუროს %s?"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "გამორთვა"
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "დამტენის მოცილება."
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "აპარატი ჩართეთ შტეფსელში დასატენად და დავალებების მმართველში დახურეთ პროგრამები, რომლებსაც არ იყენებთ. თუ გამოყენებას განაგრძობთ დამუხტვის დროს, შეიძლება დამუხტვა არაეფექტურად შესრულდეს."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "ეკრანის წამკითხველი ჩართულია."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "ეკრანის წამკითხველი გამორთულია."
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "საგანგებო რეჟიმის გააქტიურება"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "საგანგებო რეჟიმის გამორთვა"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "მოიცადეთ"
+
+msgid "IDS_PH_HEADER_ERROR_ABB"
+msgstr "შეცდომა"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "აპარატის მეხსიერება"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "კამერა"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "თქვენი მოწყობილობა გადახურდება. ახლა ის გამოირთვება, რომ გაგრილდეს."
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "არ გამორთოთ"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "მოწყობილობა ავტომატურად გამოირთო"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "თქვენი მოწყობილობა გადახურდა. ის გამოირთო, რომ არ დაზიანებულიყო.\n\nგადახურების მიზეზი შეიძლება იყოს:\nგრაფიკულად დატვირთული ისეთი პროგრამების ხანგრძლივი გამოყენება, როგორიცაა თამაში და ნავიგაციის პროგრამები.\nდიდი ფაილების გადაცემა.\nაპარატის გამოყენება ცხელ გარემოში."
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "SD ბარათის გამოსაყენებლად იგი უნდა გაშიფროთ. გაიშიფროს SD ბარათი თუ გააქტიურდეს მოწყობილობის დაშიფვრა?"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "SD ბარათის გამოსაყენებლად იგი უნდა დაშიფროთ. დაიშიფროს SD ბარათი თუ გააქტიურდეს მოწყობილობის გაშიფვრა?"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "უსაფრთხო რეჟიმის გამორთვა"
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "თუ უსაფრთხო რეჟიმს გამორთავთ, მოწყობილობა გადაიტვირთება. გამორთავთ?"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "კვების ელემენტი იცლება. დამხმარე ფანარი გამოირთვება."
+

@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Цуцлах"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Дуу хаах"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d минутын дараа, цайралтыг өгөгдмөл түвшинд буцаан тохируулна (%2$d)"
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "Идэвхгүй"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "Идэвхтэй"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Гадаа горим"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Цайралт"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Чичиргээ"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Хаах"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Унтраах"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Санах ой хангалтгүй байна."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Санах ой бага"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s хаагдсан."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Цэнэг бага байна"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Идэвхжүүлсэн"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Идэвхгүй болгосон"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Ая"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s санаандгүй хаагдсан."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Low memory left"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Цэнэг бага байна"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Төхөөрөмж дахин эхэлнэ"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Төхөөрөмжийн сонголтууд"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Дуу хаах"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Цэнэглэлт түр зогссон. Хүчдэл хэт өндөр."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Зайн цэнэг маш бага. Төхөөрөмж одоо унтарна."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Зайн тэжээл бага байна. Gear-ээ үргэлжлүүлэн ашиглахын тулд түргэн цэнэглэ"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Зайн цэнэг бага. Төхөөрөмжийг үргэлжлүүлэн ашиглахын тулд хурдан цэнэглэ."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Зай маш бага"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Зайн тэжээл маш бага байна. Gear-ээ үргэлжлүүлэн ашиглахын тулд одоо цэнэглэ"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Зайн тэжээл маш бага байна. Таны Gear таны хөдөлгөөнт төхөөрөмжөөс салгагдана. Та зөвхөн өгөгдмөл цаг ашиглах боломжтой. Gear-ээ үргэлжлүүлэн ашиглахын тулд одоо цэнэглэ."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Зайн тэжээл маш бага байна. Та зөвхөн өгөгдмөл цаг ашиглах боломжтой. Gear-ээ үргэлжлүүлэн ашиглахын тулд одоо цэнэглэ"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Цэнэглэлт түр зогссон. Зайн температур хэт өндөр эсвэл хэт бага."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Цэнэглэхийг түр зогсоосон. Зайн температур хэт бага байна."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Цэнэглэхийг түр зогсоосон. Зайн температур хэт өндөр байна."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Зай бага"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Төхөөрөмж унтарна"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Дахин эхлэх"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Хадгалалт дүүрэн"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Бичлэг хийх боломжгүй. Таны Gear-н хадгалалтад зай хангалтгүй байна"
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Хэт тэжээл хэмнэх горимыг идэвхгүй болгохын тулд, таны төхөөрөмж дахин эхэлнэ."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Алдаа"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Хэт тэжээл хэмнэх горим"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "Бүү давт"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Зай салгасан."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Тэж хэмнэгч"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Тэжээл хэмнэгчийг идэвхжүүлнэ. Энэ нь CPU-н ажиллагааны дээд хэмжээг хязгаарлаж, дэлгэцийн бага тэжээлийн түвшин ашиглана. Сэрээх дохио зангаа, Дуут удирдлага, Чичиргээ боломжгүй болно. Цаг ба S эрүүл мэндийн функцууд боломжтой хэвээр байна."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Тэжээл хэмнэгч идэвхгүй болсон."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Тэжээл хэмнэгч идэвхжсэн."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "Нислэгийн горим"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "Нислэгийн горим нь танд дуудлага хийх болон зурвасаар харилцах функцуудыг идэвхгүй болгох боломж өгнө. Энэ нь мөн Хөдөлгөөнт өгөгдөл болон Bluetooth-г идэвхгүй болгоно. Bluetooth ашиглахын тулд, Тохиргоон дотор түүнийг идэвхжүүл."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Нислэгийн горим идэвхжүүл"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Нислэг горим идвхгүй"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Нислэгийн горим идэвхгүй болно"
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "Сүлжээний үйлчилгээнд хандахын тулд SIM картыг оруул"
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "Хөдөл өгөг."
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "Хөдөлгөөнт өгөгдөл асаах"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "Хөдөлгөөнт өгөгдөл унтраах"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "Дэмжигдэхгүй"
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "Bluetooth-д холбогдсон үед Хөдөлгөөнт өгөгдлийг асаах боломжгүй."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "Та хөдөлгөөнт сүлжээндээ холбогдох болно. Үүнд нэмэлт төлбөр гарч болно."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "Хэрэв та хөдөлгөөнт датаг унтраавал мэдэгдэл хүлээн авах эсвэл хөдөлгөөнт сүлжээний холболт шаарддаг апп ашиглах боломжгүй болно. Хөдөлгөөнт дата унтарна."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "Нислэгийн горим нь дуудлага, зурвасаар харилцах функцүүдийг идэвхгүй болгож, мобайл дата болон Wi-Fi ба Bluetooth зэрэг холболтын функцүүдийг унтраана. Wi-Fi ба Bluetooth ашиглахын тулд, Тохиргоон дотор тэдгээрийг идэвхжүүл."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "Зайн цэнэг хэмнэхийн тулд Хэт тэжээл хэмнэх горимыг идэвхжүүл."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Тусгай боломжууд"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Тохиргоо"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "Идэвхжүүл"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s хариулахгүй байна. %s-г хаах уу?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Хариу байхгүй"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Хүлээ"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Maximum data usage limit (%s) exceeded. Mobile data disabled. Enabling mobile data may incur additional charges."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Хөдөлгөөнт өгөгдлийг идэвхгүй болгосон"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "Тэж. хэмнэх идэвхгүй"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "Тэжээл хэмнэх идэвхж"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "Тэжээл хэмнэх"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "Дата ашиглалтын дээд хязгаарт (%s) бараг хүрсэн. Дата ашиглалтаа шалгахын тулд Тохиргоог товш."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "Заасан өгөгдлийн ашиглалтын хязгаарт хүрсэн. Нэмэлт өгөгдлийн ашиглалтад үйлчилгээ үзүүлэгч төлбөр ногдуулж болно."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "Өгөгдлийн ашиглалт хязгаарлах"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Өгөгдлийн ашиглалтын сэрэмжлүүлэг"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "Тэжээл хэмнэх горим идэвхжүүлэх"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "Тэжээл хэм. горим идэвхгүй болго"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Дэлгэц унтарсан."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Дэлгэцийн уншигчийг идэвхжүүлсэн."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Дэлгэцийн уншигчийг идэвхгүй болгосон."
+

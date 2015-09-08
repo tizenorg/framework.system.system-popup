@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "បោះបង់"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "ស្ងាត់"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ព្រម"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "បន្ទាប់​ពី %1$d នាទី ពន្លឺ​នឹង​ត្រូវ​បាន​កំណត់​ឡើងវិញ​ទៅ​កម្រិត​លំនាំដើម (%2$d)។"
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "បិទ"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "បើក"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "ទម្រង់​ក្រៅអគារ"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "ភាពភ្លឺច្បាស់"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "រំញ័រ"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "បិទ"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "បិទ​ថាមពល"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "មេម៉ូរី​មិន​គ្រប់​គ្រាន់។"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "ជិតអស់​មេម៉ូរី"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "បាន​បិទ %s។"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "ថ្ម​ខ្សោយ។"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "បាន​បើកប្រើ។"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "បាន​បិទ។"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "សំឡេង"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s បាន​បិទ​ដោយ​ចៃដន្យ។"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "នៅសល់​មេម៉ូរី​តិច"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "ថ្ម​ខ្សោយ"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "ឧបករណ៍​នឹង​ចាប់ផ្ដើម​ឡើងវិញ។"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "ជម្រើស​ឧបករណ៍"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "ស្ងាត់"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "បាន​ផ្អាក​ការសាក។ វ៉ុលតា​ខ្ពស់​ពេក។"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "ថ្ម​ខ្សោយ​ខ្លាំង។ ឧបករណ៍​នឹង​បិទ។"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "ថាមពល​ថ្ម​ខ្សោយ។ សាក Gear របស់​អ្នក​ឡើងវិញ​ដើម្បី​រក្សា​ការប្រើ​វា។"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "ថ្ម​ខ្សោយ។ សាក​ឧបករណ៍​ឡើងវិញ ភ្លាមៗ​ដើម្បី​រក្សា​ការប្រើ។"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "ថ្ម​ខ្សោយ​ខ្លាំង"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ថាមពល​ថ្ម​ខ្សោយ​ខ្លាំង។ សាក Gear របស់​អ្នក​ឡើងវិញ​ឥឡូវ​ដើម្បី​រក្សា​ការប្រើ​វា។"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "ថាមពល​ថ្ម​ខ្សោយ​ខ្លាំង។ នឹង​ផ្ដាច់ Gear របស់​អ្នក​ពី​ឧបករណ៍​ចល័ត​របស់​អ្នក។ អ្នក​អាច​ប្រើ​តែ​នាឡិកា​លំនាំដើម​ប៉ុណ្ណោះ។ សាក Gear របស់​អ្នក​ឡើងវិញ​ដើម្បី​រក្សា​ការប្រើ​វា។"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ថាមពល​ថ្ម​ខ្សោយ​ខ្លាំង។ អ្នក​អាច​ប្រើ​តែ​នាឡិកា​លំនាំដើម​ប៉ុណ្ណោះ។ សាក Gear របស់​អ្នក​ឡើងវិញ​ឥឡូវ​ដើម្បី​រក្សា​ការប្រើ​វា។"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "បាន​ផ្អាក​ការសាក។ សីតុណ្ហភាព​ថ្ម​ខ្ពស់ ឬ ទាប​ពេក។"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "បាន​ផ្អាក​ការសាក។ សីតុណ្ហភាព​ថ្ម​ទាប​ពេក។"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "បាន​ផ្អាក​ការសាក។ សីតុណ្ហភាព​ថ្ម​ខ្ពស់​ពេក។"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "ថ្មខ្សោយ"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "ឧបករណ៍​នឹង​បិទ។"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "ចាប់ផ្តើម​ឡើង​វិញ"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "ឃ្លាំងផ្ទុក​ពេញ"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "មិន​អាច​ថត។ មិនមាន​លំហ​គ្រប់គ្រាន់​ក្នុង​ឃ្លាំងផ្ទុក Gear របស់​អ្នក។"
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "ដើម្បី​បិទ​ទម្រង់​សំចៃ​ថាមពល​បំផុត ឧបករណ៍​របស់​អ្នក​នឹង​ចាប់ផ្ដើម​ឡើងវិញ។"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "កំហុស"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "ទម្រង់​សំចៃ​ថាមពល​បំផុត"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "កុំ​ធ្វើឡើងវិញ"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "បាន​ផ្តាច់​ថ្ម។"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "ធាតុសំចៃ​ថាមពល"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "នឹង​បើកប្រើ​ធាតុសំចៃ​ថាមពល។ នេះ​នឹង​កំណត់ដែន​ប្រសិទ្ធផល​អតិបរមា​នៃ CPU, បិទ Bluetooth ហើយ​នឹង​ប្រើ​កម្រិត​ថាមពល​អេក្រង់​ទាប។ កាយវិការ​ដាស់, សំឡេង​បញ្ជា និង រំញ័រ​នឹង​មិន​អាច​ប្រើ​បាន​ឡើយ។ មុខងារ​នាឡិកា និង S Health នឹង​នៅតែ​អាច​ប្រើ​បាន​ដដែល។"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "បាន​បិទ​ធាតុសំចៃ​ថាមពល។"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "បាន​បើកប្រើ​ធាតុសំចៃ​ថាមពល។"
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "ទម្រង់​យន្តហោះ"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "ទម្រង់​យន្តហោះ​អនុញ្ញាត​ឲ្យ​អ្នក​បិទ​មុខងារ​ហៅ និង សារ។ វា​ក៏​បិទ​ទិន្នន័យ​ចល័ត និង Bluetooth ផងដែរ។ ដើម្បី​ប្រើ Bluetooth សូម​បើក​វា​ក្នុង ការកំណត់។"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "បើកប្រើ​ទម្រង់​យន្តហោះ"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "បិទ​ទម្រង់​យន្តហោះ"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "នឹង​បិទ​ទម្រង់​យន្តហោះ។"
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "បញ្ចូលកាត SIM ដើម្បី​ចូលប្រើ​សេវា​បណ្ដាញ។"
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "ទិន្នន័យ​ចល័ត"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "បើក​ទិន្នន័យ​ចល័ត"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "បិទ​ទិន្នន័យ​ចល័ត"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "មិន​បាន​គាំទ្រ។"
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "មិន​អាច​បើក​ទិន្នន័យ​ចល័ត ខណៈពេល​បាន​ភ្ជាប់​តាម Bluetooth។"
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "នឹង​ភ្ជាប់​អ្នក​ទៅ​បណ្ដាញ​ចល័ត​របស់​អ្នក។ នេះ​អាច​នាំ​ឲ្យ​គិត​ថ្លៃ​បន្ថែម។"
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "បើ​អ្នក​បិទ​ទិន្នន័យ​ចល័ត អ្នក​នឹង​មិន​អាច​ទទួល​ការជូនដំណឹង ឬ ប្រើ​កម្មវិធី​ដែល​ត្រូវការ​ការភ្ជាប់​បណ្ដាញ​ចល័ត​ឡើយ។ នឹង​បិទ​ទិន្នន័យ​ចល័ត។"
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "ទម្រង់​យន្តហោះ​បិទ​មុខងារ​ហៅ និង សារ ហើយ​បិទ​ទិន្នន័យ​ចល័ត និង មុខងារ​ភ្ជាប់ ដូចជា Wi-Fi និង Bluetooth។ ដើម្បី​ប្រើ Wi-Fi និង Bluetooth សូម​បើក​ពួកវា​ក្នុង ការកំណត់។"
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "ដើម្បី​សំចៃ​ថាមពល​ថ្ម សូម​បើកប្រើ​ទម្រង់​សំចៃ​ថាមពល​បំផុត។"
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "លទ្ធភាព​ចូល​ប្រើ"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "ការកំណត់"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "បើក"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s មិន​ឆ្លើយតប។ បិទ %s?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "គ្មាន​ការឆ្លើយតប"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "រង់ចាំ"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Maximum data usage limit (%s) exceeded. Mobile data disabled. Enabling mobile data may incur additional charges."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "បាន​បិទ​ទិន្នន័យ​ចល័ត"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "បិទ​ការសំចៃ​ថាមពល"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "បើកប្រើ​ការសំចៃ​ថាមពល"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "ការសំចៃ​ថាមពល"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "ជិត​ដល់​ដែនកំណត់​នៃ​ការប្រើប្រាស់​ទិន្នន័យ​អតិបរមា (%s)។ ប៉ះ ការកំណត់ ដើម្បី​ពិនិត្យ​ការប្រើប្រាស់​ទិន្នន័យ​របស់​អ្នក។"
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "បាន​ដល់​ដែនកំណត់​ប្រើប្រាស់​ទិន្នន័យ​ដែល​បាន​បញ្ជាក់។ អ្នកផ្ដល់​សេវា​អាច​គិត​ថ្លៃ​ការប្រើ​ទិន្នន័យ​បន្ថែម។"
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "កំណត់​ដែន​ប្រើប្រាស់​ទិន្នន័យ"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "ការព្រមាន​ពី​ការប្រើប្រាស់​ទិន្នន័យ"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "បើកប្រើ​ទម្រង់​សំចៃ​ថាមពល"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "បិទ​ទម្រង់​សំចៃ​ថាមពល"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "អេក្រង់​រលត់។"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "បាន​បើកប្រើ​កម្មវិធី​អាន​អេក្រង់។"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "បាន​បិទ​កម្មវិធី​អាន​អេក្រង់។"
+

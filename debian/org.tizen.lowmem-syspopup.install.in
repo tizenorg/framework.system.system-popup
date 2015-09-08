@@ -1,7 +1,0 @@
-/opt/apps/org.tizen.lowmem-syspopup/bin/lowmem-popup
-/opt/apps/org.tizen.lowmem-syspopup/res/keysound/02_Warning.wav
-/opt/apps/org.tizen.lowmem-syspopup/res/edje/lowmem/lowmem.edj
-/opt/share/applications/org.tizen.lowmem-syspopup.desktop
-/opt/share/process-info/lowmem-popup.ini
-/opt/apps/org.tizen.lowmem-syspopup/res/locale/*
-

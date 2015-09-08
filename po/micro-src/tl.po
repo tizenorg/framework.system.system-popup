@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Ikansela"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "I-mute"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Pagkalipas ng %1$d min, mare-reset ang liwanag sa default na antas (%2$d)."
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "Naka-off"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "Naka-on"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Outdoor mode"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Liwanag"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Pag-vibrate"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Isara"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "I-off ang power"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Hindi sapat ang memory."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Kaunting memory."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "Nagsara ng %s"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Mahina na ang baterya."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Pinagana."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Hindi pinagana."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Tunog"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "Hindi inaasahang nagsara ang %s."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Low memory left"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Low battery"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Magre-restart ang device."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Mga pagpipilian sa device"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "I-mute"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Charging paused. Voltage too high."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Sobrang mahina na ang baterya. Magsha-shut down na ang device."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Mahina na ang baterya. I-recharge ang iyong Gear sa lalong madaling panahon upang panatilihing nagagamit ito."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Mahina na ang baterya. I-charge na ang device para magpatuloy sa paggamit."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Kritikal na mahina na ang baterya"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Masyado nang mahina ang baterya. I-recharge ang iyong Gear ngayon upang panatilihing nagagamit ito."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Malapit nang maubos ang baterya. Madidiskonekta ang iyong Gear sa iyong mobile device. Ang default na orasan lang ang magagamit mo. I-recharge na ang iyong Gear upang patuloy itong magamit."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Masyado nang mahina ang baterya. Ang default na orasan lang ang maaari mong gamitin. I-recharge na ngayon ang iyong Gear upang patuloy itong magamit."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Na-pause ang pag-charge. Masyadong mataas o mababa ang temperatura ng baterya."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Na-pause ang pagcha-charge. Masyadong mababa ang temperatura ng baterya."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Na-pause ang pagcha-charge. Masyadong mataas ang temperatura ng baterya."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Mahina na ang baterya"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Mag-o-off ang device."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "I-restart"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Puno ang storage"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Hindi ma-record. Walang sapat na espasyo sa storage ng iyong Gear."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Upang huwag paganahin ang Ultra power saving mode, magre-restart ang iyong device."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Error"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Ultra power saving mode"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "Wag ulitin"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Nadiskonekta ang baterya."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Power saver"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Papaganahin ang Power saver. Lilimitahan nito ang maximum na pagganap ng CPU, i-off ang Bluetooth, at gagamit ng mas mababang antas ng power para sa screen. Hindi magiging available ang gesture na Wake-up, Pagkontrol ng boses, at Pag-vibrate. Magiging available pa rin ang mga function na Orasan at S Health."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Hindi pinagana ang Power saver."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Pinagana ang Power saver."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "Flight mode"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "Pinapayagan ka ng Flight mode na huwag paganahin ang mga function na pagtawag at pagmemensahe. Ino-off din nito ang Mobile data at Bluetooth. Para gamitin ang Bluetooth, i-on ito sa Mga Setting."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Paganahin ang Flight mode"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Disable Flight mode"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Flight mode will be disabled."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "Magpasok ng SIM card upang ma-access ang mga serbisyo sa network."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "Mobile data"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "I-on ang Mobile data"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "I-off ang Mobile data"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "Hindi sinusuportahan."
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "Hindi ma-o-on ang Mobile data habang nakakonekta sa pamamagitan ng Bluetooth."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "Ikokonekta ka sa iyong mobile network. Maaari itong magresulta sa mga dagdag na singil."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "Kung i-o-off mo ang Mobile data, hindi ka makakatanggap ng mga notification o makakagamit ng mga application na nangangailangan ng koneksyon sa mobile network. I-o-off ang mobile data."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "Hindi pinapagana ng Flight mode ang mga function ng pagtawag at pagmemensahe, at ino-off nito ang Mobile data at mga function ng pagkakakonekta, gaya ng Wi-Fi at Bluetooth. Upang magamit ang Wi-Fi at Bluetooth, i-on ang mga iyon sa Mga Setting."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "Para makatipid ng baterya, paganahin ang Ultra pwr saving mode."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Accessibility"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Mga Setting"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "Paganahin"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "Hindi tumutugon ang %s. Isara ang %s?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Walang tugon"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Maghintay"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Lumampas sa maximum na limitasyon sa paggamit ng data (%s). Hindi pinagana ang mobile data. Maaaring makakuha ng mga karagdagang babayaran ang pagpapagana sa mobile data."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Hindi pinagana ang mobile data"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "Disable Power saving"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "Paganahin Power saving"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "Power saving"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "Halos naabot na ang maximum na limitasyon sa paggamit ng data (%s). I-tap ang Mga Setting para tingnan ang iyong paggamit ng data."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "Naabot na ang tinukoy na limitasyon sa paggamit ng data. Ang karagdagang paggamit ng data ay maaaring makaipon ng mga singilin mula sa service provider."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "Limitahan ang paggamit ng data."
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Babala sa paggamit ng data"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "Paganahin ang Power saving mode"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "Huwag paganahin ang Power saving mode"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Naka-off ang screen."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Pinagana ang screen reader."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Hindi pinagana ang screen reader."
+

@@ -1,0 +1,387 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Cancel"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Settings"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Accessibility"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Power off"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Restart"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Not enough memory."
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "MMC data is initializing…"
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "Retry"
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "USB connection failed"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Disable negative colors"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Enable negative colors"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Disable zoom"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Enable zoom"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Turn on assistive light"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Turn off assistive light"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Low memory."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s closed."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Low battery."
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "Low battery. Phone will shut down."
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "Power saving"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Enabled."
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "Battery fully charged."
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "Printer connected."
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "Flight mode"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "USB connector connected."
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "USB connector disconnected."
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "Keyboard connected."
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "Mouse connected."
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "Camera connected."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "USB mass storage connected."
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "Unknown USB device connected."
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "USB device is safely removed."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "USB mass storage unexpectedly removed."
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "Restart"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "Failed to mount SD card. Reinsert or format SD card"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s has closed unexpectedly."
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "SD card mounted read-only."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Low memory left"
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "Assistive light is on."
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Tap to turn off assistive light."
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "Unmount USB mass storage before removing to avoid data loss."
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "Unmount"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "Browse camera connected via USB?"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "Browse"
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "%d USB devices connected"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Low battery"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "Browse storage connected via USB?"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Battery disconnected."
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Device will restart."
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Flight mode will be disabled."
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Device will now shut down."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Device options"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "The device memory is full"
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "Flight mode allows you to turn off calling, messaging and data network features. It also turns off connectivity features such as Wi-Fi and Bluetooth. To use Wi-Fi and Bluetooth, turn them on in Settings or on the notification panel"
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "SD card decryption error occurred."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "SD card encrypted."
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Disable Flight mode"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Enable Flight mode"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "Encrypting SD card..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "Decrypting SD card..."
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "No battery"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "Warning message"
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "USB devices"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "Encrypt SD card"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "Enable screen reader"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "Disable screen reader"
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "Decrypt SD card"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "Attention"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Data usage warning"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "Tap to view usage and settings."
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Mobile data disabled"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Maximum data usage limit (%s) exceeded. Mobile data disabled. Enabling mobile data may incur additional charges"
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "Security policy prevents use of desktop sync."
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "USB storage blank or has unsupported file system."
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "USB mass storage safely removed."
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "The dock is connected."
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "HDMI cable connected."
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "HDMI cable disconnected."
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "No response"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "Emergency mode"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Unable to encrypt SD card. Not enough space on card. Approximately %.2f MB needed. Delete some files"
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Unable to decrypt SD card. Not enough space on card. Approximately %.2f MB needed. Delete some files"
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "This SD card is not encrypted. You cannot disable Encrypt SD card because it has been enabled by an administrator. Encrypt?"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "Encrypt SD card"
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "Unable to charge battery. Phone temperature is too high."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "Unable to charge battery. Phone temperature is too low."
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "Connected as a media device"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "Read-only USB dev. connected"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Charging paused. Voltage too high."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "SD card encryption error occurred."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "SD card decrypted."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "The battery power is low. Recharge your Gear soon to keep using it."
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "Disable encryption"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "Enable encryption"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Battery critically low"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "The battery power is critically low. Recharge your Gear now to keep using it."
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "Charging paused due to extreme temperature"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "Power off"
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "Later"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "Decrypt SD card"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "Enable"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "Disable Flight mode?"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "Disable"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s is not responding. Close %s?"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "Power off"
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "Remove charger."
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "Connect to an outlet to charge device and exit unused applications in Task manager. Continued usage while charging may prevent efficient charging"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Screen reader enabled."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Screen reader disabled."
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "Enable Emergency mode"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "Disable Emergency mode"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Wait"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "USB storage"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "Camera"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "Your device is overheating. It will now power off to cool down."
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "Do not power off"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "Device powered off automatically"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "Your device overheated. It powered off to prevent damage.\n\nOverheating can be caused by:\nUsing graphics-intensive applications, such as games and navigation applications, for long periods of time.\nTransferring large files.\nUsing your device in a hot environment."
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "To use your SD card, it must be decrypted. Decrypt SD card or enable device encryption?"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "To use your SD card, it must be encrypted. Encrypt SD card or disable device encryption?"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "Disable Safe mode"
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "Disabling Safe mode will restart your device. Disable?"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "Battery low. Assistive light will be turned off."
+
+msgid "IDS_ST_POP_WAIT_UNTIL_IT_HAS_COOLED_DOWN_BEFORE_USING_YOUR_DEVICE"
+msgstr "Wait until it has cooled down before using your device."
+
+msgid "IDS_COM_HEADER_ALERT"
+msgstr "Alert"
+

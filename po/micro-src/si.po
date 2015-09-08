@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "අව. කර"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "නිහඬ"
+
+msgid "IDS_COM_SK_OK"
+msgstr "හරි"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "මිනිත්තු %1$d පසු, දීප්තිය පෙරනිමි මට්ටම (%2$d) වෙත යළි සැකසෙනු ඇත."
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "අක්‍රියයි"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "සක්‍රියයි"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "එළිමහන් ප්‍රක."
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "දීප්තිය"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "කම්පනය"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "වසන්න"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "බල රහිත කරන්න"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "ප්‍රමාණවත් මතකයක් නොමැත."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "මතකය අඩුය."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s වැසීය."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "බැටරිය අවමයි."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "සක්‍රියයි."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "අක්‍රියයි."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "ශබ්දය"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s අනපේක්ෂිත ලෙස වැසී ඇත."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "ඉතිරි මතකය අඩුය"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "බැටරි ආරෝපණය අවමයි"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "උපාංගය නැවත ඇරඹෙනු ඇත."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "උපාංග විකල්ප"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "නිහඬ"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "චාජ්වීම අත්හිටුවිය. වෝල්ටීයතාව ඉතා වැඩියි."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "බැටරි මට්ටම ඉතා අඩුයි. උපාංගය දැන් නවතිනු ඇත"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "බැටරි බලය අඩුය. එය භාවිතා කරමින් තබා ගැනීමට ඔබගේ ගියරය ඉක්මණින් යළි ආරෝපණය කරන්න."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "බැටරි තත්ත්වය අඩුය. දිගටම උපාංගය භාවිතා කිරීම සඳහා නැවත චාජ් කරන්න"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "බැටරි මට්ටම ඉතා අඩුයි"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "බැටරි බලය උග්‍ර ලෙස අඩුය. එය භාවිතා කරමින් තබා ගැනීමට ඔබගේ ගියරය දැන් යළි ආරෝපණය කරන්න."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "බැටරි බලය උග්‍ර ලෙස අඩුය. ඔබගේ ජංගම උපාංගය වෙතින් ඔබගේ ගියරය විසන්ධි වනු ඇත. ඔබට පෙරනිමි ඔරලෝසුව පමණක් භාවිතා කළ හැක. එය භාවිතා කරමින් පවත්වා ගැනීමට දැන් ඔබගේ ගියරය යළි ආරෝපණය කරන්න."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "බැටරි බලය උග්‍ර ලෙස පහළය. ඔබට පෙරනිමි හෝරා යන්ත්‍රය පමණක් භාවිතා කළ හැක. එය භාවිතයේ තබා ගැනීමට ඔබගේ ගියරය දැන් ආරෝපණය කරන්න."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "චාජ් කිරීම නැවතුණි. බැටරි උෂ්ණත්වය ඉතා වැඩියි හෝ ඉතා අඩුයි."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "චාර්ජ්වීම අත්හිටුවිය. බැටරි උෂ්ණත්වය ඉතා අඩුයි."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "චාර්ජ්වීම අත්හිටුවිය. බැටරියේ උෂ්ණත්වය ඉතා වැඩියි."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "බැටරිය බැස ඇත"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "උපාංගය ක්‍රියා විරහිත වනු ඇත."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "නැවත පණගන්වන්න"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "ගබඩාව පිරී ඇත"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "පටිගත කිරීමට නොහැක. ඔබගේ ගියර ගබඩාව තුළ ප්‍රමාණවත් ඉඩ නැත."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "අත් බල සුරැකුම් ප්‍රකාරය අක්‍රිය කිරීමට, ඔබගේ උපාංගය යළි ඇරඹෙනු ඇත."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "දෝෂය."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "අධි බල සුරැකුම් ප්‍රකාරය"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "පුනරාවර්තනය නො."
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "බැටරිය විසන්ධි කෙරිණි."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "බල සුරැකුම"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "බල සුරැකුම සක්‍රිය වනු ඇත. මෙමගින් CPU යන්ත්‍රයේ උපරිම ක්‍රියාකාරීත්වය සීමා කොට, බ්ලූටූත් ක්‍රියා විරහිත කොට අඩු තිර බලයක් භාවිතා කෙරෙනු ඇත. අවදි කිරීමේ අභිනය, කටහඬ පාලනය හා දෙදරුම් ලද නොහැකි වනු ඇත. ඔරලෝසුව හා S Health ක්‍රියාදාම තවදුරටත් ලද හැකි වනු ඇත."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "බල සුරැකුම අක්‍රියයි."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "බල සුරැකුම සක්‍රියයි."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "පියාසර මාදිලිය"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "පියාසර ප්‍රකාරය මගින් ඇමතුම් හා පණිවුඩකරණ ක්‍රියාදාම අක්‍රිය කිරීමට ඉඩ සලසයි. එමගින් ජංගම දත්ත හා බ්ලූටූත් ද ක්‍රියා විරහිත කරයි. බ්ලූටූත් භාවිතා කිරීමට සැකසුම් වෙතින් එය විවෘත කරන්න."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "පියාසර ප්‍රකාරය සක්‍රිය ක."
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "පියාසර මාදිලිය අක්‍රිය ක."
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "පියාසර ප්‍රකාරය අක්‍රිය කෙරෙනු ඇත."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "ජාල සේවා වෙත ප්‍රවේශ වීමට SIM කාඩ්පත ඇතුල් කරන්න."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "ජංගම දත්ත"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "ජංගම දත්ත ක්‍රියාත්මක කරන්න"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "ජංගම දත්ත ක්‍රියා විරහිත කරන්න"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "සහාය නොදක්වයි."
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "බ්ලූටූත් හරහා සබැඳී ඇති අතරතුර ජංගම දත්ත ක්‍රියාත්මක කළ නොහැක."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "ඔ‍බ ඔබේ ජංගම ජාලයට සම්බන්ධ කෙරෙනු ඇත. මෙය අතිරේක ගාස්තු අය කරනු ලැබීමට හේතු විය හැක."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "ඔබ ජංගම දත්ත අක්‍රිය කළහොත්, ඔබට දැනුම්දීම් ලැබීමට නොහැකි වනු ඇත නැතහොත් ජංගම ජාල සබැඳුමක් අවශ්‍යවන යෙදුම් භාවිතා කිරීමට නොහැකි වනු ඇත. ජංගම දත්ත අක්‍රිය වනු ඇත."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "පියාසර ප්‍රකාරයෙන් ඇමතුම් හා පණිවුඩකරණ ක්‍රියාදාම අක්‍රිය කෙරෙන අතර, ජංගම දත්ත සහ Wi-Fi හා බ්ලූටූත් වැනි සම්බන්ධකතා ක්‍රියාදාම ක්‍රියාවිරහිත කරයි. Wi-Fi හා බ්ලූටූත් භාවිතා කිරීමට සැකසුම් වෙතින් ඒවා ක්‍රියාත්මක කරන්න."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "බැටරි බලය සුරැකීමට, අති බල සුරැකුම් ප්‍රකාරය සක්‍රිය කරන්න."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "ප්‍රවේශ වීමේ හැකියාව"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "සැකසුම්"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "සක්‍රිය ක."
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s ප්‍රතිචාර නොදක්වයි. %s වසන්නද?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "පිළිතුරක් නොමැත"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "මදක් ඉන්න"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "උපරිම දත්ත භාවිත සීමාව (%s) ඉක්මවා ඇත. ජංගම දත්ත අක්‍රිය කරන ලදි. ජංගම දත්ත සක්‍රිය කිරීමෙන් අමතර ගාස්තු අය විය හැකිය."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "ජංගම දත්ත අක්‍රිය කෙරිණි"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "බල සුරැකුම අක්‍රිය ක."
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "බල සුරැකුම් සක්‍රිය ක."
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "බල සුරැකුම"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "උපරිම දත්ත පරිහරණ සීමාවට (%s) ළඟා වීමට ආසන්නයි. ඔබේ දත්ත පරිහරණය පිරික්සීමට සැකසුම් තට්ටු කරන්න."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "නිශ්චිත ජංගම දත්ත භාවිත සීමාව ළඟාවිය. අතිරේක දත්ත භාවිතයෙන් සේවා සපයන්නාගෙන් ගාස්තු අය කෙරෙනු ඇත."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "දත්ත භාවිතය සීමා කරන්න"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "දත්ත භාවිත අවවාදය"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "බල සුරැකුම් ප්‍රකාරය සක්‍රිය කරන්න"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "බල සුරැකුම් ප්‍රකාරය අක්‍රිය කරන්න"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "තිරය අක්‍රියයි."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "තිර කියවනය සබලිතයි."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "තිර කියවනය අබලිතයි."
+

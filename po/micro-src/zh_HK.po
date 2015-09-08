@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "取消"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "靜音"
+
+msgid "IDS_COM_SK_OK"
+msgstr "確定"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "在 %1$d 分鐘後，亮度將重設為預設等級 (%2$d )。"
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "關"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "開"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "戶外模式"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "亮度"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "震動"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "關閉"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "關機"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "記憶體不足。"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "記憶體不足。"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s 已關閉。"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "電量不足"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "已啟用"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "停用。"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "聲音"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s 已意外關閉。"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "剩餘記憶體不足"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "電量不足"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "裝置將重新啟動。"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "裝置選項"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "靜音"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "充電已暫停。電壓過高。"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "電量極度不足。裝置將會關閉。"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "電池電量不足。盡快幫您的 Gear 充電以繼續使用。"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "電量不足。請盡快為電池充電，以繼續使用。"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "電力嚴重不足"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "電池電量嚴重不足。立刻幫您的 Gear 充電以繼續使用。"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "電量嚴重不足。您的 Gear 將從流動裝置中斷連接。您僅可使用預設時鐘。立即為您的 Gear 充電以繼續使用。"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "電池電量嚴重不足。您僅可使用預設時鐘。立刻幫您的 Gear 充電以繼續使用。"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "充電暫停。手機溫度太高或太低。"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "充電已暫停。電池溫度太低。"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "充電已暫停。電池溫度太高。"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "電量不足"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "裝置將關閉。"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "重新啟動"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "儲存空間已滿"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "無法錄製。Gear 儲存空間不足。"
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "若要停用超級省電模式，您的裝置將重新啟動。"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "錯誤"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "超級省電模式"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "不再顯示"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "電池中斷連接。"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "省電功能"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "省電功能將啟用。這將限制 CPU 的最高效能、關閉藍牙並將使用更低的螢幕電量級別。喚醒手勢、語音控制與震動將不可用。時鐘與 S Health 功能將仍然可用。"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "省電功能已停用。"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "省電功能已啟用。"
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "飛行模式"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "飛行模式允許您停用通話與訊息功能。它還會關閉流動數據與藍牙。若要使用藍牙，請於設定中將其開啟。"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "啟用飛行模式"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "停用飛行模式"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "將停用飛行模式。"
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "插入 SIM 卡以存取網絡服務。"
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "流動數據"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "開啟流動數據"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "關閉流動數據"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "不支援"
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "透過藍牙連接時無法開啟流動數據。"
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "您將連接至流動網絡。這可能產生額外費用。"
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "若您關閉流動數據，將無法接收通知或使用需要流動網絡連接的應用程式。流動數據將被關閉。"
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "飛行模式會停用通話與訊息功能，並關閉流動數據與連線功能，如 Wi-Fi 與藍牙。若要使用 Wi-Fi 與藍牙，請在設定中開啟。"
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "若要節省電池電量，請啟用超級省電模式。"
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "協助工具"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "設定"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "啟用"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s 未回應。關閉 %s 嗎？"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "無回應"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "等待"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "已超過數據使用量上限（%s）。流動數據已停用。啟用流動數據可能產生額外費用。"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "已停用流動數據"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "停用省電"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "啟用省電模式"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "省電"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "已接近數據使用量上限 (%s)。輕觸設定以檢查您的數據使用量。"
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "已達指定的數據使用限制。額外數據使用可能由服務供應商收取費用。"
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "限制數據使用"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "數據使用量警告"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "啟用省電模式"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "停用省電模式"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "螢幕關閉。"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "已啟用螢幕閱讀器。"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "已停用螢幕讀取器。"
+

@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Hủy"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Tắt âm"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Sau %1$d phút, độ sáng sẽ được đặt lại mức mặc định (%2$d)."
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "Tắt"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "Bật"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Chế độ ngoài trời"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Độ sáng"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Rung"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Đóng"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Tắt nguồn"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Không đủ bộ nhớ."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Pin yếu."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s đã đóng."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Pin yếu."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Đã bật."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Đã tắt."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Âm thanh"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s đã đóng bất ngờ."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Còn ít bộ nhớ"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Pin yếu"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Thiết bị sẽ khởi động lại."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Tùy chọn thiết bị"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Tắt âm"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Việc sạc đã tạm dừng. Điện thế quá cao."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Pin cực kỳ yếu. Thiết bị sẽ tắt bây giờ."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Pin yếu. Hãy sạc Gear sớm để tiếp tục sử dụng."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Pin yếu. Sạc lại pin để tiếp tục sử dụng."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Pin rất yếu"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Pin rất yếu. Hãy sạc Gear ngay để tiếp tục sử dụng."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Dung lượng pin đang ở mức rất thấp. Gear của bạn sẽ bị ngắt kết nối khỏi thiết bị di động. Bạn chỉ có thể sử dụng đồng hồ mặc định. Hãy sạc pin cho Gear ngay để tiếp tục sử dụng."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Dung lượng pin đang ở mức rất thấp. Bạn chỉ có thể sử dụng đồng hồ mặc định. Hãy sạc pin cho Gear ngay để tiếp tục sử dụng."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Dừng sạc. Nhiệt độ điện thoại quá cao hay quá thấp."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Việc sạc pin đã tạm dừng. Nhiệt độ pin quá thấp."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Việc sạc pin đã tạm dừng. Nhiệt độ pin quá cao."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Pin yếu"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Thiết bị sẽ tắt."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Khởi động lại"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Bộ nhớ đầy"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Không thể ghi. Không đủ dung lượng trống trong Gear."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Để tắt Chế độ siêu tiết kiệm pin, thiết bị của bạn sẽ khởi động lại."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Lỗi."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Chế độ siêu tiết kiệm pin"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "Không lặp lại"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Pin đã ngắt kết nối."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Tiết kiệm pin"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Tiết kiệm pin sẽ được bật. Điều này sẽ giới hạn hiệu suất tối đa của CPU, tắt Bluetooth và giảm mức điện năng của màn hình sẽ được sử dụng. Thao tác đánh thức, Điều khiển bằng giọng nói và Rung sẽ không hoạt động. Đồng hồ và các chức năng S Health sẽ vẫn hoạt động."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Đã tắt Tiết kiệm pin."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Đã bật Tiết kiệm pin."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "Chế độ Máy bay"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "Chế độ Máy bay cho phép bạn tắt các chức năng gọi điện và nhắn tin. Chế độ này cũng tắt cả Dữ liệu di động và Bluetooth. Để sử dụng Bluetooth, hãy bật nó trong Cài đặt."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Bật chế độ Máy bay"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Tắt chế độ Máy bay"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Chế độ Máy bay sẽ tắt."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "Gắn thẻ SIM để truy cập mạng."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "Dữ liệu di động"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "Bật Dữ liệu di động"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "Tắt Dữ liệu di động"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "Không tương thích."
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "Không thể bật Dữ liệu di động khi đang kết nối qua Bluetooth."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "Bạn sẽ được kết nối với mạng di động của mình. Việc này có thể phát sinh thêm phí."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "Nếu tắt Dữ liệu di động, bạn sẽ không thể nhận thông báo hoặc sử dụng ứng dụng có yêu cầu kết nối mạng di động. Dữ liệu di động sẽ tắt."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "Chế độ Máy bay sẽ tắt chức năng gọi điện và nhắn tin, đồng thời tắt cả Dữ liệu di động và các chức năng kết nối như Wi-Fi và Bluetooth. Để sử dụng Wi-Fi và Bluetooth, hãy bật chúng trong Cài đặt."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "Để tiết kiệm pin, hãy bật chế độ Siêu tiết kiệm pin."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Hỗ trợ"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Cài đặt"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "Bật"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s không phản hồi. Đóng %s?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Không có đáp ứng"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Chờ"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Đã vượt quá giới hạn sử dụng dữ liệu tối đa (%s). Dữ liệu di động đã bị tắt. Có thể bị tính phụ phí khi bật dữ liệu di động."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Dữ liệu di động bị vô hiệu"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "Tắt Tiết kiệm pin"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "Bật Tiết kiệm pin"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "Tiết kiệm pin"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "Đã gần đạt mức giới hạn sử dụng dữ liệu tối đa (%s). Chạm vào Cài đặt để kiểm tra mức sử dụng dữ liệu."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "Đã đạt giới hạn sử dụng dữ liệu được chỉ rõ. Sử dụng thêm dữ liệu có thể phải trả phí cho nhà cung cấp."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "Giới hạn sử dụng dữ liệu"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Cảnh báo sử dụng dữ liệu"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "Bật chế độ Tiết kiệm pin"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "Tắt chế độ Tiết kiệm pin"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Màn hình tắt."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Đã bật trình đọc màn hình."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Đã tắt trình đọc màn hình."
+

@@ -1,0 +1,8 @@
+<manifest>
+    <define>
+        <domain name="org.tizen.crash-popup"/>
+    </define>
+    <request>
+        <domain name="org.tizen.crash-popup"/>
+    </request>
+</manifest>

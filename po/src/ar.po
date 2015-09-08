@@ -1,0 +1,387 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "إلغاء"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "الضبط"
+
+msgid "IDS_COM_SK_OK"
+msgstr "موافق"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "إمكانية الوصول"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "إيقاف تشغيل"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "إ. تشغيل"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "الذاكرة لا تكفي."
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "يتم الآن تهيئة بيانات MMC..."
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "إ. محاولة"
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "فشل اتصال USB"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "إلغاء تفعيل الألوان السلبية"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "تفعيل الألوان السلبية"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "إلغاء تفعيل التكبير/التصغير"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "تفعيل التكبير/التصغير"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "تشغيل الضوء المساعد"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "إيقاف تشغيل الضوء المساعد"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "حجم الذاكرة منخفض."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr ".%s تم إغلاق"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "البطارية ضعيفة."
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "البطارية منخفضة. سيتم إيقاف تشغيل الهاتف."
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "توفير الطاقة"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "تم تفعيله."
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "تم شحن البطارية كاملا."
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "تم توصيل الطابعة."
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "وضع الطيران"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "تم توصيل موصل USB."
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "تم فصل موصل USB."
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "تم توصيل لوحة المفاتيح."
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "تم توصيل الماوس."
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "تم توصيل الكاميرا."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "تم توصيل وحدة تخزين USB كبيرة السعة‬."
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "تم توصيل جهاز USB غير معروف."
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "تمت إزالة جهاز USB بأمان."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "تمت إزالة وحدة تخزين USB كبيرة السعة بشكل غير متوقع."
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "موافق"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "إعادة تشغيل"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "فشل تحميل بطاقة SD. إعادة إدخال بطاقة SD أو تهيئتها."
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "تم إغلاق %s بشكل مفاجئ."
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "تم تثبيت بطاقة SD للقراءة فقط."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "الذاكرة المتبقية منخفضة"
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "تم تشغيل الضوء المساعد."
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "انقر لإيقاف تشغيل الضوء المساعد."
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "قم بإلغاء تحميل وحدة تخزين USB كبيرة السعة قبل إزالتها لتجنب فقدان البيانات."
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "إلغاء التحميل"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "هل تريد استعراض الكاميرا المتصلة عبر USB؟"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "استعراض"
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "توجد %d أجهزة USB متصلة"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "البطارية ضعيفة"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "هل تريد استعراض سعة التخزين المتصلة عبر USB؟"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "تم فصل البطارية."
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "ستتم إعادة تشغيل الجهاز."
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "سيتم إلغاء تفعيل وضع الطيران."
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "سيتم إيقاف تشغيل الجهاز الآن."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "خيارات الجهاز"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "The device memory is full"
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "يتيح لك وضع الطيران إمكانية إيقاف تشغيل الاتصال والمراسلة وميزات شبكة البيانات. كذلك، فإنه يقوم بإيقاف تشغيل ميزات اتصال مثل Wi-Fi والبلوتوث. لاستخدام Wi-Fi والبلوتوث، قم بتشغيلهم من الإعدادات أو من لوحة الإخطارات."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "قم بحدث خطأ أثناء فك تشفير بطاقة SD."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "تم تشفير بطاقة SD."
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "إلغاء وضع الطيران"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "تفعيل وضع الطيران"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "جار تشفير بطاقة SD..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "جار فك تشفير بطاقة SD..."
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "البطارية فارغة"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "رسالة تحذيرية"
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "أجهزة USB"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "تشفير بطاقة SD"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "تفعيل قارئ الشاشة"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "إلغاء تفعيل قارئ الشاشة"
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "فك تشفير بطاقة SD"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "انتباه"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "تحذير استخدام البيانات"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "انقر لعرض المساحة المستخدمة‬ والإعدادات."
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "تم إلغاء تفعيل بيانات الهاتف المحمول"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "تم تجاوز الحد المعين لاستخدام البيانات (%s). تم إلغاء تفعيل ‏‫بيانات الهاتف المحمول‬. قد يترتب على تفعيل ‏‫بيانات الهاتف المحمول‬ فرض رسوم إضافية."
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "يمنع نهج الأمان استخدام مزامنة سطح المكتب."
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "وحدة تخزين USB فارغة أو نظام الملفات غير معتمد."
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "تمت إزالة وحدة تخزين USB كبيرة السعة بأمان."
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "تم توصيل وحدة التثبيت."
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "تم توصيل كابل HDMI."
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "لم يتم توصيل كابل HDMI."
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "لا استجابة"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "وضع الطوارئ"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "يتعذر تشفير بطاقة SD. ‏‫لا توجد مساحة كافية على البطاقة‬. يلزم توفر مساحة قدرها %.2f ميجابايت تقريبا. احذف بعض الملفات."
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "يتعذر فك تشفير بطاقة SD. ‏‫لا توجد مساحة كافية على البطاقة‬. يلزم توفر مساحة قدرها %.2f ميجابايت تقريبا. احذف بعض الملفات."
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "لم يتم تشفير بطاقة SD. لا يمكنك إلغاء تفعيل تشفير بطاقة SD نظرًا لتفعيله بواسطة المسؤول. هل تريد التشفير؟"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "تشفير بطاقة SD"
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "يتعذر شحن البطارية. درجة حرارة الهاتف مرتفعة للغاية."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "يتعذر شحن البطارية. درجة حرارة الهاتف منخفضة للغاية."
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "متصل كجهاز وسائط"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "ثمة USB للقراءة فقط متصل"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "تم إيقاف الشحن مؤقتا. الجهد الكهربي عال للغاية."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "قم بحدث خطأ أثناء تشفير بطاقة SD."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "تم فك تشفير بطاقة SD."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "طاقة البطارية منخفضة. أعد شحن بطارية الساعة Gear في أقرب وقت لمتابعة استخدامها."
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "إلغاء تفعيل التشفير"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "تفعيل التشفير"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "شحن البطارية ضعيف للغاية"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "طاقة البطارية منخفضة بشكل كبير. أعد شحن بطارية الساعة Gear الآن لمتابعة استخدامها."
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "تم إيقاف الشحن بسبب ارتفاع الحرارة"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "إيقاف التشغيل"
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "لاحقا"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "فك تشفير بطاقة SD"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "تمكين"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "هل تريد إلغاء تفعيل وضع الطيران؟"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "إلغاء تفعيل"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s لا يستجيب. إغلاق %s؟"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "إيقاف التشغيل"
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "افصل الشاحن."
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "قم بالتوصيل بمقبس تيار كهربي لشحن الجهاز واخرج من التطبيقات الغير مستخدمة في مدير المهام. قد يحول الاستخدام المستمر أثناء الشحن دون الشحن بشكل فعال."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "تمّ تفعيل قارئ الشاشة."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "تمّ إلغاء تفعيل قارئ الشاشة."
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "تفعيل وضع الطوارئ"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "إلغاء تفعيل وضع الطوارئ"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "انتظار"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "وحدة تخزين USB"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "الكاميرا"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "درجة حرارة الجهاز عالية للغاية. سيتوقف الآن عن التشغيل ليبرد."
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "لا توقف التشغيل"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "توقف الجهاز عن التشغيل تلقائيًا"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "إن حرارة الجهاز مرتفعة جدًا. توقف عن التشغيل لتفادي أي ضرر.‎\n\nقد يكون سبب ارتفاع الحرارة:‎\nاستخدام تطبيقات ذات رسومات مكثفة لفترات طويلة، مثل الألعاب وتطبيقات التنقل.‎\nنقل ملفات كبيرة.‎\nاستخدام الجهاز في بيئة حارة."
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "لاستخدام بطاقة SD، يجب فك تشفيرها. هل تريد فك تشفير بطاقة SD أم تفعيل تشفير الجهاز؟"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "لاستخدام بطاقة SD، يجب تشفيرها. هل تريد تشفير بطاقة SD أم إلغاء تفعيل تشفير الجهاز؟"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "إلغاء تفعيل الوضع الآمن"
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "سيؤدي إلغاء تفعيل الوضع الآمن إلى إعادة تشغيل جهازك. هل تريد إلغاء التفعيل؟"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "البطارية منخفضة. سيتم إيقاف تشغيل الضوء المساعد."
+
+msgid "IDS_ST_POP_WAIT_UNTIL_IT_HAS_COOLED_DOWN_BEFORE_USING_YOUR_DEVICE"
+msgstr "انتظر حتى يبرد الجهاز قبل استخدامه"
+
+msgid "IDS_COM_HEADER_ALERT"
+msgstr "تنبيه"
+

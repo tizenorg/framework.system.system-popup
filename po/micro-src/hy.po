@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Չեղարկել"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Անձայն"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Ընդունել"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d րոպե հետո պայծառությունը կհետադարձվի կանխադրված մակարդակի (%2$d):"
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "Անջտվծ"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "Միացված է"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Դրսի կերպ"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Պյծռթյուն"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Թրթռիչ"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Փակել"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Սնուցումն անջատված է"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Չկա բավական հիշողություն:"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Մարտկոցի լիցքը թույլ է:"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s փակվեց:"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Մարտկոցի լիցքը թույլ է:"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Ակտիվացված է"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Անջատված:"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Հնչյուն"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s-ն անսպասելիորեն փակվել է:"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Քիչ հիշողություն է մնացել"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Մարտկոցի լիցքը թույլ է"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Սարքը կվերագործարկվի:"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Սարքի ընտրանքներ"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Անձայն"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Լիցքավորումն ընդհատվեց. լարումը չափազանց բարձր է:"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Մարտկոցը սաստիկ նստած է: Սարքը հիմա կանջատվի:"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Մարտկոցի էներգիայի մակարդակը ցածր է: Շուտ վերալիցքավորեք Gear-ը, որպեսզի շարունակեք այն օգտագործել"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Մարտկոցը նստած է: Շտապ վերալիցքավորեք սարքը, որպեսզի շարունակեք այն օգտագործել:"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Մարտկոցը սաստիկ նստած է"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Մարտկոցի էներգիայի մակարդակը սաստիկ ցածր է: Հիմա վերալիցքավորեք Gear-ը, որպեսզի շարունակեք այն օգտագործել"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Մարտկոցի էներգիայի մակարդակը սաստիկ ցածր է: Ձեր Gear-ը կանջատվի շարժական սարքից: Կարող եք օգտագործել միայն կանխադրված ժամացույցը: Հիմա վերալիցքավորեք Gear-ը, որպեսզի շարունակեք այն օգտագործել:"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Մարտկոցի էներգիայի մակարդակը սաստիկ ցածր է: Կարող եք օգտագործել միայն կանխադրված ժամացույցը: Հիմա վերալիցքավորեք Gear-ը, որպեսզի շարունակեք այն օգտագործել"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Լիցքավորումը դադարեցված է: Մարտկոցի ջերմաստիճանը չափազանց բարձր է կամ չափազանց ցածր:"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Լիցքավորումն ընդհատվեց. մարտկոցի ջերմաստիճանը շատ ցածր է:"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Լիցքավորումն ընդհատվեց. մարտկոցի ջերմաստիճանը շատ բարձր է:"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Մարտկոցը նստած է"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Սարքը կանջատվի:"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Վերսկսել"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Պահոցը լիքն է"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Անհնար է գրանցել. Gear-ի պահոցում բավարար տեղ չկա:"
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Ձեր սարքը կվերագործարկվի, որպեսզի կասեցվի Էներգիայի գերխնայման ռեժիմը:"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Սխալ:"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Էներգիայի գերխնայման ռեժիմ"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "Չկրկնել"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Մարտկոցն անջատված է:"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Էներգ խնայարար"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Հոսանքի խնայումը կմիացվի: Դա կսահմանափակի CPU-ի առավելագույն արդյունավետությունը, կանջատի Bluetooth-ը և կօգտագործի էկրանի պայծառության ավելի ցածր մակարդակ: Արթնացման ժեստը, Ձայնի կառավարը և Թրթռումը անմատչելի կլինեն: Ժամացույցը և S Health գործառույթները դարձյալ մատչելի կլինեն:"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Հոսանքի խնայումը՝ անջատ:"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Հոսանքի խնայումը՝ միաց:"
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "Թռիչքային ռեժիմ"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "Թռիչքային ռեժիմը թույլ է տալիս կասեցնել կանչի և հաղորդագրման գործառույթները: Այն նաև անջատում է Շարժական տվյալները և Bluetooth-ը: Bluetooth-ից օգտվելու համար այն միացրեք Դրվածքներում:"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Ընձեռել Թռիչքային ռեժիմը"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Կասեցնել Թռչք. ռեժիմ"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Թռիչքային ռեժիմը կկասեցվի:"
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "Տեղադրեք SIM քարտը՝ ցանցային ծառայություններ մտնելու համար:"
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "Շարժ. տվյլ."
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "Միացնել շարժական տվյալները"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "Անջատել շարժական տվյալները"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "Չի սատարվում:"
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "Bluetooth-ի միջոցով միացված ժամանակ անհնար է միացնել Շարժական տվյալները:"
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "Դուք կմիանաք Ձեր շարժական կապի ցանցին: Դա կարող է լրացուցիչ վճարների հանգեցնել:"
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "Եթե անջատեք Շարժական տվյալները, չեք կարողանա ստանալ ծանուցումներ կամ օգտագործել ծրագրեր, որոնք շարժական կապի ցանցային միացում են պահանջում: Շարժական տվյալները կանջատվեն:"
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "Թռիչքային ռեժիմը կասեցնում է կանչի և հաղորդագրման գործառույթները և անջատում է Շարժական տվյալներն ու միացնելիության հնարավորությունները, ինչպիսիք են Wi-Fi-ն ու Bluetooth-ը: Wi-Fi և Bluetooth օգտագործելու համար դրանք միացրեք Դրվածքներում:"
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "Մարտկոցի էներգիան խնայելու համար ընձեռեք Էներգիայի գերխնայման ռեժիմը:"
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Մատչելիություն"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Պարամետրեր"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "Ակտիվացնլ"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s չի պատասխանում. փակե՞լ %s:"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Պատասխան չկա"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Սպասել"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Տվյալների օգտագործման առավելագույն չափը (%s) գերազանցվել է: Շարժական տվյալները կասեցված են: Շարժական տվյալներ ընձեռելը կարող է լրացուցիչ վճար պահանջել:"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Շարժական տվյալները կասեցված են"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "Անջտլ Էներգ-ի խնյմը"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "Միացնլ Էներգ. խնյմ"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "Էներգիայի\nխնայում"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "Գրեթե հասել է տվյալների օգտագործման առավելագույն չափին (%s): Թակեք Դրվածքներ՝ Ձեր տվյալների օգտագործումը ստուգելու համար:"
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "Հասել է տվյալների օգտագործման նշված սահմանին: Լրացուցիչ տվյալների օգտագործումը կարող է վճարներ պահանջել ծառայության մատակարարի կողմից:"
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "Սահմանափակել տվյալների օգտագործումը"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Տվյալների օգտագործման նախազգուշացում"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "Ընձեռել Էներգիայի խնայման ռեժիմը"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "Կասեցնել Էներգիայի խնայման ռեժիմ"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Էկրանն անջատված է:"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Էկրանի ընթերցողը՝ միաց:"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Էկրանի ընթերցողը՝ անջատ:"
+

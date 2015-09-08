@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "ବାତିଲ୍"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "ମ୍ୟୁଟ୍"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ଓକେ"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d ମିନିଟ୍ ପରେ, ଉଜ୍ଜ୍ୱଳତା ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ ସ୍ତର (%2$d)ରେ ପୁନଃସେଟ୍ ହୋଇଯିବ।"
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "ଅଫ୍"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "ଅନ୍"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "ବାହାର ମୋଡ୍"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "ଔଜଲ୍ୟତା"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "କମ୍ପନ"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "ବନ୍ଦ"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "ପାୱାର୍ ଅଫ୍"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "ପର୍ଯ୍ୟାପ୍ତ ମେମୋରୀ ନାହିଁ।"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "ସ୍ଵଳ୍ପ ମେମୋରୀ।"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s ବନ୍ଦ ହୋଇଛି।"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "ବ୍ୟାଟେରୀ କମ୍।"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "ସମର୍ଥନ ହୋଇଛି।"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "ଅକ୍ଷମ ହୋଇଛି।"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "ଧ୍ଵନି"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s ଅଣାଅଶାଦିତ ଭାବରେ ବନ୍ଦ ହୋଇଛି।"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "କମ୍ ମେମୋରୀ ରହିଛି"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "ବ୍ୟାଟେରୀ କମ୍"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "ଡିଭାଇସ୍ ପୁନଃଆରମ୍ଭ ହେବ।"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "ଡିଭାଇସ୍‌ ବିକଳ୍ପଗୁଡିକ"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "ମ୍ୟୁଟ୍"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "ଚାର୍ଜ୍ ହେବା ବିରତି ହୋଇଛି । ଭୋଲଟେଜ୍ ବହୁତ ଅଧିକ।"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "ବ୍ୟାଟେରୀ ଅତ୍ୟନ୍ତ କମ୍ ହୋଇଛି । ଡିଭାଇସ୍ ବର୍ତ୍ତମାନ ସଟ୍ ଡାଉନ୍ ହେବ"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "ବ୍ୟାଟେରୀ ପାୱାର୍ ବହୁତ କମ୍ ଅଛି। ଏହାର ବ୍ୟବହାର ଜାରି ରଖିବାକୁ ଶୀଘ୍ର ଆପଣଙ୍କର ଗିୟର୍ ରିଚାର୍ଜ୍ କରନ୍ତୁ।"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "ବ୍ୟାଟେରୀ ଲୋ । ବ୍ୟବହାର କରିବା ଜାରିରଖିବାକୁ ଡିଭାଇସ୍ ପୁନଃ ଚାର୍ଜ କରନ୍ତୁ"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "ବ୍ୟାଟେରୀ ଅତ୍ୟଧିକ କମ୍ ଅଟେ"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ବ୍ୟାଟେରୀ ପାୱାର୍ ବହୁତ କମ୍ ଅଛି। ଏହାର ବ୍ୟବହାର ଜାରି ରଖିବାକୁ ବର୍ତ୍ତମାନ ଆପଣଙ୍କର ଗିୟର୍ ରିଚାର୍ଜ୍ କରନ୍ତୁ।"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "ବ୍ୟାଟେରୀ ପାୱାର୍ ବହୁତ କମ୍ ଅଛି। ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ଠାରୁ ଆପଣଙ୍କ ଗିୟର୍ ବିଚ୍ଛିନ୍ନ ହେବ। ଆପଣ ଡିଫଲ୍ଟ୍ ଘଣ୍ଟା କେବଳ ବ୍ୟବହାର କରିପାରିବେ। ଏହା ବ୍ୟବହାର ଜାରି ରଖିବାକୁ ବର୍ତ୍ତମାନ ଆପଣଙ୍କ ଗିୟର୍ ରିଚାର୍ଜ୍ କରନ୍ତୁ।"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ବ୍ୟାଟେରୀ ପାୱାର୍ ଅତ୍ୟନ୍ତ କମ୍ ଅଛି। ଆପଣ କେବଳ ଡିଫଲ୍ଟ୍ ଘଣ୍ଟା ବ୍ୟବହାର କରିପାରିବେ। ଏହା ବ୍ୟବହାର ଜାରି ରଖିବାକୁ ବର୍ତ୍ତମାନ ଆପଣଙ୍କର ଗିୟର୍ ରିଚାର୍ଜ୍ କରନ୍ତୁ।"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "ଚାର୍ଜିଂ ବିରତି ହୋଇଛି । ବ୍ୟାଟେରୀ ତାପମାତ୍ରା ବହୁତ ଅଧିକ କିମ୍ଵା ବହୁତ କମ୍ ଅଛି।"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "ଚାର୍ଜ୍ ହେବା ବିରତି ହୋଇଛି। ବ୍ୟାଟେରୀ ତାପମାତ୍ରା ବହୁତ କମ୍ ଅଟେ।"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "ଚାର୍ଜ୍ ହେବା ବିରତି ହୋଇଛି। ବ୍ୟାଟେରୀ ତାପମାତ୍ରା ଅଧିକ ଅଟେ।"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "ବ୍ୟାଟେରୀ ଲୋ ଅଟେ"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "ଡିଭାଇସ୍ ଟର୍ନ୍ ଅଫ୍ ହେବ।"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "ପୁନଃଆରମ୍ଭ"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "ଷ୍ଟୋରେଜ୍ ପୂର୍ଣ୍ଣ"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "ରେକର୍ଡ୍ କରିବାକୁ ଅସମର୍ଥ। ଆପଣଙ୍କର ଗିୟର୍ ଷ୍ଟୋରେଜ୍‌ରେ ପର୍ଯ୍ୟାପ୍ତ ଖାଲି ସ୍ଥାନ ନାହିଁ।"
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "ଅଲ୍‌ଟ୍ରା ପାୱାର ସଞ୍ଚୟ ମୋଡ୍‍ ଅକ୍ଷମ କରିବାକୁ, ଆପଣଙ୍କ ଡିଭାଇସ୍ ରିଷ୍ଟାର୍ଟ ହେବ।"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "ତ୍ରୁଟି।"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "ଅଲଟ୍ରା ପାୱାର୍ ସଞ୍ଚୟ ମୋଡ୍"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "ପୁନରାବୃତ୍ତି କରନ୍ତୁ ନାହିଁ"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "ବ୍ୟାଟେରୀ ବିଚ୍ଛିନ୍ନ ହୋଇଛି।"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "ପାୱାର୍ ସଞ୍ଚୟକାରି"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "ପାୱାର ସଞ୍ଚୟକାରୀ ସକ୍ଷମ ହେବ। ଏହା CPUର ସର୍ବୋଚ୍ଚ ପ୍ରଦର୍ଶନକୁ ସୀମିତ କରିବ, ବ୍ଲୁଟୁଥ୍‍ ଅଫ୍‍ କରନ୍ତୁ, ଏବଂ ଏକ ନିମ୍ନ ସ୍କ୍ରିନ୍‍ ପାୱାର ସ୍ତର ବ୍ୟବହୃତ ହେବ। ୱେକ-ଅପ୍ ଜେଶ୍ଚର୍‌, ଭଏସ୍ ନିୟନ୍ତ୍ରଣ ଏବଂ କମ୍ପନ ଉପଲବ୍ଧ ହେବ ନାହିଁ। ଘଣ୍ଟା ଏବଂ S Health ପ୍ରକାର୍ଯ୍ୟ ତଥାପି ଉପଲବ୍ଧ ହେବ।"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "ପାୱାର ସଞ୍ଚୟକାରୀ ଅକ୍ଷମ ହୋ‍ଇଛି।"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "ପାୱାର ସଞ୍ଚୟକାରୀ ସକ୍ଷମ ହୋ‍ଇଛି।"
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "ଫ୍ଲାଇଟ୍ ମୋଡ୍"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "ଫ୍ଲାଇଟ୍ ମୋଡ୍ ଆପଣଙ୍କୁ କଲ୍‌ କରିବା ଏବଂ ସନ୍ଦେଶ ପ୍ରେରଣ ପ୍ରକାର୍ଯ୍ୟ ଅକ୍ଷମ କରିବାକୁ ସମର୍ଥ କରିଥାଏ। ଏହା ମଧ୍ୟ ମୋବାଇଲ୍‍ ଡାଟା ଏବଂ ବ୍ଲୁଟୁଥ୍‍ ଅଫ୍‍ କରିଥାଏ। ବ୍ଲୁଟୁଥ୍‍ ବ୍ୟବହାର କରିବାକୁ, ସେଟିଂଗୁଡିକରେ ଏହା ଅନ୍‍ କରନ୍ତୁ।"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "ଫ୍ଲାଇଟ୍ ମୋଡ୍ ସକ୍ଷମ କରନ୍ତୁ"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "ଫ୍ଲାଇଟ୍ ମୋଡ୍ ଅକ୍ଷମ କରନ୍ତୁ"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "ଫ୍ଲାଇଟ୍ ମୋଡ୍ ଅକ୍ଷମ ହେବ।"
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "ନେଟ୍‌ୱାର୍କ୍ ସେବା ପ୍ରବେଶ କରିବାକୁ SIM କାର୍ଡ୍ ସନ୍ନିବେଶ କରନ୍ତୁ।"
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "ମୋବାଇଲ୍ ଡାଟା"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "ମୋବାଇଲ୍ ଡାଟା ଅନ୍ କରନ୍ତୁ"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "ମୋବାଇଲ୍ ଡାଟା ଅଫ୍ କରନ୍ତୁ"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "ସମର୍ଥନ କରୁନାହିଁ।"
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "ବ୍ଲୁଟୁଥ୍‍ ସହିତ ସଂଯୁକ୍ତ ହୋ‍ଇଥିବା ବେଳେ ମୋବାଇଲ ଡାଟା ଟର୍ନ ଅନ୍‍ କରିବାକୁ ଅସମର୍ଥ।"
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "ଆପଣ ଆପଣଙ୍କ ମୋବାଇଲ୍ ନେଟୱାର୍କ ସହିତ ସଂଯୁକ୍ତ ହେବେ। ଏହା ଫଳରେ ଅତିରିକ୍ତ ଦେୟ ଲାଗୁ ହୋଇପାରେ।"
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "ଯଦି ଆପଣ ମୋବାଇଲ୍ ଡାଟା ଟର୍ନ୍ ଅଫ୍ କରନ୍ତି, ଆପଣ ବିଜ୍ଞପ୍ତିଗୁଡିକୁ ପ୍ରାପ୍ତ କରିବାକୁ ସକ୍ଷମ ହେବେ ନାହିଁ କିମ୍ଵା ଏକ ମୋବାଇଲ୍ ନେଟ୍‌ୱାର୍କ୍ ସଂଯୋଜନ ଆବଶ୍ୟକ କରୁଥିବା ଆପ୍ଲିକେସନ୍‌ଗୁଡିକୁ ବ୍ୟବହାର କରନ୍ତୁ। ମୋବାଇଲ୍ ଡାଟା ଟର୍ନ୍ ଅଫ୍ ହେବ।"
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "ଫ୍ଲାଇଟ୍ ମୋଡ୍ କଲିଂ ଏବଂ ସନ୍ଦେଶ ପଠାଇବା କାର୍ଯ୍ୟକଳାପ ଏବଂ ଟର୍ନ୍ ଅଫ୍ ମୋବାଇଲ୍ ନେଟ୍‌ୱାର୍କ୍ ଅକ୍ଷମ କରେ ଏବଂ ସଂଯୋଜନ ବୈଶିଷ୍ଟ୍ୟଗୁଡିକ ଯେପରି କି Wi-Fi ଏବଂ ବ୍ଲୁଟୁଥ୍ ମଧ୍ୟ ଅଫ୍ ହୋଇଛି। Wi-Fi ଏବଂ ବ୍ଲୁଟୁଥ୍ ବ୍ୟବହାର କରିବାକୁ, ସେଟିଂ କିମ୍ବା ସୂଚନା ପ୍ୟାନେଲ୍‌ରେ ସେଗୁଡିକ ଟର୍ନ୍ ଅନ୍ କରନ୍ତୁ।"
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "ବ୍ୟାଟେରୀ ପାୱାର୍ ସଞ୍ଚୟ କରିବାକୁ, ଅଲଟ୍ରା ପାୱାର୍ ସଞ୍ଚୟ ମୋଡ୍ ସକ୍ଷମ କରନ୍ତୁ।"
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "ଆକ୍ସେସିବିଲିଟି"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "ସେଟିଂଗୁଡିକ"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "ସକ୍ଷମ"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s ପ୍ରତିକ୍ରିୟା କରୁନାହିଁ। %s ବନ୍ଦ କରିବେ?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "କୌଣସି ପ୍ରତିକ୍ରିୟା ନାହିଁ"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "ଅପେକ୍ଷା କରନ୍ତୁ"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "ସର୍ବାଧିକ ଡାଟା ବ୍ୟବହାର ସୀମା (%s) ଅତିକ୍ରମ କରିଛି । ମୋବାଇଲ୍ ଡାଟା ଅକ୍ଷମ ହୋଇଛି । ମୋବାଇଲ୍ ଡାଟା ସାମର୍ଥ୍ୟ କରିବା ହୁଏତ ଅତିରିକ୍ତ ଦେୟ ଲାଗି ପରେ"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "ମୋବାଇଲ୍ ଡାଟା ଅକ୍ଷମ ହେଲା"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "ପାୱାର୍ ସେଭିଂ ଅକ୍ଷମ କର."
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "ପାୱାର୍ ସଞ୍ଚୟ ସକ୍ଷମ"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "ପାୱାର୍ ସଞ୍ଚୟ"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "ସର୍ବୋଚ୍ଚ ଡାଟା ବ୍ୟବହାର କରିବା ସୀମା (%s)ରେ ପହଞ୍ଚିଲା। ଆପଣଙ୍କ ଡାଟା ବ୍ୟବହାର ଯାଞ୍ଚ କରିବାକୁ ସେଟିଂସ୍ ଟ୍ୟାପ୍ କରନ୍ତୁ।"
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "ସ୍ଥିରିକୃତ ଡାଟା ବ୍ୟବହାର ସୀମାରେ ପହଞ୍ଚିଛି। ସେବା ପ୍ରଦାନକାରୀଙ୍କରୁ ଅତିରିକ୍ତ ଡାଟା ବ୍ୟବହାର ଦେୟ ଲାଗୁ ହୋଇପାରେ।"
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "ଡାଟା ବ୍ୟବହାର ସୀମିତ କରନ୍ତୁ"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "ଡାଟା ବ୍ୟବହାର ଚେତାବନୀ"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "ପାୱାର୍ ସଞ୍ଚୟ ମୋଡ୍ ସକ୍ଷମ କରନ୍ତୁ"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "ପାୱାର୍ ସଞ୍ଚୟ ମୋଡ୍ ଅକ୍ଷମ କରନ୍ତୁ"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "ସ୍କ୍ରିନ୍ ଅଫ୍।"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "ସ୍କ୍ରିନ୍ ରିଡର୍ ସକ୍ଷମ ହୋଇଛି।"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "ସ୍କ୍ରିନ୍ ରିଡର୍ ଅକ୍ଷମ ହୋଇଛି।"
+

@@ -1,0 +1,549 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Չեղարկել"
+
+msgid "IDS_ST_BODY_KEYBOARD"
+msgstr "Ստեղնաշար"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Խցիկ"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Պարամետրեր"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Ընդունել"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Մատչելիություն"
+
+msgid "IDS_USB_POP_CONNECTING_KIES_VIA_USB_WILL_TURN_OFF_KIES_VIA_WI_FI_CONTINUE_Q"
+msgstr "Kies-ը USB-ով միացնելը կանջատի Kies-ը Wi-Fi-ով. շարունակե՞լ:"
+
+msgid "IDS_USB_POP_SAMSUNG_KIES_MODE_ENABLED"
+msgstr "Samsung Kies ռեժիմն ընձեռվել է:"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Թրթռիչ"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Փակել"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Սնուցումն անջատված է"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Հմկրգ ինֆո"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Վերսկսել"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Չկա բավական հիշողություն:"
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "MMC տվյալներ են նախապատրաստվում..."
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "Նց փր"
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "USB միացումը ձախողվեց"
+
+msgid "IDS_ST_POP_PS_ENABLED"
+msgstr "%s ընձեռված է:"
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Կասեցնել բացասական գույները"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Ընձեռել բացասական գույները"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Կասեցնել մասշտաբավորումը"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Ընձեռել մասշտաբավորումը"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Միացնել օժանդակ լույսը"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Անջատել օժանդակ լույսը"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Մարտկոցի լիցքը թույլ է:"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s փակվեց:"
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Մարտկոցի լիցքը թույլ է:"
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "Մարտկոցը նստած է: Հեռախոսը կանջատվի:"
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "Էներգիայի խնայում"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Ակտիվացված է"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Անջատված:"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Հնչյուն"
+
+msgid "IDS_ST_BODY_CAMERA"
+msgstr "Խցիկ"
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "Մարտկոցը ամբողջովին լիցքավորված է:"
+
+msgid "IDS_CST_BODY_NOTICE"
+msgstr "Նշում"
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "Տպիչը միացված է:"
+
+msgid "IDS_COM_POP_PRINTER_DISCONNECTED_ABB2"
+msgstr "Տպիչն անջատված է:"
+
+msgid "IDS_QP_BODY_UNPLUG_CHARGER"
+msgstr "Վարդակից անջատել լիցքավորիչը"
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "Թռիչքի ռեժիմ"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "USB միակցիչը կապակցվել է:"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "USB միակցիչն անջատվել է:"
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "Ստեղնաշարը միացված է:"
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "Մկնիկը միացված է:"
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "Խցիկը միացված է:"
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "USB զանգված. պահոցը միացված է:"
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "Անհայտ USB սարքը միացվեց:"
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "USB սարքն ապահով հեռացվեց:"
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "USB զանգվածային պահոցն անսպասելիորեն հեռացվեց:"
+
+msgid "IDS_COM_BODY_UNABLE_TO_USE_USB_STORAGE_AS_USB_MASS_STORAGE_ERROR_OCCURRED"
+msgstr "Անհնար է օգտագործել USB պահոցը որպես USB զանգվածային պահոց. սխալ է տեղի ունեցել:"
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "Վերագործարկել"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "Չհաջողվեց սարել SD քարտը: Նորից մտցնել կամ ձևաչափել SD քարտը:"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s-ն անսպասելիորեն փակվել է:"
+
+msgid "IDS_COM_POP_KEYBOARD_DISCONNECTED_ABB2"
+msgstr "Ստեղնաշարն անջատված է:"
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "Տեղադրված SD քարտը «միայն կարդալու է»:"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Քիչ հիշողություն է մնացել"
+
+msgid "IDS_ST_POP_TURN_OFF_ASSISTIVE_LIGHT_WHEN_YOU_NO_LONGER_NEED_IT"
+msgstr "Անջատեք օժանդակ լույսը, եթե դրա կարիքն այլևս չունեք:"
+
+msgid "IDS_IS_BODY_DO_NOT_SHOW_AGAIN"
+msgstr "Չցուցադրել կրկին"
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "Օժանդակ լույսը միացված է:"
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Թակեք՝ օժանդակ լույսն անջատելու համար:"
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "Ապասարել USB զանգվածային պահոցը նախքան հեռացնելը՝ տվյալների կորստից խուսափելու համար:"
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "Ապասարել"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "Զննարկե՞լ USB-ով միացված խցիկը:"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "Դիտել"
+
+msgid "IDS_PB_HEADER_USB_STORAGE_NOT_AVAILABLE"
+msgstr "USB պահոցը մատչելի չէ"
+
+msgid "IDS_COM_HEADER_USB_MASS_STORAGE_DISCONNECTED_ABB"
+msgstr "USB զանգվածային պահոցն անջատված է"
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "%d USB սարքեր են միացված"
+
+msgid "IDS_EMAIL_POP_THIS_ACTION_HAS_BEEN_BLOCKED_BY_MDM_CONTACT_THE_MDM_ADMINISTRATOR"
+msgstr "Այս գործողությունն արգելափակվել է MDM-ի կողմից: Դիմեք MDM վարիչին:"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Մարտկոցի լիցքը թույլ է"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "Զննարկե՞լ USB-ով միացված պահոցը:"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Մարտկոցն անջատված է:"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Սարքը կվերագործարկվի:"
+
+msgid "IDS_ST_BODY_USBSETTINGS_PRINTER"
+msgstr "Տպիչ"
+
+msgid "IDS_SMEMO_BODY_MOUSE_M_IDEA_SKETCH"
+msgstr "Մուկ"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Թռիչքային ռեժիմը կկասեցվի:"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_ENABLED"
+msgstr "Թռիչքային ռեժիմը կընձեռվի:"
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Սարքը հիմա կանջատվի:"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Սարքի ընտրանքներ"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "Սարքի հիշողությունը լիքն է"
+
+msgid "IDS_PN_BODY_NOT_ENOUGH_STORAGE_AVAILABLE_SOME_FUNCTIONS_AND_APPLICATIONS_MAY_NOT_BE_AVAILABLE_NOTI_MSG_JPN_DCM"
+msgstr "Not enough storage available. Some functions and applications may not be available.\nOpen Settings and uninstall some apps to make space."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "Թռիչքային ռեժիմը թույլ է տալիս անջատել զանգի, հաղորդագրման և տվյալների հաղորդման ցանցի գործառական հնարավորությունները: Այն նաև անջատում է միացնելիության հնարավորությունները, ինչպիսիք են Wi-Fi-ն ու Bluetooth-ը: Wi-Fi Bluetooth օգտագործելու համար դրանք միացրեք Դրվածքներում կամ ծանուցումների վահանակում:"
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "SD քարտի վերծանման սխալ է տեղի ունեցել:"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "SD քարտը ծածկագրվեց:"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Կասեցնել Թռչք. ռեժիմ"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Ընձեռել Թռիչքային ռեժիմը"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "SD քարտը ծածկագրվում է..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "SD քարտը վերծանվում է..."
+
+msgid "IDS_COM_POP_LOW_BATTERY_CHARGE_YOUR_PHONE"
+msgstr "Մարտկոցի լիցքը թույլ է: Փոխեք ձեր հեռախոսը"
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "Մարտկոց չկա"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "Նախազգուշացնող հաղորդագրություն"
+
+msgid "IDS_DN_POP_DATA_DECRYPTED"
+msgstr "Տվյալները վերծանվեցին:"
+
+msgid "IDS_DN_POP_DATA_ENCRYPTED"
+msgstr "Տվյալները ծածկագրվեցին:"
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "USB սարքեր"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "Ծածկագրել SD քարտը"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "Ընձեռել էկրանի ընթերցիչը"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "Կասեցնել էկրանի ընթերցիչը"
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "Վերծանել SD քարտը"
+
+msgid "IDS_DN_HEADER_DATA_DECRYPTION_ABB"
+msgstr "Տվյալների վերծանում"
+
+msgid "IDS_DN_HEADER_DATA_ENCRYPTION_ABB"
+msgstr "Տվյալների ծածկագրում"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "Ուշադրություն"
+
+msgid "IDS_ST_BUTTON_CONTINUE_ABB"
+msgstr "Շրնկել"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Տվյալների օգտագործման նախազգուշացում"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "Թակեք՝ օգտագործումն ու դրվածքները դիտելու համար:"
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Շարժական տվյալները կասեցված են"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Տվյալների օգտագործման առավելագույն չափը (%s) գերազանցվել է: Շարժական տվյալները կասեցված են: Շարժական տվյալներ ընձեռելը կարող է լրացուցիչ վճար պահանջել:"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Անձայն"
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "Անվտանգության քաղաքականությունը կանխում է աշխատասեղանի համաժամացման օգտագործումը:"
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "USB պահոցը դատարկ է կամ ունի չապահովվող ֆայլային համակարգ:"
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "USB զանգվածային պահոցն ապահով հեռացվեց:"
+
+msgid "IDS_COM_BODY_OUR_PHONE_WILL_SHUT_DOWN"
+msgstr "Ձեր հեռախոսը կանջատվի:"
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "Միակցման բլոկը միացված է:"
+
+msgid "IDS_EMM_MBODY_EMERGENCY_MODE_JPN_DCM"
+msgstr "Emergency mode"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "HDMI կաբելը միացված է:"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "HDMI կաբելն անջատված է:"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Պատասխան չկա"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "Արտակարգ իրավիճակի ռեժիմ"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Անհնար է ծածկագրել SD քարտը. քարտում բավարար տեղ չկա: Հարկավոր է մոտավորապես %.2f ՄԲ: Վերացրեք որոշ ֆայլեր:"
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Անհնար է վերծանել SD քարտը. քարտում բավարար տեղ չկա: Հարկավոր է մոտավորապես %.2f ՄԲ: Վերացրեք որոշ ֆայլեր:"
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "Այս SD քարտը ծածկագրված չէ: Դուք չեք կարող կասեցնել «Ծածկագրել SD քարտը», որովհետև այն ընձեռվել է վարիչի կողմից. ծածկագրե՞լ:"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "Ծծկգրել SD քարտ"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_TAP_CONTINUE_TO_DECRYPT_YOUR_SD_CARD"
+msgstr "Ձեր SD քարտն օգտագործելու համար այն պետք է վերծանված լինի: Թակեք Շարունակել՝ Ձեր SD քարտը վերծանելու համար:"
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "Անհնար է լիցքավորել մարտկոցը: Հեռախոսի ջերմաստիճանը չափազանց բարձր է:"
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "Անհնար է լիցքավորել մարտկոցը: Հեռախոսի ջերմաստիճանը չափազանց ցածր է:"
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "Միացված է որպես մեդիա սարք"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "Միայն կարդ. USB սարք կպկցվել"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Լիցքավորումն ընդհատվեց. լարումը չափազանց բարձր է:"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "SD քարտի ծածկագրման սխալ է տեղի ունեցել:"
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "SD քարտը վերծանվեց:"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION"
+msgstr "SD քարտի ծածկագրում"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_HAS_BEEN_ENABLED"
+msgstr "SD քարտի ծածկագրումն ընձեռվել է:"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Էկրանն անջատված է:"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Մարտկոցը սաստիկ նստած է: Սարքը հիմա կանջատվի:"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Մարտկոցի էներգիայի մակարդակը ցածր է: Շուտ վերալիցքավորեք Gear-ը, որպեսզի շարունակեք այն օգտագործել"
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "Կասեցնել ծածկագրումը"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "Ընձեռել ծածկագրում"
+
+msgid "IDS_ACCS_POP_EMERGENCY_MODE_AND_SCREEN_READER_CANNOT_BOTH_BE_ENABLED_GO_TO_SETTINGS_TO_DISABLE_SCREEN_READER_Q"
+msgstr "Արտակարգ իրավիճակի ռեժիմն ու Էկրանի ընթերցիչը չեն կարող միասին ընձեռվել. գնա՞լ Դրվածքներ՝ Էկրանի ընթերցիչը կասեցնելու համար:"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Մարտկոցը նստած է: Շտապ վերալիցքավորեք սարքը, որպեսզի շարունակեք այն օգտագործել:"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Մարտկոցը սաստիկ նստած է"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Մարտկոցի էներգիայի մակարդակը սաստիկ ցածր է: Հիմա վերալիցքավորեք Gear-ը, որպեսզի շարունակեք այն օգտագործել"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Մարտկոցի էներգիայի մակարդակը սաստիկ ցածր է: Ձեր Gear-ը կանջատվի շարժական սարքից: Կարող եք օգտագործել միայն կանխադրված ժամացույցը: Հիմա վերալիցքավորեք Gear-ը, որպեսզի շարունակեք այն օգտագործել:"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Մարտկոցի էներգիայի մակարդակը սաստիկ ցածր է: Կարող եք օգտագործել միայն կանխադրված ժամացույցը: Հիմա վերալիցքավորեք Gear-ը, որպեսզի շարունակեք այն օգտագործել"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Լիցքավորումը դադարեցված է: Մարտկոցի ջերմաստիճանը չափազանց բարձր է կամ չափազանց ցածր:"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Լիցքավորումն ընդհատվեց. մարտկոցի ջերմաստիճանը շատ ցածր է:"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Լիցքավորումն ընդհատվեց. մարտկոցի ջերմաստիճանը շատ բարձր է:"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Մարտկոցը նստած է"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Դրսի կերպ"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Սարքը կանջատվի:"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d րոպե հետո պայծառությունը կհետադարձվի կանխադրված մակարդակի (%2$d):"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Պյծռթյուն"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "Լիցքավորումը դադարեցված է ծայրահեղ ջերմաստիճանի պատճառով"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "Անջատել հոսանքը"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_TAP_CONTINUE_TO_ENCRYPT_YOUR_SD_CARD"
+msgstr "Ձեր SD քարտն օգտագործելու համար այն պետք է ծածկագրված լինի: Թակեք Շարունակել՝ Ձեր SD քարտը ծածկագրելու համար:"
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "Ավելի ուշ"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "Վերծանել SD քարտը"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "Ընձեռել"
+
+msgid "IDS_TPLATFORM_BODY_POWER_OFF_THE_DEVICE_Q"
+msgstr "Անջատե՞լ սարքի սնուցումը:"
+
+msgid "IDS_TPLATFORM_BODY_RESTART_THE_DEVICE_Q"
+msgstr "Վերագործարկե՞լ սարքը:"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "Կասեցնե՞լ Թռիչքային ռեժիմը:"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "Կսցնել"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_CALLING_MESSAGING_AND_MOBILE_NETWORK_FUNCTIONS"
+msgstr "Թռիչքի եղանակը թույլ է տալիս անջատել զանգումը, ուղերձումը և շարժական ցանցի այլ գործառույթներ:"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s չի պատասխանում. փակե՞լ %s:"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "Հսնք՝ անջ."
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "Անջատել լիցքավորման սարքը:"
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "Միացեք խցակի վարդակին՝ սարքը լիցքավորելու և Առաջադրանքների կառավարիչում չօգտագործվող ծրագրերից ելնելու համար: Լիցքավորման ընթացքում շարունակվող օգտագործումը կարող է խանգարել արդյունավետ լիցքավորմանը:"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Էկրանի ընթերցողը՝ միաց:"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Էկրանի ընթերցողը՝ անջատ:"
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "Ընձեռել Արտակարգ իրավիճակի ռեժիմը"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "Կասեցնել Արտակարգ իրավիճակի ռեժիմը"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Սպասել"
+
+msgid "IDS_PH_HEADER_ERROR_ABB"
+msgstr "Սխալ"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "USB պահոց"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "Խցիկ"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "Ձեր սարքը գերտաքանում է: Հիմա սնուցումը կանջատվի, որպեսզի սարքը հովանա:"
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "Սնուցումը չանջատել"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "Սարքի սնուցումն ինքնաբերաբար անջատվել է"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "Ձեր սարքը գերտաքացել է: Սնուցումն անջատվել է, որպեսզի սարքը չվնասվի:\n\nԳերտաքացման պատճառ կարող են լինել՝\nերկար ժամանակ գրաֆիկական պատկերներով հարուստ ծրագրեր օգտագործելը, օրինակ՝ խաղերի և նավարկման ծրագրեր.\nմեծ ֆայլեր փոխանցելը.\nսարքը տաք միջավայրում օգտագործելը:"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "Ձեր SD քարտն օգտագործելու համար այն պետք է վերծանված լինի. վերծանե՞լ SD քարտը, թե՞ ընձեռել սարքի ծածկագրումը:"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "Ձեր SD քարտն օգտագործելու համար այն պետք է ծածկագրված լինի. ծածկագրե՞լ SD քարտը, թե՞ կասեցնել սարքի ծածկագրումը:"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "Անջատել Անվտանգ ռեժիմը"
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "Անվտանգ ռեժիմի կասեցման դեպքում Ձեր սարքը կվերագործակվի. կասեցնե՞լ:"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "Մարտկոցը նստած է: Օժանդակ լույսը կանջատվի:"
+

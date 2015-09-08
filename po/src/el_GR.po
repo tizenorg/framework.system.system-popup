@@ -1,0 +1,549 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Άκυρο"
+
+msgid "IDS_ST_BODY_KEYBOARD"
+msgstr "Πληκτρολόγιο"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Κάμερα"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Ρυθμίσεις"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Προσβ/τητα"
+
+msgid "IDS_USB_POP_CONNECTING_KIES_VIA_USB_WILL_TURN_OFF_KIES_VIA_WI_FI_CONTINUE_Q"
+msgstr "Η σύνδεση του Kies μέσω USB θα απενεργοποιήσει τη χρήση του Kies μέσω Wi-Fi. Συνέχεια;"
+
+msgid "IDS_USB_POP_SAMSUNG_KIES_MODE_ENABLED"
+msgstr "Ενεργοποιήθηκε η κατάσταση λειτουργίας Samsung Kies."
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Δόνηση"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Κλείσιμο"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Απενεργοποίηση"
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Πληρ. Συστήμ."
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Επανεκκίνηση"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Ανεπαρκής μνήμη."
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "Προετοιμασία των δεδομένων MMC..."
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "Επαν."
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "Η σύνδεση USB απέτυχε"
+
+msgid "IDS_ST_POP_PS_ENABLED"
+msgstr "Το %s έχει ενεργοποιηθεί."
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Απενεργοποίηση αρνητικών χρωμάτων"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Ενεργοποίηση αρνητικών χρωμάτων"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Απενεργοποίηση του ζουμ"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Ενεργοποίηση του ζουμ"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Ενεργοποίηση του βοηθητικού φωτός"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Απενεργοποίηση του βοηθητικού φωτός"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Ανεπαρκής μνήμη."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s έκλεισε."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Χαμηλή μπαταρία."
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "Χαμηλή στάθμη μπαταρίας. Το τηλέφωνο θα απενεργοποιηθεί."
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "Εξοικονόμ. Eνέργειας"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Ενεργοποιημένο."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Απενεργοποιημένη."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Ήχος"
+
+msgid "IDS_ST_BODY_CAMERA"
+msgstr "Κάμερα"
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "Μπαταρία πλήρως φορτισμένη."
+
+msgid "IDS_CST_BODY_NOTICE"
+msgstr "Ειδοποίηση"
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "Συνδέθηκε εκτυπωτής."
+
+msgid "IDS_COM_POP_PRINTER_DISCONNECTED_ABB2"
+msgstr "Αποσύνδεση εκτυπωτή."
+
+msgid "IDS_QP_BODY_UNPLUG_CHARGER"
+msgstr "Αποσύνδεση φορτιστή"
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "Λειτουργία πτήσης"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "Συνδέθηκε ο προσαρμογέας USB."
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "Ο προσαρμογέας USB αποσυνδέθηκε."
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "Συνδέθηκε πληκτρολόγιο."
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "Συνδέθηκε ποντίκι."
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "Η κάμερα συνδέθηκε."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "Συνδ. συσκ. μαζικής αποθ. USB."
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "Συνδέθηκε άγνωστη συσκευή USB."
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "Η συσκευή USB καταργήθηκε με ασφάλεια."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "Η συσκευή μαζικής αποθήκευσης USB αφαιρέθηκε απρόσμενα."
+
+msgid "IDS_COM_BODY_UNABLE_TO_USE_USB_STORAGE_AS_USB_MASS_STORAGE_ERROR_OCCURRED"
+msgstr "Δεν είναι δυνατή η χρήση της συσκευής USB ως συσκευής μαζικής αποθήκευσης USB. Προέκυψε ένα σφάλμα."
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "Επανεκκίνηση"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "Η σύνδεση της κάρτας SD απέτυχε. Τοποθετήστε ξανά ή διαμορφώστε την κάρτα SD."
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "Η εφαρμογή %s έκλεισε με μη αναμενόμενο τρόπο."
+
+msgid "IDS_COM_POP_KEYBOARD_DISCONNECTED_ABB2"
+msgstr "Το πληκτρολόγιο αποσυνδέθηκε."
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "Τοποθετημένη κάρτα SD μόνο για ανάγνωση."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Περιορισμένο υπόλοιπο μνήμης"
+
+msgid "IDS_ST_POP_TURN_OFF_ASSISTIVE_LIGHT_WHEN_YOU_NO_LONGER_NEED_IT"
+msgstr "Απενεργοποιήστε το βοηθητικό φως εάν δεν το χρειάζεστε πλέον."
+
+msgid "IDS_IS_BODY_DO_NOT_SHOW_AGAIN"
+msgstr "Να μην εμφανιστεί ξανά"
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "Το βοηθητικό φως είναι ενεργό."
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Πατήστε για απενεργοποίηση του βοηθητικού φωτός."
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "Αποσυνδέστε τη συσκευή μαζικής αποθήκευσης USB πριν την αφαιρέσετε για να αποφύγετε τυχόν απώλεια δεδομένων."
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "Αποσύνδεση"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "Περιήγηση στην συνδεδεμένη κάμερα μέσω USB;"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "Περιήγηση"
+
+msgid "IDS_PB_HEADER_USB_STORAGE_NOT_AVAILABLE"
+msgstr "Η συσκευή αποθ. USB δεν είναι διαθέσιμη"
+
+msgid "IDS_COM_HEADER_USB_MASS_STORAGE_DISCONNECTED_ABB"
+msgstr "Η συσκευή μαζικής αποθήκ. USB αποσυνδέθηκε"
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "%d συνδεδ. συσκευές USB"
+
+msgid "IDS_EMAIL_POP_THIS_ACTION_HAS_BEEN_BLOCKED_BY_MDM_CONTACT_THE_MDM_ADMINISTRATOR"
+msgstr "Αυτή η ενέργεια έχει αποκλειστεί από την υπηρεσία MDM. Επικοινωνήστε με το διαχειριστή της υπηρεσίας MDM."
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Χαμηλή μπαταρία"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "Περιήγηση στη συνδεδεμένη συσκευή αποθήκευσης μέσω USB;"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Η μπαταρία αποσυνδέθηκε."
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Θα γίνει επανεκκίνηση της συσκευής."
+
+msgid "IDS_ST_BODY_USBSETTINGS_PRINTER"
+msgstr "Εκτυπωτής"
+
+msgid "IDS_SMEMO_BODY_MOUSE_M_IDEA_SKETCH"
+msgstr "Ποντίκι"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Θα απενεργοποιηθεί η λειτουργία πτήσης."
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_ENABLED"
+msgstr "Θα ενεργοποιηθεί η λειτουργία πτήσης."
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Η λειτουργία της συσκευής σας θα τερματιστεί."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Επιλογές συσκευής"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "Η μνήμη της συσκευής είναι πλήρης"
+
+msgid "IDS_PN_BODY_NOT_ENOUGH_STORAGE_AVAILABLE_SOME_FUNCTIONS_AND_APPLICATIONS_MAY_NOT_BE_AVAILABLE_NOTI_MSG_JPN_DCM"
+msgstr "Not enough storage available. Some functions and applications may not be available.\nOpen Settings and uninstall some apps to make space."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "Η λειτουργία πτήσης σάς επιτρέπει να απενεργοποιείτε τις λειτουργίες κλήσεων, μηνυμάτων και δικτύων δεδομένων. Επίσης, απενεργοποιεί λειτουργίες συνδεσιμότητας, όπως είναι το Wi-Fi και το Bluetooth. Για να χρησιμοποιήσετε το Wi-Fi και το Bluetooth, ενεργοποιήστε τα από τις Ρυθμίσεις ή από το πλαίσιο ειδοποιήσεων."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "Προέκυψε σφάλμα αποκρυπτογράφησης της κάρτας SD."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "Η κάρτα SD κρυπτογραφήθηκε."
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Απενερ. λειτ. πτήσης"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Ενεργ. λειτουργίας πτήσης"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "Κρυπτογράφηση κάρτας SD..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "Αποκρυπτογράφηση κάρτας SD..."
+
+msgid "IDS_COM_POP_LOW_BATTERY_CHARGE_YOUR_PHONE"
+msgstr "Χαμηλή μπαταρία. Φορτίστε το τηλέφωνό σας"
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "Χωρίς μπαταρία"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "Μήνυμα προειδοποίησης"
+
+msgid "IDS_DN_POP_DATA_DECRYPTED"
+msgstr "Η αποκρυπτογράφηση των δεδομένων ολοκληρώθηκε."
+
+msgid "IDS_DN_POP_DATA_ENCRYPTED"
+msgstr "Η κρυπτογράφηση των δεδομένων ολοκληρώθηκε."
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "Συσκευές USB"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "Κρυπτογράφηση κάρτας SD"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "Ενεργ. ανάγνωσης οθόνης"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "Απεν. ανάγνωσης οθόνης"
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "Αποκρυπτογράφηση κάρτας SD"
+
+msgid "IDS_DN_HEADER_DATA_DECRYPTION_ABB"
+msgstr "Αποκρυπτογρ.δεδομένων"
+
+msgid "IDS_DN_HEADER_DATA_ENCRYPTION_ABB"
+msgstr "Κρυπτογρ. δεδομένων"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "Προσοχή"
+
+msgid "IDS_ST_BUTTON_CONTINUE_ABB"
+msgstr "Συνέχεια"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Προειδοποίηση χρήσης δεδομένων"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "Πατήστε για την προβολή της χρήσης και των ρυθμίσεων."
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Απενεργοποιήθηκαν δεδομένα κινητής τηλεφωνίας"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Υπέρβαση του μέγιστου ορίου χρήσης δεδομένων (%s). Τα δεδομένα κινητής τηλεφωνίας απενεργοποιήθηκαν. Η ενεργοποίηση των δεδομένων κινητής τηλεφωνίας ενδέχεται να επιφέρει επιπλέον χρεώσεις."
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Σίγαση"
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "Η πολιτική ασφαλείας δεν επιτρέπει τη χρήση συγχρονισμού επιφάνειας εργασίας."
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "Η συσκευή αποθήκευσης USB είναι κενή ή το σύστημα αρχείων δεν υποστηρίζεται."
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "Η συσκευή μαζικής αποθήκευσης USB αφαιρέθηκε με ασφάλεια."
+
+msgid "IDS_COM_BODY_OUR_PHONE_WILL_SHUT_DOWN"
+msgstr "θα τερματιστεί η λειτουργία του τηλεφώνου σας."
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "Συνδέθηκε η βάση σύνδεσης."
+
+msgid "IDS_EMM_MBODY_EMERGENCY_MODE_JPN_DCM"
+msgstr "Emergency mode"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "Συνδέθηκε καλώδιο HDMI."
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "Το καλώδιο HDMI αποσυνδέθηκε."
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Καμία απάντηση"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "Λειτουργία έκτακτης ανάγκης"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Δεν είναι δυνατή η κρυπτογράφηση της κάρτας SD. Δεν επαρκεί ο χώρος της κάρτας. Απαιτούνται περίπου %.2f MB. Διαγράψτε ορισμένα αρχεία."
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "Δεν είναι δυνατή η αποκρυπτογράφηση της κάρτας SD. Δεν επαρκεί ο χώρος της κάρτας. Απαιτούνται περίπου %.2f MB. Διαγράψτε ορισμένα αρχεία."
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "Η κάρτα SD δεν είναι κρυπτογραφημένη. Δεν είναι δυνατή η απενεργοποίηση της κρυπτογράφησης για την κάρτα SD, επειδή έχει ενεργοποιηθεί από έναν διαχειριστή. Να γίνει κρυπτογράφηση;"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "Κρυπτ. κάρτ. SD"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_TAP_CONTINUE_TO_DECRYPT_YOUR_SD_CARD"
+msgstr "Για να χρησιμοποιήσετε την κάρτα σας SD, πρέπει να είναι αποκρυπτογραφημένη. Πατήστε «Συνέχεια» για αποκρυπτογράφηση της κάρτας σας SD."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "Δεν είναι δυνατή η φόρτιση της μπαταρίας. Η θερμοκρασία του τηλεφώνου είναι πολύ υψηλή."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "Δεν είναι δυνατή η φόρτιση της μπαταρίας. Η θερμοκρασία του τηλεφώνου είναι πολύ χαμηλή."
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "Συνδέθηκε ως συσκευή πολυμέσων"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "Συνδ. συσκ. USB μόνο ανάγν."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Η φόρτιση τέθηκε σε παύση. Η τάση είναι πολύ υψηλή."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "Προέκυψε σφάλμα κρυπτογράφησης της κάρτας SD."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "Η κάρτα SD αποκρυπτογραφήθηκε."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION"
+msgstr "Κρυπτογράφηση κάρτας SD"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_HAS_BEEN_ENABLED"
+msgstr "Η κρυπτογράφηση της κάρτας SD έχει ενεργοποιηθεί."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Οθόνη ανενεργή."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Υπερβολικά χαμηλή στάθμη μπαταρίας. Η συσκευή θα απενεργοποιηθεί."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Η ισχύς της μπαταρίας είναι χαμηλή. Επαναφορτίστε το Gear σύντομα, για να συνεχίσετε να το χρησιμοποιείτε."
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "Απενεργοποίηση κρυπτογράφησης"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "Ενεργοποίηση κρυπτογράφησης"
+
+msgid "IDS_ACCS_POP_EMERGENCY_MODE_AND_SCREEN_READER_CANNOT_BOTH_BE_ENABLED_GO_TO_SETTINGS_TO_DISABLE_SCREEN_READER_Q"
+msgstr "Η λειτουργία έκτακτης ανάγκης και το Εργαλείο ανάγνωσης οθόνης δεν μπορούν να είναι ενεργά ταυτόχρονα. Θέλετε να μεταβείτε στις Ρυθμίσεις για να απενεργοποιήσετε το Εργαλείο ανάγνωσης οθόνης;"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Χαμηλή στάθμη μπαταρίας. Επαναφορτίστε σύντομα τη συσκευή για συνεχίσετε τη χρήση της."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Εξαιρετικά χαμηλή στάθμη μπαταρίας"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Η ισχύς της μπαταρίας είναι υπερβολικά χαμηλή. Επαναφορτίστε το Gear τώρα, για να συνεχίσετε να το χρησιμοποιείτε."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Η ισχύς της μπαταρίας είναι υπερβολικά χαμηλή. Το Gear θα αποσυνδεθεί από την κινητή συσκευή σας. Μπορείτε να χρησιμοποιήσετε μόνο το προεπιλεγμένο ρολόι. Επαναφορτίστε το Gear τώρα, για να συνεχίσετε να το χρησιμοποιείτε."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Η ισχύς της μπαταρίας είναι υπερβολικά χαμηλή. Μπορείτε να χρησιμοποιήσετε μόνο το προεπιλεγμένο ρολόι. Επαναφορτίστε το Gear τώρα, για να συνεχίσετε να το χρησιμοποιείτε."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Η φόρτιση διακόπηκε.\nΗ θερμοκρασία της μπαταρίας είναι πολύ υψηλή ή πολύ χαμηλή."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Η φόρτιση διακόπηκε. Η θερμοκρασία της μπαταρίας είναι πολύ χαμηλή."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Η φόρτιση διακόπηκε. Η θερμοκρασία της μπαταρίας είναι πολύ υψηλή."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Χαμηλή μπαταρία"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Λειτ. εξ. χώρ."
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Η συσκευή θα απενεργοποιηθεί."
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Μετά από %1$d λεπτά, η φωτεινότητα θα επανέλθει στο προεπιλεγμένο επίπεδο (%2$d)."
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Φωτεινότ."
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "Παύση φόρτισης λόγω ακραίας θερμοκρασίας"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "Απενεργοποίηση"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_TAP_CONTINUE_TO_ENCRYPT_YOUR_SD_CARD"
+msgstr "Για να χρησιμοποιήσετε την κάρτα σας SD, πρέπει να είναι κρυπτογραφημένη. Πατήστε «Συνέχεια» για κρυπτογράφηση της κάρτας σας SD."
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "Αργότερα"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "Αποκρυπτογράφηση κάρτας SD"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "Ενεργοπ."
+
+msgid "IDS_TPLATFORM_BODY_POWER_OFF_THE_DEVICE_Q"
+msgstr "Να απενεργοποιηθεί η συσκευή;"
+
+msgid "IDS_TPLATFORM_BODY_RESTART_THE_DEVICE_Q"
+msgstr "Να γίνει επανεκκίνηση της συσκευής;"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "Απενεργοποίηση της λειτουργίας πτήσης;"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "Απενεργ"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_CALLING_MESSAGING_AND_MOBILE_NETWORK_FUNCTIONS"
+msgstr "Η λειτουργία πτήσης σάς δίνει τη δυνατότητα απενεργοποίησης των λειτουργιών κλήσεων, μηνυμάτων και δικτύων κινητής τηλεφωνίας."
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "Η εφαρμογή %s δεν ανταποκρίνεται. Τερματισμός %s;"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "Απενεργοπ."
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "Αφαίρεση φορτιστή."
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "Συνδέστε τη συσκευή στην πρίζα για να αρχίσει η φόρτιση και πραγματοποιήστε έξοδο από τις μη χρησιμοποιούμενες εφαρμογές από τη «Διαχείριση εφαρμογών». Η συνέχιση της χρήσης κατά τη φόρτιση ενδέχεται να εμποδίσει την αποτελεσματική φόρτιση."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Η εφαρμογή ανάγνωσης οθόνης ενεργοποιήθηκε."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Η εφαρμογή ανάγνωσης οθόνης απενεργοποιήθηκε."
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "Ενεργοποίηση λειτουργίας έκτακτης ανάγκης"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "Απενεργοποίηση λειτουργίας έκτακτης ανάγκης"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Περιμένετε"
+
+msgid "IDS_PH_HEADER_ERROR_ABB"
+msgstr "Σφάλμα"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "Συσκευή αποθήκ. USB"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "Κάμερα"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "Η συσκευή σας έχει υπερθερμανθεί. Θα γίνει απενεργοποίηση μέχρι να κρυώσει."
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "Μην κάνετε απενεργοποίηση"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "Η συσκευή απενεργοποιήθηκε αυτόματα"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "Η συσκευή σας έχει υπερθερμανθεί. Θα απενεργοποιηθεί για την αποφυγή τυχόν βλάβης.\n\nΗ υπερθέρμανση μπορεί να οφείλεται:\nΣτη χρήση εφαρμογών με υψηλές απαιτήσεις γραφικών, όπως παιχνίδια και εφαρμογές πλοήγησης, για παρατεταμένες χρονικές περιόδους.\nΣτη μεταφορά μεγάλων αρχείων.\nΣτη χρήση της συσκευής σε ιδιαίτερα θερμό περιβάλλον."
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "Για να χρησιμοποιήσετε την κάρτα SD, θα πρέπει να αποκρυπτογραφηθεί. Αποκρυπτογράφηση της κάρτας SD ή ενεργοποίηση της κρυπτογράφησης συσκευής;"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "Για να χρησιμοποιήσετε την κάρτα SD, θα πρέπει να κρυπτογραφηθεί. Κρυπτογράφηση της κάρτας SD ή απενεργοποίηση της κρυπτογράφησης συσκευής;"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "Απενεργ. ασφαλούς λειτ."
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "Η απενεργοποίηση της ασφαλούς λειτουργίας θα επανεκκινήσει τη συσκευή. Απενεργοποίηση;"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "Η στάθμη της μπαταρίας είναι χαμηλή. Το βοηθητικό φως θα απενεργοποιηθεί."
+

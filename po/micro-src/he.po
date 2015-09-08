@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "ביטול"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "השתק"
+
+msgid "IDS_COM_SK_OK"
+msgstr "אישור"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "לאחר %1$d דקות, הבהירות תתאפס לרמת ברירת המחדל (%2$d)."
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "כבוי"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "מופעל"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "מצב חוץ"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "בהירות"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "רטט"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "סגור"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "כבה"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "אין די זיכרון."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "אין די זיכרון פנוי."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "‎%s סגור."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "סוללה חלשה."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "מופעל"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "כבוי"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "צליל"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s נסגר באופן בלתי צפוי."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "נותר מעט זיכרון"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "סוללה חלשה"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "המכשיר יופעל מחדש."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "אפשרויות המכשיר"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "השתק"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "הטעינה מושהית. המתח החשמלי גבוה מדי."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "סוללה חלשה באופן חמור. המכשיר ייכבה עכשיו."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "הסוללה חלשה. טען מחדש את Gear בקרוב כדי להמשיך להשתמש בו."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "סוללה חלשה. הטען את המכשיר בקרוב כדי להמשיך בשימוש."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "סוללה חלשה באופן קריטי"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "The battery power is critically low. Recharge your Gear now to keep using it."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "רמת הטעינה בסוללה נמוכה מאוד. ה-Gear ינותק מהמכשיר הנייד שלך. ניתן להשתמש רק בשעון ברירת המחדל. טען את ה-Gear עכשיו כדי להמשיך את השימוש בו."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "הסוללה חלשה באופן חמור. ניתן להשתמש רק בשעון ברירת המחדל. טען מחדש את Gear כעת כדי להמשיך להשתמש בו."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "הטעינה מושהית. טמפרטורת הסוללה גבוהה מדי או נמוכה מדי."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "הטעינה מושהית. טמפרטורת הסוללה נמוכה מדי."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "הטעינה מושהית. טמפרטורת הסוללה גבוהה מדי."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "סוללה חלשה"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "המכשיר יכבה."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "הפעל מחדש"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "האחסון מלא"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "לא ניתן להקליט. אין מספיק מקום באחסון של Gear."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "כדי להשבית את מצב ‘חיסכון מרבי באנרגיה’, המכשיר שלך יופעל מחדש."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "שגיאה"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "מצב ‘חיסכון מרבי בחשמל’"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "אל תציג שוב"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "סוללה מנותקת."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "חסכון בחשמל"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "מצב ’חיסכון בחשמל‘ יופעל. דבר זה יגביל את הביצועים המרביים של המעבד, יכבה את הפונקציה Bluetooth ויקטין את בהירות המסך. התכונות ’מחוות השכמה‘, ’בקרה קולית‘ ו’רטט‘ לא יהיו זמינות. הפונקציות ’שעון‘ ו-S Health ימשיכו להיות זמינות."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "מצב ’חיסכון בחשמל‘ מושבת."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "מצב ’חיסכון בחשמל‘ מופעל."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "מצב טיסה"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "במצב ’טיסה‘ ניתן להשבית את פונקציות השיחה והעברת ההודעות. מצב זה אף מכבה את ’נתונים ניידים‘ ו-Bluetooth. כדי להשתמש ב-Bluetooth, הפעל פונקציה זו דרך ’הגדרות‘."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "הפעל מצב טיסה"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "השבת מצב טיסה"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "מצב טיסה יושבת."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "הכנס כרטיס SIM כדי לגשת לשירותי רשת."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "נתונים ניידים"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "הפעל את ‘נתונים ניידים’"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "השבת את ‘נתונים ניידים’"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "לא נתמך."
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "לא ניתן להפעיל את התכונה ’נתונים ניידים‘ כאשר המכשיר מחובר באמצעות Bluetooth."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "תחובר לרשת הסלולרית שלך. דבר זה עשוי לגרור חיובים נוספים."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "לאחר השבתת ’נתונים ניידים‘, לא תוכל עוד לקבל התראות או להשתמש ביישומים המחייבים חיבור לרשת סלולרית. הפונקציה ’נתונים ניידים‘ תושבת."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "מצב ’טיסה‘ משבית פונקציות הקשורות בשיחות ובהעברת הודעות ומכבה פונקציות כמו ’נתונים ניידים‘, Wi-Fi ו-Bluetooth. כדי להשתמש ב-Wi-Fi ו-Bluetooth, הפעל פונקציות אלה דרך ’הגדרות‘."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "כדי לחסוך באנרגיית הסוללה, הפעל את מצב ’חיסכון מרבי באנרגיה‘."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "נגישות"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "הגדרות"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "הפעל"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s אינו מגיב. לסגור את %s?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "אין תשובה"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "המתן"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "חרגת ממגבלת השימוש בנתונים המרבית (%s). נתונים ניידים מושבתים. הפעלת נתונים ניידים עשויה להיות כרוכה בחיובים נוספים."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "נתונים ניידים מושבתים"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "השבת חיסכון בחשמל"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "הפעל מצב ’חיסכון באנרגיה‘"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "חיסכון בחשמל"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "אתה קרוב למגבלת השימוש בנתונים (%s). הקש על ’הגדרות‘ כדי לבדוק נתוני שימוש בנתונים."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "הגעת למגבלת השימוש בנתונים שצויינה. שימוש נוסף בנתונים עשוי להיות כרוך בתשלום לספק השירות."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "הגבל שימוש בנתונים"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "אזהרת שימוש בנתונים"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "הפעל מצב ’חיסכון באנרגיה‘"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "כבה מצב 'חיסכון באנרגיה'"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "מסך כבוי."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "קורא המסך מופעל."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "קורא המסך מושבת."
+

@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Zrušit"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Ztlumit"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Za %1$d minut bude obnoveno výchozí nastavení jasu (%2$d)."
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "Vypnout"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "Zapnout"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Režim Venku"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Jas"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibrace"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Zavřít"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Vypnutí"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Nedostatek paměti."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Nedostatek paměti."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s byl uzavřen."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Vybitá baterie."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Povoleno."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Zakázáno."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Zvuk"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s byla neočekávaně ukončena."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Nedostatek paměti"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Vybitá baterie"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Zařízení bude restartováno."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Možnosti zařízení"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Ztlumit"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Nabíjení bylo pozastaveno. Napětí je příliš vysoké."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Kritický stav baterie. Zařízení se vypne."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Kritický stav baterie. Brzy dobijte zařízení Gear, abyste ho mohli dále používat."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Baterie je vybitá. Chcete-li zařízení dále používat, brzy ho dobijte."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Baterie je téměř vybitá"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Kritický stav baterie. Dobijte zařízení Gear, abyste ho mohli dále používat."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Kritický stav baterie. Zařízení Gear bude odpojeno od mobilního zařízení. Můžete použít pouze výchozí hodiny. Dobijte zařízení Gear, abyste ho mohli dále používat."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Kritický stav baterie. Můžete použít pouze výchozí hodiny. Dobijte zařízení Gear, abyste ho mohli dále používat."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Nabíjení pozastaveno. Teplota baterie je příliš vysoká nebo příliš nízká."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Nabíjení bylo pozastaveno. Teplota baterie je příliš nízká."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Nabíjení bylo pozastaveno. Teplota baterie je příliš vysoká."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Vybitá baterie"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Zařízení se vypne."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Restartovat"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Plná paměť"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Není možné nahrávat. V paměti zařízení Gear není dostatek volného místa."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Zařízení bude restartováno, aby se vypnul Ultra úsporný režim."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Chyba."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Ultra úsporný režim"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "Neopakovat"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Baterie byla odpojena."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Úsp. režim"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Bude zapnutý úsporný režim. Tím dojde k omezení maximálního výkonu CPU, vypne se Bluetooth a bude použitý nižší výkon obrazovky. Gesto probuzení, Ovládání hlasem a Vibrace nebudou dostupné. Funkce Hodiny a S Health budou stále dostupné."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Úsporný režim zakázán."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Úsporný režim povolen."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "Režim Letadlo"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "Režim Letadlo umožňuje vypnout funkce hovorů a zpráv. Také vypne Mobilní data a Bluetooth. Chcete-li použít Bluetooth, zapněte ho v Nastavení."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Zapnout režim Letadlo"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Vypn. režim Letadlo"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Bude vypnut režim Letadlo."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "Chcete-li používat síťové služby, vložte SIM kartu."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "Mob. data"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "Zapnout Mobilní data"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "Vypnout Mobilní data"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "Nepodporováno."
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "Během připojení prostřednictvím Bluetooth není možné zapnout Mobilní data."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "Budete připojeni k mobilní síti. Mohou být účtovány další poplatky."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "Jestliže vypnete Mobilní data, nebudete moci přijímat upozornění nebo používat aplikace, které vyžadují připojení k mobilní síti. Mobilní data budou vypnuta."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "Režim Letadlo vypíná funkce volání a zpráv a vypíná Mobilní data a funkce připojení, např. Wi-Fi a Bluetooth. Pokud chcete použít Wi-Fi a Bluetooth, zapněte je v Nastavení."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "Chcete-li šetřit baterii, zapněte Ultra úsporný režim."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Usnadnění"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Nastavení"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "Povolit"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "Aplikace %s neodpovídá. Ukončit %s?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Žádná odpověď"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Čekejte"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Byl překročen maximální limit využití dat (%s). Mobilní data byla vypnuta. Zapnutí mobilních dat může zahrnovat další poplatky."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Mobilní data byla vypnuta"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "Vypn. úsporný režim"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "Zap. Úsporný režim"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "Úsporný režim"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "Bylo téměř dosaženo maximálního limitu využití dat (%s). Chcete-li zkontrolovat využití dat, klepněte na Nastavení."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "Bylo dosaženo stanoveného limitu využití dat. Další použití dat může zahrnovat další poplatky od poskytovatele služeb."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "Omezit využití dat"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Upozornění na využití dat"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "Zapnout Úsporný režim"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "Vypnout Úsporný režim"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Vypnout displej."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Čtečka displeje byla zapnuta."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Čtečka displeje byla vypnuta."
+

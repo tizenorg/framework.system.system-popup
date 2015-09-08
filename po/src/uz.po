@@ -1,0 +1,549 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Bekor qilish"
+
+msgid "IDS_ST_BODY_KEYBOARD"
+msgstr "Klaviatura"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Kamera"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Parametrlar"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Foydalanish imkoniyati"
+
+msgid "IDS_USB_POP_CONNECTING_KIES_VIA_USB_WILL_TURN_OFF_KIES_VIA_WI_FI_CONTINUE_Q"
+msgstr "Kies bilan USB orqali ulanish Wi-Fi orqali ulangan Kiesni o‘chiradi. Davom ettirilsinmi?"
+
+msgid "IDS_USB_POP_SAMSUNG_KIES_MODE_ENABLED"
+msgstr "Samsung Kies rejimi yoqildi."
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibratsiya"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Yopish"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Quvvat o‘ch."
+
+msgid "IDS_COM_BODY_SYSTEM_INFO_ABB"
+msgstr "Tizim ma’l."
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Qayt/yuk."
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Xotira yetarli emas."
+
+msgid "IDS_MF_BODY_MMC_DATA_IS_INITIALIZING_ING"
+msgstr "MMC ma’lumoti initsializatsiyalanmoqda..."
+
+msgid "IDS_COM_SK_RETRY_A"
+msgstr "Urin"
+
+msgid "IDS_USB_POP_USB_CONNECTION_FAILED"
+msgstr "USB ulanishi bajarilmadi"
+
+msgid "IDS_ST_POP_PS_ENABLED"
+msgstr "%s yoqilgan."
+
+msgid "IDS_ST_BODY_DISABLE_NEGATIVE_COLOURS"
+msgstr "Negativ ranglarni o‘chirish"
+
+msgid "IDS_ST_BODY_ENABLE_NEGATIVE_COLOURS"
+msgstr "Negativ ranglarni yoqish"
+
+msgid "IDS_ST_BODY_DISABLE_ZOOM"
+msgstr "Masshtab o‘zgartirishni o‘chirish"
+
+msgid "IDS_ST_BODY_ENABLE_ZOOM"
+msgstr "Masshtab o‘zgartirishni yoqish"
+
+msgid "IDS_ST_BODY_TURN_ON_ASSISTIVE_LIGHT"
+msgstr "Yordamchi yorug‘likni yoqish"
+
+msgid "IDS_ST_BODY_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Yordamchi yorug‘likni o‘chirish"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Bo‘sh xotira kam."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s yopildi."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Batareya quvvati kam."
+
+msgid "IDS_COM_POP_LOW_BATTERY_PHONE_WILL_SHUT_DOWN"
+msgstr "Batareya quvvati kam. Telefon yopiladi."
+
+msgid "IDS_ST_MBODY_POWER_SAVING"
+msgstr "Quvvat tejash"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Yoqilgan."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "O‘chirilgan."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Ovoz"
+
+msgid "IDS_ST_BODY_CAMERA"
+msgstr "Kamera"
+
+msgid "IDS_IDLE_POP_BATTERY_FULLY_CAHRGED"
+msgstr "Batareya to‘la zaryadlandi."
+
+msgid "IDS_CST_BODY_NOTICE"
+msgstr "Eslatma"
+
+msgid "IDS_COM_POP_PRINTER_CONNECTED_ABB2"
+msgstr "Printer ulandi."
+
+msgid "IDS_COM_POP_PRINTER_DISCONNECTED_ABB2"
+msgstr "Printer chiqarib olindi."
+
+msgid "IDS_QP_BODY_UNPLUG_CHARGER"
+msgstr "Zaryadlash qurilmasini chiqaring"
+
+msgid "IDS_COM_BODY_FLIGHT_MODE"
+msgstr "Parvoz rejimi"
+
+msgid "IDS_COM_POP_USB_CONNECTOR_CONNECTED"
+msgstr "USB-ulash vositasi ulandi."
+
+msgid "IDS_COM_POP_USB_CONNECTOR_DISCONNECTED"
+msgstr "USB-ulash vositasi uzildi."
+
+msgid "IDS_COM_POP_KEYBOARD_CONNECTED_ABB2"
+msgstr "Klaviatura ulandi."
+
+msgid "IDS_COM_POP_MOUSE_CONNECTED_ABB2"
+msgstr "Sichqoncha ulandi."
+
+msgid "IDS_COM_POP_CAMERA_CONNECTED_ABB2"
+msgstr "Kamera ulandi."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_CONNECTED_ABB2"
+msgstr "USB-katta hajmli xotira ulandi."
+
+msgid "IDS_COM_POP_UNKNOWN_USB_DEVICE_CONNECTED"
+msgstr "Noma’lum USB-qurilma ulandi."
+
+msgid "IDS_COM_BODY_USB_DEVICE_SAFELY_REMOVED"
+msgstr "USB qurilma xavfsiz chiqarib olindi."
+
+msgid "IDS_COM_POP_USB_MASS_STORAGE_UNEXPECTEDLY_REMOVED"
+msgstr "USB-katta hajmli xotira kutilmaganda chiqarib olindi."
+
+msgid "IDS_COM_BODY_UNABLE_TO_USE_USB_STORAGE_AS_USB_MASS_STORAGE_ERROR_OCCURRED"
+msgstr "USB-ichki xotiradan katta hajmli xotira sifatida foydalanib bo‘lmaydi. Xato yuzaga keldi."
+
+msgid "IDS_ST_BUTTON_OK"
+msgstr "OK"
+
+msgid "IDS_LBS_BODY_RESTART"
+msgstr "Qayta ishga tushirish"
+
+msgid "IDS_DN_POP_FAILED_TO_MOUNT_SD_CARD_REINSERT_OR_FORMAT_SD_CARD"
+msgstr "SD-kartani montajlab bo‘lmadi. SD-kartani qayta kiriting yoki formatlang."
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s kutimaganda yopildi."
+
+msgid "IDS_COM_POP_KEYBOARD_DISCONNECTED_ABB2"
+msgstr "Klaviatura chiqarib olindi."
+
+msgid "IDS_ST_BODY_SD_CARD_MOUNTED_READ_ONLY"
+msgstr "SD-karta faqat o‘qish uchun montajlangan."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Kam bo‘sh xotira qoldi"
+
+msgid "IDS_ST_POP_TURN_OFF_ASSISTIVE_LIGHT_WHEN_YOU_NO_LONGER_NEED_IT"
+msgstr "Yordamchi yorug‘likdan foydalanmayotganingizda, uni o‘chirib qo‘ying."
+
+msgid "IDS_IS_BODY_DO_NOT_SHOW_AGAIN"
+msgstr "Boshqa ko‘rsatilmasin"
+
+msgid "IDS_QP_BODY_ASSISTIVE_LIGHT_IS_ON"
+msgstr "Yordamchi yorug‘lik yoq."
+
+msgid "IDS_ST_BODY_TAP_TO_TURN_OFF_ASSISTIVE_LIGHT"
+msgstr "Yordamchi yorug‘likni o‘chirish uchun teging."
+
+msgid "IDS_COM_POP_UNMOUNT_USB_MASS_STORAGE_BEFORE_REMOVING_TO_AVOID_DATA_LOSS"
+msgstr "Ma’lumot yo‘qotilishini oldini olish maqsadida USB-katta hajmli xotirani chiqarib olishdan avval uni demontajlang."
+
+msgid "IDS_USB_BUTTON_UNMOUNT"
+msgstr "Demontajlash"
+
+msgid "IDS_USB_BODY_BROWSE_CAMERA_CONNECTED_VIA_USB_Q"
+msgstr "USB orqali ulangan kamera ko‘rib chiqilsinmi?"
+
+msgid "IDS_BT_SK_BROWSE"
+msgstr "Ko‘rish"
+
+msgid "IDS_PB_HEADER_USB_STORAGE_NOT_AVAILABLE"
+msgstr "USB-ichki xotira yo‘q"
+
+msgid "IDS_COM_HEADER_USB_MASS_STORAGE_DISCONNECTED_ABB"
+msgstr "USB-katta hajmli xotira chiqarib olindi"
+
+msgid "IDS_USB_MBODY_PD_USB_DEVICES_CONNECTED"
+msgstr "%d USB qurilmalari ulandi"
+
+msgid "IDS_EMAIL_POP_THIS_ACTION_HAS_BEEN_BLOCKED_BY_MDM_CONTACT_THE_MDM_ADMINISTRATOR"
+msgstr "Ushbu amal MDM tomonidan bloklangan. MDM ma’muri bilan bog‘laning."
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Batareya quvvati kam"
+
+msgid "IDS_USB_BODY_BROWSE_STORAGE_CONNECTED_VIA_USB_Q"
+msgstr "USB orqali ulangan xotira ko‘rib chiqilsinmi?"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Batareya chiqarildi."
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Qurilma qayta ishga tushiriladi."
+
+msgid "IDS_ST_BODY_USBSETTINGS_PRINTER"
+msgstr "Printer"
+
+msgid "IDS_SMEMO_BODY_MOUSE_M_IDEA_SKETCH"
+msgstr "Sichqon"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Uchish rejimi o‘chiriladi."
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_ENABLED"
+msgstr "Uchish rejimi yoqiladi."
+
+msgid "IDS_COM_BODY_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Qurilma o‘chiriladi."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Qurilma opsiyalari"
+
+msgid "IDS_PN_BODY_THE_DEVICE_MEMORY_IS_FULL_JPN_DCM"
+msgstr "Qurilma xotirasi to‘la"
+
+msgid "IDS_PN_BODY_NOT_ENOUGH_STORAGE_AVAILABLE_SOME_FUNCTIONS_AND_APPLICATIONS_MAY_NOT_BE_AVAILABLE_NOTI_MSG_JPN_DCM"
+msgstr "Not enough storage available. Some functions and applications may not be available.\nOpen Settings and uninstall some apps to make space."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_MSG"
+msgstr "Parvoz rejimi Sizga qo'ng'iroq qilish, xabarlarva ma'lumotlartarmog'i funksiyasini o'chirish imkonini beradi. Shuningdek, ushbu funksiya Wi-Fi va Bluetooth kabi ulanish funksiyalarini ham o'chiradi. Wi-Fi va Bluetooth-dan foydalanish uchun Parametrlar yoki bildirishnoma panelida ularni yoqing."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTION_ERROR_OCCURRED"
+msgstr "SD-karta shifrdan chiqarishda xato yuzaga keldi."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTED"
+msgstr "SD-karta shifrlandi."
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Uchish rejimini o‘ch"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Uchish rejimini yoqish"
+
+msgid "IDS_DN_POP_ENCRYPTING_SD_CARD_ING"
+msgstr "SD-karta shifrlanmoqda..."
+
+msgid "IDS_DN_POP_DECRYPTING_SD_CARD_ING"
+msgstr "SD-karta shifri ochilmoqda..."
+
+msgid "IDS_COM_POP_LOW_BATTERY_CHARGE_YOUR_PHONE"
+msgstr "Batareya quvvati kam. Telefonni zaryadlang"
+
+msgid "IDS_COM_BODY_NO_BATTERY"
+msgstr "Batareya yo‘q"
+
+msgid "IDS_ST_POP_WARNING_MSG"
+msgstr "Ogohlantirish xabari"
+
+msgid "IDS_DN_POP_DATA_DECRYPTED"
+msgstr "Ma’lumot shifri ochildi."
+
+msgid "IDS_DN_POP_DATA_ENCRYPTED"
+msgstr "Ma’lumot shifrlandi."
+
+msgid "IDS_USB_MBODY_USB_DEVICES"
+msgstr "USB qurilmalar"
+
+msgid "IDS_DN_BODY_ENCRYPT_SD_CARD"
+msgstr "SD-kartani shifrlash"
+
+msgid "IDS_TPLATFORM_OPT_ENABLE_SCREEN_READER_ABB"
+msgstr "Ekran o‘qish vosita-ni yoq"
+
+msgid "IDS_TPLATFORM_OPT_DISABLE_SCREEN_READER_ABB"
+msgstr "Ekran o‘qish vos-ni o‘chir"
+
+msgid "IDS_DN_BODY_DECRYPT_SD_CARD"
+msgstr "SD kartani shifrdan chiqarish"
+
+msgid "IDS_DN_HEADER_DATA_DECRYPTION_ABB"
+msgstr "Ma’l. shifrini ochish"
+
+msgid "IDS_DN_HEADER_DATA_ENCRYPTION_ABB"
+msgstr "Ma’lumotni shifrlash"
+
+msgid "IDS_COM_HEADER_ATTENTION"
+msgstr "Diqqat"
+
+msgid "IDS_ST_BUTTON_CONTINUE_ABB"
+msgstr "Davom etish"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Ma'lumotdan foydalanish ogohlantirishi"
+
+msgid "IDS_COM_BODY_TAP_TO_VIEW_USAGE_AND_SETTINGS"
+msgstr "Foydalanish va parametrlarni ko‘rib chiqish uchun cherting."
+
+msgid "IDS_PN_OPT_TURN_ON_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn on vibration"
+
+msgid "IDS_PN_OPT_TURN_OFF_VIBRATION_ABB_JPN_DCM"
+msgstr "Turn off vibration"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Mobil ma'lumot o‘chirilgan"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Ma’lumotdan foydalanish cheklovidan (%s) oshib ketdi. Mobil ma’lumot o‘chirilgan. Mobil ma’lumotdan foydalanish uchun qo‘shimcha to‘lov olinishi mumkin."
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Ovozsiz"
+
+msgid "IDS_ST_POP_SECURITY_POLICY_PREVENTS_USE_OF_DESKTOP_SYNC"
+msgstr "Xavfsizlik siyosati ishchi stolni sinxronlash ishlatilishidan saqlaydi."
+
+msgid "IDS_COM_BODY_USB_STORAGE_BLANK_OR_HAS_UNSUPPORTED_FILE_SYSTEM"
+msgstr "USB-ichki xotira bo‘sh yoki qo‘llab-quvvatlanmagan fayl tizimiga ega."
+
+msgid "IDS_USB_BODY_USB_MASS_STORAGE_SAFELY_REMOVED"
+msgstr "USB-katta hajmli xotira xavfsiz chiqarildi."
+
+msgid "IDS_COM_BODY_OUR_PHONE_WILL_SHUT_DOWN"
+msgstr "Sizning telefoningiz o‘chiriladi."
+
+msgid "IDS_QP_POP_THE_DOCK_IS_CONNECTED"
+msgstr "Dok ulangan."
+
+msgid "IDS_EMM_MBODY_EMERGENCY_MODE_JPN_DCM"
+msgstr "Emergency mode"
+
+msgid "IDS_VPL_POP_HDMI_CABLE_CONNECTED"
+msgstr "HDMI kabel ulangan."
+
+msgid "IDS_VPL_POP_HDMI_CABLE_DISCONNECTED"
+msgstr "HDMI kabel uzilgan."
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Javob yo‘q"
+
+msgid "IDS_ST_BODY_EMERGENCY_MODE_ABB"
+msgstr "Favqulodda rejim"
+
+msgid "IDS_ST_BODY_UNABLE_TO_ENCRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "SD-kartani shifrlab bo‘lmaydi. Kartada xotira yetarli emas. Taxminan %.2f Mb zarur. Ba’zi fayllarni o'chiring."
+
+msgid "IDS_ST_BODY_UNABLE_TO_DECRYPT_SD_CARD_NOT_ENOUGH_SPACE_ON_CARD_APPROXIMATELY_P2F_MB_NEEDED_DELETE_SOME_FILES"
+msgstr "SD-kartani shifrdan chiqarib bo‘lmaydi. Kartada xotira yetarli emas. Taxminan %.2f Mb zarur. Ba’zi fayllarni o'chiring."
+
+msgid "IDS_ST_POP_THIS_SD_CARD_IS_NOT_ENCRYPTED_YOU_CANNOT_DISABLE_ENCRYPT_SD_CARD_BECAUSE_IT_HAS_BEEN_ENABLED_BY_AN_ADMINISTRATOR_ENCRYPT_Q"
+msgstr "Ushbu SD-karta shifrlanmagan. SD-karta shifrlanishini o‘chira olmaysiz, chunki u ma’mur tomonidan yoqilgan. Shifrlansinmi?"
+
+msgid "IDS_ST_BUTTON_ENCRYPT_SD_CARD_ABB"
+msgstr "SD-karta shifri"
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_TAP_CONTINUE_TO_DECRYPT_YOUR_SD_CARD"
+msgstr "SD-kartadan foydalanish uchun, u shifrdan chiqarilgan bo‘lishi lozim. SD-kartani shifrdan chiqarish uchun Davom ettirishni bosing."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_HIGH"
+msgstr "Batareyani zaryadlab bo‘lmaydi. Telefon harorati juda baland."
+
+msgid "IDS_IDLE_POP_UNABLE_CHANGE_BATTERY_TEMA_LOW"
+msgstr "Batareyani zaryadlab bo‘lmaydi. Telefon harorati juda past."
+
+msgid "IDS_COM_BODY_CONNECTED_AS_A_MEDIA_DEVICE"
+msgstr "Media qurilma sifatida ulangan"
+
+msgid "IDS_ST_BODY_READ_ONLY_USB_DEV_CONNECTED_M_NOUN_ABB"
+msgstr "Faqat o‘qish USB qur. ulandi"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Zaryadlash to‘xtatildi. Kuchlanish juda yuqori."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_ERROR_OCCURRED"
+msgstr "SD-karta shifrlanishi xatosi yuzaga keldi."
+
+msgid "IDS_ST_BODY_SD_CARD_DECRYPTED"
+msgstr "SD-karta shifrdan chiqarildi."
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION"
+msgstr "SD-karta shifrlanishi"
+
+msgid "IDS_ST_BODY_SD_CARD_ENCRYPTION_HAS_BEEN_ENABLED"
+msgstr "SD-karta shifrlanishi yoqildi."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Ekranni o‘chirish."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Batareya quvvati kritik darajada past. Qurilma hozir yopiladi."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Batareya quvvati kam. Geardan foydalanishda davom etish uchun yaqin vaqtda uni zaryadlang"
+
+msgid "IDS_ST_BUTTON_DISABLE_ENCRYPTION_ABB"
+msgstr "Shifrlashni o‘chirish"
+
+msgid "IDS_ST_BUTTON_ENABLE_ENCRYPTION_ABB"
+msgstr "Shifrlashni yoqish"
+
+msgid "IDS_ACCS_POP_EMERGENCY_MODE_AND_SCREEN_READER_CANNOT_BOTH_BE_ENABLED_GO_TO_SETTINGS_TO_DISABLE_SCREEN_READER_Q"
+msgstr "Favqulodda rejim va Ekranni o‘qish vositasining har ikkalasini yoqib bo‘lmaydi. Ekranni o‘qish vositasini o‘chirish uchun parametrlarga o‘tilsinmi?"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Batareya quvvati kam. Qurilmadan foydalanishni davom ettirish uchun tezda zaryad bering."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Batareya quvvati kritik darajada past"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Batareya quvvati juda kam. Geardan foydalanishda davom etish uchun uni zaryadlang"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Batareya quvvati juda kam. Gearingiz mobil qurilmangizdan uziladi. Siz faqatgina birlamchi soatdan foydalanishingiz mumkin. Geardan foydalanishda davom etish uchun uni zaryadlang."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Batareya quvvati juda kam. Siz faqat birlamchi soatdan foydalanishingiz mumkin. Geardan foydalanishda davom etish uchun uni zaryadlang"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Zaryadlash to‘xtatib turilmoqda. Batareya harorati juda baland yoki juda past."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Zaryadlash to‘xtatib turilmoqda. Batareya harorati juda past."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Zaryadlash to‘xtatib turilmoqda. Batareya harorati juda yuqori."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Batareya quvvati kam."
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Tashqari rjm"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Qurilma o‘chiriladi."
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d daqiqadan so‘ng ravshanlik sukut bo‘yicha darajaga (%2$d) tashlanadi."
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Ravshanlik"
+
+msgid "IDS_COM_BODY_CHARGING_PAUSED_DUE_TO_EXTREME_TEMPERATURE"
+msgstr "O‘ta yuqori harorat tufayli zaryadlash to‘xtatildi"
+
+msgid "IDS_ST_HEADER_POWER_OFF_ABB"
+msgstr "Quvvat o‘ch."
+
+msgid "IDS_ST_BODY_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_TAP_CONTINUE_TO_ENCRYPT_YOUR_SD_CARD"
+msgstr "SD-kartadan foydalanish uchun, u shifrlangan bo‘lishi lozim. SD-kartani shifrlash uchun Davom ettirishni bosing."
+
+msgid "IDS_HEALTH_BUTTON_LATER_ABB"
+msgstr "Keyinroq"
+
+msgid "IDS_ST_BUTTON_DECRYPT_SD_CARD_ABB"
+msgstr "SD-kartani shifrdan chiqarish"
+
+msgid "IDS_ST_BUTTON_ENABLE_ABB"
+msgstr "Yoqish"
+
+msgid "IDS_TPLATFORM_BODY_POWER_OFF_THE_DEVICE_Q"
+msgstr "Qurilma o‘chirilsinmi?"
+
+msgid "IDS_TPLATFORM_BODY_RESTART_THE_DEVICE_Q"
+msgstr "Qurilma qayta urinib ko‘rilsinmi?"
+
+msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
+msgstr "Uchish rejimi o‘chirilsinmi?"
+
+msgid "IDS_ST_SK_DISABLE_ABB"
+msgstr "O‘chir"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_CALLING_MESSAGING_AND_MOBILE_NETWORK_FUNCTIONS"
+msgstr "Uchish rejimi Sizga qo‘ng‘iroq, xabarlar va mobil tarmoq funksiyalarini o‘chirish imkonini beradi."
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s javob bermayapti. %s yopilsinmi?"
+
+msgid "IDS_HS_BUTTON_POWER_OFF_ABB2"
+msgstr "O‘chirish"
+
+msgid "IDS_SYNCML_POP_DM_REMOVE_CHARGER"
+msgstr "Zaryadlash qurilmasini olib tashlash."
+
+msgid "IDS_COM_POP_CONNECT_TO_A_PLUG_SOCKET_TO_CHARGE_DEVICE_AND_EXIT_UNUSED_APPLICATIONS_IN_TASK_MANAGER_MSG"
+msgstr "Qurilmani zaryadlash uchun quvvat manbaiga ulaning va Vazifalar menejerida ishlatilmayotgan ilovalardan chiqing. Zaryadlash jarayonida foydalanishni davom ettirish zaryadlash samaradorligini kamaytirishi mumkin."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Ekranni o‘qish vositasi yoqildi."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Ekranni o‘qish vositasi o‘chirildi."
+
+msgid "IDS_ST_HEADER_ENABLE_EMERGENCY_MODE"
+msgstr "Favqulodda rejimni yoqish"
+
+msgid "IDS_ST_HEADER_DISABLE_EMERGENCY_MODE"
+msgstr "Favqulodda rejimni o‘chirish"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Kuting"
+
+msgid "IDS_PH_HEADER_ERROR_ABB"
+msgstr "Xato"
+
+msgid "IDS_ST_BODY_USB_STORAGE_ABB"
+msgstr "USB-ichki xotira"
+
+msgid "IDS_CAM_HEADER_CAMERA_M_APPLICATION"
+msgstr "Kamera"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_IS_OVERHEATING_IT_WILL_NOW_POWER_OFF_TO_COOL_DOWN"
+msgstr "Qurilmangiz qizib ketdi. Sovitish uchun u o‘chiriladi."
+
+msgid "IDS_QP_BUTTON_DO_NOT_POWER_OFF_ABB"
+msgstr "Quvvat o‘chirilmasin"
+
+msgid "IDS_QP_HEADER_DEVICE_POWERED_OFF_AUTOMATICALLY"
+msgstr "Qurilma avtomatik ravishda o‘chadi"
+
+msgid "IDS_QP_POP_YOUR_DEVICE_OVERHEATED_IT_POWERED_OFF_TO_PREVENT_DAMAGE_MSG"
+msgstr "Qurilmangiz qizib ketdi. Zarar yetmasligi uchun u o‘chirildi.\n\nQuyidagilar qizib ketishga sabab bo‘lishi mumkin:\nO‘yin va navigatsiya ilovalari kabi grafik ko‘p ishlatiladigan ilovalardan uzoq muddat davomida foydalanish.\nKatta fayllarni uzatish.\nQurilmangizdan issiq joyda foydalanish."
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_DECRYPTED_DECRYPT_SD_CARD_OR_ENABLE_DEVICE_ENCRYPTION_Q"
+msgstr "SD-kartadan foydalanish uchun u shifrdan chiqarilgan bo‘lishi lozim. SD-karta shifrdan chiqarilsinmi yoki qurilma shifrlanishi yoqilsinmi?"
+
+msgid "IDS_ST_POP_TO_USE_YOUR_SD_CARD_IT_MUST_BE_ENCRYPTED_ENCRYPT_SD_CARD_OR_DISABLE_DEVICE_ENCRYPTION_Q"
+msgstr "SD-kartadan foydalanish uchun u shifrlangan bo‘lishi lozim. SD-karta shifrlansinmi yoki qurilma shifrlanishi o‘chirilsinmi?"
+
+msgid "IDS_IDLE_HEADER_DISABLE_SAFE_MODE_ABB"
+msgstr "Xavfsiz rejimni o‘chirish"
+
+msgid "IDS_TPLATFORM_BODY_DISABLING_SAFE_MODE_WILL_RESTART_YOUR_DEVICE_DISABLE_Q"
+msgstr "Xavfsiz rejimni o‘chirish qurilmangizni qayta ishga tushiradi. O‘chirilsinmi?"
+
+msgid "IDS_WGT_POP_BATTERY_LOW_ASSISTIVE_LIGHT_WILL_BE_TURNED_OFF"
+msgstr "Batareya quvvati kam. Yordamchi chiroq o‘chiriladi."
+

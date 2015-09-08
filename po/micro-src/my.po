@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "ပယ္ဖ်က္ပါ"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "အသံတိတ္"
+
+msgid "IDS_COM_SK_OK"
+msgstr "အုိေက"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d မိနစ္ ၿပီးေနာက္တြင္၊ အေရာင္ေတာက္ပျခင္းကို ကိုယ္ပိုင္သံုး အဆင့္ (%2$d) သို႔ ျပန္သတ္မွတ္ေပးလိမ့္မည္။"
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "ပိတ္"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "ဖြင့္"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "အျပင္ဘက္ အေနအထား"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "အလင္း"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "တုန္ခါမႈ"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "ပိတ္ပါ"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "ပါ၀ါပိတ္ပါ"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "မွတ္ဥာဏ္လုံေလာက္ေအာင္ မရွိပါ"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "မွတ္ဥာဏ္နည္းေန"
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s closed."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "ဘက္ထရီ နည္းေနပါသည္"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "လုပ္ငန္း စတင္ေဆာင္ရြက္ေစၿပီး"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "ရပ္ဆုိင္းေစၿပီး"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "အသံ"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s မေမွ်ာ္လင့္ဘဲ ပိတ္သြားသည္။"
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Low memory left"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "ဘက္ထရီ နည္းေနပါသည္"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "ကိရိယာ ျပန္စလိမ့္မည္။"
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "ကိရိယာ ေရြးခ်ယ္စရာမ်ား"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "အသံတိတ္"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "အားသြင္းျခင္းကို နားထားသည္။ ဗို႔အား မ်ားလြန္းေနသည္္။"
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Battery critically low. Device will now shut down."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "ဘက္ထရီအား နည္းေနသည္။ ၎ကို ဆက္သံုးႏိုင္ရန္ မၾကာမီမွာ ဂီယာကို အားသြင္းပါ။"
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Battery low. Recharge device soon to keep using."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "ဘက္ထရီအား လံုးဝက်ေနသည္"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ဘက္ထရီအားက အလြန္ပင္ နည္းေနသည္။ ၎ကို ဆက္သံုးႏိုင္ရန္ ု သင့္ ဂီယာကို အခု အားသြင္းပါ။"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "ဘက္ထရီအား စိုးရိမ္ဖြယ္ နည္းေနသည္။ သင့္ဂီယာအား သင့္မိုဘိုင္းကိရိယာမွ ခ်ိတ္ဆက္ထားမႈကို ျဖတ္လိုက္မည္။ အသင့္လုပ္ၿပီး နာရီကိုသာ သံုးႏိုင္သည္။ ၎ကို အသံုးျပဳႏိုင္ရန္ သင့္ဂီယာကို ယခု အားသြင္းပါ။"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ဘက္ထရီအား စိုးရိမ္ဖြယ္ နည္းေနသည္။ အသင့္လုပ္ၿပီး နာရီကိုသာ သံုးႏိုင္သည္။ ဂီယာ ဆက္သံုးရန္ ၎ကို ယခု အားသြင္းပါ။"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "အားသြင္းျခင္း နားထားသည္။ ဘက္ထရီ အပူခ်ိန္ ျမင့္လြန္း (သို႔) နိမ့္လြန္းေနသည္။"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "အားသြင္းမႈ ရပ္တန္႔သြား။ ဘက္ထရီ အပူခ်ိန္ နည္းလြန္။"
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "အားသြင္းမႈ ရပ္တန္႔သြား။ ဘက္ထရီ အပူခ်ိန္ မ်ားလြန္။"
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "ဘက္ထရီအားနည္း"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "ယခုစက္ပိတ္ေတာ့မည္"
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "ျပန္စပါ"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "သိုေလွာင္ခန္း ျပည့္ပါၿပီ"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "မွတ္တမ္း မတင္ႏိုင္ပါ။ သင့္ဂီယာ သိုေလွာင္ခန္းထဲတြင္ ေနရာ မေလာက္ပါ။"
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "အလြန္ ပါဝါေခၽြတာ အေနအထား ပိတ္ထားရန္ သင့္ကိရိယာ ျပန္စတင္မည္။"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "အမွား"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "အလြန္ ပါဝါေခြ်တာေရး အေနအထား"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "ထပ္ခါထပ္ခါ မလုပ္ပါႏွင့္"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "ဘက္ထရီ ျဖဳတ္ထားသည္။"
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "ပါဝါ ေခၽြတာစရာ"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "ပါဝါ ေခၽြတာစရာ ရေစလိမ့္မည္။ ဤအရာက CPU အမ်ားဆံုး လုပ္ေဆာင္ႏိုင္စြမ္းကို ကန္႔သတ္၊ ဘလူးတုသ္ ပိတ္ၿပီး ဖန္သားျပင္ ပါဝါ လယ္ဗယ္ အနိမ့္တစ္ခု သံုးလိမ့္မည္။ အႏိႈး အမူအယာ၊ အသံ အထိန္းႏွင့္ တုန္ခါမႈတို႔ ရမည္မဟုတ္ပါ။ နာရီႏွင့္ S Health လုပ္ေဆာင္ခ်က္မ်ား ရႏိုင္ဦးမည္။"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "ပါဝါ ေခၽြတာစရာ ပိတ္လိမ့္မည္။"
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "ပါဝါ ေခၽြတာစရာ ရေစလိမ့္မည္။"
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "ပ်ံသန္း အေနအထား"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "ဖုန္းေခၚျခင္းႏွင့္ မက္ေဆ့ခ်္ပို႔ေသာ လုပ္ေဆာင္ခ်က္မ်ားကို ပိတ္ရန္အတြက္ သင့္ကို ပ်ံသန္းအေနအထားက ခြင့္ျပဳထားပါသည္။ ၎က မိုးဘုိင္းေဒတာႏွင့္ ဘလူးတုသ္ကို လည္းပဲ ပိတ္ပါလိမ့္မည္။ ဘလူးတုသ္ကို သုံးရန္၊ ၎ကို ဆက္တင္မ်ား၌ ဖြင့္ပါ။"
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "ပ်ံသန္း အေနအထား ဖြင့္ထားပါ"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "ပ်ံသန္း အေနအထား ပိတ္ထားပါ"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "ပ်ံသန္း အေနအထားကို ပိတ္လိမ့္မည္။"
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "ကြန္ယက္ ၀န္ေဆာင္မႈမ်ားကုိ ၀င္ေရာက္ရရန္ SIM ကဒ္ကုိ ထည့္ပါ။"
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "မီဒီယာ ေအာ္ဒီယို"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "မိုဘိုင္းေဒတာ ဖြင့္ပါ"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "မိုဘိုင္းေဒတာ ပိတ္ပါ"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "အားမေပးပါ"
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "ဘလူးတုသ္မွ တဆင့္ ခ်ိတ္ဆက္ထားစဥ္မွာ မိုဘိုင္းေဒတာကို ဖြင့္လို႔ မရႏိုင္ပါ။"
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "သင့္မိုဘိုင္းကြန္ယက္သို႔ ခ်ိတ္ဆက္လိုက္မည္။ ဤအရာက အပိုေငြ က်ခံရႏိုင္သည္။"
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "အကယ္၍ မိုဘိုင္းေဒတာကို သင္ ပိတ္ပါက၊ မိုဘုိင္းကြန္ရက္ ခ်ိတ္ဆက္မႈ တစ္ခုအား လိုအပ္ေသာ အေၾကာင္းၾကားစာမ်ားကို လက္ခံလို႔ (သို႔) အပလီေကးရွင္းမ်ားကို သုံးလို႔ ရလိမ့္ေတာ့မည္ မဟုတ္ပါ။ မိုဘိုင္းေဒတာကို ပိတ္ပါလိမ့္မည္။"
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "ပ်ံသန္း အေနအထားက ဖုန္းေခၚဆိုမႈႏွင့္ မက္ေဆ့ခ်္ပို႔ေသာ လုပ္ေဆာင္ခ်က္မ်ားကို ပိတ္မည္ ျဖစ္ၿပီး၊ Wi-Fi ႏွင့္ ဘလူးတုသ္ ကဲ့သို႔ေသာ၊ မိုဘိုင္းေဒတာႏွင့္ ခ်ိတ္ဆက္ႏိုင္မႈစြမ္းရည္ လုပ္ေဆာင္ခ်က္မ်ားကိုလည္း ပိတ္ပါလိမ့္မည္။ Wi-Fi ႏွင့္ ဘလူးတုသ္ သံုးရန္၊ ၎တို႔ကို ဆက္တင္မ်ား၌ ဖြင့္ပါ။"
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "ဘတၳရီ အားကုိ ေခြ်တာရန္ ပါဝါ အလြန္ ေခြ်တာျခင္း အေနအထားကုိ ဖြင့္ပါ။"
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "ဝင္ေရာက္ႏုိင္ခြင့္"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "သတ္မွတ္ခ်က္မ်ား"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "စတင္လုပ္ေဆာင္ပါ"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s က မတံု႔ျပန္ပါ။ %s ပိတ္မည္လား?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "တုန္႔ျပန္မႈ မရွိပါ"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "ေစာင့္ပါ"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Maximum data usage limit (%s) exceeded. Mobile data disabled. Enabling mobile data may incur additional charges."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "မိုဘိုင္း ေဒတာ ပိတ္ထားသည္"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "ပါဝါ ေခြ်တာျခင္းကုိ ပိတ္ပါ"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "ပါဝါ ေခြ်တာေရးကုိ ဖြင့္ပါ"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "ပါ၀ါ ေခၽြတာျခင္း"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "အမ်ားဆုံး ေဒတာသုံးစြဲမႈ အကန္႔အသတ္ (%s) သို႔ ေရာက္ခါနီးေနပါၿပီ။ သင္၏ ေဒတာသုံးစြဲမႈကို စစ္ၾကည့္ရန္ သတ္မွတ္ခ်က္မ်ားကို ႏွိပ္ပါ။"
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "သတ္မွတ္ထားေသာ ေဒတာ အသံုးျပဳမႈ ကန္႔သတ္ခ်က္ ေရာက္ရိွျပီး။ အပို ေဒတာ အသံုးျပဳပါက ဝန္ေဆာင္မႈ စီစဥ္သူက အခေၾကးေငြ ေကာက္ခံႏိုင္သည္။"
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "ေဒတာ အသံုးျပဳမႈ ကန္႔သတ္ပါ"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "ေဒတာ သံုးမႈ သတိေပးခ်က္"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "ပါဝါေခြ်တာျခင္း အေနအထား ဖြင့္ပါ"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "ပါဝါေခြ်တာျခင္း အေနအထားကို ပိတ္ပါ"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "ဖန္းသားျပင္ ပိတ္ထားသည္။"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "ဖန္သားျပင္ ဖတ္စရာ အလုပ္လုပ္ေစထားသည္။"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "ဖန္သားျပင္ ဖတ္စရာ အလုပ္မလုပ္ေစဘဲထားသည္။"
+

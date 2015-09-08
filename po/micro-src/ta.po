@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "ரத்து"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "ஒலிதடு"
+
+msgid "IDS_COM_SK_OK"
+msgstr "சரி"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d நிமிடங்களுக்கு பிறகு ஒளிர்வானது டீஃபால்ட் நிலைக்கு (%2$d) ரீசெட் செய்யப்படும்."
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "ஆஃப்"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "ஆன்"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "வெளிப்புற முறை"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "ஒளிர்வு"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "அதிர்வு"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "மூடுக"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "பவர் ஆஃப்"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "போதிய நினைவகம் இல்லை."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "நினைவகம் குறைவு."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s மூடப்பட்டது."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "மின்கலம் திறன் குறைந்தது."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "செயலாக்கப்பட்டது."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "செயலிழந்தது."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "ஒலி"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s என்பது எதிர்பாராதவிதமாக மூடப்பட்டது."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "குறைவான நினைவகமே மீதமுள்ளது"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "மின்கலம் குறைந்துள்ளது"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "சாதனம் மறுதுவக்கம் செய்யப்படும்."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "சாதன தெரிவுகள்"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "ஒலிதடு"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "சார்ஜிங் இடைநிறுத்தப்பட்டது. மின்னழுத்தம் மிக அதிகமாக உள்ளது."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "மின்கலம் மிக குறைவாக உள்ளது. சாதனம் இப்போது பணி நிறுத்தப்படுகிறது"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "மின்கல திறன் குறைவாக உள்ளது. கியரைத் தொடர்ந்து பயன்படுத்த விரைவில் சார்ஜ் செய்யவும்."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "மின்கலம் குறைவு. தொடர்ந்து பயன்படுத்த விரைவாக ரீசார்ஜ் செய்க"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "மின்கலம் மிக குறைவாக உள்ளது"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "மின்கல திறன் மிகவும் குறைவாக உள்ளது. கியரைத் தொடர்ந்து பயன்படுத்த உடனே சார்ஜ் செய்யவும்."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "மின்கலத் திறன் மிகவும் குறைவாக உள்ளது. உங்களது மொபைல் சாதனத்திலிருந்து உங்கள் கியர் துண்டிக்கப்படும். டீஃபால்ட் கடிகாரத்தை மட்டுமே உங்களால் பயன்படுத்த முடியும். உங்கள் கியரை தொடர்ந்து பயன்படுத்த அதை மீண்டும் சார்ஜ் செய்யவும்."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "பேட்டரி திறன் மிகவும் குறைவாக உள்ளது. இயல்புநிலை கடிகாரத்தை மட்டுமே நீங்கள் பயன்படுத்தலாம். உங்கள் கியரைத் தொடர்ந்து பயன்படுத்த அதை ரீசார்ஜ் செய்யவும்."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "சார்ஜிங் நிறுத்தப்பட்டுள்ளது. பாட்டரி வெப்பம் மிக அதிகமாகவோ அல்லது மிகக் குறைவாகவோ உள்ளது."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "சார்ஜிங் இடைநிறுத்தப்பட்டது. மின்கல வெப்பநிலை மிகவும் குறைவு."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "சார்ஜிங் இடைநிறுத்தப்பட்டது. மின்கல வெப்பநிலை மிகவும் அதிகம்."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "பேட்டரி குறைவு"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "சாதனம் நிறுத்தப்படும்."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "மீண்டும் துவங்குக"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "சேமிப்பிடம் நிரம்பியது"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "பதிவு செய்ய இயலவில்லை. உங்கள் கியர் சேமிப்பிடத்தில் போதுமான காலியிடம் இல்லை."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "அல்ட்ரா பவர் சேமிப்பு முறைமையை முடக்கவென உங்கள் சாதனம் மறுதுவக்கமாகும்."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "பிழை"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "அல்ட்ரா பவர் சேமிப்பு முறை"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "மீ. செய்யவேண்டாம்"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "மின்கலம் துண்டிக்கப்பட்டது."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "பவர் சேவர்"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "பவர் சேவர் செயல்படுத்தப்படும். இது CPU வின் அதிகபட்ச செயல்திறனைக் கட்டுப்படுத்தும், ப்ளூடூத்தை முடக்கும், அத்துடன் திரைக்கு குறைவான மின்சக்தி பயன்படுத்தப்படும். வேக்-அப் சைகை, குரல் கட்டுப்பாடு மற்றும் அதிர்வு ஆகியவை கிடைக்காது. இருப்பினும் கடிகாரம் மற்றும் S Health செயல்பாடுகள் கிடைக்கும்."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "பவர் சேவர் செயல்நீக்கப்பட்டது."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "பவர் சேவர் செயல்படுத்தப்பட்டது."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "ஃப்ளைட் முறை"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "அழைப்பு மற்றும் மெசேஜிங் செயல்பாடுகளை முடக்குவதற்கு ஃப்ளைட் முறை உதவுகிறது. மொபைல் தரவு, ப்ளூடூத் ஆகியவற்றையும் இது அணைக்கிறது. ப்ளூடூத்தை உபயோகிப்பதற்கு, அதை அமைவுகள் சென்று துவக்குக."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "ஃப்ளைட் முறை செயல்படுத்துக"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "ஃப்ளைட் முறை செயல்நீக்குக"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "ஃப்ளைட் முறை செயல்நீக்கப்படும்."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "நெட்வர்க் சேவையை அணுக SIM அட்டையை நுழைக்கவும்."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "மொபைல் தரவு"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "மொபைல் தரவை இயக்குக"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "மொபைல் தரவை முடக்குக"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "ஆதரிக்கவில்லை."
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "ப்ளூடூத் வழியாக இணைக்கப்படுகையில் மொபைல் தரவை இயக்க இயலவில்லை."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "உங்கள் மொபைல் நெட்வொர்க்குடன் இணைக்கப்படுவீர்கள். இது கூடுதல் கட்டணங்களை ஏற்படுத்தலாம்."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "நீங்கள் மொபைல் தரவை ஆஃப் செய்தால், மொபைல் நெட்வொர்க் இணைப்பு தேவைப்படுகின்ற அறிவிப்புகளைப் பெற முடியாது அல்லது பயன்பாடுகளைப் பயன்படுத்த முடியாது. மொபைல் தரவு ஆஃப் செய்யப்படும்."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "ஃபிளைட் முறையானது அழைத்தல் மற்றும் மெசேஜிங் செயல்பாடுகளைச் செயல்நீக்குகிறது மற்றும் Wi-Fi மற்றும் ப்ளூடூத் போன்ற மொபைல் தரவு மற்றும் இணைப்பு செயல்பாடுகளை ஆஃப் செய்கிறது. Wi-Fi மற்றும் ப்ளூடூத் பயன்படுத்துவதற்கு அமைவுகளில் அவற்றை ஆன் செய்யவும்."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "மின்கல பவரைச் சேமிப்பதற்கு அல்ட்ரா பவர் சேமிப்பு முறையைச் செயல்படுத்தவும்."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "அணுகல்"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "அமைவுகள்"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "செயல்படுத்துக"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s பதிலளிக்கவில்லை. %s மூடவா?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "பதில் இல்லை"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "காத்திருக்கவும்"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "அதிகபட்ச தரவு பயன்பாட்டு வரம்பு (%s) மீறியது. மொபைல் தரவு செயலிழந்தது. மொபைல் தரவை செயல்படுத்தல் கூடுதல் கட்டணங்களுக்கு உட்படக்கூடும்"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "மொபைல் தரவு செயல்நீக்கப்பட்டது"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "பவ. சேமி. செ.நீக்குக"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "பவர் சேமி. செயல்."
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "பவர் சேமிப்பு"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "அதிகபட்ச தரவு பயன்பாட்டு வரம்பை (%s) கிட்டத்தட்ட அடைந்துவிட்டது. உங்கள் தரவு பயன்பாட்டைச் சரிபார்க்க அமைவுகளை டேப் செய்யவும்."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "குறிப்பிடப்பட்ட தரவு பயன்பாடு வரம்பை அடைந்தது. கூடுதல் தரவு பயன்படுத்தும் பட்சத்தில் சேவை வழங்குநரால் கூடுதல் கட்டணங்களை வசூலிக்கப்படலாம்."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "தரவு பயன்பாடு வரம்பு"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "தரவு பயன்பாட்டு எச்சரிக்கை"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "ப. சேமிப்பு முறை செயல்படுத்தவும்"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "ப.சேமிப்பு முறை செயல்நீக்கவும்"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "திரை ஆஃப்."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "ஸ்கிரீன் ரீடர் செயல்படுத்தப்பட்டுள்ளது."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "ஸ்கிரீன் ரீடர் முடக்கப்பட்டுள்ளது."
+

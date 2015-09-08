@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Бекор кардан"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Бесадо кардан"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Пас аз %1$d дақиқа равшанӣ дубора ба сатҳи стандартӣ танзим карда мешавад (%2$d)."
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "Ғайрифаъол"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "Фаъол"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Реҷаи берун"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Равшанӣ"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Ларзиш"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Пӯшидан"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Хомӯш кардани барқ"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Хотира кофӣ нест"
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Норасоии хотира."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s пӯшида шуд."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Сатҳи батарея паст аст"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Фаъол"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Ғайрифаъол"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Садо"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s ногаҳон пӯшида шуд."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Low memory left"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Барқи батарея кам аст"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Дастгоҳ аз нав ба кор дароварда мешавад."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Имконоти дастгоҳ"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Бесадо"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Барқдиҳӣ таваққуф ёфт. Шиддат аз ҳад баланд аст."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Барқи батарея хеле паст аст. Ҳоло дастгоҳ хомӯш мешавад."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Барқи батарея кам аст. Барои идомаи истифодаи Gear-и худ, онро зудтар аз нав пур кунед."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Батарея паст аст. Барои идомадиҳии истифода, дастгоҳро зудтар аз нав заряд кунед."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Барқи батарея бениҳоят кам аст"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Барқи батарея бениҳоят кам аст. Барои идомаи истифодаи Gear-и худ, онро ҳозир аз нав пур кунед."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Барқи батарея бениҳоят кам аст. Gear аз дастгоҳи мобилии шумо ҷудо карда мешавад. Шумо танҳо соати стандартиро истифода бурда метавонед. Барои идома додани истифодаи  Gear онро ҳозир барқ диҳед."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Барқи батарея бениҳоят кам аст. Шумо танҳо соати стандартиро истифода бурда метавонед. Барои идомаи истифодаи Gear-и худ, онро ҳозир аз нав пур кунед."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Зарядгирӣ таваққуф шуд. Ҳарорати батарея аз ҳад баланд ё паст мебошад."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Барқгирӣ таваққуф карда шуд. Ҳарорати батарея бениҳоят паст аст."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Барқгирӣ таваққуф карда шуд. Ҳарорати батарея бениҳоят баланд аст."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Барқи батарея кам аст"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Дастгоҳ хомӯш мешавад."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Бозоғозӣ кардан"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Storage full"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Сабткунӣ ғайриимкон аст. Дар Gear-и шумо фазои кофӣ нест."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Барои ғайрифаъол кардани Реҷаи сарфаи мукаммали қувва дар дастгоҳи худ, дастоҳ аз нав ба кор дароварда мешавад."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Хатогӣ"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Реҷаи сарфаи мукаммали қувва"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "Такрор нак."
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Батарея ҷудо шуд."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Сарфакунаки қувва"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Сарфакунаки қувва фаъол карда мешавад. Ин ҳосилнокии кори ПМ­ро маҳдуд мекунад, Bluetooth­ро хомӯш мекунад ва равшании экранро пасттар мекунад. Ишорати бедоркунӣ, Идоракунӣ бо овоз ва Ларзиш дастнорас мешаванд. Функсияҳои Соат ва S Health метавонанд ба ҳар ҳол истифода бурда шаванд."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Сарфакунаки қувва ғайрифаъол карда шуд."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Сарфакунаки қувва фаъол карда шуд."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "Реҷаи Парвоз"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "Реҷаи парвоз ба шумо имкон медиҳад, ки вазифаҳои зангзанӣ ва паёмнависиро ғайрифаъол кунед. Он инчунин Иттилооти мобилӣ ва Bluetooth-ро хомӯш мекунад. Барои истифодаи Bluetooth, онро дар Танзимот фурӯзон кунед."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Фаъол кардани реҷаи Парвоз"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Ғайрифаъол кардани Реҷаи парвоз"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Реҷаи Парвоз ғайрифаъол карда мешавад."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "Барои дастрас кардани хизматрасониҳои шабака SIM-кортро гузоред."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "Иттилооти мобилӣ"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "Фаъол кардани иттилооти мобилӣ"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "Ғайрифаъол кардани иттилооти мобилӣ"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "Дастгирӣ намешавад"
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "Ҳангоми пайваст будан бо Bluetooth Иттилооти мобилиро фурӯзон карда наметавонад."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "Шумо ба шабакаи мобилӣ пайваст карда мешавед. Барои ин метавонад маблағи иловагӣ ситонида шавад."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "Агар шумо Иттилооти мобилиро хомӯш кунед, наметавонед огоҳиҳо гиред ё барномаҳоеро истифода баред, ки пайвастагии шабакаи мобилиро талаб мекунанд. Иттилооти мобилӣ хомӯш карда мешавад."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "Реҷаи парвоз функсияҳои зангзанӣ ва паёмнависиро ғайрифаъол мекунад, иттилооти мобилӣ ва функсияҳои пайвастшавиро монанди Wi-Fi ва Bluetooth хомӯш мекунад. Барои истифодаи Wi-Fi ва Bluetooth, онҳоро дар Танзимот фаъол кунед."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "Барои сарфа кардани барқи батарея, реҷаи Сарфаи шадиди барқро фаъол кунед."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Осонии истифода"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Танзимот"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "Фаъол к-н"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s is not responding. Close %s?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Ягон посух нест"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Интизор"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Истифодаи иттилоот аз ҳудуди максималӣ (%s) афзудааст. Иттилооти мобилӣ ғайрифаъол карда шуд. Фаъол кардани иттилооти мобилӣ метавонад пардохтҳои иловагиро ба вуҷуд орад."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Иттилооти мобилӣ ғайрифаъол карда шуд"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "Ғайф. к. Сарфаи барқ"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "Фаъоли сарфаи барқ"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "Сарфаи барқ"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "Маҳдудияти ниҳоии истифодаи иттилоот (%s) қариб сарф шуд. Танзимотро зарба зада, истифодаи иттилоотро аз назар гузаронед."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "Маҳдудияти истифодаи иттилоот сарф карда шуд. Барои истифодаи миқдори иловагии иттилоот таҳвилгари хизматрасониҳои мобилӣ метавонад маблағи иловагӣ ситонад."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "Маҳдуд кардани истифодаи иттилоот"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Огоҳӣ оиди истифодаи иттилоот"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "Фаъол к-ни\nреҷаи Сарфаи барқ"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "Ғайрифаъол к.\nРеҷаи сарфаи барқ"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Screen off."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Screen reader фаъол аст."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Screen reader ғайрифаъол аст."
+

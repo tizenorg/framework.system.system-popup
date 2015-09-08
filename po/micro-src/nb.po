@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Avbryt"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Lydløs"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "Etter %1$d min vil lysstyrken bli tilbakestilt til standardnivået (%2$d)."
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "Av"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "På"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Utemodus"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Lysstyrke"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibrasjon"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Lukk"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Slå av"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Ikke nok minne."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Lite minne."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s lukket."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Lavt batterinivå."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Aktivert."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Deaktivert"
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Lyd"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s har uventet lukket."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Lite gjenværende minne"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Lavt batterinivå"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Enheten starter på nytt."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Enhetsalternativer"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Lydløs"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Lading stanset midlertidig. Spenningen er for høy."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Batterinivået er kritisk lavt. Enheten vil slåes av nå."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Batterinivået er lavt. Lad opp Gear snart for å fortsette å bruke den."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Batterinivå lavt. Lad enheten snart for fortsatt bruk."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Batterinivået er kritisk lavt"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Batterinivået er kritisk lavt. Lad opp Gear nå for å fortsette å bruke den."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Batterinivået er kritisk lavt. Gear-enheten vil bli koblet fra mobilenheten din. Du kan bare bruke standardklokken. Lad opp Gear nå for å fortsette å bruke den."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Batterinivået er kritisk lavt. Du kan bare bruke standardklokken. Lad opp Gear nå for å fortsette å bruke den."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Lading stanset midlertidig. Batteritemperatur for høy eller for lav."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Lading stanset midlertidig. Batteritemperatur for lav."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Lading stanset midlertidig. Batteritemperatur for høy."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Lavt batterinivå"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Enheten vil bli slått av."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Omstart"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Lagringspl. full"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Kan ikke ta opp. Det er ikke nok ledig plass i Gear-minnet."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Enheten starter på nytt for å deaktivere Ultra strømsparingsmodus."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Feil."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Ultra strømsparingsmodus"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "Ikke gjenta"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Batteri koblet fra."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Strømsparer"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Strømsparer blir aktivert. Dette begrenser maksimal ytelse for CPU-en og slår av Bluetooth, og det blir brukt et lavere strømnivå på skjermen. Aktiveringsbevegelse, Talekontroll og Vibrasjon er ikke tilgjengelig. Klokke og S Health-funksjoner er fortsatt tilgjengelige."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Strømsparer er deaktivert."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Strømsparer er aktivert."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "Flymodus"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "Flymodus lar deg deaktivere anrops- og meldingsfunksjonene. Den slår også av Mobildata og Bluetooth. Hvis du vil bruke Bluetooth, slår du det på i Innstillinger."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Aktiver Flymodus"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Deaktiver Flymodus"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Flymodus blir deaktivert."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "Sett inn SIM-kort for å få tilgang til nettverkstjenester."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "Mobildata"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "Slå på mobildata"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "Slå av mobildata"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "Støttes ikke."
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "Kan ikke slå på Mobildata mens du er koblet til via Bluetooth."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "Du vil bli koblet til mobilnettverket. Dette kan medføre ekstrakostnader."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "Hvis du slår av mobildata, vil du ikke kunne motta varsler eller bruke apper som krever en nettverkstilkobling. Mobildata blir slått av."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "Flymodus deaktivere anrops- og meldingsfunksjoner og slår av mobildata og tilkoblingsfunksjoner, som Wi-Fi og Bluetooth. Hvis du vil bruke Wi-Fi og Bluetooth, slår du dem på i Innstillinger."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "Aktiver Ultra strømsparingsmodus for å spare batteri."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Tilgjengelighet"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Innstillinger"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "Aktiver"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s svarer ikke. Lukke %s?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Ikke noe svar"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Vent"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Maksimal grense for databruk (%s) er oversteget. Mobildatabruk deaktivert. Aktivering av mobildata vil medføre ekstre kostnader."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Mobildata deaktivert"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "Deaktiver Strømspar."
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "Aktiver Strømsp.mod."
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "Strømspar."
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "Maksgrensen for databruk (%s) er nesten nådd. Trykk på Innstillinger for å kontrollere databruken."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "Den angitte grensen for databruk er nådd. Videre databruk kan medføre ekstra kostnader fra tjenesteleverandør."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "Begrens databruk"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Advarsel for databruk"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "Aktiver Strømspar.modus"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "Deaktiver Strømspar.modus"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Skjerm av."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Skjermleser aktivert."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Skjermleser deaktivert."
+

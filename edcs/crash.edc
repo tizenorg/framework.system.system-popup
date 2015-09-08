@@ -1,0 +1,21 @@
+#define RESOURCE_CIRCLE_IMAGE( FILE_NAME ) \
+	group { \
+		name: FILE_NAME; \
+		images.image: FILE_NAME COMP; \
+		parts { \
+			part { name: "image"; \
+				scale: 1; \
+				mouse_events: 0; \
+				description { \
+					min: 48 48; \
+					state: "default" 0.0; \
+					image.normal: FILE_NAME; \
+					aspect: 1 1; \
+					aspect_preference: BOTH; \
+				} \
+			} \
+		} \
+	}
+collections {
+	RESOURCE_CIRCLE_IMAGE("circle-ok.png");
+}

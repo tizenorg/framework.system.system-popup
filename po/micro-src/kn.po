@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "ರದ್ದು"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "ಮ್ಯುಟ್"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ಸರಿ"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d ನಿಮಿಷಗಳ ನಂತರ, ಪ್ರಕಾಶಮಾನತೆಯನ್ನು ಡೀಫಾಲ್ಟ್ ಮಟ್ಟ (%2$d) ಕ್ಕೆ ಮರುಹೊಂದಿಸಲಾಗುತ್ತದೆ."
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "ಆಫ್"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "ಆನ್"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "ಹೊರಾಂಗಣ ಮೋಡ್‌"
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "ಉಜ್ವಲತೆ"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "ಕಂಪನ"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "ಮುಚ್ಚಿ"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "ಪವರ್ ಆಫ್"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "ಸಾಕಷ್ಟು ಸ್ಮರಣೆ ಇಲ್ಲ."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "ಕಡಿಮೆ ಬ್ಯಾಟರಿ."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s ಮುಚ್ಚಿದೆ."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "ಬ್ಯಾಟರಿ ಕಡಿಮೆಯಿದೆ."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "ಶಕ್ತವಾಗಿದೆ."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "ಅಸಮರ್ಥಗೊಳಿಸಿದೆ."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "ಶಬ್ದ"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s ಅನಿರೀಕ್ಷಿತವಾಗಿ ಮುಚ್ಚಲ್ಪಟ್ಟಿರುತ್ತದೆ."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "ಕಡಿಮೆ ಸ್ಮರಣೆ ಬಾಕಿಯಿದೆ"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "ಬ್ಯಾಟರಿ ಕಡಿಮೆಯಿದೆ"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "ಸಾಧನ ಮರುಪ್ರಾರಂಭಿಸುತ್ತದೆ."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "ಸಾಧನ ಆಯ್ಕೆಗಳು"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "ಮ್ಯುಟ್"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "ಚಾರ್ಜಿಂಗ್ ವಿರಮಿಸಿದೆ. ವೋಲ್ಟೇಜ್ ಅತಿ ಹೆಚ್ಚು."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "ಬ್ಯಾಟರಿ ಸಂದಿಗ್ಧವಾಗಿ ಕಡಿಮೆ. ಸಾಧನ ಈಗ ಶಟ್‍ಡೌನ್ ಆಗುವುದು"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "ಬ್ಯಾಟರಿಯ ಶಕ್ತಿಯು ಕಡಿಮೆಯಾಗಿದೆ. ಇದನ್ನು ಬಳಸುತ್ತಿರಲು ಸದ್ಯವೇ ನಿಮ್ಮ ಗೇರ್ ರೀಚಾರ್ಜ್ ಮಾಡಿ."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "ಬ್ಯಾಟರಿ ಕಡಿಮೆ. ಬಳಸುತ್ತಾ ಇರಲು ಕೂಡಲೆ ಸಾಧನ ರೀಚಾರ್ಜ್ ಮಾಡಿ"
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "ಬ್ಯಾಟರಿ ಸಂದಿಗ್ಧವಾಗಿ ಕಡಿಮೆ"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ಬ್ಯಾಟರಿಯ ಶಕ್ತಿಯು ಬಹಳ ಕಡಿಮೆಯಾಗಿದೆ. ಇದನ್ನು ಬಳಸುತ್ತಿರಲು ಈಗ ನಿಮ್ಮ ಗೇರ್ ರೀಚಾರ್ಜ್ ಮಾಡಿ."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "ಬ್ಯಾಟರಿ ಶಕ್ತಿಯು ಗಂಭೀರಕಾರಕ ಕೆಳಮಟ್ಟದಲ್ಲಿದೆ. ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನದಿಂದ ನಿಮ್ಮ ಗೇರ್ ಸಂಪರ್ಕಕಡಿತಗೊಳಿಸಲಾಗುವುದು. ನೀವು ಡೀಫಾಲ್ಟ್ ಕ್ಲಾಕ್ ಅನ್ನು ಮಾತ್ರ ಬಳಸಬಹುದು. ಗೇರ್ ಬಳಸುತ್ತಿರಲು ಇದೀಗ ನಿಮ್ಮ ಗೇರ್ ರೀಚಾರ್ಜ್ ಮಾಡಿಸಿ."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "ಬ್ಯಾಟರಿ ಶಕ್ತಿಯು ಗಂಭೀರವಾಗಿ ಕಡಿಮೆಯಿದೆ. ನೀವು ಡೀಫಾಲ್ಟ್ ಗಡಿಯಾರವನ್ನು ಮಾತ್ರ ಬಳಸಬಹುದು. ಗೇರ್ ಅನ್ನು ಬಳಸುತ್ತಲೇ ಇರಲು ಅದನ್ನು ಇದೀಗ ರೀಚಾರ್ಜ್ ಮಾಡಿ."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "ಚಾರ್ಜಿಂಗ್ ನಿಂತು ಹೋಗಿದೆ. ಬ್ಯಾಟರಿ ಉಷ್ಣತೆ ತುಂಬಾ ಅತಿಯಾಗಿದೆ ಅಥವಾ ಕಡಿಮೆಯಾಗಿದೆ."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "ಚಾರ್ಜಿಂಗ್ ವಿರಮಿಸಿದೆ. ಬ್ಯಾಟರಿ ತಾಪಮಾನ ಅತಿ ಕಡಿಮೆ."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "ಚಾರ್ಜಿಂಗ್ ವಿರಮಿಸಿದೆ. ಬ್ಯಾಟರಿ ತಾಪಮಾನ ಅತಿ ಹೆಚ್ಚು."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "ಬ್ಯಾಟರಿ ಕಡಿಮೆ"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "ಸಾಧನ ಟರ್ನ್ ಆಫ್ ಆಗುವುದು."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "ಪುನಾರಂಭಿಸಿ"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "ಸಂಗ್ರಹಣೆ ಭರ್ತಿಯಾಗಿದೆ"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "ರೆಕಾರ್ಡ್ ಮಾಡಲು ಅಸಮರ್ಥ. ನಿಮ್ಮ ಗೇರ್‌ ಸಂಗ್ರಹಣೆಯಲ್ಲಿ ಸಾಕಷ್ಟು ಸ್ಥಳಾವಕಾಶವಿಲ್ಲ."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "ಅಲ್ಟ್ರಾ ಪವರ್ ಸೇವಿಂಗ್ ಮೋಡ್ ಅನ್ನು ನಿಶಕ್ತಗೊಳಿಸಲು, ನಿಮ್ಮ ಸಾಧನವು ಪುನರಾರಂಭಗೊಳ್ಳುವುದು."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "ದೋಷ."
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "ಅಲ್ಟ್ರಾ ಪವರ್ ಉಳಿತಾಯ ಮೋಡ್"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "ಪುನರಾವರ್ತಿಸಬೇಡಿ"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "ಬ್ಯಾಟರಿ ಸಂಪರ್ಕ ಕಡಿದಿದೆ."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "ಪವರ್ ಸೇವರ್"
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "ಪವರ್ ಸೇವರ್ ಅನ್ನು ಶಕ್ತಗೊಳಿಸಲಾಗುತ್ತದೆ. ಇದು CPU ನ ಗರಿಷ್ಠ ಕಾರ್ಯನಿರ್ವಹಣೆಯನ್ನು ಮಿತಿಗೊಳಿಸುತ್ತದೆ, ಬ್ಲೂಟೂತ್ ಆಫ್ ಮಾಡಿ ಮತ್ತು ಕಡಿಮೆ ಸ್ಕ್ರೀನ್ ಪವರ್ ಮಟ್ಟವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ. ಎಚ್ಚರಗೊಳಿಸುವ ಸನ್ನೆ, ಧ್ವನಿ ನಿಯಂತ್ರಣ ಮತ್ತು ಕಂಪನವು ಲಭ್ಯವಿರುವುದಿಲ್ಲ. ಗಡಿಯಾರ ಮತ್ತು S Health ಕಾರ್ಯಗಳು ಇನ್ನೂ ಸಹ ಲಭ್ಯವಿರುತ್ತವೆ."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "ಪವರ್ ಸೇವರ್ ನಿಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "ಪವರ್ ಸೇವರ್ ಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "ಫ್ಲೈಟ್‌ ಮೋಡ್"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "ಕರೆ ಮಾಡುವಿಕೆ ಮತ್ತು ಸಂದೇಶ ಕಳುಹಿಸುವಿಕೆ ಕಾರ್ಯಗಳನ್ನು ನಿಶಕ್ತಗೊಳಿಸಲು ಫ್ಲೈಟ್ ಮೋಡ್ ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ. ಇದು ಮೊಬೈಲ್ ಡೇಟಾ ಮತ್ತು ಬ್ಲೂಟೂತ್ ಅನ್ನೂ ಸಹ ಆಫ್ ಮಾಡುತ್ತದೆ. ಬ್ಲೂಟೂತ್ ಬಳಸಲು, ಅದನ್ನು ಸಂಯೋಜನೆಗಳಲ್ಲಿ ಆನ್ ಮಾಡಿ."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "ಫ್ಲೈಟ್ ಮೋಡ್ ಶಕ್ತಗೊಳಿಸಿ"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "ಫ್ಲೈಟ್ ಮೋಡ್ ನಿಶಕ್ತಗೊಳಿಸಿ"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "ಫ್ಲೈಟ್‌ ಮೋಡ್ ಅಶಕ್ತವಾಗುವುದು."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "ನೆಟ್‌ವರ್ಕ್ ಸೇವೆಯನ್ನು ಪಡೆಯಲು SIM ಕಾರ್ಡ್ ಸೇರಿಸಿ."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "ಮೊಬೈಲ್ ಡೇಟಾ"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "ಮೊಬೈಲ್ ಡೇಟಾ ಆನ್ ಮಾಡಿ"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "ಮೊಬೈಲ್ ಡೇಟಾ ಆಫ್ ಮಾಡಿ"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "ಬೆಂಬಲಿಸಿಲ್ಲ."
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "ಬ್ಲೂಟೂತ್ ಮೂಲಕ ಸಂಪರ್ಕಿಸಿದಾಗ ಮೊಬೈಲ್ ಡೇಟಾ ಆನ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "ನಿಮ್ಮ ಮೊಬೈಲ್ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ನಿಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಲಾಗುತ್ತದೆ. ಇದು ಹೆಚ್ಚುವರಿ ಶುಲ್ಕಗಳನ್ನು ಉಂಟುಮಾಡಬಹುದು."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "ನೀವು ಮೊಬೈಲ್ ಡೇಟಾ ಆಫ್ ಮಾಡಿದರೆ, ನಿಮಗೆ ಪ್ರಕಟಣೆಗಳನ್ನು ಸ್ವೀಕರಿಸುವುದಕ್ಕಾಗಲೀ ಅಥವಾ ಮೊಬೈಲ್ ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕ ಅಗತ್ಯವಿರುವ ಅನ್ವಹಿಸುವಿಕೆಗಳನ್ನು ಬಳಸುವುದಕ್ಕಾಗಲೀ ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ. ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಆಫ್ ಮಾಡಲಾಗುತ್ತದೆ."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "ಫ್ಲೈಟ್ ಮೋಡ್ ಕರೆ ಮಾಡುವಿಕೆ ಮತ್ತು ಮೆಸೇಜಿಂಗ್ ಕಾರ್ಯಗಳನ್ನು ನಿಶಕ್ತಗೊಳಿಸುತ್ತದೆ ಮತ್ತು Wi-Fi ಮತ್ತು ಬ್ಲೂಟೂತ್‌ನಂತಹ ಮೊಬೈಲ್ ಡೇಟಾ ಮತ್ತು ಸಂಪರ್ಕ ಕಾರ್ಯಗಳನ್ನು ಆಫ್ ಮಾಡುತ್ತದೆ. Wi-Fi ಮತ್ತು ಬ್ಲೂಟೂತ್ ಬಳಸಲು, ಅವುಗಳನ್ನು ಸಂಯೋಜನೆಗಳಲ್ಲಿ ಆನ್ ಮಾಡಿ."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "ಬ್ಯಾಟರಿ ಪವರ್ ಉಳಿಸಲು, ಅಲ್ಟ್ರಾ ಪವರ್ ಉಳಿತಾಯ ಮೋಡ್ ಶಕ್ತಗೊಳಿಸಿ."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "ಪ್ರವೇಶತೆ"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "ಸಂಯೋಜನೆಗಳು"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "ಶಕ್ತಗೊಳಿಸು"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತಿಲ್ಲ. %s ಮುಚ್ಚಲೇ?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "ಪ್ರತಿಕ್ರಿಯೆ ಇಲ್ಲ"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "ಕಾಯಿರಿ"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "ಗರಿಷ್ಟ ಡೇಟಾ ಬಳಕೆ ಮಿತಿ (%s) ಮೀರಿದೆ. ಮೊಬೈಲ್ ಡೇಟಾ ನಿಷ್ಕ್ರಿಯಗೊಂಡಿದೆ. ಮೊಬೈಲ್ ಡೇಟಾ ಸಕ್ರಿಯಗೊಳಿಸಲು ಹೆಚ್ಚಿನ ಶುಲ್ಕಗಳನ್ನು ತೆರಬೇಕಾಗಬಹುದು"
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "ಮೊಬೈಲ್ ಡೇಟಾ ಅಶಕ್ತವಾಗಿದೆ"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "ಪವರ್ ಉಳಿತಾಯ ನಿಶಕ್ತ"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "ಪವರ್ ಉಳಿತಾಯ ಶಕ್ತಗೊಳಿಸು"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "ಪವರ್ ಉಳಿತಾಯ"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "ಗರಿಷ್ಠ ಡೇಟಾ ಬಳಕೆಯ ಮಿತಿ (%s) ಬಹುತೇಕ ತಲುಪಿದೆ. ನಿಮ್ಮ ಡೇಟಾ ಬಳಕೆಯನ್ನು ಪರಿಶೀಲಿಸಿ ಸಂಯೋಜನೆಗಳನ್ನು ತಟ್ಟಿ."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "ಸೂಚಿಸಿದ ಡೇಟಾ ಬಳಕೆ ಮಿತಿ ತಲುಪಿದೆ. ಹೆಚ್ಚುವರಿ ಡೇಟಾ ಬಳಕೆಯು ಸೇವಾ ಪೂರೈಕೆದಾರರಿಂದ ವೆಚ್ಚಗಳಿಗೆ ಈಡಾಗಬಹುದು."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "ಡೇಟಾ ಬಳಕೆ ಮಿತಿಗೊಳಿಸಿ"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "ಡೇಟಾ ಬಳಕೆ ಎಚ್ಚರಿಕೆ"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "ಪವರ್‌ ಉಳಿತಾಯ ಮೋಡ್ ಶಕ್ತಗೊಳಿಸಿ"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "ಪವರ್‌ ಉಳಿತಾಯ ಮೋಡ್ ನಿಶಕ್ತಗೊಳಿಸಿ"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "ಸ್ಕ್ರೀನ್ ಆಫ್."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "ಸ್ಕ್ರೀನ್ ರೀಡರ್ ಅನ್ನು ಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "ಸ್ಕ್ರೀನ್ ರೀಡರ್ ಅನ್ನು ನಿಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ."
+

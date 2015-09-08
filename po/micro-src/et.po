@@ -1,0 +1,258 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Tühista"
+
+msgid "IDS_COM_POP_MESSAGETONE_MUTE"
+msgstr "Vaigista"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_IDLE_POP_AFTER_P1SD_MINS_BRIGHTNESS_WILL_BE_RESET_TO_DEFAULT_LEVEL_HP2SD"
+msgstr "%1$d minuti moodudes lahtestatakse heledus vaiketasemele (%2$d)."
+
+msgid "IDS_ST_BODY_OFF_M_STATUS"
+msgstr "Väljas"
+
+msgid "IDS_ST_BODY_ON_M_STATUS"
+msgstr "Sees"
+
+msgid "IDS_ST_BODY_OUTDOOR_MODE_ABB"
+msgstr "Väliting. rež."
+
+msgid "IDS_ST_BUTTON_BRIGHTNESS"
+msgstr "Heledus"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Värin"
+
+msgid "IDS_COM_BUTTON_CLOSE"
+msgstr "Sulge"
+
+msgid "IDS_ST_BODY_POWER_OFF"
+msgstr "Toide väljas"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Mälu pole piisavalt."
+
+msgid "IDS_IDLE_BODY_LOW_MEMORY"
+msgstr "Aku tühjeneb."
+
+msgid "IDS_IDLE_POP_PS_CLOSED"
+msgstr "%s suleti."
+
+msgid "IDS_COM_POP_BATTERYLOW"
+msgstr "Aku on peaaegu tühi."
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Lubatud."
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Keelatud."
+
+msgid "IDS_ST_MBODY_SOUND_ABB"
+msgstr "Heli"
+
+msgid "IDS_ST_BODY_PS_HAS_CLOSED_UNEXPECTEDLY"
+msgstr "%s on ootamatult suletud."
+
+msgid "IDS_DAV_BODY_LOW_MEMORY_LEFT_ORANGE"
+msgstr "Vähe mälu alles"
+
+msgid "IDS_ST_BODY_LEDOT_LOW_BATTERY"
+msgstr "Aku on peaaegu tühi"
+
+msgid "IDS_ST_POP_DEVICE_WILL_RESTART"
+msgstr "Seade taaskäivitub."
+
+msgid "IDS_COM_HEADER_DEVICE_OPTIONS"
+msgstr "Seadme valikud"
+
+msgid "IDS_ST_BODY_MUTE"
+msgstr "Vaigista"
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_VOLTAGE_TOO_HIGH"
+msgstr "Laadimine on peatatud. Pinge on liiga korge."
+
+msgid "IDS_VR_POP_BATTERY_CRITICALLY_LOW_DEVICE_WILL_NOW_SHUT_DOWN"
+msgstr "Aku on kriitiliselt tühi. Seade lülitub kohe välja."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_LOW_RECHARGE_YOUR_GEAR_SOON_TO_KEEP_USING_IT"
+msgstr "Akutoidet on vähe. Oma seadme Gear kasutamiseks laadige seda varsti."
+
+msgid "IDS_COM_POP_BATTERY_LOW_RECHARGE_DEVICE_SOON_TO_KEEP_USING"
+msgstr "Aku on tühi. Kasutamise jätkamiseks laadige varsti seadet."
+
+msgid "IDS_COM_HEADER_BATTERY_CRITICALLY_LOW"
+msgstr "Aku laetuse tase on kriitiliselt madal"
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Akutoidet on kriitiliselt vähe. Oma seadme Gear kasutamiseks laadige seda kohe."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_MSG"
+msgstr "Akutoidet on kriitiliselt vähe. Teie seadme Gear ühendus katkestatakse teie mobiilsideseadmega. Saate kasutada ainult vaikekella. Oma seadme Gear kasutamiseks laadige seda kohe."
+
+msgid "IDS_ST_POP_THE_BATTERY_POWER_IS_CRITICALLY_LOW_YOU_CAN_ONLY_USE_THE_DEFAULT_CLOCK_RECHARGE_YOUR_GEAR_NOW_TO_KEEP_USING_IT"
+msgstr "Akutoidet on kriitiliselt vähe. Saate kasutada ainult vaikekella. Oma seadme Gear kasutamiseks laadige seda kohe."
+
+msgid "IDS_COM_POP_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH_OR_LOW"
+msgstr "Laadimine on peatatud. Aku temperatuur on liiga korge voi liiga madal."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_LOW"
+msgstr "Laadimine on peatatud. Aku temperatuur on liiga madal."
+
+msgid "IDS_QP_BODY_CHARGING_PAUSED_BATTERY_TEMPERATURE_TOO_HIGH"
+msgstr "Laadimine on peatatud. Aku temperatuur on liiga kõrge."
+
+msgid "IDS_COM_HEADER_BATTERY_LOW_ABB"
+msgstr "Aku on tühi"
+
+msgid "IDS_COM_POP_DEVICE_WILL_TURN_OFF"
+msgstr "Seade lulitub valja."
+
+msgid "IDS_ST_BUTTON_RESTART"
+msgstr "Taaskäivita"
+
+msgid "IDS_ST_HEADER_STORAGE_FULL_ABB"
+msgstr "Mälu on täis"
+
+msgid "IDS_ST_POP_UNABLE_TO_RECORD_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_STORAGE"
+msgstr "Ei saa salvestada. Seadme Gear malus pole piisavalt ruumi."
+
+msgid "IDS_ST_POP_TO_DISABLE_ULTRA_POWER_SAVING_MODE_YOUR_DEVICE_WILL_RESTART"
+msgstr "Ülima energiasäästurežiimi desaktiveerimiseks teie seade taaskäivitub."
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Tõrge"
+
+msgid "IDS_ST_HEADER_ULTRA_POWER_SAVING_MODE"
+msgstr "Ülim energiasäästurežiim"
+
+msgid "IDS_CAM_OPT_DONT_REPEAT_ABB"
+msgstr "Ära korda"
+
+msgid "IDS_COM_POP_BATTERY_DISCONNECTED_ABB"
+msgstr "Aku lahti ühendatud."
+
+msgid "IDS_ST_MBODY_POWER_SAVER_ABB"
+msgstr "Toitesääst."
+
+msgid "IDS_ST_POP_POWER_SAVER_WILL_BE_ENABLED_THIS_WILL_LIMIT_THE_MAXIMUM_PERFORMANCE_OF_THE_CPU_TURN_OFF_BLUETOOTH_AND_A_LOWER_SCREEN_POWER_LEVEL_WILL_BE_USED_MSG"
+msgstr "Energiasäästurežiim aktiveeritakse. Sellega piiratakse CPU maksimaalset jõudlust, lülitatakse välja Bluetooth ja ekraani jaoks kasutatakse madalat toitetaset. Aktiveerimise liigutus, hääljuhtimine ja värin pole saadaval. Kell ja rakenduse S Health funktsioonid on ikkagi saadaval."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_DISABLED"
+msgstr "Toitesäästja on desaktiveeritud."
+
+msgid "IDS_ST_TPOP_POWER_SAVER_ENABLED"
+msgstr "Toitesäästja on aktiveeritud."
+
+msgid "IDS_ST_HEADER_FLIGHT_MODE_ABB"
+msgstr "Lennurežiim"
+
+msgid "IDS_ST_POP_FLIGHT_MODE_ALLOWS_YOU_TO_DISABLE_THE_CALLING_AND_MESSAGING_FUNCTIONS_IT_ALSO_TURNS_OFF_MOBILE_DATA_AND_BLUETOOTH_MSG"
+msgstr "Lennurežiim võimaldab desaktiveerida helistamise ja sõnumite funktsioonid. See lülitab välja ka mobiilse andmeside ja Bluetoothi. Bluetoothi kasutamiseks lülitage see sisse menüüs Seaded."
+
+msgid "IDS_PN_OPT_ENABLE_FLIGHT_MODE_ABB"
+msgstr "Aktiveeri lennurežiim"
+
+msgid "IDS_PN_OPT_DISABLE_FLIGHT_MODE_ABB"
+msgstr "Keela lennurežiim"
+
+msgid "IDS_COM_POP_FLIGHT_MODE_WILL_BE_DISABLED"
+msgstr "Lennurežiim inaktiveeritakse."
+
+msgid "IDS_ST_POP_INSERT_SIM_CARD_TO_ACCESS_NETWORK_SERVICES"
+msgstr "Sisestage SIM-kaart, et paaseda ligi vorguteenustele."
+
+msgid "IDS_ST_MBODY_MOBILE_DATA_ABB"
+msgstr "Mob. a.side"
+
+msgid "IDS_QP_HEADER_TURN_ON_MOBILE_DATA_ABB"
+msgstr "Lülita mob. andmeside sisse"
+
+msgid "IDS_QP_HEADER_TURN_OFF_MOBILE_DATA_ABB"
+msgstr "Lülita mob. andmeside välja"
+
+msgid "IDS_ST_POP_NOT_SUPPORTED"
+msgstr "Tugi puudub."
+
+msgid "IDS_ST_TPOP_UNABLE_TO_TURN_ON_MOBILE_DATA_WHILE_CONNECTED_VIA_BLUETOOTH"
+msgstr "Mobiilset andmesidet ei saa sisse lülitada, kui Bluetoothi kaudu on ühendus loodud."
+
+msgid "IDS_PN_POP_YOU_WILL_BE_CONNECTED_TO_YOUR_MOBILE_NETWORK_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES"
+msgstr "Teid ühendatakse mobiilsidevõrgu kaudu. Sellega võivad rakenduda lisatasud."
+
+msgid "IDS_PN_POP_IF_YOU_TURN_OFF_MOBILE_DATA_YOU_WILL_NOT_BE_ABLE_TO_RECEIVE_NOTIFICATIONS_OR_USE_APPLICATIONS_THAT_REQUIRE_A_MOBILE_NETWORK_CONNECTION_MSG"
+msgstr "Kui lülitate mobiilse andmeside välja, ei saa te vastu võtta teavitusi ega kasutada rakendusi, mis nõuavad mobiilsidevõrgu ühendust. Mobiilne andmeside lülitatakse välja."
+
+msgid "IDS_ST_BODY_FLIGHT_MODE_DISABLES_CALLING_AND_MESSAGING_FUNCTIONS_MSG"
+msgstr "Lennurežiim desaktiveerib helistamis- ja sõnumifunktsioonid ning lülitab välja mobiilse andmeside ja ühenduvuse funktsioonid (nt Wi-Fi ja Bluetoothi). Wi-Fi ja Bluetooth-ühenduse kasutamiseks lülitage need menüüs Seaded sisse."
+
+msgid "IDS_ST_POP_TO_SAVE_BATTERY_POWER_ENABLE_ULTRA_PWR_SAVING_MODE"
+msgstr "Akutoite säästmiseks aktiveerige Ülim energiasäästurežiim."
+
+msgid "IDS_ST_OPT_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_ST_HEADER_ACCESSIBILITY"
+msgstr "Juurdepääs"
+
+msgid "IDS_ST_BODY_WLAN_CHN"
+msgstr "WLAN"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Seaded"
+
+msgid "IDS_QP_BUTTON_ENABLE"
+msgstr "Luba"
+
+msgid "IDS_ST_BODY_PS_IS_NOT_RESPONDING_CLOSE_PS_Q"
+msgstr "%s ei vasta. Kas sulgeda %s?"
+
+msgid "IDS_CLD_HEADER_NO_RESPONSE"
+msgstr "Vastust pole"
+
+msgid "IDS_CST_OPT_WAIT"
+msgstr "Oodake"
+
+msgid "IDS_QP_BODY_MAXIMUM_DATA_USAGE_LIMIT_HPS_EXCEEDED_MOBILE_DATA_DISABLED_ENABLING_MOBILE_DATA_MAY_INCUR_ADDITIONAL_CHARGES"
+msgstr "Maksimaalne lubatud andmekasutuse määr (%s) on ületatud. Mobiilne andmeside desaktiveeritud. Mobiilse andmesideühenduse aktiveerimisel võivad rakenduda lisatasud."
+
+msgid "IDS_COM_HEADER_MOBILE_DATA_DISABLED"
+msgstr "Mobiilne andmeside desaktiveeritud"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_ABB"
+msgstr "Desak. En. säästmine"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_ABB"
+msgstr "Akt. en.säästurežiim"
+
+msgid "IDS_ST_BUTTON2_POWER_SAVING_ABB"
+msgstr "Energia\nsäästmine"
+
+msgid "IDS_ST_POP_THE_MAXIMUM_DATA_USAGE_LIMIT_HPS_HAS_ALMOST_BEEN_REACHED_TAP_SETTINGS_TO_CHECK_YOUR_DATA_USAGE"
+msgstr "Maksimaalne andmekasutuse piirang (%s) on peaaegu saavutatud. Oma andmekasutuse vaatamiseks toksake menüüd Seaded."
+
+msgid "IDS_COM_BODY_SPECIFIED_DATA_USAGE_LIMIT_REACHED_ADDITIONAL_DATA_USE_MAY_INCUR_CHARGES_FROM_SERVICE_PROVIDER"
+msgstr "Määratud andmekasutuse piirang on saavutatud. Täiendava andmekasutusega võivad kaasneda teenusepakkuja tasud."
+
+msgid "IDS_ST_BODY_LIMIT_DATA_USAGE"
+msgstr "Piira andmekasutust"
+
+msgid "IDS_COM_BODY_DATA_USAGE_WARNING"
+msgstr "Andmekasutuse hoiatus"
+
+msgid "IDS_ST_MBODY_ENABLE_POWER_SAVING_MODE_ABB"
+msgstr "Aktiveeri\nen.säästurežiim"
+
+msgid "IDS_ST_MBODY_DISABLE_POWER_SAVING_MODE_ABB"
+msgstr "Desaktiveeri\nen.säästurežiim"
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_OFF_T_TTS"
+msgstr "Ekraan on lülitatud välja."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_ENABLED_T_TTS"
+msgstr "Ekraanilugeja on aktiveeritud."
+
+msgid "IDS_TPLATFORM_BODY_SCREEN_READER_DISABLED_T_TTS"
+msgstr "Ekraanilugeja on desaktiveeritud."
+
