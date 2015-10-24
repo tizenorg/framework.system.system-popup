@@ -1,0 +1,59 @@
+#################### Crash #########################
+CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
+
+IF(CRASH_POPUP STREQUAL off)
+	RETURN()
+ENDIF(CRASH_POPUP STREQUAL off)
+
+SET(CRASH_SRCS ${COMMON_SRCS} crash.c)
+
+INCLUDE_DIRECTORIES(${CMAKE_SOURCE_DIR})
+INCLUDE_DIRECTORIES(${CMAKE_SOURCE_DIR}/src/common)
+
+SET(VENDOR "tizen")
+SET(PACKAGE "crash-popup")
+SET(EXECNAME ${PACKAGE})
+SET(PKGNAME "org.${VENDOR}.${PACKAGE}")
+SET(PREFIX "${CMAKE_INSTALL_PREFIX}/apps/${PKGNAME}")
+SET(BINDIR "${PREFIX}/bin")
+SET(RESDIR "${PREFIX}/res")
+SET(MANIFESTDIR "${CMAKE_INSTALL_PREFIX}/share/packages")
+
+INCLUDE(FindPkgConfig)
+pkg_check_modules(crash_pkgs REQUIRED
+		appcore-efl
+		elementary
+		dlog
+		deviced
+		utilX
+		evas
+		ecore
+		ecore-x
+		vconf
+		syspopup
+		syspopup-caller
+		feedback
+		efl-extension
+		pkgmgr-info
+)
+
+FOREACH(flag ${crash_pkgs_CFLAGS})
+	SET(EXTRA_CFLAGS "${EXTRA_CFLAGS} ${flag}")
+ENDFOREACH(flag)
+
+SET(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} ${EXTRA_CFLAGS} -O2 -g -Wall -fpie")
+SET(CMAKE_C_FLAGS_DEBUG "-O0 -g -fpie")
+SET(CMAKE_C_FLAGS_RELEASE "-O2 -fpie")
+
+ADD_DEFINITIONS("-DPREFIX=\"${CMAKE_INSTALL_PREFIX}\"")
+ADD_DEFINITIONS("-DPACKAGE=\"${PACKAGE}\"")
+
+SET(CMAKE_EXE_LINKER_FLAGS "-Wl,--as-needed -pie")
+
+ADD_EXECUTABLE(${EXECNAME} ${CRASH_SRCS})
+TARGET_LINK_LIBRARIES(${EXECNAME} ${crash_pkgs_LDFLAGS})
+
+INSTALL(TARGETS ${EXECNAME} DESTINATION ${BINDIR})
+INSTALL(FILES ${CMAKE_SOURCE_DIR}/src/crash/${PKGNAME}.xml DESTINATION ${MANIFESTDIR})
+INSTALL(FILES ${CMAKE_SOURCE_DIR}/src/crash/${PKGNAME}.efl DESTINATION /etc/smack/accesses.d)
+INSTALL(FILES ${CMAKE_SOURCE_DIR}/LICENSE.Apache_v2 DESTINATION ${LICENSEDIR} RENAME ${PKGNAME})

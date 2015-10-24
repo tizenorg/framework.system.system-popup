@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns="http://tizen.org/ns/packages" package="org.tizen.system-signal-sender" version="0.1.7" install-location="internal-only">
-	<label>System signal sender</label>
-	<author email="giyeol.ok@samsung.com" href="www.samsung.com">Giyeol Ok</author>
-	<description>System signal sender application</description>
-	<ui-application appid="org.tizen.system-signal-sender" exec="/usr/apps/org.tizen.system-signal-sender/bin/system-signal-sender" nodisplay="true" multiple="false" type="capp" taskmanage="false">
-		<label>System signal sender</label>
-	</ui-application>
-</manifest>

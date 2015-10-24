@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns="http://tizen.org/ns/packages" package="org.tizen.system-syspopup" version="0.1.7" install-location="internal-only" support-mode="screen-reader">
-	<label>System popup</label>
-	<author email="giyeol.ok@samsung.com" href="www.samsung.com">Giyeol Ok</author>
-	<description>System FW system popup application</description>
-	<ui-application appid="org.tizen.system-syspopup" exec="/usr/apps/org.tizen.system-syspopup/bin/system-syspopup" nodisplay="true" multiple="false" type="capp" taskmanage="false">
-		<label>System popup</label>
-	</ui-application>
-</manifest>

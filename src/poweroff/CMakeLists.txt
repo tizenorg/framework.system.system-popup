@@ -1,0 +1,58 @@
+#################### Poweroff #########################
+CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
+
+IF(POWEROFF_POPUP STREQUAL off)
+	RETURN()
+ENDIF(POWEROFF_POPUP STREQUAL off)
+
+SET(POWEROFF_SRCS ${COMMON_SRCS} poweroff.c)
+
+INCLUDE_DIRECTORIES(${CMAKE_SOURCE_DIR})
+INCLUDE_DIRECTORIES(${CMAKE_SOURCE_DIR}/src/common)
+
+SET(VENDOR "tizen")
+SET(PACKAGE "poweroff-syspopup")
+SET(EXECNAME "poweroff-popup")
+SET(PKGNAME "org.${VENDOR}.${PACKAGE}")
+SET(PREFIX "${CMAKE_INSTALL_PREFIX}/apps/${PKGNAME}")
+SET(BINDIR "${PREFIX}/bin")
+SET(RESDIR "${PREFIX}/res")
+SET(MANIFESTDIR "${CMAKE_INSTALL_PREFIX}/share/packages")
+
+INCLUDE(FindPkgConfig)
+pkg_check_modules(poweroff_pkgs REQUIRED
+		appcore-efl
+		elementary
+		dlog
+		deviced
+		utilX
+		evas
+		ecore
+		ecore-x
+		vconf
+		syspopup
+		syspopup-caller
+		feedback
+		efl-extension
+)
+
+FOREACH(flag ${poweroff_pkgs_CFLAGS})
+	SET(EXTRA_CFLAGS "${EXTRA_CFLAGS} ${flag}")
+ENDFOREACH(flag)
+
+SET(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} ${EXTRA_CFLAGS} -O2 -g -Wall -fpie")
+SET(CMAKE_C_FLAGS_DEBUG "-O0 -g -fpie")
+SET(CMAKE_C_FLAGS_RELEASE "-O2 -fpie")
+
+ADD_DEFINITIONS("-DPREFIX=\"${CMAKE_INSTALL_PREFIX}\"")
+ADD_DEFINITIONS("-DPACKAGE=\"${PACKAGE}\"")
+
+SET(CMAKE_EXE_LINKER_FLAGS "-Wl,--as-needed -pie")
+
+ADD_EXECUTABLE(${EXECNAME} ${POWEROFF_SRCS})
+TARGET_LINK_LIBRARIES(${EXECNAME} ${poweroff_pkgs_LDFLAGS})
+
+INSTALL(TARGETS ${EXECNAME} DESTINATION ${BINDIR})
+INSTALL(FILES ${CMAKE_SOURCE_DIR}/src/poweroff/${PKGNAME}.xml DESTINATION ${MANIFESTDIR})
+INSTALL(FILES ${CMAKE_SOURCE_DIR}/src/poweroff/${PKGNAME}.efl DESTINATION /etc/smack/accesses.d)
+INSTALL(FILES ${CMAKE_SOURCE_DIR}/LICENSE.Apache_v2 DESTINATION ${LICENSEDIR} RENAME ${PKGNAME})

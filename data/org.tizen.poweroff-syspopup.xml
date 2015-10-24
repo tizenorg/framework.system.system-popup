@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns="http://tizen.org/ns/packages" package="org.tizen.poweroff-syspopup" version="0.1.7" install-location="internal-only">
-	<label>Power off system popup</label>
-	<author email="giyeol.ok@samsung.com" href="www.samsung.com">Giyeol Ok</author>
-	<description>System popup application (power off system popup)</description>
-	<ui-application appid="org.tizen.poweroff-syspopup" exec="/usr/apps/org.tizen.poweroff-syspopup/bin/poweroff-popup" nodisplay="true" multiple="false" type="capp" taskmanage="false">
-		<label>Power off system popup</label>
-	</ui-application>
-</manifest>

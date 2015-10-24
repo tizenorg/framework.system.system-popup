@@ -1,31 +1,78 @@
-#sbs-git:slp/pkgs/s/system-popup system-popup 0.1.7 c9f24c4ffe1f2306a5ad3ffef4074e6f65bff6a3
+
+%define PROFILE none
+#Main applications
+%define poweroff_popup off
+%define crash_popup off
+%define system_popup off
+%define signal_sender off
+%define system_servant off
+%define notification_service off
+%define usbhost_list_app off
+
+#sub-popups of system-popup
+%define battery_popup off
+%define cooldown_popup off
+%define datausage_popup off
+%define mmc_popup off
+%define ode_popup off
+%define recovery_popup off
+%define storage_popup off
+%define usb_popup off
+%define watchdog_popup off
+
+%if "%{?tizen_profile_name}" == "mobile"
+%define PROFILE mobile
+#Main applicaitons
+%define poweroff_popup on
+%define crash_popup on
+%define system_popup on
+%define signal_sender on
+%define system_servant on
+%define notification_service on
+%define usbhost_list_app on
+#sub-popups of system-popup
+%define battery_popup on
+%define cooldown_popup on
+%define datausage_popup on
+%define mmc_popup on
+%define storage_popup on
+%define usb_popup on
+%define watchdog_popup on
+%endif
+
+%if "%{?tizen_profile_name}" == "wearable"
+%define PROFILE wearable
+#Main applicaitons
+%define poweroff_popup on
+%define crash_popup on
+%define system_popup on
+%define system_servant on
+#sub-popups of system-popup
+%define battery_popup on
+%define cooldown_popup on
+%define storage_popup on
+%define watchdog_popup on
+%endif
+
+%if "%{?tizen_profile_name}" == "tv"
+%define PROFILE tv
+#Main applications
+%define crash_popup on
+%endif
+
 Name:       system-popup
-Summary:    system-popup application (poweroff popup,sysevent-alert)
+Summary:    system-popup application
 Version:    0.1.31
 Release:    1
-VCS:        magnolia/framework/system/system-popup#submit/master/20130425.080357-328-g0cfacbaf9ebfb672f3c4b76263635c18e19a3b67
 Group:      Framework/system
 License:    Apache-2.0
 Source0:    system-popup-%{version}.tar.gz
 Source1:    system-apps.manifest
 Source1001:    org.tizen.poweroff-syspopup.manifest
-Source1003:    org.tizen.lowmem-syspopup.manifest
-Source1005:    org.tizen.lowbat-syspopup.manifest
 Source1015:    org.tizen.crash-popup.manifest
-Source1007:    org.tizen.mmc-syspopup.manifest
-Source1008:    org.tizen.mmc-syspopup.efl
-Source1009:    org.tizen.usb-syspopup.manifest
-Source1010:    org.tizen.usb-syspopup.efl
-Source1011:    org.tizen.usbotg-syspopup.manifest
-Source1012:    org.tizen.usbotg-syspopup.efl
-Source1013:    org.tizen.datausage-syspopup.manifest
-Source1014:    org.tizen.datausage-syspopup.efl
 Source2001:    org.tizen.system-syspopup.manifest
-Source2002:    org.tizen.system-syspopup.efl
 Source2003:    org.tizen.system-signal-sender.manifest
-Source2004:    org.tizen.system-signal-sender.efl
 Source2005:    org.tizen.host-devices.manifest
-Source2006:    org.tizen.host-devices.efl
 
 BuildRequires:  pkgconfig(evas)
 BuildRequires:  pkgconfig(ecore-input)
@@ -39,7 +86,7 @@ BuildRequires:  pkgconfig(edbus)
 BuildRequires:  pkgconfig(syspopup)
 BuildRequires:  pkgconfig(syspopup-caller)
 BuildRequires:  pkgconfig(feedback)
-BuildRequires:  pkgconfig(efl-assist)
+BuildRequires:  pkgconfig(efl-extension)
 BuildRequires:  pkgconfig(capi-media-sound-manager)
 BuildRequires:  pkgconfig(capi-media-wav-player)
 BuildRequires:  pkgconfig(utilX)
@@ -48,7 +95,7 @@ BuildRequires:  pkgconfig(notification)
 BuildRequires:  pkgconfig(appsvc)
 BuildRequires:  pkgconfig(tts)
 BuildRequires:  pkgconfig(ui-gadget-1)
-BuildRequires:  model-build-features
+BuildRequires:  pkgconfig(bundle)
 BuildRequires:  cmake
 BuildRequires:  edje-bin
 BuildRequires:  gettext-devel
@@ -58,22 +105,7 @@ Requires(post): /usr/bin/vconftool
 %description
 system-popup application (poweroff popup,sysevent-alert).
 
-%package -n org.tizen.lowbat-syspopup
-Summary:    system-popup application (lowbat popup)
-Group:      main
-Requires:   %{name} = %{version}-%{release}
-
-%description -n org.tizen.lowbat-syspopup
-system-popup application (lowbat popup).
-
-%package -n org.tizen.lowmem-syspopup
-Summary:    system-popup application (lowmem popup)
-Group:      main
-Requires:   %{name} = %{version}-%{release}
-
-%description -n org.tizen.lowmem-syspopup
-system-popup application (lowmem popup).
-
+%if %{?crash_popup} == on
 %package -n org.tizen.crash-popup
 Summary:    system popup application (crash system popup)
 Group:      main
@@ -81,7 +113,41 @@ Requires:   %{name} = %{version}-%{release}
 
 %description -n org.tizen.crash-popup
 system popup application (crash system popup)
+%endif
 
+%if %{?poweroff_popup} == on
+%package -n org.tizen.poweroff-syspopup
+Summary:    poweroff-popup application
+Group:      main
+Requires:   %{name} = %{version}-%{release}
+
+%description -n org.tizen.poweroff-syspopup
+poweroff-popup application.
+%endif
+
+%if %{?signal_sender} == on
+%package -n org.tizen.system-signal-sender
+Summary:    system FW signal sender
+Group:      main
+Requires:   %{name} = %{version}-%{release}
+
+%description -n org.tizen.system-signal-sender
+system FW signal sender
+%endif
+
+%if %{?usbhost_list_app} == on
+%package -n org.tizen.host-devices
+Summary:    Show usb host device list
+Group:      main
+Requires:   %{name} = %{version}-%{release}
+
+%description -n org.tizen.host-devices
+Show usb host device list
+%endif
+
+
+
+%if %{?system_popup} == on
 %package -n org.tizen.system-syspopup
 Summary:    system popup application
 Group:      main
@@ -90,16 +156,27 @@ Requires:   %{name} = %{version}-%{release}
 %description -n org.tizen.system-syspopup
 system popup application
 
-%if "%{?tizen_profile_name}" == "mobile"
-
-%package -n org.tizen.poweroff-syspopup
-Summary:    poweroff-popup application
+%if %{?battery_popup} == on
+%package -n org.tizen.lowbat-syspopup
+Summary:    system-popup application (lowbat popup)
 Group:      main
 Requires:   %{name} = %{version}-%{release}
 
-%description -n org.tizen.poweroff-syspopup
-poweroff-popup application.
+%description -n org.tizen.lowbat-syspopup
+system-popup application (lowbat popup).
+%endif
 
+%if %{?storage_popup} == on
+%package -n org.tizen.lowmem-syspopup
+Summary:    system-popup application (lowmem popup)
+Group:      main
+Requires:   %{name} = %{version}-%{release}
+
+%description -n org.tizen.lowmem-syspopup
+system-popup application (lowmem popup).
+%endif
+
+%if %{?mmc_popup} == on
 %package -n org.tizen.mmc-syspopup
 Summary:    system-popup application (mmc  popup)
 Group:      main
@@ -107,7 +184,9 @@ Requires:   %{name} = %{version}-%{release}
 
 %description -n org.tizen.mmc-syspopup
 system-popup application (mmc  popup).
+%endif
 
+%if %{?usb_popup} == on
 %package -n org.tizen.usb-syspopup
 Summary:    system-popup application (usb popup)
 Group:      main
@@ -123,7 +202,9 @@ Requires:   %{name} = %{version}-%{release}
 
 %description -n org.tizen.usbotg-syspopup
 system-popup application (usb otg popup).
+%endif
 
+%if %{?datausage_popup} == on
 %package -n org.tizen.datausage-syspopup
 Summary:    system popup application (data usage popup)
 Group:      main
@@ -131,24 +212,9 @@ Requires:   %{name} = %{version}-%{release}
 
 %description -n org.tizen.datausage-syspopup
 system popup application (data usage popup)
-
-%package -n org.tizen.system-signal-sender
-Summary:    system FW signal sender
-Group:      main
-Requires:   %{name} = %{version}-%{release}
-
-%description -n org.tizen.system-signal-sender
-system FW signal sender
-
-%package -n org.tizen.host-devices
-Summary:    Show usb host device list
-Group:      main
-Requires:   %{name} = %{version}-%{release}
-
-%description -n org.tizen.host-devices
-Show usb host device list
-
 %endif
+
+%endif # system_popup
 
 %prep
 %setup -q
@@ -161,57 +227,46 @@ Show usb host device list
 
 %build
 
-%if 0%{?tizen_build_binary_release_type_eng}
-export CFLAGS+=" -DTIZEN_ENGINEER_MODE"
-%endif
-
-%if "%{?tizen_profile_name}" == "wearable"
-export CFLAGS+=" -DSYSTEM_APPS_MICRO"
-export CFLAGS+=" -DSYSTEM_APPS_MICRO_3"
-%endif
-
-%if "%{?tizen_profile_name}" == "mobile"
-export CFLAGS+=" -DSYSTEM_APPS_LITE"
-%endif
-
-%if "%{?model_build_feature_formfactor}" == "rectangle"
-export CFLAGS+=" -DSYSTEM_APPS_RECTANGLE"
-%endif
-
-%if "%{?model_build_feature_formfactor}" == "circle"
-export CFLAGS+=" -DSYSTEM_APPS_CIRCLE"
-%endif
-
-
 cp %{SOURCE1} .
-cp %{SOURCE1003} .
-cp %{SOURCE1005} .
-cp %{SOURCE1015} .
-cp %{SOURCE2001} .
 
-
-%if "%{?tizen_profile_name}" == "wearable"
-cmake . -DCMAKE_INSTALL_PREFIX=%{_prefix} -DSYSTEM_APPS_MICRO=yes -DSIMULATOR=%{simulator_state}
-%endif
-
-%if "%{?tizen_profile_name}" == "mobile"
+%if %{poweroff_popup} == on
 cp %{SOURCE1001} .
-cp %{SOURCE1007} .
-cp %{SOURCE1008} .
-cp %{SOURCE1009} .
-cp %{SOURCE1010} .
-cp %{SOURCE1011} .
-cp %{SOURCE1012} .
-cp %{SOURCE1013} .
-cp %{SOURCE1014} .
-cp %{SOURCE2002} .
-cp %{SOURCE2003} .
-cp %{SOURCE2004} .
-cp %{SOURCE2005} .
-cp %{SOURCE2006} .
-
-cmake . -DCMAKE_INSTALL_PREFIX=%{_prefix} -DSYSTEM_APPS_MICRO=no  -DSIMULATOR=%{simulator_state}
 %endif
+
+%if %{crash_popup} == on
+cp %{SOURCE1015} .
+%endif
+
+%if %{system_popup} == on
+cp %{SOURCE2001} .
+%endif
+
+%if %{signal_sender} == on
+cp %{SOURCE2003} .
+%endif
+
+%if %{usbhost_list_app} == on
+cp %{SOURCE2005} .
+%endif
+
+cmake . -DCMAKE_INSTALL_PREFIX=%{_prefix} -DSIMULATOR=%{simulator_state} \
+		-DPROFILE=%{PROFILE} \
+		-DPOWEROFF_POPUP=%{poweroff_popup} \
+		-DCRASH_POPUP=%{crash_popup} \
+		-DSYSTEM_POPUP=%{system_popup} \
+		-DSIGNAL_SENDER=%{signal_sender} \
+		-DSYSTEM_SERVANT=%{system_servant} \
+		-DNOTIFICATION_SERVICE=%{notification_service} \
+		-DUSBHOST_LIST_APP=%{usbhost_list_app} \
+		-DBATTERY_POPUP=%{battery_popup} \
+		-DCOOLDOWN_POPUP=%{cooldown_popup} \
+		-DDATAUSAGE_POPUP=%{datausage_popup} \
+		-DMMC_POPUP=%{mmc_popup} \
+		-DODE_POPUP=%{ode_popup} \
+		-DRECOVERY_POPUP=%{recovery_popup} \
+		-DSTORAGE_POPUP=%{storage_popup} \
+		-DUSB_POPUP=%{usb_popup} \
+		-DWATCHDOG_POPUP=%{watchdog_popup}
 
 make %{?jobs:-j%jobs}
 
@@ -219,20 +274,19 @@ make %{?jobs:-j%jobs}
 rm -rf %{buildroot}
 %make_install
 
-
 mkdir -p %{buildroot}/usr/share/license
-
-%if "%{?tizen_profile_name}" == "wearable"
-%post
-vconftool set -t bool db/private/mobiledata/on_popup/check 0 -u 5000 -s system::vconf_system
-vconftool set -t bool db/private/mobiledata/off_popup/check 0 -u 5000 -s system::vconf_system
-%endif
 
 
 %files
 %manifest system-apps.manifest
-%defattr(-,root,root,-)
-%if "%{?tizen_profile_name}" == "mobile"
+%defattr(-,system,system,-)
+%{_datadir}/locale/*/LC_MESSAGES/*.mo
+%{_bindir}/popup-launcher
+%{_datadir}/license/system-popup
+/usr/share/dbus-1/system-services/org.tizen.system.popup.service
+/etc/smack/accesses.d/system-apps.efl
+
+%if %{notification_service} == on
 %{_datadir}/system-apps/res/icons/batt_full_icon.png
 %{_datadir}/system-apps/res/icons/batt_full_indicator.png
 /usr/share/system-apps/res/icons/datausage_warning.png
@@ -243,42 +297,13 @@ vconftool set -t bool db/private/mobiledata/off_popup/check 0 -u 5000 -s system:
 /usr/share/system-apps/res/icons/sdcard_decryption_error.png
 /usr/share/system-apps/res/icons/tima.png
 /usr/share/system-apps/res/icons/usb.png
-%{_bindir}/systemfw-app-test
 %endif
-%{_bindir}/sys_device_noti
-%{_datadir}/locale/*/LC_MESSAGES/*.mo
-%{_bindir}/popup-launcher
+
+%if %{system_servant} == on
 %{_bindir}/system-servant
-%{_datadir}/license/system-popup
-/usr/share/dbus-1/services/org.tizen.system.popup.service
-/etc/smack/accesses.d/system-apps.efl
-
-%files -n org.tizen.lowbat-syspopup
-%manifest org.tizen.lowbat-syspopup.manifest
-%defattr(-,root,root,-)
-/usr/apps/org.tizen.lowbat-syspopup/bin/lowbatt-popup
-/usr/share/packages/org.tizen.lowbat-syspopup.xml
-/usr/share/license/org.tizen.lowbatt-syspopup
-/etc/smack/accesses.d/org.tizen.lowbat-syspopup.efl
-/usr/apps/org.tizen.lowbat-syspopup/res/edje/lowbatt/lowbatt.edj
-%if "%{?tizen_profile_name}" == "wearable"
-/usr/apps/org.tizen.lowbat-syspopup/res/table/system-color.xml
-/usr/apps/org.tizen.lowbat-syspopup/res/table/system-font.xml
 %endif
 
-%files -n org.tizen.lowmem-syspopup
-%manifest org.tizen.lowmem-syspopup.manifest
-%defattr(-,root,root,-)
-/usr/apps/org.tizen.lowmem-syspopup/bin/lowmem-popup
-/usr/share/packages/org.tizen.lowmem-syspopup.xml
-/usr/share/license/org.tizen.lowmem-syspopup
-/etc/smack/accesses.d/org.tizen.lowmem-syspopup.efl
-/usr/apps/org.tizen.lowmem-syspopup/res/edje/lowmem/lowmem.edj
-%if "%{?tizen_profile_name}" == "wearable"
-/usr/apps/org.tizen.lowmem-syspopup/res/table/system-color.xml
-/usr/apps/org.tizen.lowmem-syspopup/res/table/system-font.xml
-%endif
-
+%if %{crash_popup} == on
 %files -n org.tizen.crash-popup
 %manifest org.tizen.crash-popup.manifest
 %defattr(-,root,root,-)
@@ -286,26 +311,37 @@ vconftool set -t bool db/private/mobiledata/off_popup/check 0 -u 5000 -s system:
 /usr/share/packages/org.tizen.crash-popup.xml
 /usr/share/license/org.tizen.crash-popup
 /etc/smack/accesses.d/org.tizen.crash-popup.efl
-%if "%{?tizen_profile_name}" == "wearable"
-/usr/apps/org.tizen.crash-popup/res/table/system-color.xml
-/usr/apps/org.tizen.crash-popup/res/table/system-font.xml
 %endif
-/usr/apps/org.tizen.crash-popup/res/edje/crash/crash.edj
 
+%if %{system_popup} == on
 %files -n org.tizen.system-syspopup
 %manifest org.tizen.system-syspopup.manifest
 %defattr(-,root,root,-)
 /usr/apps/org.tizen.system-syspopup/bin/system-syspopup
-/usr/apps/org.tizen.system-syspopup/res/edje/system/system.edj
 /usr/share/packages/org.tizen.system-syspopup.xml
 /usr/share/license/org.tizen.system-syspopup
 /etc/smack/accesses.d/org.tizen.system-syspopup.efl
-%if "%{?tizen_profile_name}" == "wearable"
-/usr/apps/org.tizen.system-syspopup/res/table/system-color.xml
-/usr/apps/org.tizen.system-syspopup/res/table/system-font.xml
+
+%if %{battery_popup} == on
+%files -n org.tizen.lowbat-syspopup
+%endif
+%if %{storage_popup} == on
+%files -n org.tizen.lowmem-syspopup
+%endif
+%if %{mmc_popup} == on
+%files -n org.tizen.mmc-syspopup
+%endif
+%if %{usb_popup} == on
+%files -n org.tizen.usb-syspopup
+%files -n org.tizen.usbotg-syspopup
+%endif
+%if %{datausage_popup} == on
+%files -n org.tizen.datausage-syspopup
 %endif
 
-%if "%{?tizen_profile_name}" == "mobile"
+%endif # system_popup
+
+%if %{poweroff_popup} == on
 %files -n org.tizen.poweroff-syspopup
 %manifest org.tizen.poweroff-syspopup.manifest
 %defattr(-,root,root,-)
@@ -313,41 +349,9 @@ vconftool set -t bool db/private/mobiledata/off_popup/check 0 -u 5000 -s system:
 /usr/share/packages/org.tizen.poweroff-syspopup.xml
 /usr/share/license/org.tizen.poweroff-syspopup
 /etc/smack/accesses.d/org.tizen.poweroff-syspopup.efl
+%endif
 
-%files -n org.tizen.mmc-syspopup
-%manifest org.tizen.mmc-syspopup.manifest
-%defattr(-,root,root,-)
-/usr/apps/org.tizen.mmc-syspopup/bin/mmc-popup
-/usr/share/packages/org.tizen.mmc-syspopup.xml
-/usr/share/license/org.tizen.mmc-syspopup
-/etc/smack/accesses.d/org.tizen.mmc-syspopup.efl
-
-%files -n org.tizen.usb-syspopup
-%manifest org.tizen.usb-syspopup.manifest
-%defattr(-,root,root,-)
-/usr/apps/org.tizen.usb-syspopup/bin/usb-syspopup
-/usr/share/packages/org.tizen.usb-syspopup.xml
-/usr/share/license/org.tizen.usb-syspopup
-/usr/apps/org.tizen.usb-syspopup/res/icons/usb_icon.png
-/etc/smack/accesses.d/org.tizen.usb-syspopup.efl
-
-%files -n org.tizen.usbotg-syspopup
-%manifest org.tizen.usbotg-syspopup.manifest
-%defattr(-,root,root,-)
-/usr/apps/org.tizen.usbotg-syspopup/bin/usbotg-syspopup
-/usr/share/packages/org.tizen.usbotg-syspopup.xml
-/usr/share/license/org.tizen.usbotg-syspopup
-/usr/apps/org.tizen.usbotg-syspopup/res/icons/usb_icon.png
-/etc/smack/accesses.d/org.tizen.usbotg-syspopup.efl
-
-%files -n org.tizen.datausage-syspopup
-%manifest org.tizen.datausage-syspopup.manifest
-%defattr(-,root,root,-)
-/usr/apps/org.tizen.datausage-syspopup/bin/datausage-popup
-/usr/share/packages/org.tizen.datausage-syspopup.xml
-/usr/share/license/org.tizen.datausage-syspopup
-/etc/smack/accesses.d/org.tizen.datausage-syspopup.efl
-
+%if %{signal_sender} == on
 %files -n org.tizen.system-signal-sender
 %manifest org.tizen.system-signal-sender.manifest
 %defattr(-,root,root,-)
@@ -355,7 +359,9 @@ vconftool set -t bool db/private/mobiledata/off_popup/check 0 -u 5000 -s system:
 /usr/share/packages/org.tizen.system-signal-sender.xml
 /usr/share/license/org.tizen.system-signal-sender
 /etc/smack/accesses.d/org.tizen.system-signal-sender.efl
+%endif
 
+%if %{usbhost_list_app} == on
 %files -n org.tizen.host-devices
 %manifest org.tizen.host-devices.manifest
 %defattr(-,root,root,-)
@@ -364,5 +370,4 @@ vconftool set -t bool db/private/mobiledata/off_popup/check 0 -u 5000 -s system:
 /usr/share/packages/org.tizen.host-devices.xml
 /usr/share/license/org.tizen.host-devices
 /etc/smack/accesses.d/org.tizen.host-devices.efl
-
 %endif

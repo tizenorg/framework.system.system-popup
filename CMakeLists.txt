@@ -5,60 +5,41 @@ PROJECT(system-popup C)
 SET(PREFIX ${CMAKE_INSTALL_PREFIX})
 SET(SYSTEM_RESDIR "${PREFIX}/share/system-apps/res")
 SET(SYSTEM_ICONDIR "${SYSTEM_RESDIR}/icons")
+SET(LICENSEDIR "${PREFIX}/share/license")
 
 SET(LOCALE_DIR "/usr/share/locale")
 SET(LANG_DOMAIN "system-apps")
 
+IF(PROFILE STREQUAL mobile)
+	OPTION(PROFILE_MOBILE "Mobile device" ON)
+ENDIF()
+IF(PROFILE STREQUAL wearable)
+	OPTION(PROFILE_WEARABLE "Wearable device" ON)
+ENDIF()
+IF(PROFILE STREQUAL tv)
+	OPTION(PROFILE_TV "TV device" ON)
+ENDIF()
+
 ADD_DEFINITIONS("-DLOCALE_DIR=\"${LOCALE_DIR}\"")
 ADD_DEFINITIONS("-DLANG_DOMAIN=\"${LANG_DOMAIN}\"")
 ADD_DEFINITIONS("-DSYSTEM_ICONDIR=\"${SYSTEM_ICONDIR}\"")
-IF(${SYSTEM_APPS_MICRO} STREQUAL "yes")
-ADD_DEFINITIONS("-DTIZEN_MICRO")
-ENDIF()
+ADD_DEFINITIONS("-DPROFILE=\"${PROFILE}\"")
 
-IF("$ENV{CFLAGS}" MATCHES "-DSYSTEM_APPS_CIRCLE")
-	ADD_DEFINITIONS("-DSYSTEM_APPS_CIRCLE")
-ENDIF()
+SET(COMMON_SRCS
+		${CMAKE_SOURCE_DIR}/src/common/core.c
+		${CMAKE_SOURCE_DIR}/src/common/popup-common.c
+		${CMAKE_SOURCE_DIR}/src/common/popup-ui.c
+		${CMAKE_SOURCE_DIR}/src/common/popup-ui-normal.c
+)
 
 # SUbmodules
-IF(${SYSTEM_APPS_MICRO} STREQUAL "yes")
 ADD_SUBDIRECTORY(src)
-ELSE()
-ADD_SUBDIRECTORY(usbhost-devices)
-ADD_SUBDIRECTORY(mmc-popup)
-ADD_SUBDIRECTORY(usb-popup)
-ADD_SUBDIRECTORY(usbotg-popup)
-ADD_SUBDIRECTORY(datausage-popup)
-ADD_SUBDIRECTORY(system-popup)
-ADD_SUBDIRECTORY(poweroff-popup)
-ADD_SUBDIRECTORY(signal-sender)
-ADD_SUBDIRECTORY(test)
-ENDIF()
-
-ADD_SUBDIRECTORY(lowbatt-popup)
-ADD_SUBDIRECTORY(lowmem-popup)
-ADD_SUBDIRECTORY(crash-popup)
-ADD_SUBDIRECTORY(popup-launcher)
+ADD_SUBDIRECTORY(src/poweroff)
+ADD_SUBDIRECTORY(src/crash)
+ADD_SUBDIRECTORY(src/usbhost-devices)
+ADD_SUBDIRECTORY(src/launcher)
 ADD_SUBDIRECTORY(po)
-ADD_SUBDIRECTORY(sys-device-noti)
 ADD_SUBDIRECTORY(system-servant)
-
-
-IF(${SYSTEM_APPS_MICRO} STREQUAL "yes")
-ELSE()
-INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/LICENSE DESTINATION /usr/share/license RENAME org.tizen.mmc-syspopup)
-INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/LICENSE DESTINATION /usr/share/license RENAME org.tizen.usb-syspopup)
-INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/LICENSE DESTINATION /usr/share/license RENAME org.tizen.usbotg-syspopup)
-INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/LICENSE DESTINATION /usr/share/license RENAME org.tizen.datausage-syspopup)
-INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/LICENSE DESTINATION /usr/share/license RENAME org.tizen.poweroff-syspopup)
-INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/LICENSE DESTINATION /usr/share/license RENAME org.tizen.host-devices)
-INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/LICENSE DESTINATION /usr/share/license RENAME org.tizen.system-signal-sender)
-ENDIF()
-
-INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/LICENSE DESTINATION /usr/share/license RENAME system-popup)
-INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/LICENSE DESTINATION /usr/share/license RENAME org.tizen.lowbatt-syspopup)
-INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/LICENSE DESTINATION /usr/share/license RENAME org.tizen.lowmem-syspopup)
-INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/LICENSE DESTINATION /usr/share/license RENAME org.tizen.crash-popup)
-INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/LICENSE DESTINATION /usr/share/license RENAME org.tizen.system-syspopup)
+ADD_SUBDIRECTORY(signal-sender)
 
 ############## END ##############

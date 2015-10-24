@@ -53,7 +53,6 @@ void play_feedback(int type, int pattern)
 	}
 
 	switch (type) {
-	case FEEDBACK_TYPE_LED:
 	case FEEDBACK_TYPE_SOUND:
 	case FEEDBACK_TYPE_VIBRATION:
 		ret = feedback_play_type(type, pattern);
@@ -221,7 +220,7 @@ out:
 	return ret;
 }
 
-int dbus_method_sync(const char *dest, const char *path,
+int popup_dbus_method_sync(const char *dest, const char *path,
 		const char *interface, const char *method,
 		const char *sig, char *param[])
 {
@@ -280,5 +279,50 @@ out:
 	if (conn)
 		dbus_connection_unref(conn);
 	return ret;
+}
+
+void unregister_dbus_signal_handler(E_DBus_Signal_Handler *handler)
+{
+	E_DBus_Connection *conn;
+
+	if (!handler)
+		return;
+
+	conn = get_dbus_connection();
+	if (!conn) {
+		_E("Failed to get dbus connection");
+		return;
+	}
+
+	e_dbus_signal_handler_del(conn, handler);
+}
+
+int register_dbus_signal_handler(
+		E_DBus_Signal_Handler **handler,
+		const char *path,
+		const char *iface,
+		const char *name,
+		void (*signal_cb)(void *data, DBusMessage *msg),
+		void *data)
+{
+	E_DBus_Connection *conn;
+	E_DBus_Signal_Handler *h;
+
+	if (!handler || !path || !iface || !name || !signal_cb)
+		return -EINVAL;
+
+	conn = get_dbus_connection();
+	if (!conn) {
+		_E("Failed to get dbus connection");
+		return -ENOMEM;
+	}
+
+	h = e_dbus_signal_handler_add(conn, NULL, path, iface, name, signal_cb, data);
+	if (!h)
+		return -ECONNREFUSED;
+
+	*handler = h;
+
+	return 0;
 }
 

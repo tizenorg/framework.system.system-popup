@@ -34,7 +34,9 @@
 #include <syspopup_caller.h>
 #include <feedback.h>
 #include <E_DBus.h>
-#include <efl_assist.h>
+#include <efl_extension.h>
+#include <bundle.h>
+#include <bundle_internal.h>
 
 enum win_priority {
 	WIN_PRIORITY_LOW    = UTILX_NOTIFICATION_LEVEL_LOW,

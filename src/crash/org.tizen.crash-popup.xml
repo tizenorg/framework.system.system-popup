@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.4" package="org.tizen.crash-popup" version="0.1.7" install-location="internal-only" support-mode="screen-reader">
+	<label>Crash popup</label>
+	<author email="giyeol.ok@samsung.com" href="www.samsung.com">Giyeol Ok</author>
+	<description>Crash popup application (crash popup)</description>
+	<ui-application appid="org.tizen.crash-popup" exec="/usr/apps/org.tizen.crash-popup/bin/crash-popup" nodisplay="true" multiple="false" type="capp" taskmanage="false">
+		<label>Crash popup</label>
+	</ui-application>
+</manifest>

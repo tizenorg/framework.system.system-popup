@@ -102,10 +102,8 @@ static const struct popup_ops watchdog_ops = {
 	.title			= "IDS_CLD_HEADER_NO_RESPONSE",
 	.get_content	= watchdog_get_content,
 	.left_text		= "IDS_CST_OPT_WAIT",
-	.left_icon		= "circle-cancel.png",
 	.left			= watchdog_wait,
 	.right_text		= "IDS_COM_SK_OK",
-	.right_icon		= "circle-ok.png",
 	.right			= watchdog_ok,
 	.flags			= SCROLLABLE,
 };

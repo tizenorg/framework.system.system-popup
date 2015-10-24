@@ -313,6 +313,9 @@ msgstr "Díchriptigh an cárta SD"
 msgid "IDS_ST_BUTTON_ENABLE_ABB"
 msgstr "Cumasaigh"
 
+msgid "IDS_TPLATFORM_BODY_POWER_OFF_THE_DEVICE_Q"
+msgstr "Cas cumhacht an gléis as?"
+
 msgid "IDS_SIM_POP_DISABLE_FLIGHT_MODE_Q"
 msgstr "Díchumasaigh mód Eitilte?"
 
@@ -345,6 +348,9 @@ msgstr "Díchumasaigh Mód éigeandála"
 
 msgid "IDS_CST_OPT_WAIT"
 msgstr "Fan"
+
+msgid "IDS_PH_HEADER_ERROR_ABB"
+msgstr "Earráid"
 
 msgid "IDS_ST_BODY_USB_STORAGE_ABB"
 msgstr "Stóras USB"

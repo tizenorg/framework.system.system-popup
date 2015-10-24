@@ -23,13 +23,9 @@
 
 #include "popup-common.h"
 
-#define EDJ_PATH "/usr/apps/org.tizen.system-syspopup/res/edje/system"
-#define EDJ_NAME EDJ_PATH"/system.edj"
-
 void left_clicked(void *data, Evas_Object * obj, void *event_info);
 void right_clicked(void *data, Evas_Object * obj, void *event_info);
 
-int load_checkbox_popup(const struct popup_ops *ops);
 int load_normal_popup(const struct popup_ops *ops);
 
 #endif /* __POPU_UI_H__ */

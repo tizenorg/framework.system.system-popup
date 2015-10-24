@@ -19,9 +19,6 @@
 
 #include "popup-ui.h"
 
-#define TABLE_COLOR "system-color.xml"
-#define TABLE_FONT  "system-font.xml"
-
 static Evas_Object *window = NULL;
 
 /* Common */
@@ -58,8 +55,6 @@ int create_window(const char *name)
 {
 	Evas_Object *eo;
 	int w, h, len;
-	Ea_Theme_Color_Table *color;
-	Ea_Theme_Font_Table *font;
 
 	if (!name)
 		return -EINVAL;
@@ -78,20 +73,6 @@ int create_window(const char *name)
 	ecore_x_window_size_get(ecore_x_window_root_first_get(), &w, &h);
 	len = max(w,h);
 	evas_object_resize(eo, len, len);
-
-	ea_theme_changeable_ui_enabled_set(EINA_TRUE);
-
-	color = ea_theme_color_table_new(TABLE_COLOR);
-	if (color) {
-		ea_theme_colors_set(color, EA_THEME_STYLE_DEFAULT);
-		ea_theme_color_table_free(color);
-	}
-
-	font = ea_theme_font_table_new(TABLE_FONT);
-	if (font) {
-		ea_theme_fonts_set(font);
-		ea_theme_font_table_free(font);
-	}
 
 	window = eo;
 
@@ -197,10 +178,8 @@ void unload_simple_popup(const struct popup_ops *ops)
 	int ret;
 
 	ret = get_object_by_ops(ops, &obj);
-	if (ret < 0) {
-		_E("Failed to get object (%d)", ret);
+	if (ret < 0)
 		return;
-	}
 
 	release_evas_object(&(obj->popup));
 }
@@ -222,9 +201,5 @@ int load_simple_popup(bundle *b, const struct popup_ops *ops)
 	}
 	obj->b = bundle_dup(b);
 
-	if (ops->flags & CHECK_BOX)
-		return load_checkbox_popup(ops);
-
-	else
-		return load_normal_popup(ops);
+	return load_normal_popup(ops);
 }

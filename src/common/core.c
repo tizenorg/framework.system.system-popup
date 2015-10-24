@@ -100,6 +100,9 @@ static int load_popup_by_type(bundle *b)
 		if (strncmp (type, obj->ops->name, strlen(type)))
 			continue;
 
+		if (obj->ops->change_popup)
+			obj->ops->change_popup(obj->ops);
+
 		if (obj->ops->skip && obj->ops->skip(obj->ops)) {
 			terminate_if_no_popup();
 			return 0;
@@ -174,7 +177,19 @@ static int app_terminate(void *data)
 
 static int app_pause(void *data)
 {
-	popup_terminate();
+	GList *l;
+	struct object_ops *obj;
+
+	for (l = popup_list ; l ; l = g_list_next(l)) {
+		obj = (struct object_ops *)(l->data);
+		if (obj && obj->ops) {
+			if (obj->ops->term_pause == NULL
+					|| obj->ops->term_pause(obj->ops)) {
+				unload_simple_popup(obj->ops);
+			}
+		}
+	}
+	terminate_if_no_popup();
 	return 0;
 }
 

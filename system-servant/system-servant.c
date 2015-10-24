@@ -250,8 +250,8 @@ static bool get_call_state(void)
 static bool get_voice_recording_state(void)
 {
 	int state;
-	if (vconf_get_int(VCONFKEY_SOUND_STATUS, &state) == 0
-			&& (state & VCONFKEY_SOUND_STATUS_AVRECORDING))
+	if (vconf_get_int(VCONFKEY_RECORDER_STATE, &state) == 0
+			&& (state == VCONFKEY_RECORDER_STATE_RECORDING))
 		return true;
 	return false;
 }

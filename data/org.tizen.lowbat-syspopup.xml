@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns="http://tizen.org/ns/packages" package="org.tizen.lowbat-syspopup" version="0.1.7" install-location="internal-only" support-mode="screen-reader">
-	<label>Low battery system popup</label>
-	<author email="giyeol.ok@samsung.com" href="www.samsung.com">Giyeol Ok</author>
-	<description>System popup application (low battery system popup)</description>
-	<ui-application appid="org.tizen.lowbat-syspopup" exec="/usr/apps/org.tizen.lowbat-syspopup/bin/lowbatt-popup" nodisplay="true" multiple="false" type="capp" taskmanage="false">
-		<label>Low battery system popup</label>
-	</ui-application>
-</manifest>

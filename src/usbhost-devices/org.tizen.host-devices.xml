@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.4" package="org.tizen.host-devices" version="0.0.1" install-location="internal-only">
+	<label>USB host device list application</label>
+	<author email="ty317.kim@samsung.com" href="www.samsung.com">Taeyoung Kim</author>
+	<description>USB host device list Application</description>
+	<ui-application appid="org.tizen.host-devices" exec="/usr/apps/org.tizen.host-devices/bin/org.tizen.host-devices" nodisplay="true" multiple="false" type="capp" taskmanage="false">
+		<label>USB host device list Application</label>
+	</ui-application>
+</manifest>

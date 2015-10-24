@@ -15,8 +15,19 @@
  * limitations under the License.
  */
 
-#include "common.h"
-#include "launcher.h"
+#include <dlog.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+#include <errno.h>
+#include <bundle_internal.h>
+#include <aul.h>
+#include <appcore-efl.h>
+#include <Ecore.h>
+#include <Elementary.h>
+#include <syspopup_caller.h>
+#include <dbus/dbus.h>
+#include "macro.h"
 
 #define DBUS_REPLY_TIMEOUT  (120 * 1000)
 #define BUF_MAX 256
@@ -24,12 +35,31 @@
 #define MMC_ENCRYPTION_UG  "setting-mmc-encryption-efl"
 #define SECURITY_UG        "setting-security-efl"
 
+enum ode_error_type {
+	NOT_ENOUGH_SPACE,
+	OPERATION_FAILED,
+	ODE_ERROR_MAX,
+};
+
 static bool (*is_storage_encryption_restricted)(void) = NULL;
 
 void register_storage_encryption_restricted_function(bool (*func)(void))
 {
 	if (func)
 		is_storage_encryption_restricted = func;
+}
+
+static Eina_Bool exit_idler_cb(void *data)
+{
+	elm_exit();
+	return ECORE_CALLBACK_CANCEL;
+}
+
+static void sender_terminate(void)
+{
+	if (ecore_idler_add(exit_idler_cb, NULL))
+		return;
+	exit_idler_cb(NULL);
 }
 
 static int append_variant(DBusMessageIter *iter, const char *sig, char *param[])
@@ -152,12 +182,12 @@ static int send_usbstorage_unmount_popup_signal(char *path)
 	snprintf(buf, sizeof(buf), "%s", path);
 
 	param[0] = "_SYSPOPUP_CONTENT_";
-	param[1] = "storage_unmount";
+	param[1] = "usbotg_unmount_storage";
 	param[2] = "_DEVICE_PATH_";
 	param[3] = buf;
 
-	return request_to_launch_by_dbus(BUS_NAME, POPUP_PATH_USBOTG, POPUP_IFACE_USBOTG,
-			"StorageUnmountPopupLaunch", "ssss", param);
+	return request_to_launch_by_dbus(BUS_NAME, POPUP_PATH_SYSTEM, POPUP_IFACE_SYSTEM,
+			"PopupLaunchDouble", "ssss", param);
 }
 
 static int get_err_and_space(bundle *b, char *type,
@@ -219,7 +249,7 @@ static int send_ode_error_popup_signal(bundle *b, char *type)
 	param[5] = space;
 
 	return request_to_launch_by_dbus(BUS_NAME, POPUP_PATH_SYSTEM, POPUP_IFACE_SYSTEM,
-			"OdeErrorPopupLaunch", "ssssss", param);
+			"PopupLaunchTriple", "ssssss", param);
 }
 
 static int load_ode_setting_ug(void)
@@ -325,13 +355,12 @@ static int app_reset(bundle *b, void *data)
 	ret = -EINVAL;
 
 out:
-	popup_terminate();
+	sender_terminate();
 	return ret;
 }
 
 int main(int argc, char *argv[])
 {
-	struct appdata ad;
 	struct appcore_ops ops = {
 		.create = app_create,
 		.terminate = app_terminate,
@@ -339,10 +368,6 @@ int main(int argc, char *argv[])
 		.resume = app_resume,
 		.reset = app_reset,
 	};
-
-	memset(&ad, 0x0, sizeof(struct appdata));
-
-	ops.data = &ad;
 
 	return appcore_efl_main(PACKAGE, &argc, &argv, &ops);
 }

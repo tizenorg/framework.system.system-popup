@@ -22,27 +22,7 @@
 #define __POPUP_COMMON_H__
 
 #include "popup-common-internal.h"
-
-#undef LOG_TAG
-#define LOG_TAG "SYSTEM_APPS"
-#define _D(fmt, args...)   SLOGD(fmt, ##args)
-#define _E(fmt, args...)   SLOGE(fmt, ##args)
-#define _I(fmt, args...)   SLOGI(fmt, ##args)
-
-#define FREE(arg) \
-	do { \
-		if(arg) { \
-			free((void *)arg); \
-			arg = NULL; \
-		} \
-	} while (0);
-
-#define ARRAY_SIZE(name) (sizeof(name)/sizeof(name[0]))
-
-#define max(a,b) \
-	({ __typeof__ (a) _a = (a); \
-	   __typeof__ (b) _b = (b);  \
-	   _a > _b ? _a : _b; })
+#include "macro.h"
 
 enum popup_flags {
 	SCROLLABLE        = 0x0001,
@@ -52,20 +32,21 @@ enum popup_flags {
 
 struct popup_ops {
 	char *name;
+	void (*change_popup)(const struct popup_ops *ops);
 	int  (*show_popup) (bundle *b, const struct popup_ops *ops);
 	char *title;
 	char *content;
 	int  (*get_content)(const struct popup_ops *ops, char *content, unsigned int len);
 	char *left_text;
-	char *left_icon;
 	void (*left)(const struct popup_ops *ops);
 	char *right_text;
-	char *right_icon;
 	void (*right)(const struct popup_ops *ops);
 	char *check_text;
 	bool (*skip)(const struct popup_ops *ops);
 	void (*launch)(const struct popup_ops *ops);
 	void (*terminate)(const struct popup_ops *ops);
+	bool (*term_pause)(const struct popup_ops *ops);
+	bool (*term_home)(const struct popup_ops *ops);
 	unsigned int flags;
 };
 
@@ -74,6 +55,7 @@ void terminate_if_no_popup(void);
 
 /* Popup */
 void register_popup(const struct popup_ops *ops);
+void update_popup(const struct popup_ops *old_ops, const struct popup_ops *new_ops);
 void unload_simple_popup(const struct popup_ops *ops);
 int load_simple_popup(bundle *b, const struct popup_ops *ops);
 bool get_check_state(const struct popup_ops *ops);
@@ -88,13 +70,21 @@ int broadcast_dbus_signal(
 		const char *name,
 		const char *sig,
 		char *param[]);
-int dbus_method_sync(
+int popup_dbus_method_sync(
 		const char *dest,
 		const char *path,
 		const char *interface,
 		const char *method,
 		const char *sig,
 		char *param[]);
+int register_dbus_signal_handler(
+		E_DBus_Signal_Handler **handler,
+		const char *path,
+		const char *iface,
+		const char *name,
+		void (*signal_cb)(void *data, DBusMessage *msg),
+		void *data);
+void unregister_dbus_signal_handler(E_DBus_Signal_Handler *handler);
 
 /* feedback */
 void play_feedback(int type, int pattern);

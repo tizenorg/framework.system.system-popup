@@ -1,0 +1,516 @@
+*************************
+** System applications **
+*************************
+
+1. System applications contain popups, notifications, and so on.
+
+2. System applications are launched by dbus activation.
+  - Normally, system daemons want to launch popups or shows notification on the quickpanel.
+  - But these applications should be launched by aul(Application Utility Library)
+	to be managed by the AMD(Application Management Daemon) and the package manager
+	since user applications should be managed by application framework.
+  - System daemons cannot use aul since system daemons are the low level applications.
+    Thus system daemons used dbus activation to launch user applications
+
+  deviced ----------------> launcher app ------------------> popups/notifications
+           dbus activation                      aul
+
+
+3. Test
+
+3.1 Popups
+
+3.1.1. Power off popup
+  $ dbus-send --system --type=method_call --print-reply --reply-timeout=120000 \
+			--dest=org.tizen.system.popup \
+			/Org/Tizen/System/Popup/Poweroff \
+			org.tizen.system.popup.Poweroff.PopupLaunch
+
+3.1.2 Crash popup
+   $ dbus-send --system --type=method_call --print-reply --reply-timeout=120000 \
+			--dest=org.tizen.system.popup \
+			/Org/Tizen/System/Popup/Crash \
+			org.tizen.system.popup.Crash.PopupLaunch \
+			dict:string:string:"_SYSPOPUP_CONTENT_","crash","_PROCESS_NAME_","poweroff-popup","_EXEPATH_","/usr/apps/org.tizen.poweroff-syspopup/bin/poweroff-popup"
+
+3.1.3 Low storage popup
+   $ dbus-send --system --type=method_call --print-reply --reply-timeout=120000 \
+			--dest=org.tizen.system.popup \
+			/Org/Tizen/System/Popup/System \
+			org.tizen.system.popup.System.PopupLaunch \
+			dict:string:string:"_SYSPOPUP_CONTENT_","lowstorage_warning"
+
+3.1.4 USB otg popup
+   $ dbus-send --system --type=method_call --print-reply --reply-timeout=120000 \
+			--dest=org.tizen.system.popup \
+			/Org/Tizen/System/Popup/System \
+			org.tizen.system.popup.System.PopupLaunch \
+			dict:string:string:"_SYSPOPUP_CONTENT_","usbotg_unmount_storage","_DEVICE_PATH_","/opt/storage/usb/UsbDeviceA1"
+
+3.2 Notifications
+
+3.2.1. Battery full notification
+3.2.1.1. Notification On
+   $ dbus-send --system --type=method_call --print-reply --reply-timeout=120000 \
+			--dest=org.tizen.system.popup \
+			/Org/Tizen/System/Popup/Noti \
+			org.tizen.system.popup.Noti.BatteryFullNotiOn
+
+3.2.1.2. Notification Off
+   $ dbus-send --system --type=method_call --print-reply --reply-timeout=120000 \
+			--dest=org.tizen.system.popup \
+			/Org/Tizen/System/Popup/Noti \
+			org.tizen.system.popup.Noti.BatteryFullNotiOff \
+			int32:1     /* This value is the return value of notification On operation */
+
+
+4. Interfaces
+
+4.1 Popups
+
+4.1.1 Special popups
+- Poweroff popup
+  bus: org.tizen.system.popup
+  object path: /Org/Tizen/System/Popup/Poweroff
+  interface name: org.tizen.system.popup.Poweroff
+  method name: PopupLaunch
+  parameters: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+	  2) "poweroff"
+  return: pid of the popup
+
+- Crash popup
+  bus: org.tizen.system.popup
+  object path: /Org/Tizen/System/Popup/Crash
+  interface name: org.tizen.system.popup.Crash
+  method name: PopupLaunch
+  parameters: 6 strings
+      1) "_SYSPOPUP_CONTENT_"
+	  2) "crash"
+	  3) "_PROCESS_NAME_"
+	  4) ${process name}
+	  5) "_EXEPATH_"
+	  6) ${path of executable file}
+  return: pid of the popup
+
+4.1.2. normal popups
+- common:
+  bus: org.tizen.system.popup
+  object path: /Org/Tizen/System/Popup/System
+  interface name: org.tizen.system.popup.System
+
+- Battery
+  : low battery warning
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "lowbattery_warning"
+    return: pid of the popup
+
+  : low battery critical
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "lowbattery_critical"
+    return: pid of the popup
+
+  : low battery poweroff
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "lowbattery_poweroff"
+    return: pid of the popup
+
+  : charge failed due to the low temperature
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "chargeerrlow"
+    return: pid of the popup
+
+  : charge failed due to the high temperature
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "chargeerrhigh"
+    return: pid of the popup
+
+  : battery disconnected
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "battdisconnect"
+    return: pid of the popup
+  : remove battery related popups
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "remove_battery_popups"
+    return: 0 if success
+
+
+- Cool down
+  : cool down power off
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "cooldown_poweroff"
+    return: pid of the popup
+
+  : cool down warning
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "cooldown_warning"
+    return: pid of the popup
+
+  : cool down power on
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "cooldown_poweron"
+    return: pid of the popup
+
+- Data usage
+  : data usage warning
+    method name: PopupLaunch
+    parameter: 4 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "datausage_warning"
+	  3) "_DATAUSAGE_LIMIT_"
+	  4) data limit (MB)
+    return: pid of the popup
+
+  : data usage disabled
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "datausage_disabled"
+    return: pid of the popup
+
+- MMC (SD card)
+  : mmc mount error
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "mounterr"
+    return: pid of the popup
+
+  : mmc mount read only
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "mountrdonly"
+    return: pid of the popup
+
+  : mmc check smack
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "checksmack"
+    return: pid of the popup
+
+  : ode encryption
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "odeencrypt"
+    return: pid of the popup
+
+  : ode decryption
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "odedecrypt"
+    return: pid of the popup
+
+- ODE
+  : ODE error
+    method name: PopupLaunch
+    parameter: 6 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "ode_error"
+      3) "_ERROR_TYPE_"
+      4) "encrypt" or "decrypt"
+      5) "_MEMORY_SPACE_"
+      6) memory space needed (MB)
+    return: pid of the popup
+
+- Recovery
+  : Recovery
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "recovery"
+    return: pid of the popup
+
+- Storage
+  : Low storage warning
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "lowstorage_warning"
+    return: pid of the popup
+
+  : Low storage critical
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "lowstorage_critical"
+    return: pid of the popup
+
+  : Low storage full
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "lowstorage_full"
+    return: pid of the popup
+
+- USB
+  : USB connection error
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "usb_error"
+    return: pid of the popup
+
+  : USB connection restriction
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "usb_restrict"
+    return: pid of the popup
+
+- USB otg
+  : USB storage mounted
+    method name: PopupLaunch
+    parameter: 4 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "usbotg_storage_mounted"
+      3) "_DEVICE_PATH_"
+      4) device name (ex. sda1)
+    return: pid of the popup
+
+  : USB storage unmounted
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "usbotg_storage_unmounted"
+    return: 0 if success
+
+  : Unmount USB storage
+    method name: PopupLaunch
+    parameter: 4 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "usbotg_unmount_storage"
+      3) "_DEVICE_PATH_"
+      4) device name (ex. sda1)
+    return: pid of the popup
+
+  : USB storage mount failed
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "usbotg_storage_mount_failed"
+    return: pid of the popup
+
+  : USB storage removed unsafe
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "usbotg_storage_removed_unsafe"
+    return: pid of the popup
+
+  : USB camera added
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "usbotg_camera_added"
+    return: pid of the popup
+
+  : USB camera removed
+    method name: PopupLaunch
+    parameter: 2 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "usbotg_camera_removed"
+    return: 0 if success
+
+- Watchdog
+  : Watchdog
+    method name: PopupLaunch
+    parameter: 4 strings
+      1) "_SYSPOPUP_CONTENT_"
+      2) "watchdog"
+      3) "_APP_NAME_"
+      4) application name
+    return: pid of the popup
+
+
+4.2. Notifications
+- Common
+  bus: org.tizen.system.popup
+  object path: /Org/Tizen/System/Popup/Noti
+  interface name: org.tizen.system.popup.Noti
+
+- Data warning
+  : On
+    method name: DataWarningNotiOn
+    parameter: No parameter
+    return: notification id
+  : Off
+    method name: DataWarningNotiOff
+    parameter: 1 integer
+      1) notification id  /* the return value of notification On operation */
+    return: 0 if success, negative value if error occurred
+
+- Data disabled
+  : On
+    method name: DataDisabledNotiOn
+    parameter: No parameter
+	return: notification id
+  : Off
+    method name: DataDisabledNotiOff
+    parameter: 1 integer
+      1) notification id  /* the return value of notification On operation */
+    return: 0 if success, negative value if error occurred
+
+- LED torch
+  : On
+    method name: LedTorchNotiOn
+    parameter: No parameter
+	return: notification id
+  : Off
+    method name: LedTorhNotiOff
+    parameter: 1 integer
+      1) notification id  /* the return value of notification On operation */
+    return: 0 if success, negative value if error occurred
+
+- ODE complete
+  : On
+    method name: OdeCompNotiOn
+    parameter: 1 string
+	  1) "encrypt" or "decrypt"
+    return: notification id
+  : Off
+    method name: OdeCompNotiOff
+    parameter: 1 integer
+      1) notification id  /* the return value of notification On operation */
+    return: 0 if success, negative value if error occurred
+
+- ODE progress (encryption/decryption progress bar)
+  : On
+    method name: OdeProgNotiOn
+    parameter: 1 string
+	  1) "encrypt" or "decrypt"
+    return: notification id
+  : update
+	method name: OdeProgNotiUpdate
+	parameter: 2 integers
+	  1) notification id  /* the return value of notification On operation */
+	  2) percentage of progress (ex. 100%->100, 23%->23)
+    return: notification id
+  : Off
+    method name: OdeProgNotiOff
+    parameter: 1 integer
+      1) notification id  /* the return value of notification On operation */
+    return: 0 if success, negative value if error occurred
+
+ - ODE error
+  : On
+    method name: OdeErrorNotiOn
+    parameter: 1 string, 2 integers
+	  1) "encrypt" or "decrypt"
+	  2) 0(not enough space) or 1(operation failed)
+	  3) memory space (MB)
+    return: notification id
+  : Off
+    method name: OdeErrorNotiOff
+    parameter: 1 integer
+      1) notification id  /* the return value of notification On operation */
+    return: 0 if success, negative value if error occurred
+
+- USB storage
+  : On
+    method name: UsbStorageNotiOn
+    parameter: 1 string
+	  1) mount path (ex. /opt/storage/usb/UsbDeviceA1)
+    return: notification id
+  : Read only On
+    method name: UsbStorageRoNotiOn
+    parameter: 1 string
+	  1) mount path (ex. /opt/storage/usb/UsbDeviceA1)
+    return: notification id
+  : Off
+    method name: UsbStorageNotiOff
+    parameter: 1 integer
+      1) notification id  /* the return value of notification On operation */
+    return: 0 if success, negative value if error occurred
+
+- USB device
+  : On
+    method name: UsbDeviceNotiOn
+    parameter: 2 strings
+	  1) device type (ex. keyboard, mouse, camera, and so on)
+	  2) device name (from device information. ex. Samsung SM-750)
+    return: notification id
+  : update
+	method name: UsbDeviceNotiUpdate
+	parameter: 1 integer, 3 strings
+	  1) notification id  /* the return value of notification On operation */
+	  2) number of connected devices (ex. 0, 1, 2, ...)
+	  3) device type (ex. keyboard, mouse, camera, and so on)
+	  4) device name (from device information. ex. Samsung SM-750)
+    return: notification id
+  : Off
+    method name: UsbDeviceNotiOff
+    parameter: 1 integer
+      1) notification id  /* the return value of notification On operation */
+    return: 0 if success, negative value if error occurred
+
+- Battery full
+  : On
+    method name: BatteryFullNotiOn
+    parameter: No parameter
+    return: notification id
+  : Off
+    method name: BatteryFullNotiOff
+    parameter: 1 integer
+      1) notification id  /* the return value of notification On operation */
+    return: 0 if success, negative value if error occurred
+
+- Battery start to charge
+  : On
+    method name: BatteryChargeNotiOn
+    parameter: No parameter
+    return: 0 if success, negative value if error occurred
+
+- Message post
+  : On
+    method name: MessagePostOn
+    parameter: 1 string
+	  1) type (ex. "KeyboardConnected", "UsbClient", and so on)
+    return: 0 if success, negative value if error occurred
+
+4.3. Normal applications
+
+- Common
+  bus: org.tizen.system.popup
+  object path: /Org/Tizen/System/Popup/Apps
+  interface name: org.tizen.system.popup.Apps
+
+- Terminate app
+  method name: AppTerminateByPid
+  parameter: 1 integer
+    1) pid of the app
+  return: 0 if success, negative value if error occurred
+
+- Cradle app
+  method name: CradleAppLaunch
+  parameter: No parameter
+  return: 0 if success, negative value if error occurred
+
+- pwlock app
+  method name: PWLockAppLaunch
+  parameter: 2 strings
+    1) "launch-app"
+    2) "pwlock"

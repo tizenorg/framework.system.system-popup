@@ -18,7 +18,7 @@
 #ifndef __SIGNAL_SENDER_H__
 #define __SIGNAL_SENDER_H__
 
-#include "common.h"
+#include "macro.h"
 
 void register_storage_encryption_restricted_function(bool (*func)(void));
 
